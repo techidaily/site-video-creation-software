@@ -1,6 +1,6 @@
-# TechiDaily
+# Video Creation Software Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://video-creation-software.techidaily.com](https://video-creation-software.techidaily.com)
 
 ## Publish
 

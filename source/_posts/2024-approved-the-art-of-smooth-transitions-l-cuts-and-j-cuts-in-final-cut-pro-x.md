@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Art of Smooth Transitions L-Cuts and J-Cuts in Final Cut Pro X
-date: 2024-05-19T13:03:19.027Z
-updated: 2024-05-20T13:03:19.027Z
+date: 2024-06-08T20:00:13.770Z
+updated: 2024-06-09T20:00:13.770Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved The Art of Smooth Transitions L-Cuts and J-Cuts in Final Cut Pro X
 excerpt: This Article Describes 2024 Approved The Art of Smooth Transitions L-Cuts and J-Cuts in Final Cut Pro X
 keywords: from jump cuts to smooth moves 3 final cut pro transition methods,the art of smooth transitions l cuts and j cuts in final cut pro x,unleash the power of transitions in final cut pro 3 expert methods,the art of seamless audio transitions in final cut pro x,smooth audio transitions in final cut pro 2 approaches,cut like a pro l cuts and j cuts in final cut pro x,smooth transitions mastering l cuts and j cuts in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/KgjSvzxLL1eXMJCNvZxcbrcPyWA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificialIntelligence-Chatbot-6921166a1d9e447eb0251f52694d919a.jpg
+thumbnail: https://thmb.techidaily.com/0e8ec29ee6248aac03a17afe8cf5cfd2ec9d4e36dfc8648cae868f4622fb576a.jpg
 ---
 
 ## The Art of Smooth Transitions: L-Cuts and J-Cuts in Final Cut Pro X

@@ -1,7 +1,7 @@
 ---
 title: New 15 Free Video Editing Tools for Starters Simplified and User-Friendly for 2024
-date: 2024-05-19T13:03:46.400Z
-updated: 2024-05-20T13:03:46.400Z
+date: 2024-06-08T20:00:26.714Z
+updated: 2024-06-09T20:00:26.714Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 15 Free Video Editing Tools for Starters Simplified and User-Friendly for 2024
 excerpt: This Article Describes New 15 Free Video Editing Tools for Starters Simplified and User-Friendly for 2024
 keywords: start here user friendly video editing tools,user friendly video editing tools for starters,15 free video editing tools for starters simplified and user friendly,easy video editing top free cutters and joiners for starters,15 free video editing tools for starters no experience needed,get started with video editing 15 free and easy to use tools,s top free video editing software simplified for beginners
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## 15 Free Video Editing Tools for Starters: Simplified and User-Friendly

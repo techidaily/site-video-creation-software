@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile
-date: 2024-04-29T12:49:32.373Z
-updated: 2024-04-30T12:49:32.373Z
+date: 2024-06-08T20:00:20.273Z
+updated: 2024-06-09T20:00:20.273Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile
 excerpt: This Article Describes New In 2024, Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile
 keywords: take control of time top 10 free video speed manipulation apps for mobile,speed up or slow down top 10 free video editing apps for mobile,ai animation speed up or slow down top 10 free video editing apps for mobile,make an impression top video invitation apps for mobile phones,ai animation mobile video editing made easy top 10 apps for iphone and android,video velocity 10 free apps to control video speed on your mobile,add subtitles to video for free top 10 online caption makers
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Take Control of Time: Top 10 Free Video Speed Manipulation Apps for Mobile

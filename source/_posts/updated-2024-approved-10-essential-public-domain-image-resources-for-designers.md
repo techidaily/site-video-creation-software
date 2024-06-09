@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved 10 Essential Public Domain Image Resources for Designers
-date: 2024-05-19T13:03:45.328Z
-updated: 2024-05-20T13:03:45.328Z
+date: 2024-06-08T20:00:24.923Z
+updated: 2024-06-09T20:00:24.923Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved 10 Essential Public Domain Image Resources for Designers
 excerpt: This Article Describes Updated 2024 Approved 10 Essential Public Domain Image Resources for Designers
 keywords: transform your brand 11 free animated logo makers essential design tips,discover the best top 10 public domain image websites 2023,10 essential public domain image resources for designers,discover the best public domain images top 10 sites,10 essential online image resizers for any ratio,free image resources for entrepreneurs and small businesses,your go to guide 10 best public domain image resources
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## 10 Essential Public Domain Image Resources for Designers

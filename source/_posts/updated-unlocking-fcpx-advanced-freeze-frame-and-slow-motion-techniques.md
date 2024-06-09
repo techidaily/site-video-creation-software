@@ -1,7 +1,7 @@
 ---
 title: Updated Unlocking FCPX Advanced Freeze Frame and Slow Motion Techniques
-date: 2024-05-19T13:03:39.005Z
-updated: 2024-05-20T13:03:39.005Z
+date: 2024-06-08T20:00:26.796Z
+updated: 2024-06-09T20:00:26.796Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Unlocking FCPX Advanced Freeze Frame and Slow Motion Techniques
 excerpt: This Article Describes Updated Unlocking FCPX Advanced Freeze Frame and Slow Motion Techniques
 keywords: unlocking fcpx freeze frames slow motion and beyond,fcpx visual effects freeze frames slow motion and advanced editing,unlocking fcpx advanced freeze frame and slow motion techniques,slow down and freeze advanced fcpx editing techniques,time warp unlocking freeze frames and slow motion in fcpx,mastering time in fcpx freeze frames slow mo and more,unlocking cinematic potential advanced fcpx techniques
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## Unlocking FCPX: Advanced Freeze Frame and Slow Motion Techniques

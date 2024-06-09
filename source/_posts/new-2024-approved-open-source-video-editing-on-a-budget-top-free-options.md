@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Open-Source Video Editing on a Budget Top Free Options
-date: 2024-04-29T12:49:28.350Z
-updated: 2024-04-30T12:49:28.350Z
+date: 2024-06-08T20:00:16.200Z
+updated: 2024-06-09T20:00:16.200Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Open-Source Video Editing on a Budget Top Free Options
 excerpt: This Article Describes New 2024 Approved Open-Source Video Editing on a Budget Top Free Options
 keywords: open source video editing on a budget top 10 free options,wmv video editing on a budget top free options,cutting edge video editing on a budget free open source options,mod video editing on a budget top 5 free options,open source video editing on a budget top free options,vob video editing on a budget top 5 free options,avi video editing on a budget top 5 free options
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## Open-Source Video Editing on a Budget: Top Free Options

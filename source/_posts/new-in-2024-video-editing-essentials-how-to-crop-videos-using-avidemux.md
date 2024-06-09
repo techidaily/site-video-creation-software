@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Video Editing Essentials How to Crop Videos Using Avidemux
-date: 2024-04-29T12:49:42.502Z
-updated: 2024-04-30T12:49:42.502Z
+date: 2024-06-08T20:00:12.909Z
+updated: 2024-06-09T20:00:12.909Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Video Editing Essentials How to Crop Videos Using Avidemux
 excerpt: This Article Describes New In 2024, Video Editing Essentials How to Crop Videos Using Avidemux
 keywords: avi video editing essentials top t,video editing essentials how to resize and crop videos,avidemux essentials how to crop cut and enhance your videos,video editing essentials how to crop videos using avidemux,avidemux video editing a beginners guide to cropping and resizing,avidemux video editing how to crop and resize your footage,avidemux essentials cropping trimming and perfecting your video edits
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Video Editing Essentials: How to Crop Videos Using Avidemux

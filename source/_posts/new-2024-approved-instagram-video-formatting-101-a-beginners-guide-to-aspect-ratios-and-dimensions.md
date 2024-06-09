@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Instagram Video Formatting 101 A Beginners Guide to Aspect Ratios and Dimensions
-date: 2024-04-29T12:49:24.825Z
-updated: 2024-04-30T12:49:24.825Z
+date: 2024-06-08T20:00:30.516Z
+updated: 2024-06-09T20:00:30.516Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Instagram Video Formatting 101 A Beginners Guide to Aspect Ratios and Dimensions
 excerpt: This Article Describes New 2024 Approved Instagram Video Formatting 101 A Beginners Guide to Aspect Ratios and Dimensions
 keywords: ai animation best video dimensions for instagram aspect ratios explained,instagram video formatting 101 a beginners guide to aspect ratios and dimensions,the science behind instagram video dimensions understanding aspect ratios,instagram video dimensions explained a beginners guide to aspect ratios,understanding aspect ratios a beginners guide to image sizing,instagram video dimensions explained a beginners guide,video dimensions for instagram a beginners guide
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Instagram Video Formatting 101: A Beginner's Guide to Aspect Ratios and Dimensions

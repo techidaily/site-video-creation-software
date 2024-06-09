@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Dual-Screen Video Editor Top Free Online and Offline Choices
-date: 2024-04-29T12:49:17.957Z
-updated: 2024-04-30T12:49:17.957Z
+date: 2024-06-08T20:00:30.952Z
+updated: 2024-06-09T20:00:30.952Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Dual-Screen Video Editor Top Free Online and Offline Choices
 excerpt: This Article Describes New In 2024, Dual-Screen Video Editor Top Free Online and Offline Choices
 keywords: free video splitter online and offline editors for dual screen videos,ai animation best free split screen video editor online offline,split your screen for free top online and offline video editors,dual screen video editor top free online and offline choices,create split screen videos for free online and offline editors,dual display video editing top free online and offline apps,best free split screen video editor online offline
-thumbnail: https://www.lifewire.com/thmb/upymkFD17829BoXqvYndmLQPGU4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/safari-photo--canon-and-nikon-digital-cameras-and-lenses--masai-mara-game-reserve--kenya--769713645-5bde071546e0fb0026a2c012.jpg
+thumbnail: https://thmb.techidaily.com/85be9153d8c81024583588a94ed9e00fc880777ac2a8c7cff5efd5d21044d91c.jpg
 ---
 
 ## Dual-Screen Video Editor: Top Free Online and Offline Choices

@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate FCP Hack Flipping Clips in Just 4 Clicks
-date: 2024-05-19T13:03:24.144Z
-updated: 2024-05-20T13:03:24.144Z
+date: 2024-06-08T20:00:18.209Z
+updated: 2024-06-09T20:00:18.209Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, The Ultimate FCP Hack Flipping Clips in Just 4 Clicks
 excerpt: This Article Describes In 2024, The Ultimate FCP Hack Flipping Clips in Just 4 Clicks
 keywords: quick fix flipping clips in final cut pro made easy,the ultimate fcp hack flipping clips in just 4 clicks,the ultimate guide to flipping videos in final cut pro,the ultimate tiktok hack reversing videos in just a few clicks,the ultimate guide to jump cuts in fcpx best practices,the ultimate final cut pro hack flipping clips in 4 easy steps,the ultimate list of online video flipping tools
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## The Ultimate FCP Hack: Flipping Clips in Just 4 Clicks

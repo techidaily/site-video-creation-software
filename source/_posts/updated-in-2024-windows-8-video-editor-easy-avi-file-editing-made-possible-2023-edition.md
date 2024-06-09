@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition
-date: 2024-04-29T12:49:43.586Z
-updated: 2024-04-30T12:49:43.586Z
+date: 2024-06-08T20:00:15.832Z
+updated: 2024-06-09T20:00:15.832Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition
 excerpt: This Article Describes Updated In 2024, Windows 8 Video Editor Easy AVI File Editing Made Possible - 2023 Edition
 keywords: avi editor for windows 8 easily edit avi files on pc 2023 update,windows 8 video editor easy avi file editing made possible 2023 edition,windows 8 avi editor fast and reliable video editing software updated 2023,best avi video editor for windows 8 effortless editing made easy,flv video editing made easy windows 8 compatible editor,update your avi editing game windows 8 video editor 2023,easy avi editing on windows 8 top rated video editor for pc 2023
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## Windows 8 Video Editor: Easy AVI File Editing Made Possible - 2023 Edition

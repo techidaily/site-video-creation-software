@@ -1,7 +1,7 @@
 ---
 title: New Move Smart Top Motion Tracking Apps for Android and iPhone for 2024
-date: 2024-04-29T12:49:27.807Z
-updated: 2024-04-30T12:49:27.807Z
+date: 2024-06-08T20:00:13.145Z
+updated: 2024-06-09T20:00:13.145Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Move Smart Top Motion Tracking Apps for Android and iPhone for 2024
 excerpt: This Article Describes New Move Smart Top Motion Tracking Apps for Android and iPhone for 2024
 keywords: best motion tracking apps for ios and android,video editing on the move top mobile apps for iphone and android,best motion tracking apps on android and iphoneipad,video editing on the move top apps for iphone android and more,move smart top motion tracking apps for android and iphone,stop motion magic top rated apps for iphone and android,capture every move top motion tracking apps for android and ios
-thumbnail: https://www.lifewire.com/thmb/IOefl4e_6Yr9ZAczXaVDoLd0G88=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1365158534-d6952b03afff43f7a1c5f0405f31dc92.jpg
+thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401fbcd66ce15df928f6be58b2.jpg
 ---
 
 ## Move Smart: Top Motion Tracking Apps for Android and iPhone

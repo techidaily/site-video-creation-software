@@ -1,7 +1,7 @@
 ---
 title: Slow Down Time A Beginners Guide to Making Slow-Motion Videos on Kapwing for 2024
-date: 2024-05-19T13:03:15.076Z
-updated: 2024-05-20T13:03:15.076Z
+date: 2024-06-08T20:00:13.217Z
+updated: 2024-06-09T20:00:13.217Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Slow Down Time A Beginners Guide to Making Slow-Motion Videos on Kapwing for 2024
 excerpt: This Article Describes Slow Down Time A Beginners Guide to Making Slow-Motion Videos on Kapwing for 2024
 keywords: slow down time a beginners guide to making slow motion videos on kapwing,slow down time how to make a slow motion video on kapwing,kapwing slow motion tutorial a beginners guide to slowing down your videos,slow down time a step by step guide to creating slow mo videos on kapwing,vlc slow motion a beginners guide to slowing down your favorite videos,slow down time a beginners guide to slow motion videos on kapwing,slow down time a beginners guide to creating slow motion videos on kapwing
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Slow Down Time: A Beginner's Guide to Making Slow-Motion Videos on Kapwing

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Top-Rated Free MP4 Video Editors for Cutting and Trimming
-date: 2024-04-29T12:49:38.825Z
-updated: 2024-04-30T12:49:38.825Z
+date: 2024-06-08T20:00:22.319Z
+updated: 2024-06-09T20:00:22.319Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Top-Rated Free MP4 Video Editors for Cutting and Trimming
 excerpt: This Article Describes New In 2024, Top-Rated Free MP4 Video Editors for Cutting and Trimming
 keywords: top rated pc video editors for trimming and cutting,s top free mpeg video editors for splitting and trimming,s top free divx video editors for cutting and trimming,top free video editors for cutting and trimming mov files,top rated free mp4 video editors for cutting and trimming,s best free mkv editors for cutting and trimming,ai animation top rated pc video editors for trimming and cutting
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Top-Rated Free MP4 Video Editors for Cutting and Trimming

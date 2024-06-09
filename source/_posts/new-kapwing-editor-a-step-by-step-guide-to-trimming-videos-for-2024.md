@@ -1,7 +1,7 @@
 ---
 title: New Kapwing Editor A Step-by-Step Guide to Trimming Videos for 2024
-date: 2024-04-29T12:49:25.242Z
-updated: 2024-04-30T12:49:25.242Z
+date: 2024-06-08T20:00:27.494Z
+updated: 2024-06-09T20:00:27.494Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Kapwing Editor A Step-by-Step Guide to Trimming Videos for 2024
 excerpt: This Article Describes New Kapwing Editor A Step-by-Step Guide to Trimming Videos for 2024
 keywords: the ultimate guide to trimming videos using kapwing editor,cut video clips online a step by step guide to kapwing editor,mastering wax a step by step guide to editing videos for free,kapwing editor a step by step guide to trimming videos,cut and crop a step by step guide to trimming videos with kapwing,cutting it down a step by step guide to trimming videos on kapwing,trim videos like a pro a step by step guide to kapwing editor
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## Kapwing Editor: A Step-by-Step Guide to Trimming Videos

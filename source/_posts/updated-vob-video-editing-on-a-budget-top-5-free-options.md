@@ -1,7 +1,7 @@
 ---
 title: Updated VOB Video Editing on a Budget Top 5 Free Options
-date: 2024-05-19T13:03:41.703Z
-updated: 2024-05-20T13:03:41.703Z
+date: 2024-06-08T20:00:26.449Z
+updated: 2024-06-09T20:00:26.449Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated VOB Video Editing on a Budget Top 5 Free Options
 excerpt: This Article Describes Updated VOB Video Editing on a Budget Top 5 Free Options
 keywords: vob video editing on a budget top 5 free options,wmv video editing on a budget top 5 free options,webm video editing on a budget top 10 free options,avi video editing on a budget top 5 free options,mod video editing on a budget top 5 free options,wmv video editing on a budget top free options,video editing on a budget top free ubuntu options
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## VOB Video Editing on a Budget: Top 5 Free Options

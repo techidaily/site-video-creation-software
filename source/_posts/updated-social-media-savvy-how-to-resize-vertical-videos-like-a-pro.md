@@ -1,7 +1,7 @@
 ---
 title: Updated Social Media Savvy How to Resize Vertical Videos Like a Pro
-date: 2024-05-19T13:03:15.417Z
-updated: 2024-05-20T13:03:15.417Z
+date: 2024-06-08T20:00:13.593Z
+updated: 2024-06-09T20:00:13.593Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Social Media Savvy How to Resize Vertical Videos Like a Pro
 excerpt: This Article Describes Updated Social Media Savvy How to Resize Vertical Videos Like a Pro
 keywords: resize like a pro the 1 tip for vertical social media videos,the ultimate hack how to resize vertical videos for social media,social media savvy how to resize vertical videos like a pro,resize like a pro mastering vertical video ratios for social media,maximize your reach how to resize vertical videos for social media success,make your videos pop on social media the best way to resize vertical content,ai animation the ultimate hack how to resize vertical videos for social media
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## Social Media Savvy: How to Resize Vertical Videos Like a Pro

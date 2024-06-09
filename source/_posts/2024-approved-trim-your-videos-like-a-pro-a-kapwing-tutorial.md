@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Trim Your Videos Like a Pro A Kapwing Tutorial
-date: 2024-04-29T12:49:45.478Z
-updated: 2024-04-30T12:49:45.478Z
+date: 2024-06-08T20:00:13.427Z
+updated: 2024-06-09T20:00:13.427Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Trim Your Videos Like a Pro A Kapwing Tutorial
 excerpt: This Article Describes 2024 Approved Trim Your Videos Like a Pro A Kapwing Tutorial
 keywords: bring your videos to life top conversion apps and tutorials,bring your photos to life a video creation tutorial,trim your videos like a pro a kapwing tutorial,trim videos like a pro a step by step guide to kapwing editor,trim your videos like a pro top pc software,how to trim and edit videos like a pro with kapwing editor,avidemux tutorial crop and resize your videos like a pro
-thumbnail: https://www.lifewire.com/thmb/Rjkf6fiPF-oXAs-UqYWshvM3oZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CODA-d4dd2a9b6c3d4a008a05c9718c9bce1e.jpg
+thumbnail: https://thmb.techidaily.com/07cfabd2fe9acb782e30cca8205dc0f557a2c3371dbf02532bc0633c00063d56.jpg
 ---
 
 ## Trim Your Videos Like a Pro: A Kapwing Tutorial

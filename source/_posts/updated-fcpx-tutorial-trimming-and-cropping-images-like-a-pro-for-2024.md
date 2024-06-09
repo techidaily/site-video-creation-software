@@ -1,7 +1,7 @@
 ---
 title: Updated FCPX Tutorial Trimming and Cropping Images Like a Pro for 2024
-date: 2024-04-29T12:49:19.824Z
-updated: 2024-04-30T12:49:19.824Z
+date: 2024-06-08T20:00:20.353Z
+updated: 2024-06-09T20:00:20.353Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated FCPX Tutorial Trimming and Cropping Images Like a Pro for 2024
 excerpt: This Article Describes Updated FCPX Tutorial Trimming and Cropping Images Like a Pro for 2024
 keywords: image cropping in fcpx essential techniques for editors,fcpx image cropping tutorial tips and tricks for professionals,fcpx video editing how to crop and resize images like a pro,how to resize and crop images in fcpx 2023 update,fcpx like a pro top rated tutorials channels and websites,final cut pro x tutorial cropping images for video editing,fcpx tutorial trimming and cropping images like a pro
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## FCPX Tutorial: Trimming and Cropping Images Like a Pro

@@ -1,7 +1,7 @@
 ---
 title: S Best Free MKV Editors for Cutting and Trimming for 2024
-date: 2024-05-19T13:03:12.460Z
-updated: 2024-05-20T13:03:12.460Z
+date: 2024-06-16T15:46:19.525Z
+updated: 2024-06-17T15:46:19.525Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes S Best Free MKV Editors for Cutting and Trimming for 2024
 excerpt: This Article Describes S Best Free MKV Editors for Cutting and Trimming for 2024
 keywords: s best free mkv editors for cutting and trimming,top free video editors for cutting and trimming mov files,best windows 10 video editors for trimming and cutting videos,s top free divx video editors for cutting and trimming,s top free mpeg video editors for splitting and trimming,the best free mkv editors for cutting and trimming,top rated free mp4 video editors for cutting and trimming
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## 'S Best Free MKV Editors for Cutting and Trimming

@@ -1,7 +1,7 @@
 ---
 title: New Shrink MPEG2 Files Get VirtualDub for Video Compression
-date: 2024-05-19T13:03:14.737Z
-updated: 2024-05-20T13:03:14.737Z
+date: 2024-06-16T15:46:29.601Z
+updated: 2024-06-17T15:46:29.601Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Shrink MPEG2 Files Get VirtualDub for Video Compression
 excerpt: This Article Describes New Shrink MPEG2 Files Get VirtualDub for Video Compression
 keywords: shrink mpeg2 files get virtualdub for video compression,how to use virtualdub for efficient mpeg2 compression,shrink mpeg2 files download virtualdub for video compression,streamline your mpeg2 videos with virtualdub compression,mpeg2 video compression made easy with virtualdub,get virtualdub mpeg2 the ultimate video compression solution,reduce file size download virtualdub for mpeg2 compression
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## Shrink MPEG2 Files: Get VirtualDub for Video Compression

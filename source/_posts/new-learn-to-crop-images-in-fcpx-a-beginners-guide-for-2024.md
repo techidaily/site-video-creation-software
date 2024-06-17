@@ -1,7 +1,7 @@
 ---
 title: New Learn to Crop Images in FCPX A Beginners Guide for 2024
-date: 2024-04-29T12:49:25.483Z
-updated: 2024-04-30T12:49:25.483Z
+date: 2024-06-16T15:46:42.887Z
+updated: 2024-06-17T15:46:42.887Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Learn to Crop Images in FCPX A Beginners Guide for 2024
 excerpt: This Article Describes New Learn to Crop Images in FCPX A Beginners Guide for 2024
 keywords: fcpx image editing a beginners guide to cropping,learn stop motion from scratch a beginners guide to success,green screen magic in fcp x a beginners guide to chroma keying,unlock free images for your business a beginners guide,find free images for your business a beginners guide,learn to crop images in fcpx a beginners guide,transform your footage a beginners guide to flipping clips in fcp
-thumbnail: https://www.lifewire.com/thmb/1Rilb0YlbOjJJAdvvsoO0ipjdIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mixed-race-woman-buying-christmas-presents-online-with-credit-card-84527986-582352235f9b58d5b1ea09cc.jpg
+thumbnail: https://thmb.techidaily.com/603cef112c71acaaa3fdccdd6f7a956de3ad09701fee843146114a343a411d66.jpg
 ---
 
 ## Learn to Crop Images in FCPX: A Beginner's Guide

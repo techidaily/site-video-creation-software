@@ -1,7 +1,7 @@
 ---
 title: Updated Ubuntu Video Editing Made Easy 10 Free Software Choices
-date: 2024-05-19T13:03:34.564Z
-updated: 2024-05-20T13:03:34.564Z
+date: 2024-06-16T15:46:26.683Z
+updated: 2024-06-17T15:46:26.683Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Ubuntu Video Editing Made Easy 10 Free Software Choices
 excerpt: This Article Describes Updated Ubuntu Video Editing Made Easy 10 Free Software Choices
 keywords: top 10 best free video editing software for ubuntu,the ultimate guide to free video editing on ubuntu top 10 software,free quicktime video editing software top 10 choices,mov video editing made easy top 10 free software,free and fantastic 10 ubuntu video editing software options,free and easy avi video editing top 5 software choices,ubuntu video editing made easy 10 free software choices
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## Ubuntu Video Editing Made Easy: 10 Free Software Choices

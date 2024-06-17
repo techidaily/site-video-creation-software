@@ -1,7 +1,7 @@
 ---
 title: Top Picks Simple Video Editors for Beginners for 2024
-date: 2024-05-19T13:03:31.308Z
-updated: 2024-05-20T13:03:31.308Z
+date: 2024-06-16T15:46:17.916Z
+updated: 2024-06-17T15:46:17.916Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Top Picks Simple Video Editors for Beginners for 2024
 excerpt: This Article Describes Top Picks Simple Video Editors for Beginners for 2024
 keywords: easy video editing top picks for beginners free paid,s top picks 16 free video editing software for beginners,free video editing for dummies top picks for beginners,top picks simple video editors for beginners,s top free quicktime video editors for beginners and pros,top picks simple video editors for newbies,top picks for simple video editing tools
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## Top Picks: Simple Video Editors for Beginners

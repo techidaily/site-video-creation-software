@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Steady as a Rock How to Stabilize Your Video in FCPX
-date: 2024-04-29T12:49:44.935Z
-updated: 2024-04-30T12:49:44.935Z
+date: 2024-06-16T15:46:19.433Z
+updated: 2024-06-17T15:46:19.433Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Steady as a Rock How to Stabilize Your Video in FCPX
 excerpt: This Article Describes 2024 Approved Steady as a Rock How to Stabilize Your Video in FCPX
 keywords: steady as a rock 3 proven methods for stabilizing video in ae,steady as a rock how to stabilize your videos in after effects,ai animation steady as a rock how to stabilize your videos in adobe premiere pro,steady shots 5 free android apps to stabilize your videos,how to stabilize video in fcpx,steady as a rock how to stabilize your videos in adobe premiere pro,steady as a rock how to stabilize your video in fcpx
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## Steady as a Rock: How to Stabilize Your Video in FCPX

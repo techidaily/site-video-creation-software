@@ -1,7 +1,7 @@
 ---
 title: New Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts for 2024
-date: 2024-04-29T12:49:18.072Z
-updated: 2024-04-30T12:49:18.072Z
+date: 2024-06-16T15:46:46.838Z
+updated: 2024-06-17T15:46:46.838Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts for 2024
 excerpt: This Article Describes New Edit Faster, Edit Smarter Top 20 Adobe Premiere Shortcuts for 2024
 keywords: work smarter not harder 20 adobe premiere shortcuts for editors,work smarter not harder top adobe premiere shortcuts and tricks,20 must know adobe premiere pro shortcuts for editors,unlock efficiency top adobe premiere shortcuts for faster editing,master adobe premiere with these 20 must know shortcuts,edit faster edit smarter top 20 adobe premiere shortcuts,20 time saving adobe premiere shortcuts every editor should know
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Edit Faster, Edit Smarter: Top 20 Adobe Premiere Shortcuts

@@ -1,7 +1,7 @@
 ---
 title: New Video Cropping Made Easy A Comprehensive Guide to Using Avidemux
-date: 2024-05-19T13:03:39.572Z
-updated: 2024-05-20T13:03:39.572Z
+date: 2024-06-16T15:46:38.899Z
+updated: 2024-06-17T15:46:38.899Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Video Cropping Made Easy A Comprehensive Guide to Using Avidemux
 excerpt: This Article Describes New Video Cropping Made Easy A Comprehensive Guide to Using Avidemux
 keywords: trimming made easy a step by step guide to cropping videos in avidemux,video editing made easy a comprehensive guide to windows movie maker,video cropping made easy a comprehensive guide to using avidemux,mp4 video editing made easy a comprehensive guide for mac and windows,video cropping 101 a beginners guide to using avidemux,unleash your creativity a comprehensive guide to using wax for free video editing,cropping videos in avidemux a comprehensive guide for beginners and pros
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Video Cropping Made Easy: A Comprehensive Guide to Using Avidemux

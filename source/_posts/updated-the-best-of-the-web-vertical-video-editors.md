@@ -1,7 +1,7 @@
 ---
 title: Updated The Best of the Web Vertical Video Editors
-date: 2024-05-19T13:03:20.504Z
-updated: 2024-05-20T13:03:20.504Z
+date: 2024-06-16T15:46:16.300Z
+updated: 2024-06-17T15:46:16.300Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Best of the Web Vertical Video Editors
 excerpt: This Article Describes Updated The Best of the Web Vertical Video Editors
 keywords: best of the web vertical video editors for mobile first content,the ultimate list of web based vertical video editors,the best of the web vertical video editors,best web based online vertical video editors,webs best vertical video editing software updated 2023,ai animation best web based online vertical video editors,ranking the top web based vertical video editors
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## The Best of the Web: Vertical Video Editors

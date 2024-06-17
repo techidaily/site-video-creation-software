@@ -1,7 +1,7 @@
 ---
 title: New Get Started with Wax A Free Video Editor for Stunning Videos for 2024
-date: 2024-04-29T12:49:23.285Z
-updated: 2024-04-30T12:49:23.285Z
+date: 2024-06-16T15:46:34.366Z
+updated: 2024-06-17T15:46:34.366Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Get Started with Wax A Free Video Editor for Stunning Videos for 2024
 excerpt: This Article Describes New Get Started with Wax A Free Video Editor for Stunning Videos for 2024
 keywords: get started with wax a free video editing software tutorial,get started with wax a free video editor for stunning videos,simple video editing for windows get started with microsoft video editor,get started with video editing top free software for rookies,get started with video editing top free tools for rookies,get started with jaycut a beginners guide to free video editing,get started with wax a beginners guide to free video editing software
-thumbnail: https://www.lifewire.com/thmb/oixs9Iru3DkbJ5qQpMfNaiErF04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
 ---
 
 ## Get Started with Wax: A Free Video Editor for Stunning Videos

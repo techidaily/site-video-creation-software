@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX
-date: 2024-05-19T13:03:50.420Z
-updated: 2024-05-20T13:03:50.420Z
+date: 2024-06-16T15:46:39.820Z
+updated: 2024-06-17T15:46:39.820Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX
 excerpt: This Article Describes New In 2024, Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX
 keywords: get ready set go adding a countdown timer in fcpx in just 3 steps,times ticking learn how to add a countdown timer in fcpx in 3 steps,create a sense of anticipation 3 steps to add a countdown timer in fcpx,fcpx essentials how to add a countdown timer in 3 easy steps,create a sense of urgency adding a countdown timer in fcpx,add a sense of urgency 3 quick steps to create a countdown in fcpx,the countdown begins a step by step guide to adding timers in fcpx
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## Add a Sense of Urgency: 3 Quick Steps to Create a Countdown in FCPX

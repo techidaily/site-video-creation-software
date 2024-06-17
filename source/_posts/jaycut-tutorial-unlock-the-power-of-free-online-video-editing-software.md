@@ -1,7 +1,7 @@
 ---
 title: Jaycut Tutorial Unlock the Power of Free Online Video Editing Software
-date: 2024-05-19T13:04:54.160Z
-updated: 2024-05-20T13:04:54.160Z
+date: 2024-06-16T15:46:27.576Z
+updated: 2024-06-17T15:46:27.576Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Jaycut Tutorial Unlock the Power of Free Online Video Editing Software
 excerpt: This Article Describes Jaycut Tutorial Unlock the Power of Free Online Video Editing Software
 keywords: jaycut 101 unlocking the power of free online video editing,unlock the power of slow mo a kapwing video editing tutorial,jaycut tutorial unlock the power of free online video editing,jaycut 2023 the ultimate guide to free online video editing software,jaycut tutorial unlock the power of free online video editing software,unlock the power of slow motion free video editing software filmora,jaycut how to use free online video editing software jaycut
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## Jaycut Tutorial: Unlock the Power of Free Online Video Editing Software

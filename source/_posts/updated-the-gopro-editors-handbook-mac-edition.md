@@ -1,7 +1,7 @@
 ---
 title: Updated The GoPro Editors Handbook Mac Edition
-date: 2024-05-19T13:03:21.839Z
-updated: 2024-05-20T13:03:21.839Z
+date: 2024-06-16T15:46:31.170Z
+updated: 2024-06-17T15:46:31.170Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The GoPro Editors Handbook Mac Edition
 excerpt: This Article Describes Updated The GoPro Editors Handbook Mac Edition
 keywords: the ultimate mac movie making handbook 2023 edition,the gopro editors handbook mac edition,the ultimate guide to editing gopro footage on mac 2023 edition,the top rated video editing tools for mac users,the ultimate os x mavericks video editors handbook,the animators handbook stop motion studio and beyond,the ultimate video editors handbook download and learn
-thumbnail: https://www.lifewire.com/thmb/d9lJRl6RYaLlK-VFLlHiI4bbn1o=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-halloween-live-wallpaper-for-2019-4691483-019a40e91504436ca9fc9f1944d89c15.jpg
+thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c30695c76166aa925348b0ff1b74.jpg
 ---
 
 ## The GoPro Editor's Handbook: Mac Edition

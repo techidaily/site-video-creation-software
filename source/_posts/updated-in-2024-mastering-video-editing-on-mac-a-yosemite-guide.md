@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mastering Video Editing on Mac A Yosemite Guide
-date: 2024-04-29T12:49:27.535Z
-updated: 2024-04-30T12:49:27.535Z
+date: 2024-06-16T15:46:49.537Z
+updated: 2024-06-17T15:46:49.537Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Mastering Video Editing on Mac A Yosemite Guide
 excerpt: This Article Describes Updated In 2024, Mastering Video Editing on Mac A Yosemite Guide
 keywords: mastering video editing on mac a step by step guide for yosemite users,mastering gopro video editing on mac a 2023 guide,mastering gopro video editing on mac a step by step guide,mastering video editing on mac a guide to os x mavericks,ai animation mastering video editing on mac a step by step guide for yosemite users,mastering video editing on mac a yosemite guide,mastering quicktime video editing on mac a beginners guide
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Mastering Video Editing on Mac: A Yosemite Guide

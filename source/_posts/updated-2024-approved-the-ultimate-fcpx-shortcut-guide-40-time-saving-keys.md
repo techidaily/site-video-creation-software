@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate FCPX Shortcut Guide 40 Time-Saving Keys
-date: 2024-04-29T12:49:34.037Z
-updated: 2024-04-30T12:49:34.037Z
+date: 2024-06-16T15:46:40.701Z
+updated: 2024-06-17T15:46:40.701Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved The Ultimate FCPX Shortcut Guide 40 Time-Saving Keys
 excerpt: This Article Describes Updated 2024 Approved The Ultimate FCPX Shortcut Guide 40 Time-Saving Keys
 keywords: the ultimate adobe premiere shortcut guide 20 tips and tricks,the ultimate fcpx plugin troubleshooting checklist updated 2023,the ultimate fcpx shortcut guide 40 time saving keys,the ultimate fcpx 2024 guide to syncing audio and video tracks,mastering final cut pro the ultimate 2024 guide,edition the ultimate guide to final cut pro x keyboard shortcuts 40 must knows,the ultimate guide to rapid video trimming on mac updated 2023
-thumbnail: https://www.lifewire.com/thmb/YoFEWWlqY0abEBrjSUdesHbTeyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dts-play-fi-lifestyle-aaa-5a4c211daad52b00366a3575.jpg
+thumbnail: https://thmb.techidaily.com/cb2689090616a1ba21a99aa6be50929e603a0dc8061abd47262715b07e4d29cd.jpg
 ---
 
 ## The Ultimate FCPX Shortcut Guide: 40 Time-Saving Keys

@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Stability FCPX Techniques for Smoother Video
-date: 2024-05-19T13:03:19.046Z
-updated: 2024-05-20T13:03:19.046Z
+date: 2024-06-16T15:46:26.257Z
+updated: 2024-06-17T15:46:26.257Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Art of Stability FCPX Techniques for Smoother Video
 excerpt: This Article Describes Updated The Art of Stability FCPX Techniques for Smoother Video
 keywords: the art of motion blur advanced techniques for fcp editors,elevate your footage the art of video stabilization in fcpx,fixing the shake essential techniques for smoother videos in ae,the art of stability fcpx techniques for smoother video,smooth operator 3 techniques to stabilize footage in ae,the art of vertical smartphone techniques for better video,from jittery to smooth video stabilization techniques in premiere pro
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## The Art of Stability: FCPX Techniques for Smoother Video

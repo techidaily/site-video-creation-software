@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Design Beautiful Invitations with These 10 Free Video Makers
-date: 2024-05-19T13:04:19.391Z
-updated: 2024-05-20T13:04:19.391Z
+date: 2024-06-16T15:46:32.719Z
+updated: 2024-06-17T15:46:32.719Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Design Beautiful Invitations with These 10 Free Video Makers
 excerpt: This Article Describes Updated In 2024, Design Beautiful Invitations with These 10 Free Video Makers
 keywords: get creative with free video invitations the best online makers,top 10 best free invitation video makers online,make a lasting impression with the best video invitation apps,design beautiful invitations with these 10 free video makers,design and send free video invitations with these top online tools,free video invitation design tools the ultimate 2024 list,ai animation top 10 best free invitation video makers online
-thumbnail: https://www.lifewire.com/thmb/xk4sG4I9EUDVvTCEXSRMmg2yPjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/superbowl_dmytroAksonov_Getty-5a775189119fa8003752b313.jpg
+thumbnail: https://thmb.techidaily.com/6d060e78cf4821c16957dc0af5764350800050d4c706e3284222e7ce2389a41f.jpg
 ---
 
 ## Design Beautiful Invitations with These 10 Free Video Makers

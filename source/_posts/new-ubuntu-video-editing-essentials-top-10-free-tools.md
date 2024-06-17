@@ -1,7 +1,7 @@
 ---
 title: New Ubuntu Video Editing Essentials Top 10 Free Tools
-date: 2024-05-19T13:03:34.556Z
-updated: 2024-05-20T13:03:34.556Z
+date: 2024-06-16T15:46:32.616Z
+updated: 2024-06-17T15:46:32.616Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Ubuntu Video Editing Essentials Top 10 Free Tools
 excerpt: This Article Describes New Ubuntu Video Editing Essentials Top 10 Free Tools
 keywords: ubuntu video editing essentials top 10 free options,free video editing essentials top 5 splitter tools,ubuntu video editing essentials top 10 free tools,ubuntu video editing essentials 10 free tools you cant miss,ubuntu video editing essentials top 10 free software,windows 10 video editing essentials top free trimming tools,ubuntus video editing powerhouses top 10 free tools
-thumbnail: https://www.lifewire.com/thmb/8cntKMhShePwne7YMK1BVkFRlYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snork-fa65ca350e2243e1a2deaf6bb7b209b1.jpg
+thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
 ---
 
 ## Ubuntu Video Editing Essentials: Top 10 Free Tools

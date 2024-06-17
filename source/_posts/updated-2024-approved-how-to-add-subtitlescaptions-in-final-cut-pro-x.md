@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Add Subtitles/Captions in Final Cut Pro X?
-date: 2024-05-19T13:03:50.609Z
-updated: 2024-05-20T13:03:50.609Z
+date: 2024-06-16T15:46:20.935Z
+updated: 2024-06-17T15:46:20.935Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved How to Add Subtitles/Captions in Final Cut Pro X?
 excerpt: This Article Describes Updated 2024 Approved How to Add Subtitles/Captions in Final Cut Pro X?
 keywords: how to create closed captions in final cut pro x 2023 update,enhance your video content how to add subtitles and captions in final cut pro x,how to add titles in final cut pro x,ai animation how to add subtitlescaptions in final cut pro x,how to add subtitlescaptions in final cut pro x,ai animation how to add titles in final cut pro x,learn how to add captivating titles in final cut pro x
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## FCPX Captioning Made Easy: A Quick Start Guide

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Voice to Written Word The Art of Speech Transcription
-date: 2024-04-29T12:49:22.782Z
-updated: 2024-04-30T12:49:22.782Z
+date: 2024-06-16T15:46:29.197Z
+updated: 2024-06-17T15:46:29.197Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved From Voice to Written Word The Art of Speech Transcription
 excerpt: This Article Describes Updated 2024 Approved From Voice to Written Word The Art of Speech Transcription
 keywords: from voice to text top mac apps for accurate transcription free no download,from voice to written word the art of speech transcription,the art of speech transcription best practices,ai animation how to transcribe voice to written words,how to transcribe voice to written words,voice to text mastering the art of accurate transcription,from mouth to manuscript the art of speech to text conversion
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## From Voice to Written Word: The Art of Speech Transcription

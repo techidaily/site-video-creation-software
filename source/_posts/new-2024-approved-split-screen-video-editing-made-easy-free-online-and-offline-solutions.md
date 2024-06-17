@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Split Screen Video Editing Made Easy Free Online and Offline Solutions
-date: 2024-04-29T12:49:31.424Z
-updated: 2024-04-30T12:49:31.424Z
+date: 2024-06-16T15:46:33.002Z
+updated: 2024-06-17T15:46:33.002Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Split Screen Video Editing Made Easy Free Online and Offline Solutions
 excerpt: This Article Describes New 2024 Approved Split Screen Video Editing Made Easy Free Online and Offline Solutions
 keywords: split screen video editing software free online and offline solutions,ai animation free split screen video maker online and offline options,free split screen video maker online and offline options,ai animation split screen video editing software free online and offline solutions,create split screen videos for free online and offline editors,split screen video editing made easy free online and offline solutions,ai animation best free split screen video editor online offline
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Split Screen Video Editing Made Easy: Free Online and Offline Solutions

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Slowing Down the Action VLC Video Playback Tricks
-date: 2024-05-19T13:03:15.155Z
-updated: 2024-05-20T13:03:15.155Z
+date: 2024-06-16T15:46:20.014Z
+updated: 2024-06-17T15:46:20.014Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes 2024 Approved Slowing Down the Action VLC Video Playback Tricks
 excerpt: This Article Describes 2024 Approved Slowing Down the Action VLC Video Playback Tricks
 keywords: mastering vlc slow motion video playback made easy,slowing down the action vlc video playback tricks,slowing down the action vlc video playback tips,slow down the action top 10 video players for smooth playback,vlc tricks enable slow motion playback for enhanced viewing,unlock slow motion on vlc a beginners guide to video playback tricks,vlc video playback hacks how to play in slow motion on any device
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## Slowing Down the Action: VLC Video Playback Tricks

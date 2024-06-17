@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, FCP Audio Editing Tutorial From Basics to Advanced Techniques
-date: 2024-04-29T12:49:19.443Z
-updated: 2024-04-30T12:49:19.443Z
+date: 2024-06-16T15:46:44.112Z
+updated: 2024-06-17T15:46:44.112Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, FCP Audio Editing Tutorial From Basics to Advanced Techniques
 excerpt: This Article Describes Updated In 2024, FCP Audio Editing Tutorial From Basics to Advanced Techniques
 keywords: fcpx xml essentials from basics to advanced techniques,fcpx compressor tutorial from basics to advanced techniques,fcp audio editing tutorial from basics to advanced techniques,ai animation fcpx compressor tutorial from basics to advanced techniques,from basic to pro 3 advanced transition techniques in fcp,from basic to brilliant advanced title techniques in fcpx,fcpx title tutorial from basics to advanced techniques
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## FCP Audio Editing Tutorial: From Basics to Advanced Techniques

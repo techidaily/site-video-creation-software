@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Kids in the Directors Chair Making Movies Made Easy
-date: 2024-04-29T12:49:25.354Z
-updated: 2024-04-30T12:49:25.354Z
+date: 2024-06-16T15:46:22.148Z
+updated: 2024-06-17T15:46:22.148Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Kids in the Directors Chair Making Movies Made Easy
 excerpt: This Article Describes New 2024 Approved Kids in the Directors Chair Making Movies Made Easy
 keywords: the best ipad video editing apps for creators 2024 edition,the young directors handbook teach kids to make their own movies,kids in the directors chair making movies made easy,kids in the directors chair a fun and interactive guide to movie making,kids in the directors chair a fun guide to making movies,little directors big ideas teaching kids to make movies,mac movie creation a beginners guide to making movies
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Kids in the Director's Chair: Making Movies Made Easy

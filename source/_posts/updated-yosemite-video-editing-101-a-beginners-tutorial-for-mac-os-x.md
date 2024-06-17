@@ -1,7 +1,7 @@
 ---
 title: Updated Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X
-date: 2024-05-19T13:03:44.370Z
-updated: 2024-05-20T13:03:44.370Z
+date: 2024-06-16T15:46:28.978Z
+updated: 2024-06-17T15:46:28.978Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X
 excerpt: This Article Describes Updated Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X
 keywords: video editing for mac yosemite a step by step tutorial,free video editing made easy a wax tutorial for beginners,editing videos on mac os x yosemite a beginners guide,yosemite video editing 101 a beginners guide to editing videos on mac,the ultimate nikon video editing tutorial for beginners and pros,video editing mastery online tutorials for beginners and pros,yosemite video editing 101 a beginners tutorial for mac os x
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## Yosemite Video Editing 101: A Beginner's Tutorial for Mac OS X

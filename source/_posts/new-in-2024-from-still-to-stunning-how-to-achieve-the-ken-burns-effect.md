@@ -1,7 +1,7 @@
 ---
 title: New In 2024, From Still to Stunning How to Achieve the Ken Burns Effect
-date: 2024-04-29T12:49:22.732Z
-updated: 2024-04-30T12:49:22.732Z
+date: 2024-06-16T15:46:25.541Z
+updated: 2024-06-17T15:46:25.541Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, From Still to Stunning How to Achieve the Ken Burns Effect
 excerpt: This Article Describes New In 2024, From Still to Stunning How to Achieve the Ken Burns Effect
 keywords: unlocking cinematic storytelling how to apply ken burns effect in final cut pro,from still to stunning how to achieve the ken burns effect,from still to stunning how to add the ken burns effect to your videos,from still to stunning how to use ken burns effect in final cut pro for maximum impact,the art of pan and zoom how to achieve the ken burns effect,from still to motion how to achieve the ken burns effect,unlock cinematic storytelling how to apply the ken burns effect in final cut pro
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## From Still to Stunning: How to Achieve the Ken Burns Effect

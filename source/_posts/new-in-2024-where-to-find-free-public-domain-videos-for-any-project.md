@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Where to Find Free Public Domain Videos for Any Project
-date: 2024-04-29T12:49:43.346Z
-updated: 2024-04-30T12:49:43.346Z
+date: 2024-06-16T15:46:16.036Z
+updated: 2024-06-17T15:46:16.036Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Where to Find Free Public Domain Videos for Any Project
 excerpt: This Article Describes New In 2024, Where to Find Free Public Domain Videos for Any Project
 keywords: free and clear top websites for public domain video downloads,where to find high quality free images for commercial projects,download free public domain videos from these top websites,where to find free images for commercial projects,ai animation top resources for free public domain video downloads,where to find free public domain videos for any project,discover the best public domain video resources for free
-thumbnail: https://www.lifewire.com/thmb/m4BcH-XQSOpQcuE-5vTn1swsxLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-591408071-5bc7767d4cedfd0026a2ce3f.jpg
+thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951f603f30c9c8797a450783bc.jpg
 ---
 
 ## Where to Find Free Public Domain Videos for Any Project

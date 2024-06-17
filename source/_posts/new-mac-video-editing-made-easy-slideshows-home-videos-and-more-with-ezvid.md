@@ -1,7 +1,7 @@
 ---
 title: New Mac Video Editing Made Easy Slideshows, Home Videos, and More with Ezvid
-date: 2024-05-19T13:03:02.507Z
-updated: 2024-05-20T13:03:02.507Z
+date: 2024-06-16T15:46:41.532Z
+updated: 2024-06-17T15:46:41.532Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Mac Video Editing Made Easy Slideshows, Home Videos, and More with Ezvid
 excerpt: This Article Describes New Mac Video Editing Made Easy Slideshows, Home Videos, and More with Ezvid
 keywords: slideshow magic on mac easy video editing with ezvid,mac video editing made easy slideshows home videos and more with ezvid,ezvid for mac create slideshows and home videos easily in mac os,macos video editing made easy introducing ezvid slideshow software,create unforgettable mac slideshows with ezvids easy video editor,mac video editing made easy vn video editor and more,the easiest way to make mac slideshows and home videos ezvid guide
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## Mac Video Editing Made Easy: Slideshows, Home Videos, and More with Ezvid

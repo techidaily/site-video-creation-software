@@ -1,7 +1,7 @@
 ---
 title: New Screen Recording Made Easy A Step-by-Step Guide to Using Filmora Scrn for 2024
-date: 2024-04-29T12:49:30.619Z
-updated: 2024-04-30T12:49:30.619Z
+date: 2024-06-16T15:46:52.854Z
+updated: 2024-06-17T15:46:52.854Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Screen Recording Made Easy A Step-by-Step Guide to Using Filmora Scrn for 2024
 excerpt: This Article Describes New Screen Recording Made Easy A Step-by-Step Guide to Using Filmora Scrn for 2024
 keywords: capture your screen a beginners guide to recording with filmora scrn,mastering filmora scrn a beginners guide to desktop recording,capture your screen a beginners guide to filmora scrn desktop recording,capture your screen a step by step guide to using filmora scrn,mastering filmora scrn a comprehensive guide to desktop recording,screen recording made easy a step by step guide to using filmora scrn,desktop recording made easy a step by step guide to using filmora scrn
-thumbnail: https://www.lifewire.com/thmb/orCGFYNFlEan1uKR5h12Vm8mASA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
 ---
 
 ## Screen Recording Made Easy: A Step-by-Step Guide to Using Filmora Scrn

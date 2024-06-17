@@ -1,7 +1,7 @@
 ---
 title: Updated Free Video Editing Made Easy A Wax Tutorial for Beginners for 2024
-date: 2024-05-19T13:03:52.384Z
-updated: 2024-05-20T13:03:52.384Z
+date: 2024-06-16T15:46:16.472Z
+updated: 2024-06-17T15:46:16.472Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Free Video Editing Made Easy A Wax Tutorial for Beginners for 2024
 excerpt: This Article Describes Updated Free Video Editing Made Easy A Wax Tutorial for Beginners for 2024
 keywords: mp4 video editing for beginners a friendly tutorial for mac and windows users,free video editing made easy a wax tutorial for beginners,ai animation free video editing made easy a wax tutorial for beginners,ai animation ai animation free video editing made easy a wax tutorial for beginners,easy and free video editing solutions for beginners all platforms,free video editing made easy a jaycut tutorial for beginners,video editing made easy a windows movie maker tutorial for all
-thumbnail: https://www.lifewire.com/thmb/Z0ZdjJb5nz4Ek2qcGOTaqnhoZ04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1164718779-aa87dac78cd44ad7b71e76c27adc7e9a.jpg
+thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7f00706449676a59eeb923d9.jpg
 ---
 
 ## Free Video Editing Made Easy: A Wax Tutorial for Beginners

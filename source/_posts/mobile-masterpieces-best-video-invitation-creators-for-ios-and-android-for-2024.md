@@ -1,7 +1,7 @@
 ---
 title: Mobile Masterpieces Best Video Invitation Creators for iOS and Android for 2024
-date: 2024-05-19T13:03:05.464Z
-updated: 2024-05-20T13:03:05.464Z
+date: 2024-06-16T15:46:26.870Z
+updated: 2024-06-17T15:46:26.870Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Mobile Masterpieces Best Video Invitation Creators for iOS and Android for 2024
 excerpt: This Article Describes Mobile Masterpieces Best Video Invitation Creators for iOS and Android for 2024
 keywords: ai animation create stunning invites best video apps for ios android,best video invitation apps for ios and android,mobile video invitation makers top picks for iphone and android users,mobile mastery best video editing apps for ios and android,create stunning video invites best apps for ios and android,mobile masterpieces best video invitation creators for ios and android,create stunning invites best video maker apps for ios and android
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## Mobile Masterpieces: Best Video Invitation Creators for iOS and Android

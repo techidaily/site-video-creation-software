@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mastering Final Cut Pro A Step-by-Step Guide to Flipping Clips
-date: 2024-05-19T13:03:04.045Z
-updated: 2024-05-20T13:03:04.045Z
+date: 2024-06-16T15:46:17.325Z
+updated: 2024-06-17T15:46:17.325Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Mastering Final Cut Pro A Step-by-Step Guide to Flipping Clips
 excerpt: This Article Describes In 2024, Mastering Final Cut Pro A Step-by-Step Guide to Flipping Clips
 keywords: mastering final cut pro how to flip a clip in 4 simple steps,mastering pip in final cut pro a step by step guide,slideshow mastery a step by step guide to using final cut pro,mastering color in final cut pro a step by step guide,mastering final cut pro a step by step guide to flipping clips,flipping out a step by step guide to rotating clips in final cut pro,mastering pip a step by step guide to final cut pro
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## Mastering Final Cut Pro: A Step-by-Step Guide to Flipping Clips

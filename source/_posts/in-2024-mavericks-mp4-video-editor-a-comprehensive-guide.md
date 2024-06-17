@@ -1,7 +1,7 @@
 ---
 title: In 2024, Mavericks MP4 Video Editor A Comprehensive Guide
-date: 2024-04-29T12:50:32.828Z
-updated: 2024-04-30T12:50:32.828Z
+date: 2024-06-16T15:46:37.920Z
+updated: 2024-06-17T15:46:37.920Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes In 2024, Mavericks MP4 Video Editor A Comprehensive Guide
 excerpt: This Article Describes In 2024, Mavericks MP4 Video Editor A Comprehensive Guide
 keywords: avs video editor 2023 a comprehensive review and guide,edit mp4 on mac mavericks a comprehensive video editing guide,mavericks mp4 video editor a comprehensive guide,edit mp4 files on mac mavericks a comprehensive guide,mastering video editing in os x mavericks a comprehensive guide,whats new in avs video editor 2023 a comprehensive review and guide,vn video editor on mac a comprehensive guide and alternatives
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## Mavericks MP4 Video Editor: A Comprehensive Guide

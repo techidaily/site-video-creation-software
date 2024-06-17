@@ -1,7 +1,7 @@
 ---
 title: New The Art of Cinematic Video Production A Final Cut Pro X Tutorial
-date: 2024-05-19T13:03:18.425Z
-updated: 2024-05-20T13:03:18.425Z
+date: 2024-06-16T15:46:41.429Z
+updated: 2024-06-17T15:46:41.429Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New The Art of Cinematic Video Production A Final Cut Pro X Tutorial
 excerpt: This Article Describes New The Art of Cinematic Video Production A Final Cut Pro X Tutorial
 keywords: the art of cinematic color grading in final cut pro x,gopro video post production on mac a comprehensive tutorial,ai animation how to create cinematic look video with final cut pro x,the art of cinematic video production a final cut pro x tutorial,the art of color correction a final cut pro guide,unleash the cinematic potential of final cut pro x a beginners guide,the art of cinematic editing a final cut pro x tutorial
-thumbnail: https://www.lifewire.com/thmb/aqzoJvuc7HUCTQdUzpa5GXlHCac=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Mini-Splash-ef002ffe8db643d2a2b4de772ff46790.jpg
+thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425a670680d043fc15ab445500.jpg
 ---
 
 ## The Art of Cinematic Video Production: A Final Cut Pro X Tutorial

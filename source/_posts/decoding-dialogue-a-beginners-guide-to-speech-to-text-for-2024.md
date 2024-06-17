@@ -1,7 +1,7 @@
 ---
 title: Decoding Dialogue A Beginners Guide to Speech-to-Text for 2024
-date: 2024-04-29T12:50:03.168Z
-updated: 2024-04-30T12:50:03.168Z
+date: 2024-06-16T15:46:45.384Z
+updated: 2024-06-17T15:46:45.384Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Decoding Dialogue A Beginners Guide to Speech-to-Text for 2024
 excerpt: This Article Describes Decoding Dialogue A Beginners Guide to Speech-to-Text for 2024
 keywords: decoding dialogue a beginners guide to speech to text,wax video editor a beginners guide to editing like a pro,mastering filmora scrn a beginners guide to desktop recording,capture your screen a beginners guide to filmora scrn desktop recording,mkvtoolnix for macos a beginners guide to video editing 2023,mkvtoolnix for macos a beginners guide to video editing,decoding speech a beginners guide to text conversion
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## Decoding Dialogue: A Beginner's Guide to Speech-to-Text

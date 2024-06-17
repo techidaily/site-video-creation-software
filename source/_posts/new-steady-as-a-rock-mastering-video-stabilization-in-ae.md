@@ -1,7 +1,7 @@
 ---
 title: New Steady as a Rock Mastering Video Stabilization in AE
-date: 2024-05-19T13:03:16.386Z
-updated: 2024-05-20T13:03:16.386Z
+date: 2024-06-16T15:46:45.574Z
+updated: 2024-06-17T15:46:45.574Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Steady as a Rock Mastering Video Stabilization in AE
 excerpt: This Article Describes New Steady as a Rock Mastering Video Stabilization in AE
 keywords: steady as a rock 3 proven methods for stabilizing video in ae,steady as a rock video stabilization techniques in premiere pro,steady as a rock mastering video stabilization in ae,steady as a rock video stabilization techniques in ae,ai animation steady as a rock mastering video stabilization in adobe premiere pro,steady as a rock best free video stabilization software,steady as a rock mastering video stabilization in adobe premiere pro
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## Steady as a Rock: Mastering Video Stabilization in AE

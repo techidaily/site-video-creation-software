@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Slow Down Time Free Slow Motion Video Editing with Filmora
-date: 2024-04-29T12:49:30.996Z
-updated: 2024-04-30T12:49:30.996Z
+date: 2024-06-16T15:46:31.753Z
+updated: 2024-06-17T15:46:31.753Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Slow Down Time Free Slow Motion Video Editing with Filmora
 excerpt: This Article Describes New 2024 Approved Slow Down Time Free Slow Motion Video Editing with Filmora
 keywords: slow down time free slow motion video editing with filmora,slow and steady wins free slow motion video editing with filmora,unlock slow motion magic a free video editing solution with filmora,slow down the action free video editing with filmora,ai animation slow down the action free video editing with filmora,get the cinematic look free slow motion video editing with filmora,ai animation slow down time add free slow mo effects to your videos with filmora
-thumbnail: https://www.lifewire.com/thmb/0eladF6N0frE-HtBzdDkcGHF4eU=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-a-ps5-5088641-1bcc6bca24cd460bb2b276fdeb6cb830.jpg
+thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece4c292665e0f6b95fb5f60be.jpg
 ---
 
 ## Slow Down Time: Free Slow Motion Video Editing with Filmora

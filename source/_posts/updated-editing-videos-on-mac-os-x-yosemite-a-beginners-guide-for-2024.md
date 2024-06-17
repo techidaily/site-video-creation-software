@@ -1,7 +1,7 @@
 ---
 title: Updated Editing Videos on Mac OS X Yosemite A Beginners Guide for 2024
-date: 2024-04-29T12:49:18.239Z
-updated: 2024-04-30T12:49:18.239Z
+date: 2024-06-16T15:46:33.621Z
+updated: 2024-06-17T15:46:33.621Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Editing Videos on Mac OS X Yosemite A Beginners Guide for 2024
 excerpt: This Article Describes Updated Editing Videos on Mac OS X Yosemite A Beginners Guide for 2024
 keywords: editing videos on mac os x yosemite a beginners guide,video editing on mac os x mavericks a beginners guide,yosemite video editing 101 a beginners guide to editing videos on mac,video editing on mac os x yosemite a comprehensive beginners guide,mkvtoolnix for macos a beginners guide to video editing 2023,unleash your creativity video editing on mac os x yosemite for beginners,yosemite video editing 101 a beginners tutorial for mac os x
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## Editing Videos on Mac OS X Yosemite: A Beginner's Guide

@@ -1,7 +1,7 @@
 ---
 title: Updated Top-Rated 4K Video Conversion Software 2023 Edition for 2024
-date: 2024-04-29T12:49:38.727Z
-updated: 2024-04-30T12:49:38.727Z
+date: 2024-06-24T09:06:53.301Z
+updated: 2024-06-25T09:06:53.301Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Top-Rated 4K Video Conversion Software 2023 Edition for 2024
 excerpt: This Article Describes Updated Top-Rated 4K Video Conversion Software 2023 Edition for 2024
 keywords: ai animation top rated free video editing software for 4k footage,what i look for in a video to audio conversion software,top rated 4k video conversion software free options,top rated 4k video conversion software 2023 edition,top rated 4k video conversion software 2023s best picks,ai animation top rated free 4k video editing software,top rated video editing software for windows 2024
-thumbnail: https://www.lifewire.com/thmb/RHk5CzUskZEHtVQS5Kba30nHhvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-kindle-unlimited-worth-it-fda01dceb923406a8524c64d2b72693e.jpg
+thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc218886423e579644f1092e23638fe5.jpg
 ---
 
 ## Top-Rated 4K Video Conversion Software: 2023 Edition
@@ -104,7 +104,7 @@ As its name implies, it has almost 1000 pixels where it has **1920 x 1080px** ho
 ![scale](https://images.wondershare.com/filmora/article-images/2022/09/scale.png)  
 In the picture above, you can clearly observe that the 4k image has sharp results around the edges of the image and written text. Hence it is clearer than 1080p.  
 
-#### 1.[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)  
+#### 1. Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)  
 For Win 7 or later (64-bit)  
@@ -113,7 +113,7 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later  
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download  
 Filmora is a video editing software which supports 4K [editing on Mac](https://tools.techidaily.com/wondershare/filmora/download/) and Windows computer. It allows you to edit the 4K video footage before converting it to other definition and resolution such as 1080, 720\. Filmora features a straight-forward interface, so you can find what you want easily. For example, you can add music, transitions, filters, overlay, and elements to the 4K video directly with the built-in presets. You can also trim and cut out some unwanted parts or merge several 4K videos into one and then convert it to lower definition.  
-![ Filmora 9 for Mac Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-settings.jpg)  
+![Filmora 9 for Mac Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-settings.jpg)  
 **Key features of converting 4K videos in Filmora:**  
 
 * You can convert any video in 3840 x 2160 or 4096 x 2160 4k resolution to other resolutions.  
@@ -133,7 +133,7 @@ But if you have no idea about the video codecs, resolutions and formats, you may
 #### 3.VLC media player  
 
 As the name indicates, VLC media player is used to playback media files, but it also can be used to convert video files. VLC Player is a free and open source multimedia player which runs on Windows, Linux, Mac OS X, and other platforms.  
-![ Filmora Export ](https://images.wondershare.com/filmora/article-images/vlc.jpg)  
+![Filmora Export](https://images.wondershare.com/filmora/article-images/vlc.jpg)  
 The new version VLC 3.0 is now supporting 4K video with HDR color and 8K video feeds, for the details about how to convert 4k video in VLC, you can check our article [How to use VLC as a converter](https://tools.techidaily.com/wondershare/filmora/download/).  
 However, if you haven’t used VLC video player before, you may find it a little confusing at converting 4K videos because there is no Export or Convert button in the interface.  
 Check our[review about VLC Media Player](https://tools.techidaily.com/wondershare/filmora/download/)  
@@ -151,7 +151,7 @@ Windows and Mac users can use Wondershare UniConverter (Previously named Wonders
 * Record any 4k videos from streaming online sites.  
 Learn more about [Wondershare UniConverter here >>](https://tools.techidaily.com/wondershare/videoconverter/download/)  
 
-#### [![win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/video-converter-ultimate%5Ffull495.exe) [win Version](https://images.wondershare.com/style/images/download-btn-mac.png)](https://download.wondershare.com/video-converter-ultimate-mac%5Ffull735.dmg)  
+#### [![win Version](https://images.wondershare.com/style/images/download-btn-win.png)
 
 #### 5. Acrok Video Converter Ultimate  
 
@@ -327,7 +327,7 @@ As its name implies, it has almost 1000 pixels where it has **1920 x 1080px** ho
 ![scale](https://images.wondershare.com/filmora/article-images/2022/09/scale.png)  
 In the picture above, you can clearly observe that the 4k image has sharp results around the edges of the image and written text. Hence it is clearer than 1080p.  
 
-#### 1.[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)  
+#### 1. Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)  
 For Win 7 or later (64-bit)  
@@ -336,7 +336,7 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later  
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download  
 Filmora is a video editing software which supports 4K [editing on Mac](https://tools.techidaily.com/wondershare/filmora/download/) and Windows computer. It allows you to edit the 4K video footage before converting it to other definition and resolution such as 1080, 720\. Filmora features a straight-forward interface, so you can find what you want easily. For example, you can add music, transitions, filters, overlay, and elements to the 4K video directly with the built-in presets. You can also trim and cut out some unwanted parts or merge several 4K videos into one and then convert it to lower definition.  
-![ Filmora 9 for Mac Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-settings.jpg)  
+![Filmora 9 for Mac Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-settings.jpg)  
 **Key features of converting 4K videos in Filmora:**  
 
 * You can convert any video in 3840 x 2160 or 4096 x 2160 4k resolution to other resolutions.  
@@ -356,7 +356,7 @@ But if you have no idea about the video codecs, resolutions and formats, you may
 #### 3.VLC media player  
 
 As the name indicates, VLC media player is used to playback media files, but it also can be used to convert video files. VLC Player is a free and open source multimedia player which runs on Windows, Linux, Mac OS X, and other platforms.  
-![ Filmora Export ](https://images.wondershare.com/filmora/article-images/vlc.jpg)  
+![Filmora Export](https://images.wondershare.com/filmora/article-images/vlc.jpg)  
 The new version VLC 3.0 is now supporting 4K video with HDR color and 8K video feeds, for the details about how to convert 4k video in VLC, you can check our article [How to use VLC as a converter](https://tools.techidaily.com/wondershare/filmora/download/).  
 However, if you haven’t used VLC video player before, you may find it a little confusing at converting 4K videos because there is no Export or Convert button in the interface.  
 Check our[review about VLC Media Player](https://tools.techidaily.com/wondershare/filmora/download/)  
@@ -374,7 +374,7 @@ Windows and Mac users can use Wondershare UniConverter (Previously named Wonders
 * Record any 4k videos from streaming online sites.  
 Learn more about [Wondershare UniConverter here >>](https://tools.techidaily.com/wondershare/videoconverter/download/)  
 
-#### [![win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/video-converter-ultimate%5Ffull495.exe) [win Version](https://images.wondershare.com/style/images/download-btn-mac.png)](https://download.wondershare.com/video-converter-ultimate-mac%5Ffull735.dmg)  
+#### [![win Version](https://images.wondershare.com/style/images/download-btn-win.png)
 
 #### 5. Acrok Video Converter Ultimate  
 
@@ -550,7 +550,7 @@ As its name implies, it has almost 1000 pixels where it has **1920 x 1080px** ho
 ![scale](https://images.wondershare.com/filmora/article-images/2022/09/scale.png)  
 In the picture above, you can clearly observe that the 4k image has sharp results around the edges of the image and written text. Hence it is clearer than 1080p.  
 
-#### 1.[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)  
+#### 1. Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)  
 For Win 7 or later (64-bit)  
@@ -559,7 +559,7 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later  
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download  
 Filmora is a video editing software which supports 4K [editing on Mac](https://tools.techidaily.com/wondershare/filmora/download/) and Windows computer. It allows you to edit the 4K video footage before converting it to other definition and resolution such as 1080, 720\. Filmora features a straight-forward interface, so you can find what you want easily. For example, you can add music, transitions, filters, overlay, and elements to the 4K video directly with the built-in presets. You can also trim and cut out some unwanted parts or merge several 4K videos into one and then convert it to lower definition.  
-![ Filmora 9 for Mac Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-settings.jpg)  
+![Filmora 9 for Mac Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-settings.jpg)  
 **Key features of converting 4K videos in Filmora:**  
 
 * You can convert any video in 3840 x 2160 or 4096 x 2160 4k resolution to other resolutions.  
@@ -579,7 +579,7 @@ But if you have no idea about the video codecs, resolutions and formats, you may
 #### 3.VLC media player  
 
 As the name indicates, VLC media player is used to playback media files, but it also can be used to convert video files. VLC Player is a free and open source multimedia player which runs on Windows, Linux, Mac OS X, and other platforms.  
-![ Filmora Export ](https://images.wondershare.com/filmora/article-images/vlc.jpg)  
+![Filmora Export](https://images.wondershare.com/filmora/article-images/vlc.jpg)  
 The new version VLC 3.0 is now supporting 4K video with HDR color and 8K video feeds, for the details about how to convert 4k video in VLC, you can check our article [How to use VLC as a converter](https://tools.techidaily.com/wondershare/filmora/download/).  
 However, if you haven’t used VLC video player before, you may find it a little confusing at converting 4K videos because there is no Export or Convert button in the interface.  
 Check our[review about VLC Media Player](https://tools.techidaily.com/wondershare/filmora/download/)  
@@ -597,7 +597,7 @@ Windows and Mac users can use Wondershare UniConverter (Previously named Wonders
 * Record any 4k videos from streaming online sites.  
 Learn more about [Wondershare UniConverter here >>](https://tools.techidaily.com/wondershare/videoconverter/download/)  
 
-#### [![win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/video-converter-ultimate%5Ffull495.exe) [win Version](https://images.wondershare.com/style/images/download-btn-mac.png)](https://download.wondershare.com/video-converter-ultimate-mac%5Ffull735.dmg)  
+#### [![win Version](https://images.wondershare.com/style/images/download-btn-win.png)
 
 #### 5. Acrok Video Converter Ultimate  
 
@@ -773,7 +773,7 @@ As its name implies, it has almost 1000 pixels where it has **1920 x 1080px** ho
 ![scale](https://images.wondershare.com/filmora/article-images/2022/09/scale.png)  
 In the picture above, you can clearly observe that the 4k image has sharp results around the edges of the image and written text. Hence it is clearer than 1080p.  
 
-#### 1.[Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)  
+#### 1. Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)  
 For Win 7 or later (64-bit)  
@@ -782,7 +782,7 @@ For Win 7 or later (64-bit)
 For macOS 10.14 or later  
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download  
 Filmora is a video editing software which supports 4K [editing on Mac](https://tools.techidaily.com/wondershare/filmora/download/) and Windows computer. It allows you to edit the 4K video footage before converting it to other definition and resolution such as 1080, 720\. Filmora features a straight-forward interface, so you can find what you want easily. For example, you can add music, transitions, filters, overlay, and elements to the 4K video directly with the built-in presets. You can also trim and cut out some unwanted parts or merge several 4K videos into one and then convert it to lower definition.  
-![ Filmora 9 for Mac Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-settings.jpg)  
+![Filmora 9 for Mac Export Settings](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-settings.jpg)  
 **Key features of converting 4K videos in Filmora:**  
 
 * You can convert any video in 3840 x 2160 or 4096 x 2160 4k resolution to other resolutions.  
@@ -802,7 +802,7 @@ But if you have no idea about the video codecs, resolutions and formats, you may
 #### 3.VLC media player  
 
 As the name indicates, VLC media player is used to playback media files, but it also can be used to convert video files. VLC Player is a free and open source multimedia player which runs on Windows, Linux, Mac OS X, and other platforms.  
-![ Filmora Export ](https://images.wondershare.com/filmora/article-images/vlc.jpg)  
+![Filmora Export](https://images.wondershare.com/filmora/article-images/vlc.jpg)  
 The new version VLC 3.0 is now supporting 4K video with HDR color and 8K video feeds, for the details about how to convert 4k video in VLC, you can check our article [How to use VLC as a converter](https://tools.techidaily.com/wondershare/filmora/download/).  
 However, if you haven’t used VLC video player before, you may find it a little confusing at converting 4K videos because there is no Export or Convert button in the interface.  
 Check our[review about VLC Media Player](https://tools.techidaily.com/wondershare/filmora/download/)  
@@ -820,7 +820,7 @@ Windows and Mac users can use Wondershare UniConverter (Previously named Wonders
 * Record any 4k videos from streaming online sites.  
 Learn more about [Wondershare UniConverter here >>](https://tools.techidaily.com/wondershare/videoconverter/download/)  
 
-#### [![win Version](https://images.wondershare.com/style/images/download-btn-win.png) ](https://download.wondershare.com/video-converter-ultimate%5Ffull495.exe) [win Version](https://images.wondershare.com/style/images/download-btn-mac.png)](https://download.wondershare.com/video-converter-ultimate-mac%5Ffull735.dmg)  
+#### [![win Version](https://images.wondershare.com/style/images/download-btn-win.png)
 
 #### 5. Acrok Video Converter Ultimate  
 
@@ -1937,7 +1937,7 @@ So, bring your photos to life today with stop motion studio free or stop motion 
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -1952,7 +1952,7 @@ So, bring your photos to life today with stop motion studio free or stop motion 
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -1967,7 +1967,7 @@ So, bring your photos to life today with stop motion studio free or stop motion 
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -1982,7 +1982,7 @@ So, bring your photos to life today with stop motion studio free or stop motion 
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -1998,7 +1998,7 @@ So, bring your photos to life today with stop motion studio free or stop motion 
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -2040,7 +2040,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -2055,7 +2055,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -2070,7 +2070,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -2085,7 +2085,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -2101,7 +2101,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -2143,7 +2143,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -2158,7 +2158,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -2173,7 +2173,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -2188,7 +2188,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -2204,7 +2204,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 
@@ -2246,7 +2246,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-#### [Movie Rotator 2.0](http://movierotator.com/)
+#### Movie Rotator 2.0
 
  The updated version of Movie Rotator allows users to convert films and movies into portrait mode from landscape, or vice versa. It's perfect for moving MOV file formats onto your hand held devices so you can watch films there in comfort. Movie Rotator 2.0 is specifically for those that have upgraded their operating systems to Windows 7 or 8\. If you are still using XP or Vista you should stick to the old version.
 
@@ -2261,7 +2261,7 @@ Follow @Ollie Mattison
 * Supported video formats are limited;
 * Only available for Windows 7 and 8.
 
-#### [Video Rotator 1.0.7](http://www.videorotator.com/index.html)
+#### Video Rotator 1.0.7
 
  This rotator can literally move your move upside down, at 90 degrees, or turn it into a film like you are looking at it in a mirror. It supports a whole lot more formats than Movie Rotator and can even support the iPhone, iPod Touch or iPad as well as the usual MOV, MP4 and WMV file formats. Video Rotator 1.0.7 can even supports mass flipping of videos, so if you have around 50 or more to do, it'll rotate them all.
 
@@ -2276,7 +2276,7 @@ Follow @Ollie Mattison
 
 * Crashed occasionally.
 
-#### [Rotate Video](http://www.rotatevideo.org/)
+#### Rotate Video
 
  What we liked about Rotate Video was the ability to rotate at just about any angle, with one simple click of your mouse. It supports all the major file formats including MPG, WMV or MP4 to name a few and it is remarkably simple to use. The only drawback we found was the 5MB limit on file size!
 
@@ -2291,7 +2291,7 @@ Follow @Ollie Mattison
 
 * 5MB limit on file size.
 
-#### [Freemake Video Converter](http://www.freemake.com/)
+#### Freemake Video Converter
 
  This is a very easy piece of software to use and enables anyone to easily change the rotation of your movies. It supports various video formats like MOV, AVI, MP4, WMV, MKV, 3GP and more. Once you get going it's easy to use, straightforward and uncomplicated.
 
@@ -2307,7 +2307,7 @@ Follow @Ollie Mattison
 
 * There is a charge to upgrade it to the Gold Version.
 
-#### [Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+#### Any Video Converter
 
  Very easy to use and a simple interface, this software does more than simply rotate your videos. It will also rotate in batches and allow you to do some smart editing like trimming, cropping, clipping as well as rotating. It's a bit of all-singing, all-dancing rotating software as it also supports a huge amount of file formats, including MOV of course.
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate FCP Hack Flipping Clips in Just 4 Clicks
-date: 2024-05-19T13:03:24.150Z
-updated: 2024-05-20T13:03:24.150Z
+date: 2024-06-24T09:06:56.610Z
+updated: 2024-06-25T09:06:56.610Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Ultimate FCP Hack Flipping Clips in Just 4 Clicks
 excerpt: This Article Describes Updated The Ultimate FCP Hack Flipping Clips in Just 4 Clicks
 keywords: the ultimate fcp hack flipping clips in just 4 clicks,the ultimate final cut pro hack flipping clips in 4 easy steps,the ultimate list of online video flipping tools,the ultimate fcpx plugin troubleshooting checklist updated 2023,the ultimate tiktok hack reversing videos in just a few clicks,the ultimate fcp motion blur handbook tips and tricks,the ultimate guide to flipping videos in final cut pro
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## The Ultimate FCP Hack: Flipping Clips in Just 4 Clicks
@@ -46,7 +46,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -54,21 +54,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -122,7 +122,7 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -160,7 +160,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -168,21 +168,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -236,7 +236,7 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -274,7 +274,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -282,21 +282,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -350,7 +350,7 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -388,7 +388,7 @@ The timeline is at the bottom portion of the Final Cut Pro. After adding clips t
 
 There is a popup menu for you to get the **Transform** tool. It is in the lower-left corner of the viewer so it should be easy to see. You can use the shortcut as well which can be done by pressing (shift-T). Or Control-click in the viewer and choose Transform.
 
-![ Access the Transform option ](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
+![Access the Transform option](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-1.png)
 
 #### Step 3:  Rotate and Re-size Video Clips
 
@@ -396,21 +396,21 @@ You can now do the following steps to rotate the video clip and change the size 
 
 There are **blue handles at each corner** which enable the user to adjust image size while **maintaining the aspect ratio of the photo.**
 
-![ Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
+![Adjust the effects -1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-2.png)
 
 Blue handles in the middle of each side are used to adjust horizontal and vertical image sizes **changing the aspect ratio of the clips.**
 
-![ Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
+![Adjust the effects -2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-3.png)
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-![ Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
+![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-![ Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
+![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
 * The Rotation point allows you to rotate the image around its anchor points.
@@ -464,7 +464,7 @@ Do you like the basic tutorial about Apple Final Cut Pro? Professional video edi
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
-![ Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
+![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora![](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -3282,7 +3282,7 @@ So, here are some of the best highlight video makers that you can use on Windows
 
 Filmora supports all the modern video formats as well as HD and 4K video editing and output as well as includes several different free video effect presets. The version 10.4 and higher of this highlight video maker (for Windows) have some new features like **auto highlight** helping you automatically create a highlight video. Audio normalization that automatically normalizes the audio volume in your videos, and the scene detection features that allow you to separate video into clips. Try Filmora for free by downloading the latest version and experience these new features.
 
-![ Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
+![Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
 
 **Pros**
 
@@ -3348,7 +3348,7 @@ Vibby is a free lightweight web-based highlight video maker that allows you to e
 
 Vibby has a simple user-friendly interface that helps you to highlight the most relevant parts of the video in just three steps. Just choose the YouTube, GoogleDrive, Dropbox, Twitch, and Vimeo videos you like, highlight the sections relevant to your topic and add notes, or questions for students to read. You can set specific timeframes for each highlight and tag people as well.
 
-![ Create Highlight Video with Vibby](https://images.wondershare.com/filmora/article-images/create-vib-interface.jpg)
+![Create Highlight Video with Vibby](https://images.wondershare.com/filmora/article-images/create-vib-interface.jpg)
 
 **Pros**
 
@@ -3436,7 +3436,7 @@ So, here are some of the best highlight video makers that you can use on Windows
 
 Filmora supports all the modern video formats as well as HD and 4K video editing and output as well as includes several different free video effect presets. The version 10.4 and higher of this highlight video maker (for Windows) have some new features like **auto highlight** helping you automatically create a highlight video. Audio normalization that automatically normalizes the audio volume in your videos, and the scene detection features that allow you to separate video into clips. Try Filmora for free by downloading the latest version and experience these new features.
 
-![ Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
+![Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
 
 **Pros**
 
@@ -3502,7 +3502,7 @@ Vibby is a free lightweight web-based highlight video maker that allows you to e
 
 Vibby has a simple user-friendly interface that helps you to highlight the most relevant parts of the video in just three steps. Just choose the YouTube, GoogleDrive, Dropbox, Twitch, and Vimeo videos you like, highlight the sections relevant to your topic and add notes, or questions for students to read. You can set specific timeframes for each highlight and tag people as well.
 
-![ Create Highlight Video with Vibby](https://images.wondershare.com/filmora/article-images/create-vib-interface.jpg)
+![Create Highlight Video with Vibby](https://images.wondershare.com/filmora/article-images/create-vib-interface.jpg)
 
 **Pros**
 
@@ -3590,7 +3590,7 @@ So, here are some of the best highlight video makers that you can use on Windows
 
 Filmora supports all the modern video formats as well as HD and 4K video editing and output as well as includes several different free video effect presets. The version 10.4 and higher of this highlight video maker (for Windows) have some new features like **auto highlight** helping you automatically create a highlight video. Audio normalization that automatically normalizes the audio volume in your videos, and the scene detection features that allow you to separate video into clips. Try Filmora for free by downloading the latest version and experience these new features.
 
-![ Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
+![Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
 
 **Pros**
 
@@ -3656,7 +3656,7 @@ Vibby is a free lightweight web-based highlight video maker that allows you to e
 
 Vibby has a simple user-friendly interface that helps you to highlight the most relevant parts of the video in just three steps. Just choose the YouTube, GoogleDrive, Dropbox, Twitch, and Vimeo videos you like, highlight the sections relevant to your topic and add notes, or questions for students to read. You can set specific timeframes for each highlight and tag people as well.
 
-![ Create Highlight Video with Vibby](https://images.wondershare.com/filmora/article-images/create-vib-interface.jpg)
+![Create Highlight Video with Vibby](https://images.wondershare.com/filmora/article-images/create-vib-interface.jpg)
 
 **Pros**
 
@@ -3744,7 +3744,7 @@ So, here are some of the best highlight video makers that you can use on Windows
 
 Filmora supports all the modern video formats as well as HD and 4K video editing and output as well as includes several different free video effect presets. The version 10.4 and higher of this highlight video maker (for Windows) have some new features like **auto highlight** helping you automatically create a highlight video. Audio normalization that automatically normalizes the audio volume in your videos, and the scene detection features that allow you to separate video into clips. Try Filmora for free by downloading the latest version and experience these new features.
 
-![ Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
+![Filmora X Auto Highlight Feature](https://images.wondershare.com/filmora/article-images/filmora-auto-highlight-interface.jpg)
 
 **Pros**
 
@@ -3810,7 +3810,7 @@ Vibby is a free lightweight web-based highlight video maker that allows you to e
 
 Vibby has a simple user-friendly interface that helps you to highlight the most relevant parts of the video in just three steps. Just choose the YouTube, GoogleDrive, Dropbox, Twitch, and Vimeo videos you like, highlight the sections relevant to your topic and add notes, or questions for students to read. You can set specific timeframes for each highlight and tag people as well.
 
-![ Create Highlight Video with Vibby](https://images.wondershare.com/filmora/article-images/create-vib-interface.jpg)
+![Create Highlight Video with Vibby](https://images.wondershare.com/filmora/article-images/create-vib-interface.jpg)
 
 **Pros**
 

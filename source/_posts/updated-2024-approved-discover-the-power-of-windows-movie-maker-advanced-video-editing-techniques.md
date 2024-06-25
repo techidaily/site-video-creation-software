@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Discover the Power of Windows Movie Maker Advanced Video Editing Techniques
-date: 2024-05-19T13:04:20.406Z
-updated: 2024-05-20T13:04:20.406Z
+date: 2024-06-24T09:06:46.687Z
+updated: 2024-06-25T09:06:46.687Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved Discover the Power of Windows Movie Maker Advanced Video Editing Techniques
 excerpt: This Article Describes Updated 2024 Approved Discover the Power of Windows Movie Maker Advanced Video Editing Techniques
 keywords: imovie for pc discover the best windows video editing alternatives,unleash the power of 3d video editing techniques for windows users,elevate your storytelling advanced video editing techniques in windows movie maker,discover the power of windows movie maker advanced video editing techniques,split trim and perfect video editing techniques in windows live movie maker,discover the best video editing software beyond windows movie maker,discover the power of video editing microsofts guide for windows users
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Discover the Power of Windows Movie Maker: Advanced Video Editing Techniques
@@ -30,11 +30,9 @@ Microsoft has released **Windows Live Movie Maker** on August 19, 2009 as part o
 
 ---
 
-## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\]
+## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\][![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD ), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
+Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
 
 ---
 
@@ -46,7 +44,7 @@ Windows Live Movie Maker is a little bit limiting for video editing. In most cas
 
 While you are adding videos to Windows Live Movie Maker, you may encounter a problem like 3GP files can't be added to Windows Live Movie Maker. Or it can't be played in Window Live Movie Maker. And many other video files as well, such as RM, RMVB, DAT and HD video formats: MTS, TS, HD MKV, HD WMV, and HD MOV, etc. It's quite necessary to get familiar with what all those files that could be imported to Windows Live Movie Maker.
 
-![ edit video using windows live movie maker ](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
+![edit video using windows live movie maker](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
 
 **Notes**
 
@@ -132,11 +130,9 @@ Microsoft has released **Windows Live Movie Maker** on August 19, 2009 as part o
 
 ---
 
-## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\]
+## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\][![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD ), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
+Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
 
 ---
 
@@ -148,7 +144,7 @@ Windows Live Movie Maker is a little bit limiting for video editing. In most cas
 
 While you are adding videos to Windows Live Movie Maker, you may encounter a problem like 3GP files can't be added to Windows Live Movie Maker. Or it can't be played in Window Live Movie Maker. And many other video files as well, such as RM, RMVB, DAT and HD video formats: MTS, TS, HD MKV, HD WMV, and HD MOV, etc. It's quite necessary to get familiar with what all those files that could be imported to Windows Live Movie Maker.
 
-![ edit video using windows live movie maker ](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
+![edit video using windows live movie maker](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
 
 **Notes**
 
@@ -234,11 +230,9 @@ Microsoft has released **Windows Live Movie Maker** on August 19, 2009 as part o
 
 ---
 
-## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\]
+## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\][![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD ), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
+Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
 
 ---
 
@@ -250,7 +244,7 @@ Windows Live Movie Maker is a little bit limiting for video editing. In most cas
 
 While you are adding videos to Windows Live Movie Maker, you may encounter a problem like 3GP files can't be added to Windows Live Movie Maker. Or it can't be played in Window Live Movie Maker. And many other video files as well, such as RM, RMVB, DAT and HD video formats: MTS, TS, HD MKV, HD WMV, and HD MOV, etc. It's quite necessary to get familiar with what all those files that could be imported to Windows Live Movie Maker.
 
-![ edit video using windows live movie maker ](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
+![edit video using windows live movie maker](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
 
 **Notes**
 
@@ -336,11 +330,9 @@ Microsoft has released **Windows Live Movie Maker** on August 19, 2009 as part o
 
 ---
 
-## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\]
+## Part 1: Best Alternative to Windows Movie Maker: Filmora \[Windows7/8/10 & Mac\][![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD ), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
+Windows Live Movie Maker is a little bit limiting for video editing. In most cases, you need to run Windows 7\. Fortunately, you do have other options. There is plenty of software which will do the same thing but better than Windows Live Movie Maker for you to [edit your videos](https://tools.techidaily.com/wondershare/filmora/download/) and burn videos to DVD. Among many of them, we recommend one Wondershare Filmora. You may wonder what's so special with this Video Editor. First of all, it supports almost all kinds of video formats, such as AVI, MP4, MPG, MPEG, 3GP, WMV, ASF, RM, RMVB, DAT, MOV, MKV and HD video formats: MTS, M2TS(AVCHD), TS(MPEG-2), HD MKV(, MPEG-2 HD), HD WMV(VC-1), and HD MOV(, MPEG-4). Secondly, it provides powerful video editing function, such as crop, trim, adjust video effect, add watermark, etc. Also, there are various title and text templates, filter/transition and effects presets for you to choose from. Thirdly, Windows Live Movie Maker can only generate WMV files directly, but this video editor supports burn video to DVD disc, DVD Folder and ISO file or save the video to most of the popular formats.
 
 ---
 
@@ -352,7 +344,7 @@ Windows Live Movie Maker is a little bit limiting for video editing. In most cas
 
 While you are adding videos to Windows Live Movie Maker, you may encounter a problem like 3GP files can't be added to Windows Live Movie Maker. Or it can't be played in Window Live Movie Maker. And many other video files as well, such as RM, RMVB, DAT and HD video formats: MTS, TS, HD MKV, HD WMV, and HD MOV, etc. It's quite necessary to get familiar with what all those files that could be imported to Windows Live Movie Maker.
 
-![ edit video using windows live movie maker ](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
+![edit video using windows live movie maker](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
 
 **Notes**
 
@@ -488,7 +480,7 @@ or Try Filmora App for mobile >>>
 
 ## Part 1: Best Cartoon Video Maker App on Android
 
-### 1. [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=en%5FUS)
+### 1. FlipaClip
 
 If you have dreamt of making your cartoons, then FlipaClip can definitely help you. This cartoon video maker app helps to create clips and works on the principle of frame-by-frame. You just need to use the intuitive tools available to give shape to your creative idea for creating the animation video. The features of FlipaClip are-
 
@@ -500,7 +492,7 @@ If you have dreamt of making your cartoons, then FlipaClip can definitely help y
 * Check out before and after frames
 * Pressure-sensitive pen support
 
-### 2. [Draw Cartoons](https://play.google.com/store/apps/details?id=com.zalivka.animation2&hl=en%5FUS)
+### 2. Draw Cartoons
 
 Forget the technicalities of making cartoons as the Draw Cartoons app make it an easy task to do. From drawing the cartoons to publishing, it is now very simple with this cartoon video maker app. The features include-
 
@@ -512,7 +504,7 @@ Forget the technicalities of making cartoons as the Draw Cartoons app make it an
 
 ![best cartoon video maker - Draw Cartoons](https://images.wondershare.com/filmora/article-images/Draw-Cartoons.JPG)
 
-### 3. [Stick Nodes](https://play.google.com/store/apps/details?id=org.fortheloss.sticknodes&hl=en%5FUS)
+### 3. Stick Nodes
 
 This cartoon video maker app is created especially with the Android mobile device on the mind. Now, make stick-figure animations and export them to mp4 videos and animated GIFs in a few minutes. The younger generation animators love the Stick Nodes app which is basically inspired by the famous Pivot stick figure animator. The features are-
 
@@ -526,7 +518,7 @@ This cartoon video maker app is created especially with the Android mobile devic
 
 ![cartoon video maker - Stick Nodes](https://images.wondershare.com/filmora/article-images/Stick-Nodes.JPG)
 
-### 4. [Toontastic](https://play.google.com/store/apps/details?id=com.google.toontastic)
+### 4. Toontastic
 
 Drawing, animating, and narrating your own cartoons is very easy with the Toonatastic cartoon video maker app. When you move your cartoon character on the screen and narrate your story, the Toontastic app records your animations and voice. It is saved on your mobile device as a 3D video. The features of the Toontastic app are-
 
@@ -538,7 +530,7 @@ Drawing, animating, and narrating your own cartoons is very easy with the Toonat
 
 ![Toontastic - the best cartoon video maker](https://images.wondershare.com/filmora/article-images/Toontastic-3D.JPG)
 
-### 5. [Animate It](https://play.google.com/store/apps/details?id=com.Stenson.AnimateIt)
+### 5. Animate It
 
 A tab or your smartphone, drawing sketches, animation, and poses are just a matter of a few minutes with this cartoon video maker app. It is a handy simplified tool with simplified controls like just a touch on the area by twisting the camera, dragging to move body parts, using two fingers to translate and zoom, and much more. The features of Animate It includes-
 
@@ -552,7 +544,7 @@ A tab or your smartphone, drawing sketches, animation, and poses are just a matt
 
 ## Part 2: Best Cartoon Video Maker App on iPhone
 
-### 6. [Animation Creator HD](https://itunes.apple.com/us/app/animation-creator-hd/id363201632?mt=8)
+### 6. Animation Creator HD
 
 Do you wish to add life to your creativity? Animation Creator HD is one of the most powerful yet simple cartoon video maker apps on the iPhone that offers drawing tools for convenient framework management. The limit of the Animation Creator HD is as far as your imagination runs. The features of this app include-
 
@@ -565,7 +557,7 @@ Do you wish to add life to your creativity? Animation Creator HD is one of the m
 
 ![Animation Creator - cartoon video maker for iphone](https://images.wondershare.com/filmora/article-images/Animation-Creator.JPG)
 
-### 7. [RoughAnimator](https://itunes.apple.com/us/app/roughanimator-animation-app/id954718244?mt=8)
+### 7. RoughAnimator
 
 The RoughAnimator cartoon video maker app has a comprehensive range of hand-drawn tools for iPhone and iPad users. The Rough Animator tool allows you to hand draw frame by frame. The other features of RoughAnimator are-
 
@@ -578,7 +570,7 @@ The RoughAnimator cartoon video maker app has a comprehensive range of hand-draw
 
 ![RoughAnimator - cartoon maker for ios](https://images.wondershare.com/filmora/article-images/RoughAnimator.JPG)
 
-### 8. [Pixel Animator](https://itunes.apple.com/us/app/pixel-animator-gif-maker/id841345904?mt=8)
+### 8. Pixel Animator
 
 You can do much more than just create cool pixel art with Pixel Animator. Turn an existing image or cartoon into pixel art by starting it from scratch. It is one of the best GIF creators or cartoon video maker apps. The feature of this tool include-
 
@@ -589,7 +581,7 @@ You can do much more than just create cool pixel art with Pixel Animator. Turn a
 
 ![Pixel - cartoon video maker iOS](https://images.wondershare.com/filmora/article-images/Pixel-Animator.JPG)
 
-### 9. [Animation Desk](https://itunes.apple.com/us/app/animation-desk/id946346179?mt=8)
+### 9. Animation Desk
 
 The Animation Desk cartoon video maker app lets you create frame-by-frame animation from scratch. You may also create cartoons upon the PSD layers, videos, and images. You can share the animations easily from your iPhone or iPad and export or import files in several formats. The features of the Animation Desk app include-
 
@@ -602,7 +594,7 @@ The Animation Desk cartoon video maker app lets you create frame-by-frame animat
 
 ![Animation Desk - Cartoon Video maker](https://images.wondershare.com/filmora/article-images/Animation-Desk.JPG)
 
-### 10. [Puppet Pals HD](https://itunes.apple.com/us/app/puppet-pals-hd/id342076546?mt=8)
+### 10. Puppet Pals HD
 
 Creating your own unique animated cartoon video is easy and simple with the Puppet Pals HD cartoon maker app. You just need to select and bring your characters on stage, add backdrops and hit on the record. Your audio and movements are easily recorded in real-time. The features of this cartoon video maker app are-
 
@@ -615,9 +607,7 @@ Creating your own unique animated cartoon video is easy and simple with the Pupp
 
 ## Conclusion
 
-So, now you have a list of 10 cartoon maker apps. If you really wish to create your own cartoon characters, nothing can stop you from doing it. Pick any one cartoon video maker app, do some edits and filters, and your cartoons are ready in just a few seconds. If you want to make cartoon videos like a pro, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just download it now to have a try (free)!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+So, now you have a list of 10 cartoon maker apps. If you really wish to create your own cartoon characters, nothing can stop you from doing it. Pick any one cartoon video maker app, do some edits and filters, and your cartoons are ready in just a few seconds. If you want to make cartoon videos like a pro, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just download it now to have a try (free)![Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -682,7 +672,7 @@ or Try Filmora App for mobile >>>
 
 ## Part 1: Best Cartoon Video Maker App on Android
 
-### 1. [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=en%5FUS)
+### 1. FlipaClip
 
 If you have dreamt of making your cartoons, then FlipaClip can definitely help you. This cartoon video maker app helps to create clips and works on the principle of frame-by-frame. You just need to use the intuitive tools available to give shape to your creative idea for creating the animation video. The features of FlipaClip are-
 
@@ -694,7 +684,7 @@ If you have dreamt of making your cartoons, then FlipaClip can definitely help y
 * Check out before and after frames
 * Pressure-sensitive pen support
 
-### 2. [Draw Cartoons](https://play.google.com/store/apps/details?id=com.zalivka.animation2&hl=en%5FUS)
+### 2. Draw Cartoons
 
 Forget the technicalities of making cartoons as the Draw Cartoons app make it an easy task to do. From drawing the cartoons to publishing, it is now very simple with this cartoon video maker app. The features include-
 
@@ -706,7 +696,7 @@ Forget the technicalities of making cartoons as the Draw Cartoons app make it an
 
 ![best cartoon video maker - Draw Cartoons](https://images.wondershare.com/filmora/article-images/Draw-Cartoons.JPG)
 
-### 3. [Stick Nodes](https://play.google.com/store/apps/details?id=org.fortheloss.sticknodes&hl=en%5FUS)
+### 3. Stick Nodes
 
 This cartoon video maker app is created especially with the Android mobile device on the mind. Now, make stick-figure animations and export them to mp4 videos and animated GIFs in a few minutes. The younger generation animators love the Stick Nodes app which is basically inspired by the famous Pivot stick figure animator. The features are-
 
@@ -720,7 +710,7 @@ This cartoon video maker app is created especially with the Android mobile devic
 
 ![cartoon video maker - Stick Nodes](https://images.wondershare.com/filmora/article-images/Stick-Nodes.JPG)
 
-### 4. [Toontastic](https://play.google.com/store/apps/details?id=com.google.toontastic)
+### 4. Toontastic
 
 Drawing, animating, and narrating your own cartoons is very easy with the Toonatastic cartoon video maker app. When you move your cartoon character on the screen and narrate your story, the Toontastic app records your animations and voice. It is saved on your mobile device as a 3D video. The features of the Toontastic app are-
 
@@ -732,7 +722,7 @@ Drawing, animating, and narrating your own cartoons is very easy with the Toonat
 
 ![Toontastic - the best cartoon video maker](https://images.wondershare.com/filmora/article-images/Toontastic-3D.JPG)
 
-### 5. [Animate It](https://play.google.com/store/apps/details?id=com.Stenson.AnimateIt)
+### 5. Animate It
 
 A tab or your smartphone, drawing sketches, animation, and poses are just a matter of a few minutes with this cartoon video maker app. It is a handy simplified tool with simplified controls like just a touch on the area by twisting the camera, dragging to move body parts, using two fingers to translate and zoom, and much more. The features of Animate It includes-
 
@@ -746,7 +736,7 @@ A tab or your smartphone, drawing sketches, animation, and poses are just a matt
 
 ## Part 2: Best Cartoon Video Maker App on iPhone
 
-### 6. [Animation Creator HD](https://itunes.apple.com/us/app/animation-creator-hd/id363201632?mt=8)
+### 6. Animation Creator HD
 
 Do you wish to add life to your creativity? Animation Creator HD is one of the most powerful yet simple cartoon video maker apps on the iPhone that offers drawing tools for convenient framework management. The limit of the Animation Creator HD is as far as your imagination runs. The features of this app include-
 
@@ -759,7 +749,7 @@ Do you wish to add life to your creativity? Animation Creator HD is one of the m
 
 ![Animation Creator - cartoon video maker for iphone](https://images.wondershare.com/filmora/article-images/Animation-Creator.JPG)
 
-### 7. [RoughAnimator](https://itunes.apple.com/us/app/roughanimator-animation-app/id954718244?mt=8)
+### 7. RoughAnimator
 
 The RoughAnimator cartoon video maker app has a comprehensive range of hand-drawn tools for iPhone and iPad users. The Rough Animator tool allows you to hand draw frame by frame. The other features of RoughAnimator are-
 
@@ -772,7 +762,7 @@ The RoughAnimator cartoon video maker app has a comprehensive range of hand-draw
 
 ![RoughAnimator - cartoon maker for ios](https://images.wondershare.com/filmora/article-images/RoughAnimator.JPG)
 
-### 8. [Pixel Animator](https://itunes.apple.com/us/app/pixel-animator-gif-maker/id841345904?mt=8)
+### 8. Pixel Animator
 
 You can do much more than just create cool pixel art with Pixel Animator. Turn an existing image or cartoon into pixel art by starting it from scratch. It is one of the best GIF creators or cartoon video maker apps. The feature of this tool include-
 
@@ -783,7 +773,7 @@ You can do much more than just create cool pixel art with Pixel Animator. Turn a
 
 ![Pixel - cartoon video maker iOS](https://images.wondershare.com/filmora/article-images/Pixel-Animator.JPG)
 
-### 9. [Animation Desk](https://itunes.apple.com/us/app/animation-desk/id946346179?mt=8)
+### 9. Animation Desk
 
 The Animation Desk cartoon video maker app lets you create frame-by-frame animation from scratch. You may also create cartoons upon the PSD layers, videos, and images. You can share the animations easily from your iPhone or iPad and export or import files in several formats. The features of the Animation Desk app include-
 
@@ -796,7 +786,7 @@ The Animation Desk cartoon video maker app lets you create frame-by-frame animat
 
 ![Animation Desk - Cartoon Video maker](https://images.wondershare.com/filmora/article-images/Animation-Desk.JPG)
 
-### 10. [Puppet Pals HD](https://itunes.apple.com/us/app/puppet-pals-hd/id342076546?mt=8)
+### 10. Puppet Pals HD
 
 Creating your own unique animated cartoon video is easy and simple with the Puppet Pals HD cartoon maker app. You just need to select and bring your characters on stage, add backdrops and hit on the record. Your audio and movements are easily recorded in real-time. The features of this cartoon video maker app are-
 
@@ -809,9 +799,7 @@ Creating your own unique animated cartoon video is easy and simple with the Pupp
 
 ## Conclusion
 
-So, now you have a list of 10 cartoon maker apps. If you really wish to create your own cartoon characters, nothing can stop you from doing it. Pick any one cartoon video maker app, do some edits and filters, and your cartoons are ready in just a few seconds. If you want to make cartoon videos like a pro, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just download it now to have a try (free)!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+So, now you have a list of 10 cartoon maker apps. If you really wish to create your own cartoon characters, nothing can stop you from doing it. Pick any one cartoon video maker app, do some edits and filters, and your cartoons are ready in just a few seconds. If you want to make cartoon videos like a pro, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just download it now to have a try (free)![Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -876,7 +864,7 @@ or Try Filmora App for mobile >>>
 
 ## Part 1: Best Cartoon Video Maker App on Android
 
-### 1. [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=en%5FUS)
+### 1. FlipaClip
 
 If you have dreamt of making your cartoons, then FlipaClip can definitely help you. This cartoon video maker app helps to create clips and works on the principle of frame-by-frame. You just need to use the intuitive tools available to give shape to your creative idea for creating the animation video. The features of FlipaClip are-
 
@@ -888,7 +876,7 @@ If you have dreamt of making your cartoons, then FlipaClip can definitely help y
 * Check out before and after frames
 * Pressure-sensitive pen support
 
-### 2. [Draw Cartoons](https://play.google.com/store/apps/details?id=com.zalivka.animation2&hl=en%5FUS)
+### 2. Draw Cartoons
 
 Forget the technicalities of making cartoons as the Draw Cartoons app make it an easy task to do. From drawing the cartoons to publishing, it is now very simple with this cartoon video maker app. The features include-
 
@@ -900,7 +888,7 @@ Forget the technicalities of making cartoons as the Draw Cartoons app make it an
 
 ![best cartoon video maker - Draw Cartoons](https://images.wondershare.com/filmora/article-images/Draw-Cartoons.JPG)
 
-### 3. [Stick Nodes](https://play.google.com/store/apps/details?id=org.fortheloss.sticknodes&hl=en%5FUS)
+### 3. Stick Nodes
 
 This cartoon video maker app is created especially with the Android mobile device on the mind. Now, make stick-figure animations and export them to mp4 videos and animated GIFs in a few minutes. The younger generation animators love the Stick Nodes app which is basically inspired by the famous Pivot stick figure animator. The features are-
 
@@ -914,7 +902,7 @@ This cartoon video maker app is created especially with the Android mobile devic
 
 ![cartoon video maker - Stick Nodes](https://images.wondershare.com/filmora/article-images/Stick-Nodes.JPG)
 
-### 4. [Toontastic](https://play.google.com/store/apps/details?id=com.google.toontastic)
+### 4. Toontastic
 
 Drawing, animating, and narrating your own cartoons is very easy with the Toonatastic cartoon video maker app. When you move your cartoon character on the screen and narrate your story, the Toontastic app records your animations and voice. It is saved on your mobile device as a 3D video. The features of the Toontastic app are-
 
@@ -926,7 +914,7 @@ Drawing, animating, and narrating your own cartoons is very easy with the Toonat
 
 ![Toontastic - the best cartoon video maker](https://images.wondershare.com/filmora/article-images/Toontastic-3D.JPG)
 
-### 5. [Animate It](https://play.google.com/store/apps/details?id=com.Stenson.AnimateIt)
+### 5. Animate It
 
 A tab or your smartphone, drawing sketches, animation, and poses are just a matter of a few minutes with this cartoon video maker app. It is a handy simplified tool with simplified controls like just a touch on the area by twisting the camera, dragging to move body parts, using two fingers to translate and zoom, and much more. The features of Animate It includes-
 
@@ -940,7 +928,7 @@ A tab or your smartphone, drawing sketches, animation, and poses are just a matt
 
 ## Part 2: Best Cartoon Video Maker App on iPhone
 
-### 6. [Animation Creator HD](https://itunes.apple.com/us/app/animation-creator-hd/id363201632?mt=8)
+### 6. Animation Creator HD
 
 Do you wish to add life to your creativity? Animation Creator HD is one of the most powerful yet simple cartoon video maker apps on the iPhone that offers drawing tools for convenient framework management. The limit of the Animation Creator HD is as far as your imagination runs. The features of this app include-
 
@@ -953,7 +941,7 @@ Do you wish to add life to your creativity? Animation Creator HD is one of the m
 
 ![Animation Creator - cartoon video maker for iphone](https://images.wondershare.com/filmora/article-images/Animation-Creator.JPG)
 
-### 7. [RoughAnimator](https://itunes.apple.com/us/app/roughanimator-animation-app/id954718244?mt=8)
+### 7. RoughAnimator
 
 The RoughAnimator cartoon video maker app has a comprehensive range of hand-drawn tools for iPhone and iPad users. The Rough Animator tool allows you to hand draw frame by frame. The other features of RoughAnimator are-
 
@@ -966,7 +954,7 @@ The RoughAnimator cartoon video maker app has a comprehensive range of hand-draw
 
 ![RoughAnimator - cartoon maker for ios](https://images.wondershare.com/filmora/article-images/RoughAnimator.JPG)
 
-### 8. [Pixel Animator](https://itunes.apple.com/us/app/pixel-animator-gif-maker/id841345904?mt=8)
+### 8. Pixel Animator
 
 You can do much more than just create cool pixel art with Pixel Animator. Turn an existing image or cartoon into pixel art by starting it from scratch. It is one of the best GIF creators or cartoon video maker apps. The feature of this tool include-
 
@@ -977,7 +965,7 @@ You can do much more than just create cool pixel art with Pixel Animator. Turn a
 
 ![Pixel - cartoon video maker iOS](https://images.wondershare.com/filmora/article-images/Pixel-Animator.JPG)
 
-### 9. [Animation Desk](https://itunes.apple.com/us/app/animation-desk/id946346179?mt=8)
+### 9. Animation Desk
 
 The Animation Desk cartoon video maker app lets you create frame-by-frame animation from scratch. You may also create cartoons upon the PSD layers, videos, and images. You can share the animations easily from your iPhone or iPad and export or import files in several formats. The features of the Animation Desk app include-
 
@@ -990,7 +978,7 @@ The Animation Desk cartoon video maker app lets you create frame-by-frame animat
 
 ![Animation Desk - Cartoon Video maker](https://images.wondershare.com/filmora/article-images/Animation-Desk.JPG)
 
-### 10. [Puppet Pals HD](https://itunes.apple.com/us/app/puppet-pals-hd/id342076546?mt=8)
+### 10. Puppet Pals HD
 
 Creating your own unique animated cartoon video is easy and simple with the Puppet Pals HD cartoon maker app. You just need to select and bring your characters on stage, add backdrops and hit on the record. Your audio and movements are easily recorded in real-time. The features of this cartoon video maker app are-
 
@@ -1003,9 +991,7 @@ Creating your own unique animated cartoon video is easy and simple with the Pupp
 
 ## Conclusion
 
-So, now you have a list of 10 cartoon maker apps. If you really wish to create your own cartoon characters, nothing can stop you from doing it. Pick any one cartoon video maker app, do some edits and filters, and your cartoons are ready in just a few seconds. If you want to make cartoon videos like a pro, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just download it now to have a try (free)!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+So, now you have a list of 10 cartoon maker apps. If you really wish to create your own cartoon characters, nothing can stop you from doing it. Pick any one cartoon video maker app, do some edits and filters, and your cartoons are ready in just a few seconds. If you want to make cartoon videos like a pro, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just download it now to have a try (free)![Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -1070,7 +1056,7 @@ or Try Filmora App for mobile >>>
 
 ## Part 1: Best Cartoon Video Maker App on Android
 
-### 1. [FlipaClip](https://play.google.com/store/apps/details?id=com.vblast.flipaclip&hl=en%5FUS)
+### 1. FlipaClip
 
 If you have dreamt of making your cartoons, then FlipaClip can definitely help you. This cartoon video maker app helps to create clips and works on the principle of frame-by-frame. You just need to use the intuitive tools available to give shape to your creative idea for creating the animation video. The features of FlipaClip are-
 
@@ -1082,7 +1068,7 @@ If you have dreamt of making your cartoons, then FlipaClip can definitely help y
 * Check out before and after frames
 * Pressure-sensitive pen support
 
-### 2. [Draw Cartoons](https://play.google.com/store/apps/details?id=com.zalivka.animation2&hl=en%5FUS)
+### 2. Draw Cartoons
 
 Forget the technicalities of making cartoons as the Draw Cartoons app make it an easy task to do. From drawing the cartoons to publishing, it is now very simple with this cartoon video maker app. The features include-
 
@@ -1094,7 +1080,7 @@ Forget the technicalities of making cartoons as the Draw Cartoons app make it an
 
 ![best cartoon video maker - Draw Cartoons](https://images.wondershare.com/filmora/article-images/Draw-Cartoons.JPG)
 
-### 3. [Stick Nodes](https://play.google.com/store/apps/details?id=org.fortheloss.sticknodes&hl=en%5FUS)
+### 3. Stick Nodes
 
 This cartoon video maker app is created especially with the Android mobile device on the mind. Now, make stick-figure animations and export them to mp4 videos and animated GIFs in a few minutes. The younger generation animators love the Stick Nodes app which is basically inspired by the famous Pivot stick figure animator. The features are-
 
@@ -1108,7 +1094,7 @@ This cartoon video maker app is created especially with the Android mobile devic
 
 ![cartoon video maker - Stick Nodes](https://images.wondershare.com/filmora/article-images/Stick-Nodes.JPG)
 
-### 4. [Toontastic](https://play.google.com/store/apps/details?id=com.google.toontastic)
+### 4. Toontastic
 
 Drawing, animating, and narrating your own cartoons is very easy with the Toonatastic cartoon video maker app. When you move your cartoon character on the screen and narrate your story, the Toontastic app records your animations and voice. It is saved on your mobile device as a 3D video. The features of the Toontastic app are-
 
@@ -1120,7 +1106,7 @@ Drawing, animating, and narrating your own cartoons is very easy with the Toonat
 
 ![Toontastic - the best cartoon video maker](https://images.wondershare.com/filmora/article-images/Toontastic-3D.JPG)
 
-### 5. [Animate It](https://play.google.com/store/apps/details?id=com.Stenson.AnimateIt)
+### 5. Animate It
 
 A tab or your smartphone, drawing sketches, animation, and poses are just a matter of a few minutes with this cartoon video maker app. It is a handy simplified tool with simplified controls like just a touch on the area by twisting the camera, dragging to move body parts, using two fingers to translate and zoom, and much more. The features of Animate It includes-
 
@@ -1134,7 +1120,7 @@ A tab or your smartphone, drawing sketches, animation, and poses are just a matt
 
 ## Part 2: Best Cartoon Video Maker App on iPhone
 
-### 6. [Animation Creator HD](https://itunes.apple.com/us/app/animation-creator-hd/id363201632?mt=8)
+### 6. Animation Creator HD
 
 Do you wish to add life to your creativity? Animation Creator HD is one of the most powerful yet simple cartoon video maker apps on the iPhone that offers drawing tools for convenient framework management. The limit of the Animation Creator HD is as far as your imagination runs. The features of this app include-
 
@@ -1147,7 +1133,7 @@ Do you wish to add life to your creativity? Animation Creator HD is one of the m
 
 ![Animation Creator - cartoon video maker for iphone](https://images.wondershare.com/filmora/article-images/Animation-Creator.JPG)
 
-### 7. [RoughAnimator](https://itunes.apple.com/us/app/roughanimator-animation-app/id954718244?mt=8)
+### 7. RoughAnimator
 
 The RoughAnimator cartoon video maker app has a comprehensive range of hand-drawn tools for iPhone and iPad users. The Rough Animator tool allows you to hand draw frame by frame. The other features of RoughAnimator are-
 
@@ -1160,7 +1146,7 @@ The RoughAnimator cartoon video maker app has a comprehensive range of hand-draw
 
 ![RoughAnimator - cartoon maker for ios](https://images.wondershare.com/filmora/article-images/RoughAnimator.JPG)
 
-### 8. [Pixel Animator](https://itunes.apple.com/us/app/pixel-animator-gif-maker/id841345904?mt=8)
+### 8. Pixel Animator
 
 You can do much more than just create cool pixel art with Pixel Animator. Turn an existing image or cartoon into pixel art by starting it from scratch. It is one of the best GIF creators or cartoon video maker apps. The feature of this tool include-
 
@@ -1171,7 +1157,7 @@ You can do much more than just create cool pixel art with Pixel Animator. Turn a
 
 ![Pixel - cartoon video maker iOS](https://images.wondershare.com/filmora/article-images/Pixel-Animator.JPG)
 
-### 9. [Animation Desk](https://itunes.apple.com/us/app/animation-desk/id946346179?mt=8)
+### 9. Animation Desk
 
 The Animation Desk cartoon video maker app lets you create frame-by-frame animation from scratch. You may also create cartoons upon the PSD layers, videos, and images. You can share the animations easily from your iPhone or iPad and export or import files in several formats. The features of the Animation Desk app include-
 
@@ -1184,7 +1170,7 @@ The Animation Desk cartoon video maker app lets you create frame-by-frame animat
 
 ![Animation Desk - Cartoon Video maker](https://images.wondershare.com/filmora/article-images/Animation-Desk.JPG)
 
-### 10. [Puppet Pals HD](https://itunes.apple.com/us/app/puppet-pals-hd/id342076546?mt=8)
+### 10. Puppet Pals HD
 
 Creating your own unique animated cartoon video is easy and simple with the Puppet Pals HD cartoon maker app. You just need to select and bring your characters on stage, add backdrops and hit on the record. Your audio and movements are easily recorded in real-time. The features of this cartoon video maker app are-
 
@@ -1197,9 +1183,7 @@ Creating your own unique animated cartoon video is easy and simple with the Pupp
 
 ## Conclusion
 
-So, now you have a list of 10 cartoon maker apps. If you really wish to create your own cartoon characters, nothing can stop you from doing it. Pick any one cartoon video maker app, do some edits and filters, and your cartoons are ready in just a few seconds. If you want to make cartoon videos like a pro, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just download it now to have a try (free)!
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
+So, now you have a list of 10 cartoon maker apps. If you really wish to create your own cartoon characters, nothing can stop you from doing it. Pick any one cartoon video maker app, do some edits and filters, and your cartoons are ready in just a few seconds. If you want to make cartoon videos like a pro, here we recommend using [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Just download it now to have a try (free)![Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
@@ -1289,7 +1273,7 @@ Follow these steps to activate Google Docs voice typing on your Mac device:
 
 Google Docs speech-to-text is available in 71 languages. In addition, it supports simple commands such as 'create a bulleted list,' which are unavailable on other speech-to-text apps. As such, it is one of the market's most popular voice typing apps.
 
-## Part4: Top 4 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+## Part4: Top 4 Filmora
 
 ![top 4](https://images.wondershare.com/filmora/guide/startup-window-01.png)
 
@@ -1695,9 +1679,7 @@ With Joyoshare, the method of doing this is to select the "Start" button, which 
 
 **●** Just in case you want to review what your converted audio sounds like, consider one of the audio players that are available for Windows and Mac!
 
-**●** If you find that your audio needs some trimming, a quick trim with an audio cutter should do the trick. It's very simple to do!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+**●** If you find that your audio needs some trimming, a quick trim with an audio cutter should do the trick. It's very simple to do![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 We've got you there! In this article, not only have we compiled a list of the best FREE **MP3 converters for Windows 10**/11.
 
@@ -1993,9 +1975,7 @@ With Joyoshare, the method of doing this is to select the "Start" button, which 
 
 **●** Just in case you want to review what your converted audio sounds like, consider one of the audio players that are available for Windows and Mac!
 
-**●** If you find that your audio needs some trimming, a quick trim with an audio cutter should do the trick. It's very simple to do!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+**●** If you find that your audio needs some trimming, a quick trim with an audio cutter should do the trick. It's very simple to do![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 We've got you there! In this article, not only have we compiled a list of the best FREE **MP3 converters for Windows 10**/11.
 
@@ -2291,9 +2271,7 @@ With Joyoshare, the method of doing this is to select the "Start" button, which 
 
 **●** Just in case you want to review what your converted audio sounds like, consider one of the audio players that are available for Windows and Mac!
 
-**●** If you find that your audio needs some trimming, a quick trim with an audio cutter should do the trick. It's very simple to do!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+**●** If you find that your audio needs some trimming, a quick trim with an audio cutter should do the trick. It's very simple to do![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 We've got you there! In this article, not only have we compiled a list of the best FREE **MP3 converters for Windows 10**/11.
 

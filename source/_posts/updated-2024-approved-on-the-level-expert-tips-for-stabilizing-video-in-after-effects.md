@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved On the Level Expert Tips for Stabilizing Video in After Effects
-date: 2024-04-29T12:49:28.127Z
-updated: 2024-04-30T12:49:28.127Z
+date: 2024-06-24T09:06:58.865Z
+updated: 2024-06-25T09:06:58.865Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated 2024 Approved On the Level Expert Tips for Stabilizing Video in After Effects
 excerpt: This Article Describes Updated 2024 Approved On the Level Expert Tips for Stabilizing Video in After Effects
 keywords: rock solid footage the art of video stabilization in after effects,fixing the wobble a beginners guide to video stabilization in after effects,on the level expert tips for stabilizing video in after effects,the art of stability mastering video stabilization in after effects,get a grip on your footage stabilizing video in after effects,from jitters to smooth mastering video stabilization in after effects,no more jitters mastering video stabilization in after effects
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## On the Level: Expert Tips for Stabilizing Video in After Effects
@@ -88,7 +88,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -98,7 +98,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -108,7 +108,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -126,9 +126,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -196,7 +194,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -206,7 +204,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -216,7 +214,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -234,9 +232,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -304,7 +300,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -314,7 +310,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -324,7 +320,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -342,9 +338,7 @@ ReelSteady's sole flaw is its high price ($399). ReelSteady is not available in 
 
 Shaky video footage would be the last thing any video creator wants unless it's done intentionally for artistic or creative reasons. As a result, they employ methods and equipment to keep the camera safe from any undesired movement.
 
-However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+However, occasionally those tools aren't available, and the outcome is questionable. That is why we decided to compile this article to add to the knowledge of our readers how they can use **After Effects to** **stabilize videos** to enhance their video content![Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Video content is becoming increasingly popular; with the proliferation of online content, practically every product now needs its mini-documentary or video clip. Experienced filmmakers and VFX artists used to be the only ones who could get smooth footage. Those days, however, are over.
 
@@ -412,7 +406,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -422,7 +416,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -432,7 +426,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -491,7 +485,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 
 ## Top 5 Best Free WMV Video Splitters
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
  Windows Movie Maker is a free application that offers various useful video editing functions for windows users. With it, you can manually split video and audio clips into smaller clips to make your clips easier to work with. It supports various video formats like WMV, MP4, MTS, M2T .AVI. MOV and more.
 
@@ -507,7 +501,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 * Crashes a lot;
 * Has different versions for the same product.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
  Movica is a free open source video editing tool. It supports various formats such as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Movica allows you to split files according to duration’s set, number of pieces, or by size of individual pieces, which meets different splitting requirements.
 
@@ -522,7 +516,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 
 * Have to install Windows Media Player on your computer.
 
-#### 3\. [HJSplit](http://hjsplit.en.softonic.com/)
+#### 3\. HJSplit
 
  HJSplit is an application that is used to split large movie files into smaller footage in different kinds of formats. The program is available on Windows, Linux and a variety of other platforms. With it, you can easily split your files into parts at any size you want.
 
@@ -538,7 +532,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 
 * The design is not very appealing.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
  Video Toolbox is an online video editing tool which has a rich set of video tools. To use the video editing tools, you have to register (it’s free). The menu on the left lists all the functions. Cutting videos into smaller parts comes in two modes "Simple" and "Advanced". But like many online apps, Video Toolbox imposes a size restriction of 300MB for your video files.
 
@@ -552,7 +546,7 @@ However, occasionally those tools aren't available, and the outcome is questiona
 
 * Restricts your file sizes to just 300MB.
 
-#### 5\. [Format Factory](http://www.pcfreetime.com/)
+#### 5\. Format Factory
 
  Format Factory is a not only a featured video and audio converter, but also a good video editor with subset of tools that handle file splitting. To split a video, just select your video file, set the clip range with a start time and end time and then you can start the process immediately.
 
@@ -595,7 +589,7 @@ Follow @Ollie Mattison
 
 ## Top 5 Best Free WMV Video Splitters
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
  Windows Movie Maker is a free application that offers various useful video editing functions for windows users. With it, you can manually split video and audio clips into smaller clips to make your clips easier to work with. It supports various video formats like WMV, MP4, MTS, M2T .AVI. MOV and more.
 
@@ -611,7 +605,7 @@ Follow @Ollie Mattison
 * Crashes a lot;
 * Has different versions for the same product.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
  Movica is a free open source video editing tool. It supports various formats such as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Movica allows you to split files according to duration’s set, number of pieces, or by size of individual pieces, which meets different splitting requirements.
 
@@ -626,7 +620,7 @@ Follow @Ollie Mattison
 
 * Have to install Windows Media Player on your computer.
 
-#### 3\. [HJSplit](http://hjsplit.en.softonic.com/)
+#### 3\. HJSplit
 
  HJSplit is an application that is used to split large movie files into smaller footage in different kinds of formats. The program is available on Windows, Linux and a variety of other platforms. With it, you can easily split your files into parts at any size you want.
 
@@ -642,7 +636,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
  Video Toolbox is an online video editing tool which has a rich set of video tools. To use the video editing tools, you have to register (it’s free). The menu on the left lists all the functions. Cutting videos into smaller parts comes in two modes "Simple" and "Advanced". But like many online apps, Video Toolbox imposes a size restriction of 300MB for your video files.
 
@@ -656,7 +650,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-#### 5\. [Format Factory](http://www.pcfreetime.com/)
+#### 5\. Format Factory
 
  Format Factory is a not only a featured video and audio converter, but also a good video editor with subset of tools that handle file splitting. To split a video, just select your video file, set the clip range with a start time and end time and then you can start the process immediately.
 
@@ -699,7 +693,7 @@ Follow @Ollie Mattison
 
 ## Top 5 Best Free WMV Video Splitters
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
  Windows Movie Maker is a free application that offers various useful video editing functions for windows users. With it, you can manually split video and audio clips into smaller clips to make your clips easier to work with. It supports various video formats like WMV, MP4, MTS, M2T .AVI. MOV and more.
 
@@ -715,7 +709,7 @@ Follow @Ollie Mattison
 * Crashes a lot;
 * Has different versions for the same product.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
  Movica is a free open source video editing tool. It supports various formats such as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Movica allows you to split files according to duration’s set, number of pieces, or by size of individual pieces, which meets different splitting requirements.
 
@@ -730,7 +724,7 @@ Follow @Ollie Mattison
 
 * Have to install Windows Media Player on your computer.
 
-#### 3\. [HJSplit](http://hjsplit.en.softonic.com/)
+#### 3\. HJSplit
 
  HJSplit is an application that is used to split large movie files into smaller footage in different kinds of formats. The program is available on Windows, Linux and a variety of other platforms. With it, you can easily split your files into parts at any size you want.
 
@@ -746,7 +740,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
  Video Toolbox is an online video editing tool which has a rich set of video tools. To use the video editing tools, you have to register (it’s free). The menu on the left lists all the functions. Cutting videos into smaller parts comes in two modes "Simple" and "Advanced". But like many online apps, Video Toolbox imposes a size restriction of 300MB for your video files.
 
@@ -760,7 +754,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-#### 5\. [Format Factory](http://www.pcfreetime.com/)
+#### 5\. Format Factory
 
  Format Factory is a not only a featured video and audio converter, but also a good video editor with subset of tools that handle file splitting. To split a video, just select your video file, set the clip range with a start time and end time and then you can start the process immediately.
 
@@ -803,7 +797,7 @@ Follow @Ollie Mattison
 
 ## Top 5 Best Free WMV Video Splitters
 
-#### 1\. [Windows Movie Maker](http://windows.microsoft.com/en-us/windows-live/movie-maker#t1=overview)
+#### 1\. Windows Movie Maker
 
  Windows Movie Maker is a free application that offers various useful video editing functions for windows users. With it, you can manually split video and audio clips into smaller clips to make your clips easier to work with. It supports various video formats like WMV, MP4, MTS, M2T .AVI. MOV and more.
 
@@ -819,7 +813,7 @@ Follow @Ollie Mattison
 * Crashes a lot;
 * Has different versions for the same product.
 
-#### 2\. [Movica](http://sourceforge.net/projects/movica/)
+#### 2\. Movica
 
  Movica is a free open source video editing tool. It supports various formats such as MPEG-1, MPEG2, WMV, MP3, AVI, OGG, WAV and WMA. Movica allows you to split files according to duration’s set, number of pieces, or by size of individual pieces, which meets different splitting requirements.
 
@@ -834,7 +828,7 @@ Follow @Ollie Mattison
 
 * Have to install Windows Media Player on your computer.
 
-#### 3\. [HJSplit](http://hjsplit.en.softonic.com/)
+#### 3\. HJSplit
 
  HJSplit is an application that is used to split large movie files into smaller footage in different kinds of formats. The program is available on Windows, Linux and a variety of other platforms. With it, you can easily split your files into parts at any size you want.
 
@@ -850,7 +844,7 @@ Follow @Ollie Mattison
 
 * The design is not very appealing.
 
-#### 4\. [Video Toolbox](http://www.videotoolbox.com/)
+#### 4\. Video Toolbox
 
  Video Toolbox is an online video editing tool which has a rich set of video tools. To use the video editing tools, you have to register (it’s free). The menu on the left lists all the functions. Cutting videos into smaller parts comes in two modes "Simple" and "Advanced". But like many online apps, Video Toolbox imposes a size restriction of 300MB for your video files.
 
@@ -864,7 +858,7 @@ Follow @Ollie Mattison
 
 * Restricts your file sizes to just 300MB.
 
-#### 5\. [Format Factory](http://www.pcfreetime.com/)
+#### 5\. Format Factory
 
  Format Factory is a not only a featured video and audio converter, but also a good video editor with subset of tools that handle file splitting. To split a video, just select your video file, set the clip range with a start time and end time and then you can start the process immediately.
 

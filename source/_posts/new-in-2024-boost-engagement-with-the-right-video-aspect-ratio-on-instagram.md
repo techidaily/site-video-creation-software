@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Boost Engagement with the Right Video Aspect Ratio on Instagram
-date: 2024-05-19T13:04:11.655Z
-updated: 2024-05-20T13:04:11.655Z
+date: 2024-06-24T09:06:51.081Z
+updated: 2024-06-25T09:06:51.081Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, Boost Engagement with the Right Video Aspect Ratio on Instagram
 excerpt: This Article Describes New In 2024, Boost Engagement with the Right Video Aspect Ratio on Instagram
 keywords: boost engagement with the right instagram video dimensions,get instant twitter video dimensions aspect ratio insights,tiktok aspect ratio secrets boost engagement with the right dimensions,video dimensions for instagram how to choose the right aspect ratio,get noticed on instagram the importance of choosing the right video dimensions and aspect ratios,boost engagement with the right video aspect ratio on instagram,the facebook video aspect ratio blueprint boost your engagement
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## Boost Engagement with the Right Video Aspect Ratio on Instagram
@@ -180,7 +180,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -382,7 +382,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -584,7 +584,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -786,7 +786,7 @@ Horizon is one of those tools that allow full screen recording of the videos. In
 
 ![Horizon video editing](https://images.wondershare.com/filmora/article-images/2022/01/video-dimensions-for-instagram-9.jpg)
 
-### 01**[Wondershare Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)**
+### 01** Wondershare Filmora Video Editor
 
 This video tool is specially meant for all the video creators who want to empower their imagination. This tool is laced with many additional features to make your videos more exciting and engaging. Some of these features are:
 
@@ -928,7 +928,7 @@ The app is available for free but has a number of limitations. For example, you 
 
 ### 2. GIF Maker, GIF Editor, Video Maker, Video to GIF
 
-![ GIF Maker](https://images.wondershare.com/filmora/article-images/gif-maker-loop-maker.jpg)
+![GIF Maker](https://images.wondershare.com/filmora/article-images/gif-maker-loop-maker.jpg)
 
 Android users can use [this app](https://play.google.com/store/apps/details?id=com.media.zatashima.studio&hl=en%5FUS) to create GIFs in a jiffy. You can make GIFs out of images, videos, and more and create infinite loops by default. The app is also useful for quickly editing your images or files before making them into GIFs.
 
@@ -947,15 +947,15 @@ Here are the steps to create your infinite loop GIF in Filmora X.
 1. Launch Filmora X and add your GIFs, videos, and images to your timeline.
 2. If you want to change the GIF's animation speed or change the video playback speed to make a short GIF, click the Speed icon and then select Fast and pick a proper option. If you want, you can even reverse your GIF.
 
-![ Create Looping GIFs in Filmora](https://images.wondershare.com/filmora/article-images/chagne-video-gif-speed.jpg)
+![Create Looping GIFs in Filmora](https://images.wondershare.com/filmora/article-images/chagne-video-gif-speed.jpg)
 
 1. When saving media file to a GIF will remove the audio, so words are useful in GIF. Filmora allows you to add plain or animated text to your GIFs. Just select "Titles" from the top of your tool and add your words in various styles.
 
-![ Add Texts to GIF](https://images.wondershare.com/filmora/article-images/add-text-to-gif.jpg)
+![Add Texts to GIF](https://images.wondershare.com/filmora/article-images/add-text-to-gif.jpg)
 
 1. You can add various special effects and filters to improve your GIFs. After you are done, click on "Export as GIF" to save your file. You can edit various settings like resolution and frame rate for a better-looking GIF.
 
-![ Filmora Export](https://images.wondershare.com/filmora/article-images/click-export-video-output.jpg)
+![Filmora Export](https://images.wondershare.com/filmora/article-images/click-export-video-output.jpg)
 
 **Conclusion**
 
@@ -1049,7 +1049,7 @@ The app is available for free but has a number of limitations. For example, you 
 
 ### 2. GIF Maker, GIF Editor, Video Maker, Video to GIF
 
-![ GIF Maker](https://images.wondershare.com/filmora/article-images/gif-maker-loop-maker.jpg)
+![GIF Maker](https://images.wondershare.com/filmora/article-images/gif-maker-loop-maker.jpg)
 
 Android users can use [this app](https://play.google.com/store/apps/details?id=com.media.zatashima.studio&hl=en%5FUS) to create GIFs in a jiffy. You can make GIFs out of images, videos, and more and create infinite loops by default. The app is also useful for quickly editing your images or files before making them into GIFs.
 
@@ -1068,15 +1068,15 @@ Here are the steps to create your infinite loop GIF in Filmora X.
 1. Launch Filmora X and add your GIFs, videos, and images to your timeline.
 2. If you want to change the GIF's animation speed or change the video playback speed to make a short GIF, click the Speed icon and then select Fast and pick a proper option. If you want, you can even reverse your GIF.
 
-![ Create Looping GIFs in Filmora](https://images.wondershare.com/filmora/article-images/chagne-video-gif-speed.jpg)
+![Create Looping GIFs in Filmora](https://images.wondershare.com/filmora/article-images/chagne-video-gif-speed.jpg)
 
 1. When saving media file to a GIF will remove the audio, so words are useful in GIF. Filmora allows you to add plain or animated text to your GIFs. Just select "Titles" from the top of your tool and add your words in various styles.
 
-![ Add Texts to GIF](https://images.wondershare.com/filmora/article-images/add-text-to-gif.jpg)
+![Add Texts to GIF](https://images.wondershare.com/filmora/article-images/add-text-to-gif.jpg)
 
 1. You can add various special effects and filters to improve your GIFs. After you are done, click on "Export as GIF" to save your file. You can edit various settings like resolution and frame rate for a better-looking GIF.
 
-![ Filmora Export](https://images.wondershare.com/filmora/article-images/click-export-video-output.jpg)
+![Filmora Export](https://images.wondershare.com/filmora/article-images/click-export-video-output.jpg)
 
 **Conclusion**
 
@@ -1170,7 +1170,7 @@ The app is available for free but has a number of limitations. For example, you 
 
 ### 2. GIF Maker, GIF Editor, Video Maker, Video to GIF
 
-![ GIF Maker](https://images.wondershare.com/filmora/article-images/gif-maker-loop-maker.jpg)
+![GIF Maker](https://images.wondershare.com/filmora/article-images/gif-maker-loop-maker.jpg)
 
 Android users can use [this app](https://play.google.com/store/apps/details?id=com.media.zatashima.studio&hl=en%5FUS) to create GIFs in a jiffy. You can make GIFs out of images, videos, and more and create infinite loops by default. The app is also useful for quickly editing your images or files before making them into GIFs.
 
@@ -1189,15 +1189,15 @@ Here are the steps to create your infinite loop GIF in Filmora X.
 1. Launch Filmora X and add your GIFs, videos, and images to your timeline.
 2. If you want to change the GIF's animation speed or change the video playback speed to make a short GIF, click the Speed icon and then select Fast and pick a proper option. If you want, you can even reverse your GIF.
 
-![ Create Looping GIFs in Filmora](https://images.wondershare.com/filmora/article-images/chagne-video-gif-speed.jpg)
+![Create Looping GIFs in Filmora](https://images.wondershare.com/filmora/article-images/chagne-video-gif-speed.jpg)
 
 1. When saving media file to a GIF will remove the audio, so words are useful in GIF. Filmora allows you to add plain or animated text to your GIFs. Just select "Titles" from the top of your tool and add your words in various styles.
 
-![ Add Texts to GIF](https://images.wondershare.com/filmora/article-images/add-text-to-gif.jpg)
+![Add Texts to GIF](https://images.wondershare.com/filmora/article-images/add-text-to-gif.jpg)
 
 1. You can add various special effects and filters to improve your GIFs. After you are done, click on "Export as GIF" to save your file. You can edit various settings like resolution and frame rate for a better-looking GIF.
 
-![ Filmora Export](https://images.wondershare.com/filmora/article-images/click-export-video-output.jpg)
+![Filmora Export](https://images.wondershare.com/filmora/article-images/click-export-video-output.jpg)
 
 **Conclusion**
 
@@ -1291,7 +1291,7 @@ The app is available for free but has a number of limitations. For example, you 
 
 ### 2. GIF Maker, GIF Editor, Video Maker, Video to GIF
 
-![ GIF Maker](https://images.wondershare.com/filmora/article-images/gif-maker-loop-maker.jpg)
+![GIF Maker](https://images.wondershare.com/filmora/article-images/gif-maker-loop-maker.jpg)
 
 Android users can use [this app](https://play.google.com/store/apps/details?id=com.media.zatashima.studio&hl=en%5FUS) to create GIFs in a jiffy. You can make GIFs out of images, videos, and more and create infinite loops by default. The app is also useful for quickly editing your images or files before making them into GIFs.
 
@@ -1310,15 +1310,15 @@ Here are the steps to create your infinite loop GIF in Filmora X.
 1. Launch Filmora X and add your GIFs, videos, and images to your timeline.
 2. If you want to change the GIF's animation speed or change the video playback speed to make a short GIF, click the Speed icon and then select Fast and pick a proper option. If you want, you can even reverse your GIF.
 
-![ Create Looping GIFs in Filmora](https://images.wondershare.com/filmora/article-images/chagne-video-gif-speed.jpg)
+![Create Looping GIFs in Filmora](https://images.wondershare.com/filmora/article-images/chagne-video-gif-speed.jpg)
 
 1. When saving media file to a GIF will remove the audio, so words are useful in GIF. Filmora allows you to add plain or animated text to your GIFs. Just select "Titles" from the top of your tool and add your words in various styles.
 
-![ Add Texts to GIF](https://images.wondershare.com/filmora/article-images/add-text-to-gif.jpg)
+![Add Texts to GIF](https://images.wondershare.com/filmora/article-images/add-text-to-gif.jpg)
 
 1. You can add various special effects and filters to improve your GIFs. After you are done, click on "Export as GIF" to save your file. You can edit various settings like resolution and frame rate for a better-looking GIF.
 
-![ Filmora Export](https://images.wondershare.com/filmora/article-images/click-export-video-output.jpg)
+![Filmora Export](https://images.wondershare.com/filmora/article-images/click-export-video-output.jpg)
 
 **Conclusion**
 
@@ -1865,25 +1865,25 @@ In order to do so, you have to follow the steps mentioned below.
 
 * To begin with, you need to download and install Filmora, and then launch Filmora and then click New Project to create a new project. Then you will see a pop-up window as shown below:
 
-![ Filmora mission ](https://images.wondershare.com/filmora/article-images/get-filmora-for-free-take-mission.jpg)
+![Filmora mission](https://images.wondershare.com/filmora/article-images/get-filmora-for-free-take-mission.jpg)
 
 Wondershare Filmora provides a 7-day license for users without Filmora subscription, and a perpetual effects pack for users already subscribed to it. Click the Take the Mission button to continue, and you will see the progress under the right corner.
 
-![ complete Filmora mission ](https://images.wondershare.com/filmora/article-images/complete-mission-to-get-filmora-for-free.jpg)
+![complete Filmora mission](https://images.wondershare.com/filmora/article-images/complete-mission-to-get-filmora-for-free.jpg)
 
 Now, it’s time to import, edit and export video footage with Filmora. There are several ways to import media to Filmora, and the direct way is drag and drop the photo and video into the Project media library, and then place them in order in the timeline.
 
-![ import  import your media files to Filmora  ](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![import  import your media files to Filmora](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 * If you need to cut out some clips from the footage, you can trim, split, or crop it easily. Right-click the footage in the timeline, and you will find the most commonly used editing tools.
 * You can follow the software layout to add audio, titles, transitions, effects, elements accordingly. If you wish to [add sound to your video](https://tools.techidaily.com/wondershare/filmora/download/), go to "Audio" tab, find the proper music track or sound effect for your footage, and then drag it to the soundtrack in the timeline.
 
-![ add sound effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![add sound effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 * The titles tab provides hundreds of titles and texts templates, including openers, titles, Lower 3rds, subtitles, and end credits. You can also use the Plain text template without animations and add some callouts.
 * In the next step, add overlays or [transitions in your video](https://tools.techidaily.com/wondershare/filmora/download/), and if you have finished the editing, press Ctrl+S to save the project.
 
-![ add transitions ](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
+![add transitions](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
 * Finally, click on the "Export" button and select the "Local" tab. Choose a name and file format for your video and tap "Export."
 
@@ -1891,7 +1891,7 @@ Now, it’s time to import, edit and export video footage with Filmora. There ar
 
 Once you are done with compiling one video, follow the same steps as mentioned above twice more so that you have exported three videos in total from Filmora. You can see your progress in the gift box in the right corner. Click Claim Your Rewards and you will a pop-up window as shown below.
 
-![ claim your Filmora license](https://images.wondershare.com/filmora/article-images/claim-free-filmora-license.jpg)
+![claim your Filmora license](https://images.wondershare.com/filmora/article-images/claim-free-filmora-license.jpg)
 
 Now, click the **Claim your Free 7-day License** button, by doing so, you will get the Filmora License, i.e., your Filmora version is now full and free.
 
@@ -1958,25 +1958,25 @@ In order to do so, you have to follow the steps mentioned below.
 
 * To begin with, you need to download and install Filmora, and then launch Filmora and then click New Project to create a new project. Then you will see a pop-up window as shown below:
 
-![ Filmora mission ](https://images.wondershare.com/filmora/article-images/get-filmora-for-free-take-mission.jpg)
+![Filmora mission](https://images.wondershare.com/filmora/article-images/get-filmora-for-free-take-mission.jpg)
 
 Wondershare Filmora provides a 7-day license for users without Filmora subscription, and a perpetual effects pack for users already subscribed to it. Click the Take the Mission button to continue, and you will see the progress under the right corner.
 
-![ complete Filmora mission ](https://images.wondershare.com/filmora/article-images/complete-mission-to-get-filmora-for-free.jpg)
+![complete Filmora mission](https://images.wondershare.com/filmora/article-images/complete-mission-to-get-filmora-for-free.jpg)
 
 Now, it’s time to import, edit and export video footage with Filmora. There are several ways to import media to Filmora, and the direct way is drag and drop the photo and video into the Project media library, and then place them in order in the timeline.
 
-![ import  import your media files to Filmora  ](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![import  import your media files to Filmora](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 * If you need to cut out some clips from the footage, you can trim, split, or crop it easily. Right-click the footage in the timeline, and you will find the most commonly used editing tools.
 * You can follow the software layout to add audio, titles, transitions, effects, elements accordingly. If you wish to [add sound to your video](https://tools.techidaily.com/wondershare/filmora/download/), go to "Audio" tab, find the proper music track or sound effect for your footage, and then drag it to the soundtrack in the timeline.
 
-![ add sound effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![add sound effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 * The titles tab provides hundreds of titles and texts templates, including openers, titles, Lower 3rds, subtitles, and end credits. You can also use the Plain text template without animations and add some callouts.
 * In the next step, add overlays or [transitions in your video](https://tools.techidaily.com/wondershare/filmora/download/), and if you have finished the editing, press Ctrl+S to save the project.
 
-![ add transitions ](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
+![add transitions](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
 * Finally, click on the "Export" button and select the "Local" tab. Choose a name and file format for your video and tap "Export."
 
@@ -1984,7 +1984,7 @@ Now, it’s time to import, edit and export video footage with Filmora. There ar
 
 Once you are done with compiling one video, follow the same steps as mentioned above twice more so that you have exported three videos in total from Filmora. You can see your progress in the gift box in the right corner. Click Claim Your Rewards and you will a pop-up window as shown below.
 
-![ claim your Filmora license](https://images.wondershare.com/filmora/article-images/claim-free-filmora-license.jpg)
+![claim your Filmora license](https://images.wondershare.com/filmora/article-images/claim-free-filmora-license.jpg)
 
 Now, click the **Claim your Free 7-day License** button, by doing so, you will get the Filmora License, i.e., your Filmora version is now full and free.
 
@@ -2051,25 +2051,25 @@ In order to do so, you have to follow the steps mentioned below.
 
 * To begin with, you need to download and install Filmora, and then launch Filmora and then click New Project to create a new project. Then you will see a pop-up window as shown below:
 
-![ Filmora mission ](https://images.wondershare.com/filmora/article-images/get-filmora-for-free-take-mission.jpg)
+![Filmora mission](https://images.wondershare.com/filmora/article-images/get-filmora-for-free-take-mission.jpg)
 
 Wondershare Filmora provides a 7-day license for users without Filmora subscription, and a perpetual effects pack for users already subscribed to it. Click the Take the Mission button to continue, and you will see the progress under the right corner.
 
-![ complete Filmora mission ](https://images.wondershare.com/filmora/article-images/complete-mission-to-get-filmora-for-free.jpg)
+![complete Filmora mission](https://images.wondershare.com/filmora/article-images/complete-mission-to-get-filmora-for-free.jpg)
 
 Now, it’s time to import, edit and export video footage with Filmora. There are several ways to import media to Filmora, and the direct way is drag and drop the photo and video into the Project media library, and then place them in order in the timeline.
 
-![ import  import your media files to Filmora  ](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![import  import your media files to Filmora](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 * If you need to cut out some clips from the footage, you can trim, split, or crop it easily. Right-click the footage in the timeline, and you will find the most commonly used editing tools.
 * You can follow the software layout to add audio, titles, transitions, effects, elements accordingly. If you wish to [add sound to your video](https://tools.techidaily.com/wondershare/filmora/download/), go to "Audio" tab, find the proper music track or sound effect for your footage, and then drag it to the soundtrack in the timeline.
 
-![ add sound effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![add sound effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 * The titles tab provides hundreds of titles and texts templates, including openers, titles, Lower 3rds, subtitles, and end credits. You can also use the Plain text template without animations and add some callouts.
 * In the next step, add overlays or [transitions in your video](https://tools.techidaily.com/wondershare/filmora/download/), and if you have finished the editing, press Ctrl+S to save the project.
 
-![ add transitions ](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
+![add transitions](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
 * Finally, click on the "Export" button and select the "Local" tab. Choose a name and file format for your video and tap "Export."
 
@@ -2077,7 +2077,7 @@ Now, it’s time to import, edit and export video footage with Filmora. There ar
 
 Once you are done with compiling one video, follow the same steps as mentioned above twice more so that you have exported three videos in total from Filmora. You can see your progress in the gift box in the right corner. Click Claim Your Rewards and you will a pop-up window as shown below.
 
-![ claim your Filmora license](https://images.wondershare.com/filmora/article-images/claim-free-filmora-license.jpg)
+![claim your Filmora license](https://images.wondershare.com/filmora/article-images/claim-free-filmora-license.jpg)
 
 Now, click the **Claim your Free 7-day License** button, by doing so, you will get the Filmora License, i.e., your Filmora version is now full and free.
 
@@ -2144,25 +2144,25 @@ In order to do so, you have to follow the steps mentioned below.
 
 * To begin with, you need to download and install Filmora, and then launch Filmora and then click New Project to create a new project. Then you will see a pop-up window as shown below:
 
-![ Filmora mission ](https://images.wondershare.com/filmora/article-images/get-filmora-for-free-take-mission.jpg)
+![Filmora mission](https://images.wondershare.com/filmora/article-images/get-filmora-for-free-take-mission.jpg)
 
 Wondershare Filmora provides a 7-day license for users without Filmora subscription, and a perpetual effects pack for users already subscribed to it. Click the Take the Mission button to continue, and you will see the progress under the right corner.
 
-![ complete Filmora mission ](https://images.wondershare.com/filmora/article-images/complete-mission-to-get-filmora-for-free.jpg)
+![complete Filmora mission](https://images.wondershare.com/filmora/article-images/complete-mission-to-get-filmora-for-free.jpg)
 
 Now, it’s time to import, edit and export video footage with Filmora. There are several ways to import media to Filmora, and the direct way is drag and drop the photo and video into the Project media library, and then place them in order in the timeline.
 
-![ import  import your media files to Filmora  ](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
+![import  import your media files to Filmora](https://images.wondershare.com/filmora/guide/import-media-file-to-filmora-1.jpg)
 
 * If you need to cut out some clips from the footage, you can trim, split, or crop it easily. Right-click the footage in the timeline, and you will find the most commonly used editing tools.
 * You can follow the software layout to add audio, titles, transitions, effects, elements accordingly. If you wish to [add sound to your video](https://tools.techidaily.com/wondershare/filmora/download/), go to "Audio" tab, find the proper music track or sound effect for your footage, and then drag it to the soundtrack in the timeline.
 
-![ add sound effects ](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
+![add sound effects](https://images.wondershare.com/filmora/guide/select-theme-music.jpg)
 
 * The titles tab provides hundreds of titles and texts templates, including openers, titles, Lower 3rds, subtitles, and end credits. You can also use the Plain text template without animations and add some callouts.
 * In the next step, add overlays or [transitions in your video](https://tools.techidaily.com/wondershare/filmora/download/), and if you have finished the editing, press Ctrl+S to save the project.
 
-![ add transitions ](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
+![add transitions](https://images.wondershare.com/filmora/guide/filters-filmora-win.jpg)
 
 * Finally, click on the "Export" button and select the "Local" tab. Choose a name and file format for your video and tap "Export."
 
@@ -2170,7 +2170,7 @@ Now, it’s time to import, edit and export video footage with Filmora. There ar
 
 Once you are done with compiling one video, follow the same steps as mentioned above twice more so that you have exported three videos in total from Filmora. You can see your progress in the gift box in the right corner. Click Claim Your Rewards and you will a pop-up window as shown below.
 
-![ claim your Filmora license](https://images.wondershare.com/filmora/article-images/claim-free-filmora-license.jpg)
+![claim your Filmora license](https://images.wondershare.com/filmora/article-images/claim-free-filmora-license.jpg)
 
 Now, click the **Claim your Free 7-day License** button, by doing so, you will get the Filmora License, i.e., your Filmora version is now full and free.
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate Cheat Sheet Mastering Social Media Image Sizes
-date: 2024-05-19T13:03:24.055Z
-updated: 2024-05-20T13:03:24.055Z
+date: 2024-06-24T09:06:47.349Z
+updated: 2024-06-25T09:06:47.349Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated The Ultimate Cheat Sheet Mastering Social Media Image Sizes
 excerpt: This Article Describes Updated The Ultimate Cheat Sheet Mastering Social Media Image Sizes
 keywords: the ultimate cheat sheet social media image sizes and ratios,social media dimensions the ultimate cheat sheet,the ultimate aspect ratio cheat sheet for social media success,the ultimate cheat sheet mastering social media image sizes,the ultimate cheat sheet social media image and video aspect ratios,ai animation the ultimate cheat sheet social media image and video aspect ratios,resize reformat repeat the ultimate guide to social media video
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## The Ultimate Cheat Sheet: Mastering Social Media Image Sizes
@@ -768,9 +768,7 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-Now download this video resizer for Mavericks and explore more video editing functions!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Now download this video resizer for Mavericks and explore more video editing functions![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -816,9 +814,7 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-Now download this video resizer for Mavericks and explore more video editing functions!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Now download this video resizer for Mavericks and explore more video editing functions![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -864,9 +860,7 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-Now download this video resizer for Mavericks and explore more video editing functions!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Now download this video resizer for Mavericks and explore more video editing functions![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -912,9 +906,7 @@ Click the **EXPORT** button on the primary window to reveal the output window. T
 
 ![edit videos on mavericks](https://images.wondershare.com/filmora/guide/export-to-format-mac.JPG)
 
-Now download this video resizer for Mavericks and explore more video editing functions!
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+Now download this video resizer for Mavericks and explore more video editing functions![![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
@@ -1112,13 +1104,13 @@ Adobe Spark is a free video editor, which allows you to create quality videos fa
 
 ---
 
-### #10\. [VidTrim Pro](https://play.google.com/store/apps/details?id=com.goseet.VidTrimPro)
+### #10\. VidTrim Pro
 
 **Price:** Free with ads
 
 **System Requirement:** Android 2.3.3 or higher
 
-![VidTrim Pro Editing Interface ](https://images.wondershare.com/filmora/article-images/vidtrim-pro.png)
+![VidTrim Pro Editing Interface](https://images.wondershare.com/filmora/article-images/vidtrim-pro.png)
 
 VidTrim Pro is a video editing software and organizer for Android. It offers multiple features such as trimming, frame grabbing, video effects, extracting audio, and transcoding. It is often considered as one of the best Android video editing app with many great features and an easy-to-use interface. It is not free, but you can have a free trial to test whether it can satisfy your needs before purchasing it. You can also share the videos with your friends on social media platforms through the app.
 
@@ -1327,13 +1319,13 @@ Adobe Spark is a free video editor, which allows you to create quality videos fa
 
 ---
 
-### #10\. [VidTrim Pro](https://play.google.com/store/apps/details?id=com.goseet.VidTrimPro)
+### #10\. VidTrim Pro
 
 **Price:** Free with ads
 
 **System Requirement:** Android 2.3.3 or higher
 
-![VidTrim Pro Editing Interface ](https://images.wondershare.com/filmora/article-images/vidtrim-pro.png)
+![VidTrim Pro Editing Interface](https://images.wondershare.com/filmora/article-images/vidtrim-pro.png)
 
 VidTrim Pro is a video editing software and organizer for Android. It offers multiple features such as trimming, frame grabbing, video effects, extracting audio, and transcoding. It is often considered as one of the best Android video editing app with many great features and an easy-to-use interface. It is not free, but you can have a free trial to test whether it can satisfy your needs before purchasing it. You can also share the videos with your friends on social media platforms through the app.
 
@@ -1542,13 +1534,13 @@ Adobe Spark is a free video editor, which allows you to create quality videos fa
 
 ---
 
-### #10\. [VidTrim Pro](https://play.google.com/store/apps/details?id=com.goseet.VidTrimPro)
+### #10\. VidTrim Pro
 
 **Price:** Free with ads
 
 **System Requirement:** Android 2.3.3 or higher
 
-![VidTrim Pro Editing Interface ](https://images.wondershare.com/filmora/article-images/vidtrim-pro.png)
+![VidTrim Pro Editing Interface](https://images.wondershare.com/filmora/article-images/vidtrim-pro.png)
 
 VidTrim Pro is a video editing software and organizer for Android. It offers multiple features such as trimming, frame grabbing, video effects, extracting audio, and transcoding. It is often considered as one of the best Android video editing app with many great features and an easy-to-use interface. It is not free, but you can have a free trial to test whether it can satisfy your needs before purchasing it. You can also share the videos with your friends on social media platforms through the app.
 
@@ -1757,13 +1749,13 @@ Adobe Spark is a free video editor, which allows you to create quality videos fa
 
 ---
 
-### #10\. [VidTrim Pro](https://play.google.com/store/apps/details?id=com.goseet.VidTrimPro)
+### #10\. VidTrim Pro
 
 **Price:** Free with ads
 
 **System Requirement:** Android 2.3.3 or higher
 
-![VidTrim Pro Editing Interface ](https://images.wondershare.com/filmora/article-images/vidtrim-pro.png)
+![VidTrim Pro Editing Interface](https://images.wondershare.com/filmora/article-images/vidtrim-pro.png)
 
 VidTrim Pro is a video editing software and organizer for Android. It offers multiple features such as trimming, frame grabbing, video effects, extracting audio, and transcoding. It is often considered as one of the best Android video editing app with many great features and an easy-to-use interface. It is not free, but you can have a free trial to test whether it can satisfy your needs before purchasing it. You can also share the videos with your friends on social media platforms through the app.
 

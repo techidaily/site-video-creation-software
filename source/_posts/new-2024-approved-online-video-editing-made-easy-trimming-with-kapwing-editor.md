@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Online Video Editing Made Easy Trimming with Kapwing Editor
-date: 2024-04-29T12:49:28.257Z
-updated: 2024-04-30T12:49:28.257Z
+date: 2024-07-02T22:24:40.874Z
+updated: 2024-07-03T22:24:40.874Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Online Video Editing Made Easy Trimming with Kapwing Editor
 excerpt: This Article Describes New 2024 Approved Online Video Editing Made Easy Trimming with Kapwing Editor
 keywords: online video trimming made easy a kapwing tutorial,ai animation master video trimming with kapwings online editor,video editing basics trimming videos with kapwing online,master video trimming with kapwings online editor,online video editing made easy trimming with kapwing,online video trimming made easy a tutorial on using kapwing,online video editing made easy trimming with kapwing editor
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## Online Video Editing Made Easy: Trimming with Kapwing Editor
@@ -1088,7 +1088,7 @@ The popularity of TikTok over the last few years cannot be denied. The platform 
 
 TikTok allows content creators to save videos on their smartphones or other gadgets. Not just the videos that you created but also the ones that other influencers have created. However, all these videos are marked with a watermark. The good news is that removing a watermark can be tricky but not impossible. So, we have handpicked the following web-based applications to **remove the TikTok watermark online.**
 
-### 2. [Kapwing](https://www.kapwing.com/)
+### 2. Kapwing
 
 Kapwing is one of the most [online efficient video editing tools](https://tools.techidaily.com/wondershare/filmora/download/) that can be used to remove the TikTok watermark online. This web-based application comes with a simple yet intuitive interface. Several methods can be used to remove watermarks using Kapwing. One of the commonly used methods is cropping the watermark. Plus, it also has some editing features that can be used to enhance or refine the video further. Here's how you can do it in simple steps
 
@@ -1112,7 +1112,7 @@ Edit the video, if required. Click on the **export video** and wait till the pro
 
 **Note:** You can also copy the link and share it on different social media platforms.
 
-### 3. [FlexClip](https://www.flexclip.com/)
+### 3. FlexClip
 
 FlexClip is another **TikTok watermark remover online**. It is equipped with all basic video editing tools. You can hide or crop the watermark using this web-based application. In addition to cutting or covering watermarks, FlexClip also enables you to record screens, create GIFs, and add music to videos. Let's know more about removing watermarks in this **TikTok watermark remover online** **.**  
 
@@ -1134,7 +1134,7 @@ Drag and drop the video on the timeline to trim it. Click on the zoom option and
 
 **Note:** Zoom is not the only method to remove the watermark. You can also hide the watermark in the TikTok video. Click on the elements from the options at the left and place them on the watermark in the video to hide them.
 
-### 4. [MusicallyDown](https://musicaldown.com/download)
+### 4. MusicallyDown
 
 MusicallyDown is one of the well-known applications that let you remove the watermark from the TikTok video, and that too in a hassle-free process. Not just this, the processed videos can also be saved in MP3 format. MusicallyDown is easily accessible, and all you need is an internet connection to process your videos in this fantastic application. What’s more, it also offers a plethora of video templates. Do you want to know how to remove the watermark using MusicallyDown?
 
@@ -1150,7 +1150,7 @@ Click on the **download MP4 now**. Preview the video and select the desired form
 
 ![download tiktok watermark with no watermark](https://images.wondershare.com/filmora/article-images/download-tiktok-video-no-watermark-musicallydown.jpg)
 
-### 5. [Apowersoft Watermark Remover](https://www.apowersoft.com/watermark-remover)
+### 5. Apowersoft Watermark Remover
 
 Apowersoft is another **TikTor watermark remover online**. So, you can remove the watermark from TikTok videos with just a few clicks. In addition to videos, it also enables you to remove watermark from pictures. The software is web-based, so it does not require installation. Plus, you do not need technical expertise to use Apowersoft watermark remover. Apowersoft supports all mainstream media formats and is compatible with both Windows and Android operating systems. Sounds interesting? Learn to remove the watermark using Apowersoft by following a step-by-step guide.
 
@@ -1164,7 +1164,7 @@ Navigate to the video in your local files and double-click to upload. Wait for t
 
 ![remove tiktok watermark with apowersoft](https://images.wondershare.com/filmora/article-images/remove-tiktok-watermark-apowersoft-online.jpg)
 
-### 6. [watermarkremover.net](https://watermarkremover.net/video-watermark-remover/)
+### 6. watermarkremover.net
 
 Watermakremover.net is an online watermark removing tool that comes with a simple interface. In addition to watermarks, this tool is also known for efficiently removing overlays, logos, captions, texts, and much more. Watermarkremover.net allows saving the output in the same format as the input media file. Moreover, it also enables you to remove multiple watermarks in the same video simultaneously. So, if you want to get away with all watermarks and unwanted texts, watermarkremover.net is all you. Follow the steps below to learn about removing watermarks in this free online facility.
 
@@ -1178,7 +1178,7 @@ Click on the **remove watermark** option and wait for the processing time. Click
 
 ![remove tiktok watermark with watermakremover online](https://images.wondershare.com/filmora/article-images/watermakremover-tiktok-video.jpg)
 
-_To download a TikTok video without a watermark, you can also try these_ [_TikTok downloaders online without a watermark_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_To download a TikTok video without a watermark, you can also try these_ [_TikTok downloaders online without a watermark_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 **FAQs about removing TikTok watermark**
 
@@ -1210,7 +1210,7 @@ The popularity of TikTok over the last few years cannot be denied. The platform 
 
 TikTok allows content creators to save videos on their smartphones or other gadgets. Not just the videos that you created but also the ones that other influencers have created. However, all these videos are marked with a watermark. The good news is that removing a watermark can be tricky but not impossible. So, we have handpicked the following web-based applications to **remove the TikTok watermark online.**
 
-### 2. [Kapwing](https://www.kapwing.com/)
+### 2. Kapwing
 
 Kapwing is one of the most [online efficient video editing tools](https://tools.techidaily.com/wondershare/filmora/download/) that can be used to remove the TikTok watermark online. This web-based application comes with a simple yet intuitive interface. Several methods can be used to remove watermarks using Kapwing. One of the commonly used methods is cropping the watermark. Plus, it also has some editing features that can be used to enhance or refine the video further. Here's how you can do it in simple steps
 
@@ -1234,7 +1234,7 @@ Edit the video, if required. Click on the **export video** and wait till the pro
 
 **Note:** You can also copy the link and share it on different social media platforms.
 
-### 3. [FlexClip](https://www.flexclip.com/)
+### 3. FlexClip
 
 FlexClip is another **TikTok watermark remover online**. It is equipped with all basic video editing tools. You can hide or crop the watermark using this web-based application. In addition to cutting or covering watermarks, FlexClip also enables you to record screens, create GIFs, and add music to videos. Let's know more about removing watermarks in this **TikTok watermark remover online** **.**  
 
@@ -1256,7 +1256,7 @@ Drag and drop the video on the timeline to trim it. Click on the zoom option and
 
 **Note:** Zoom is not the only method to remove the watermark. You can also hide the watermark in the TikTok video. Click on the elements from the options at the left and place them on the watermark in the video to hide them.
 
-### 4. [MusicallyDown](https://musicaldown.com/download)
+### 4. MusicallyDown
 
 MusicallyDown is one of the well-known applications that let you remove the watermark from the TikTok video, and that too in a hassle-free process. Not just this, the processed videos can also be saved in MP3 format. MusicallyDown is easily accessible, and all you need is an internet connection to process your videos in this fantastic application. What’s more, it also offers a plethora of video templates. Do you want to know how to remove the watermark using MusicallyDown?
 
@@ -1272,7 +1272,7 @@ Click on the **download MP4 now**. Preview the video and select the desired form
 
 ![download tiktok watermark with no watermark](https://images.wondershare.com/filmora/article-images/download-tiktok-video-no-watermark-musicallydown.jpg)
 
-### 5. [Apowersoft Watermark Remover](https://www.apowersoft.com/watermark-remover)
+### 5. Apowersoft Watermark Remover
 
 Apowersoft is another **TikTor watermark remover online**. So, you can remove the watermark from TikTok videos with just a few clicks. In addition to videos, it also enables you to remove watermark from pictures. The software is web-based, so it does not require installation. Plus, you do not need technical expertise to use Apowersoft watermark remover. Apowersoft supports all mainstream media formats and is compatible with both Windows and Android operating systems. Sounds interesting? Learn to remove the watermark using Apowersoft by following a step-by-step guide.
 
@@ -1286,7 +1286,7 @@ Navigate to the video in your local files and double-click to upload. Wait for t
 
 ![remove tiktok watermark with apowersoft](https://images.wondershare.com/filmora/article-images/remove-tiktok-watermark-apowersoft-online.jpg)
 
-### 6. [watermarkremover.net](https://watermarkremover.net/video-watermark-remover/)
+### 6. watermarkremover.net
 
 Watermakremover.net is an online watermark removing tool that comes with a simple interface. In addition to watermarks, this tool is also known for efficiently removing overlays, logos, captions, texts, and much more. Watermarkremover.net allows saving the output in the same format as the input media file. Moreover, it also enables you to remove multiple watermarks in the same video simultaneously. So, if you want to get away with all watermarks and unwanted texts, watermarkremover.net is all you. Follow the steps below to learn about removing watermarks in this free online facility.
 
@@ -1300,7 +1300,7 @@ Click on the **remove watermark** option and wait for the processing time. Click
 
 ![remove tiktok watermark with watermakremover online](https://images.wondershare.com/filmora/article-images/watermakremover-tiktok-video.jpg)
 
-_To download a TikTok video without a watermark, you can also try these_ [_TikTok downloaders online without a watermark_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_To download a TikTok video without a watermark, you can also try these_ [_TikTok downloaders online without a watermark_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 **FAQs about removing TikTok watermark**
 
@@ -1332,7 +1332,7 @@ The popularity of TikTok over the last few years cannot be denied. The platform 
 
 TikTok allows content creators to save videos on their smartphones or other gadgets. Not just the videos that you created but also the ones that other influencers have created. However, all these videos are marked with a watermark. The good news is that removing a watermark can be tricky but not impossible. So, we have handpicked the following web-based applications to **remove the TikTok watermark online.**
 
-### 2. [Kapwing](https://www.kapwing.com/)
+### 2. Kapwing
 
 Kapwing is one of the most [online efficient video editing tools](https://tools.techidaily.com/wondershare/filmora/download/) that can be used to remove the TikTok watermark online. This web-based application comes with a simple yet intuitive interface. Several methods can be used to remove watermarks using Kapwing. One of the commonly used methods is cropping the watermark. Plus, it also has some editing features that can be used to enhance or refine the video further. Here's how you can do it in simple steps
 
@@ -1356,7 +1356,7 @@ Edit the video, if required. Click on the **export video** and wait till the pro
 
 **Note:** You can also copy the link and share it on different social media platforms.
 
-### 3. [FlexClip](https://www.flexclip.com/)
+### 3. FlexClip
 
 FlexClip is another **TikTok watermark remover online**. It is equipped with all basic video editing tools. You can hide or crop the watermark using this web-based application. In addition to cutting or covering watermarks, FlexClip also enables you to record screens, create GIFs, and add music to videos. Let's know more about removing watermarks in this **TikTok watermark remover online** **.**  
 
@@ -1378,7 +1378,7 @@ Drag and drop the video on the timeline to trim it. Click on the zoom option and
 
 **Note:** Zoom is not the only method to remove the watermark. You can also hide the watermark in the TikTok video. Click on the elements from the options at the left and place them on the watermark in the video to hide them.
 
-### 4. [MusicallyDown](https://musicaldown.com/download)
+### 4. MusicallyDown
 
 MusicallyDown is one of the well-known applications that let you remove the watermark from the TikTok video, and that too in a hassle-free process. Not just this, the processed videos can also be saved in MP3 format. MusicallyDown is easily accessible, and all you need is an internet connection to process your videos in this fantastic application. What’s more, it also offers a plethora of video templates. Do you want to know how to remove the watermark using MusicallyDown?
 
@@ -1394,7 +1394,7 @@ Click on the **download MP4 now**. Preview the video and select the desired form
 
 ![download tiktok watermark with no watermark](https://images.wondershare.com/filmora/article-images/download-tiktok-video-no-watermark-musicallydown.jpg)
 
-### 5. [Apowersoft Watermark Remover](https://www.apowersoft.com/watermark-remover)
+### 5. Apowersoft Watermark Remover
 
 Apowersoft is another **TikTor watermark remover online**. So, you can remove the watermark from TikTok videos with just a few clicks. In addition to videos, it also enables you to remove watermark from pictures. The software is web-based, so it does not require installation. Plus, you do not need technical expertise to use Apowersoft watermark remover. Apowersoft supports all mainstream media formats and is compatible with both Windows and Android operating systems. Sounds interesting? Learn to remove the watermark using Apowersoft by following a step-by-step guide.
 
@@ -1408,7 +1408,7 @@ Navigate to the video in your local files and double-click to upload. Wait for t
 
 ![remove tiktok watermark with apowersoft](https://images.wondershare.com/filmora/article-images/remove-tiktok-watermark-apowersoft-online.jpg)
 
-### 6. [watermarkremover.net](https://watermarkremover.net/video-watermark-remover/)
+### 6. watermarkremover.net
 
 Watermakremover.net is an online watermark removing tool that comes with a simple interface. In addition to watermarks, this tool is also known for efficiently removing overlays, logos, captions, texts, and much more. Watermarkremover.net allows saving the output in the same format as the input media file. Moreover, it also enables you to remove multiple watermarks in the same video simultaneously. So, if you want to get away with all watermarks and unwanted texts, watermarkremover.net is all you. Follow the steps below to learn about removing watermarks in this free online facility.
 
@@ -1422,7 +1422,7 @@ Click on the **remove watermark** option and wait for the processing time. Click
 
 ![remove tiktok watermark with watermakremover online](https://images.wondershare.com/filmora/article-images/watermakremover-tiktok-video.jpg)
 
-_To download a TikTok video without a watermark, you can also try these_ [_TikTok downloaders online without a watermark_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_To download a TikTok video without a watermark, you can also try these_ [_TikTok downloaders online without a watermark_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 **FAQs about removing TikTok watermark**
 
@@ -1454,7 +1454,7 @@ The popularity of TikTok over the last few years cannot be denied. The platform 
 
 TikTok allows content creators to save videos on their smartphones or other gadgets. Not just the videos that you created but also the ones that other influencers have created. However, all these videos are marked with a watermark. The good news is that removing a watermark can be tricky but not impossible. So, we have handpicked the following web-based applications to **remove the TikTok watermark online.**
 
-### 2. [Kapwing](https://www.kapwing.com/)
+### 2. Kapwing
 
 Kapwing is one of the most [online efficient video editing tools](https://tools.techidaily.com/wondershare/filmora/download/) that can be used to remove the TikTok watermark online. This web-based application comes with a simple yet intuitive interface. Several methods can be used to remove watermarks using Kapwing. One of the commonly used methods is cropping the watermark. Plus, it also has some editing features that can be used to enhance or refine the video further. Here's how you can do it in simple steps
 
@@ -1478,7 +1478,7 @@ Edit the video, if required. Click on the **export video** and wait till the pro
 
 **Note:** You can also copy the link and share it on different social media platforms.
 
-### 3. [FlexClip](https://www.flexclip.com/)
+### 3. FlexClip
 
 FlexClip is another **TikTok watermark remover online**. It is equipped with all basic video editing tools. You can hide or crop the watermark using this web-based application. In addition to cutting or covering watermarks, FlexClip also enables you to record screens, create GIFs, and add music to videos. Let's know more about removing watermarks in this **TikTok watermark remover online** **.**  
 
@@ -1500,7 +1500,7 @@ Drag and drop the video on the timeline to trim it. Click on the zoom option and
 
 **Note:** Zoom is not the only method to remove the watermark. You can also hide the watermark in the TikTok video. Click on the elements from the options at the left and place them on the watermark in the video to hide them.
 
-### 4. [MusicallyDown](https://musicaldown.com/download)
+### 4. MusicallyDown
 
 MusicallyDown is one of the well-known applications that let you remove the watermark from the TikTok video, and that too in a hassle-free process. Not just this, the processed videos can also be saved in MP3 format. MusicallyDown is easily accessible, and all you need is an internet connection to process your videos in this fantastic application. What’s more, it also offers a plethora of video templates. Do you want to know how to remove the watermark using MusicallyDown?
 
@@ -1516,7 +1516,7 @@ Click on the **download MP4 now**. Preview the video and select the desired form
 
 ![download tiktok watermark with no watermark](https://images.wondershare.com/filmora/article-images/download-tiktok-video-no-watermark-musicallydown.jpg)
 
-### 5. [Apowersoft Watermark Remover](https://www.apowersoft.com/watermark-remover)
+### 5. Apowersoft Watermark Remover
 
 Apowersoft is another **TikTor watermark remover online**. So, you can remove the watermark from TikTok videos with just a few clicks. In addition to videos, it also enables you to remove watermark from pictures. The software is web-based, so it does not require installation. Plus, you do not need technical expertise to use Apowersoft watermark remover. Apowersoft supports all mainstream media formats and is compatible with both Windows and Android operating systems. Sounds interesting? Learn to remove the watermark using Apowersoft by following a step-by-step guide.
 
@@ -1530,7 +1530,7 @@ Navigate to the video in your local files and double-click to upload. Wait for t
 
 ![remove tiktok watermark with apowersoft](https://images.wondershare.com/filmora/article-images/remove-tiktok-watermark-apowersoft-online.jpg)
 
-### 6. [watermarkremover.net](https://watermarkremover.net/video-watermark-remover/)
+### 6. watermarkremover.net
 
 Watermakremover.net is an online watermark removing tool that comes with a simple interface. In addition to watermarks, this tool is also known for efficiently removing overlays, logos, captions, texts, and much more. Watermarkremover.net allows saving the output in the same format as the input media file. Moreover, it also enables you to remove multiple watermarks in the same video simultaneously. So, if you want to get away with all watermarks and unwanted texts, watermarkremover.net is all you. Follow the steps below to learn about removing watermarks in this free online facility.
 
@@ -1544,7 +1544,7 @@ Click on the **remove watermark** option and wait for the processing time. Click
 
 ![remove tiktok watermark with watermakremover online](https://images.wondershare.com/filmora/article-images/watermakremover-tiktok-video.jpg)
 
-_To download a TikTok video without a watermark, you can also try these_ [_TikTok downloaders online without a watermark_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_To download a TikTok video without a watermark, you can also try these_ [_TikTok downloaders online without a watermark_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 **FAQs about removing TikTok watermark**
 
@@ -1604,7 +1604,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1618,11 +1618,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1631,7 +1631,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1677,7 +1677,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1691,11 +1691,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1704,7 +1704,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1750,7 +1750,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1764,11 +1764,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1777,7 +1777,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -1823,7 +1823,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -1837,11 +1837,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -1850,7 +1850,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 

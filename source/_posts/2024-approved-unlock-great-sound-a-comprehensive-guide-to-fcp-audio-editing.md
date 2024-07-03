@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Unlock Great Sound A Comprehensive Guide to FCP Audio Editing
-date: 2024-06-16T15:46:25.856Z
-updated: 2024-06-17T15:46:25.856Z
+date: 2024-07-02T22:24:44.866Z
+updated: 2024-07-03T22:24:44.866Z
 tags: 
   - video editing software
   - video editing
@@ -44,7 +44,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -58,11 +58,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -71,7 +71,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -117,7 +117,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -131,11 +131,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -144,7 +144,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -190,7 +190,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -204,11 +204,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -217,7 +217,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -263,7 +263,7 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-![ Clip-level audio editing ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
+![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
@@ -277,11 +277,11 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-![ The Audio Inspector ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
+![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
+![Detach audio](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
 
@@ -290,7 +290,7 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
+![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
@@ -548,7 +548,7 @@ Who doesn't want their movie to stand out and shine among other movies? For such
 
 In this section of the article, we will talk about the best Win movie maker 2024\. The following movie editing software for Windows has proved to be the best and topmost movie editor for the year 2024\. Let’s discuss the editors without any further delay.
 
-### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Wondershare Filmora
 
 ![wondershare filmora video editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-1.jpg)
 
@@ -568,7 +568,7 @@ The most brilliant thing with Filmora is to create freeze frames and do motion t
 
 The stock media library of Filmora has a wide range of editing effects, transitions, and whatnot. You can create a high-quality movie by adding text and titles from Filmora. Using Wondershare Filmora, you can create an amazing movie that will stun everyone.
 
-### 2\. [Lightworks](https://lwks.com/)
+### 2\. Lightworks
 
 ![lightworks editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-2.jpg)
 
@@ -583,7 +583,7 @@ Lightworks is a non-linear movie editor. The movie editor offers a variety of fe
 * You can drag numerous editing windows and create as many layout variations as you want to.
 * With Lightworks, you can import and also render footage in the background.
 
-### 3\. [Adobe Premiere Elements](https://www.adobe.com/products/premiere-elements.html)
+### 3\. Adobe Premiere Elements
 
 ![adobe premiere elements](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-3.jpg)
 
@@ -611,7 +611,7 @@ The movie making software is non-linear with a multimedia transcoder. With Adobe
 * With this movie editing software, you can create animations, visual effects, etc.
 * Adobe After Effects allows you to create and combine 2D layers into 3D space.
 
-### 6\. [Studio](https://www.pinnaclesys.com/en/products/studio/)
+### 6\. Studio
 
 ![pinnacle studio editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-6.jpg)
 
@@ -650,7 +650,7 @@ The most brilliant thing with Filmora is to create freeze frames and do motion t
 
 The stock media library of Filmora has a wide range of editing effects, transitions, and whatnot. You can create a high-quality movie by adding text and titles from Filmora. Using Wondershare Filmora, you can create an amazing movie that will stun everyone.
 
-### 2\. [Lightworks](https://lwks.com/)
+### 2\. Lightworks
 
 ![lightworks editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-2.jpg)
 
@@ -665,7 +665,7 @@ Lightworks is a non-linear movie editor. The movie editor offers a variety of fe
 * You can drag numerous editing windows and create as many layout variations as you want to.
 * With Lightworks, you can import and also render footage in the background.
 
-### 3\. [Adobe Premiere Elements](https://www.adobe.com/products/premiere-elements.html)
+### 3\. Adobe Premiere Elements
 
 ![adobe premiere elements](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-3.jpg)
 
@@ -693,7 +693,7 @@ The movie making software is non-linear with a multimedia transcoder. With Adobe
 * With this movie editing software, you can create animations, visual effects, etc.
 * Adobe After Effects allows you to create and combine 2D layers into 3D space.
 
-### 6\. [Studio](https://www.pinnaclesys.com/en/products/studio/)
+### 6\. Studio
 
 ![pinnacle studio editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-6.jpg)
 
@@ -732,7 +732,7 @@ The most brilliant thing with Filmora is to create freeze frames and do motion t
 
 The stock media library of Filmora has a wide range of editing effects, transitions, and whatnot. You can create a high-quality movie by adding text and titles from Filmora. Using Wondershare Filmora, you can create an amazing movie that will stun everyone.
 
-### 2\. [Lightworks](https://lwks.com/)
+### 2\. Lightworks
 
 ![lightworks editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-2.jpg)
 
@@ -747,7 +747,7 @@ Lightworks is a non-linear movie editor. The movie editor offers a variety of fe
 * You can drag numerous editing windows and create as many layout variations as you want to.
 * With Lightworks, you can import and also render footage in the background.
 
-### 3\. [Adobe Premiere Elements](https://www.adobe.com/products/premiere-elements.html)
+### 3\. Adobe Premiere Elements
 
 ![adobe premiere elements](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-3.jpg)
 
@@ -775,7 +775,7 @@ The movie making software is non-linear with a multimedia transcoder. With Adobe
 * With this movie editing software, you can create animations, visual effects, etc.
 * Adobe After Effects allows you to create and combine 2D layers into 3D space.
 
-### 6\. [Studio](https://www.pinnaclesys.com/en/products/studio/)
+### 6\. Studio
 
 ![pinnacle studio editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-6.jpg)
 
@@ -814,7 +814,7 @@ The most brilliant thing with Filmora is to create freeze frames and do motion t
 
 The stock media library of Filmora has a wide range of editing effects, transitions, and whatnot. You can create a high-quality movie by adding text and titles from Filmora. Using Wondershare Filmora, you can create an amazing movie that will stun everyone.
 
-### 2\. [Lightworks](https://lwks.com/)
+### 2\. Lightworks
 
 ![lightworks editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-2.jpg)
 
@@ -829,7 +829,7 @@ Lightworks is a non-linear movie editor. The movie editor offers a variety of fe
 * You can drag numerous editing windows and create as many layout variations as you want to.
 * With Lightworks, you can import and also render footage in the background.
 
-### 3\. [Adobe Premiere Elements](https://www.adobe.com/products/premiere-elements.html)
+### 3\. Adobe Premiere Elements
 
 ![adobe premiere elements](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-3.jpg)
 
@@ -857,7 +857,7 @@ The movie making software is non-linear with a multimedia transcoder. With Adobe
 * With this movie editing software, you can create animations, visual effects, etc.
 * Adobe After Effects allows you to create and combine 2D layers into 3D space.
 
-### 6\. [Studio](https://www.pinnaclesys.com/en/products/studio/)
+### 6\. Studio
 
 ![pinnacle studio editor](https://images.wondershare.com/filmora/article-images/2021/best-win-movie-maker-6.jpg)
 
@@ -929,7 +929,7 @@ In most cases, the editing features are limited on mobile phones. If you are loo
 
 1. Import all your stop motion images, and adjust the photo duration to 1 frame length under the Preference settings.
 
-![  set photo duration in Filmora](https://images.wondershare.com/filmora/article-images/preference-settings.jpg)
+![set photo duration in Filmora](https://images.wondershare.com/filmora/article-images/preference-settings.jpg)
 
 1. Drag and drop all the photos to the timeline and play it back, and then you will see a stop motion video.
 2. Click the Export button to save the stop motion video in your preferred formats.
@@ -984,7 +984,7 @@ iPhone and iPad owners who would like to create time lapse and stop motion video
 
 Making a stop motion video with this app is a straightforward process that can be completed in just a few easy steps. After you launch the app and tap on the Create button, the device’s camera will open and you just have to press the camera button each time you want to make a new frame. Tap on the Done button once you complete the sequence of images, so you just have to preview the result before proceeding to export the video. The app doesn’t allow you to record voiceovers or create soundtracks, and you must use another video editing app for iOS devices if you want to edit a stop motion video further. It is worth noting that you must give Stop Motion Maker access to your phone’s camera and photo library in order for it to function properly.
 
-### 6\. [Stop Motion Movie Creator](https://www.apkhere.com/app/com.mattel.MCSMMC)
+### 6\. Stop Motion Movie Creator
 
 **Price:**  Free
 
@@ -1079,7 +1079,7 @@ In most cases, the editing features are limited on mobile phones. If you are loo
 
 1. Import all your stop motion images, and adjust the photo duration to 1 frame length under the Preference settings.
 
-![  set photo duration in Filmora](https://images.wondershare.com/filmora/article-images/preference-settings.jpg)
+![set photo duration in Filmora](https://images.wondershare.com/filmora/article-images/preference-settings.jpg)
 
 1. Drag and drop all the photos to the timeline and play it back, and then you will see a stop motion video.
 2. Click the Export button to save the stop motion video in your preferred formats.
@@ -1134,7 +1134,7 @@ iPhone and iPad owners who would like to create time lapse and stop motion video
 
 Making a stop motion video with this app is a straightforward process that can be completed in just a few easy steps. After you launch the app and tap on the Create button, the device’s camera will open and you just have to press the camera button each time you want to make a new frame. Tap on the Done button once you complete the sequence of images, so you just have to preview the result before proceeding to export the video. The app doesn’t allow you to record voiceovers or create soundtracks, and you must use another video editing app for iOS devices if you want to edit a stop motion video further. It is worth noting that you must give Stop Motion Maker access to your phone’s camera and photo library in order for it to function properly.
 
-### 6\. [Stop Motion Movie Creator](https://www.apkhere.com/app/com.mattel.MCSMMC)
+### 6\. Stop Motion Movie Creator
 
 **Price:**  Free
 
@@ -1229,7 +1229,7 @@ In most cases, the editing features are limited on mobile phones. If you are loo
 
 1. Import all your stop motion images, and adjust the photo duration to 1 frame length under the Preference settings.
 
-![  set photo duration in Filmora](https://images.wondershare.com/filmora/article-images/preference-settings.jpg)
+![set photo duration in Filmora](https://images.wondershare.com/filmora/article-images/preference-settings.jpg)
 
 1. Drag and drop all the photos to the timeline and play it back, and then you will see a stop motion video.
 2. Click the Export button to save the stop motion video in your preferred formats.
@@ -1284,7 +1284,7 @@ iPhone and iPad owners who would like to create time lapse and stop motion video
 
 Making a stop motion video with this app is a straightforward process that can be completed in just a few easy steps. After you launch the app and tap on the Create button, the device’s camera will open and you just have to press the camera button each time you want to make a new frame. Tap on the Done button once you complete the sequence of images, so you just have to preview the result before proceeding to export the video. The app doesn’t allow you to record voiceovers or create soundtracks, and you must use another video editing app for iOS devices if you want to edit a stop motion video further. It is worth noting that you must give Stop Motion Maker access to your phone’s camera and photo library in order for it to function properly.
 
-### 6\. [Stop Motion Movie Creator](https://www.apkhere.com/app/com.mattel.MCSMMC)
+### 6\. Stop Motion Movie Creator
 
 **Price:**  Free
 
@@ -1379,7 +1379,7 @@ In most cases, the editing features are limited on mobile phones. If you are loo
 
 1. Import all your stop motion images, and adjust the photo duration to 1 frame length under the Preference settings.
 
-![  set photo duration in Filmora](https://images.wondershare.com/filmora/article-images/preference-settings.jpg)
+![set photo duration in Filmora](https://images.wondershare.com/filmora/article-images/preference-settings.jpg)
 
 1. Drag and drop all the photos to the timeline and play it back, and then you will see a stop motion video.
 2. Click the Export button to save the stop motion video in your preferred formats.
@@ -1434,7 +1434,7 @@ iPhone and iPad owners who would like to create time lapse and stop motion video
 
 Making a stop motion video with this app is a straightforward process that can be completed in just a few easy steps. After you launch the app and tap on the Create button, the device’s camera will open and you just have to press the camera button each time you want to make a new frame. Tap on the Done button once you complete the sequence of images, so you just have to preview the result before proceeding to export the video. The app doesn’t allow you to record voiceovers or create soundtracks, and you must use another video editing app for iOS devices if you want to edit a stop motion video further. It is worth noting that you must give Stop Motion Maker access to your phone’s camera and photo library in order for it to function properly.
 
-### 6\. [Stop Motion Movie Creator](https://www.apkhere.com/app/com.mattel.MCSMMC)
+### 6\. Stop Motion Movie Creator
 
 **Price:**  Free
 

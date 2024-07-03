@@ -1,7 +1,7 @@
 ---
 title: Updated Videopad Video Editor Review A Closer Look at Its Capabilities and Limitations for 2024
-date: 2024-04-29T12:49:42.808Z
-updated: 2024-04-30T12:49:42.808Z
+date: 2024-07-02T22:24:28.992Z
+updated: 2024-07-03T22:24:28.992Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated Videopad Video Editor Review A Closer Look at Its Capabilities and Limitations for 2024
 excerpt: This Article Describes Updated Videopad Video Editor Review A Closer Look at Its Capabilities and Limitations for 2024
 keywords: a closer look at videopad video editor review pricing and alternatives,videopad video editor review a closer look at its capabilities and limitations,a closer look at avs video editor 2023 review and ratings,virtualdub a review of its capabilities and limitations plus top alternative video editors,avs video editor review a closer look at its capabilities and limitations,videopad review a detailed look at its video editing capabilities,avs video editor 2023 a detailed review of its capabilities and limitation
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## Videopad Video Editor Review: A Closer Look at Its Capabilities and Limitations
@@ -551,7 +551,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -565,13 +565,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -828,7 +828,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -842,13 +842,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1105,7 +1105,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1119,13 +1119,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1382,7 +1382,7 @@ Go to **Effects** from the menu bar, select **Default** from the top of the navi
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
+![mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 ### 2. Blur a Vertical Video
 
@@ -1396,13 +1396,13 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
+![add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
 
 Double-click the **Blur** effect in the Timeline, and use the available sliders to customize the effect that best fits your needs.
 
-![ custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
+![custom background blur](https://images.wondershare.com/filmora/article-images/custom-background-blur-effect.jpg)
 
 You can find more details about [how to blur the background in the portrait video with Filmora](https://tools.techidaily.com/wondershare/filmora/download/).
 
@@ -1456,7 +1456,7 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -1468,11 +1468,11 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
+![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
 
@@ -1480,11 +1480,11 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
 
@@ -1511,7 +1511,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
+![Shift+Command+G](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1559,7 +1559,7 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -1571,11 +1571,11 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
+![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
 
@@ -1583,11 +1583,11 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
 
@@ -1614,7 +1614,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
+![Shift+Command+G](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1662,7 +1662,7 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -1674,11 +1674,11 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
+![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
 
@@ -1686,11 +1686,11 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
 
@@ -1717,7 +1717,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
+![Shift+Command+G](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1765,7 +1765,7 @@ Most of you might be interested to know how to record voice with Final Cut Pro. 
 
 The term auditions are commonly used on FCP platform that represents sets of some related clips out of which you have to select anyone for your final project. Users are allowed to take multiple inputs of different clips for the composition of the audition and the other interesting task is to apply different effects on the same clip to create an audition with multiple versions. During live audio recording, this software tool allows automatic grouping of auditions with several retakes. You can easily find created auditions in the top left corner of your timeline as well as on the browser.
 
-![ What is Audition in FCP ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
+![What is Audition in FCP](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-1.png)
 
 Now in order to record voice over FCP, you need to follow the steps as below:
 
@@ -1777,11 +1777,11 @@ First of all, you need to place your playhead at a specific location on the time
 
 Now in order to start your recording, you need to press Shift+A from the keyboard or simply go to Window then select Record Voiceover, and finally hit Record Button.
 
-![ Record Voiceover ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
+![Record Voiceover](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-2.png)
 
 The countdown will automatically start.
 
-![ finally hit Record Button ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
+![finally hit Record Button](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-4.png)
 
 #### Step 3
 
@@ -1789,11 +1789,11 @@ As soon as your recording is complete then you need to stop the process by simpl
 
 Note that as the recording is stopped, the playhead automatically returns to initial position and it asks you for retake. If you click on the option ‘Create Audition from Takes’ by selecting the checkbox then FCP automatically starts creating auditions.
 
-![ Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
+![Create Audition from Takes -1](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-5.png)
 
 Here we recommend you keep this box selected because it can make your timeline looking disordered if you uncheck this box.
 
-![ Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
+![Create Audition from Takes -2](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-6.jpg)
 
 #### Step 4
 
@@ -1820,7 +1820,7 @@ Now it is time to select the desired voiceover from auditions and you can previe
 
 It is also possible to extract desired recordings from auditions; for example if you wish to edit any take from a set of clips available in a certain audition or you want to join two different takes to create one final take then it is possible to extract audio sets from the audition by simply choosing Clip and then hit the option “Break Apart Clip Items”, it can also be done by pressing Shift+Command+G. Hence, it is possible to edit audio clips using FCP to create a unique output.
 
-![ Shift+Command+G ](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
+![Shift+Command+G](https://images.wondershare.com/filmora/article-images/add-voice-over-in-fcp-8.png)
 
 Ok, that's all about how to record a voice-over in FCPX. [Click here for more tips about recording and adding tips.](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -1924,7 +1924,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1934,7 +1934,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1944,7 +1944,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -2032,7 +2032,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -2042,7 +2042,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -2052,7 +2052,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -2140,7 +2140,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -2150,7 +2150,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -2160,7 +2160,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -2248,7 +2248,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -2258,7 +2258,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -2268,7 +2268,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 

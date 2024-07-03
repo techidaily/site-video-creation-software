@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Kapwing Slow Motion A Simple, Step-by-Step Editing Process
-date: 2024-04-29T12:49:25.257Z
-updated: 2024-04-30T12:49:25.257Z
+date: 2024-07-02T22:24:16.680Z
+updated: 2024-07-03T22:24:16.680Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Kapwing Slow Motion A Simple, Step-by-Step Editing Process
 excerpt: This Article Describes New 2024 Approved Kapwing Slow Motion A Simple, Step-by-Step Editing Process
 keywords: kapwing slow motion editing made easy a simple step by step guide,how to make a slow motion video on kapwing step by step,ai animation how to make a slow motion video on kapwing step by step,transform your videos a step by step slow motion editing guide on kapwing,slow and steady wins the race a kapwing slow motion video editing tutorial,kapwing slow motion a simple step by step editing process,slow motion magic on kapwing a step by step guide to editing like a pro
-thumbnail: https://www.lifewire.com/thmb/dlXSXWUVnvtFpXfW22z68Mqdr1g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TwitterVideoDownload-5b605aaac9e77c002c3a42f3.jpg
+thumbnail: https://thmb.techidaily.com/189b4e3cd84ef7f9829fec0ad61c8f163a696d8c84a7394663cf2c5a8a40dbef.jpg
 ---
 
 ## Kapwing Slow Motion: A Simple, Step-by-Step Editing Process
@@ -37,7 +37,7 @@ With that said, here you will learn how to slow down the playback speed of a vid
 
 #### In this article
 
-01 [ How to Make a Slow Motion Video on Kapwing? \[Step by Step\] ](#part1)
+01 [How to Make a Slow Motion Video on Kapwing? \[Step by Step\]](#part1)
 
 02 [FAQs About Kapwing Online Video Editor](#part2)
 
@@ -81,7 +81,7 @@ On the next page, click Download from the right to download the slow-motion vide
 
 **Note:** Kapwing makes the produced videos available for public viewing while using a free account. This privacy vulnerability can be removed by subscribing to a paid plan offered by the web tool. And for free account, your video is limited to 250MB uploading, and 30 minutes long exporting.
 
-_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ## Part 2: FAQs About Kapwing Online Video Editor
 
@@ -123,7 +123,7 @@ With that said, here you will learn how to slow down the playback speed of a vid
 
 #### In this article
 
-01 [ How to Make a Slow Motion Video on Kapwing? \[Step by Step\] ](#part1)
+01 [How to Make a Slow Motion Video on Kapwing? \[Step by Step\]](#part1)
 
 02 [FAQs About Kapwing Online Video Editor](#part2)
 
@@ -167,7 +167,7 @@ On the next page, click Download from the right to download the slow-motion vide
 
 **Note:** Kapwing makes the produced videos available for public viewing while using a free account. This privacy vulnerability can be removed by subscribing to a paid plan offered by the web tool. And for free account, your video is limited to 250MB uploading, and 30 minutes long exporting.
 
-_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ## Part 2: FAQs About Kapwing Online Video Editor
 
@@ -209,7 +209,7 @@ With that said, here you will learn how to slow down the playback speed of a vid
 
 #### In this article
 
-01 [ How to Make a Slow Motion Video on Kapwing? \[Step by Step\] ](#part1)
+01 [How to Make a Slow Motion Video on Kapwing? \[Step by Step\]](#part1)
 
 02 [FAQs About Kapwing Online Video Editor](#part2)
 
@@ -253,7 +253,7 @@ On the next page, click Download from the right to download the slow-motion vide
 
 **Note:** Kapwing makes the produced videos available for public viewing while using a free account. This privacy vulnerability can be removed by subscribing to a paid plan offered by the web tool. And for free account, your video is limited to 250MB uploading, and 30 minutes long exporting.
 
-_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ## Part 2: FAQs About Kapwing Online Video Editor
 
@@ -295,7 +295,7 @@ With that said, here you will learn how to slow down the playback speed of a vid
 
 #### In this article
 
-01 [ How to Make a Slow Motion Video on Kapwing? \[Step by Step\] ](#part1)
+01 [How to Make a Slow Motion Video on Kapwing? \[Step by Step\]](#part1)
 
 02 [FAQs About Kapwing Online Video Editor](#part2)
 
@@ -339,7 +339,7 @@ On the next page, click Download from the right to download the slow-motion vide
 
 **Note:** Kapwing makes the produced videos available for public viewing while using a free account. This privacy vulnerability can be removed by subscribing to a paid plan offered by the web tool. And for free account, your video is limited to 250MB uploading, and 30 minutes long exporting.
 
-_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/)_._
+_There are some other options to slow videos online for free, check our picks of_ [_best free online slow motion video editors_](https://tools.techidaily.com/wondershare/filmora/download/) _._
 
 ## Part 2: FAQs About Kapwing Online Video Editor
 
@@ -415,7 +415,7 @@ In this part of the article, we are going to explain about 8 effective neon text
 * [**7\. Sygns**](#part7)
 * [**8\. Engfto**](#part8)
 
-### 1. [Flaming Text](https://flamingtext.com/logo/Design-Neon)
+### 1. Flaming Text
 
 Flaming text is a popular neon sign maker online. You can get a wide range of options here for customizing the text. Apart from adding neon effects, you can even alter the background, shadow etc. The page contains Ads.
 
@@ -428,7 +428,7 @@ Features:
 
 ![Flaming Text](https://images.wondershare.com/filmora/article-images/Flaming-Text.jpg)
 
-### 2. [Cool Text](https://cooltext.com/Logo-Design-Neon)
+### 2. Cool Text
 
 Though, Cool Text is a nice online neon text generator, the excessive Ads make it difficult to track the desired tools on the page.
 
@@ -441,7 +441,7 @@ Features:
 
 ![Cool Text](https://images.wondershare.com/filmora/article-images/Cool-Text.jpg)
 
-### 3. [Poster Gen](http://postergen.com/neon-text-generator)
+### 3. Poster Gen
 
 PosterGen has a wide range of products apart from neon texts. You can create chalkboard posters, photography prints, canvas art, gym posters, quote posters, quote generator, graffiti creator etc. It is a paid neon text generator and hence you need to pay for the created art work to be yours.
 
@@ -454,7 +454,7 @@ Features:
 
 ![Poster Gen](https://images.wondershare.com/filmora/article-images/Poster-Gen.jpg)
 
-### 4. [Glow txt](https://glowtxt.com/)
+### 4. Glow txt
 
 Using this site, you can not only create neon texts for videos, but also for social media posts and comments. Moreover, school projects, blog headings, forum signatures, YouTube thumbnails, posters can also be done using Glowtxt.
 
@@ -478,7 +478,7 @@ Features:
 
 ![Flash Vortex](https://images.wondershare.com/filmora/article-images/Flash-Vortex.jpg)
 
-### 6. [Picture to People](http://www.picturetopeople.org/text%5Fgenerator/others/rainbow%5Fneon/rainbow%5Fneon%5Ftext%5Feffect%5Fcreator.html)
+### 6. Picture to People
 
 This neon text generator can produce glow neon text effects online. You can control the light colors fully. For proper outputs, you must wait till the page loads completely.
 
@@ -491,7 +491,7 @@ Features:
 
 ![Picture to People](https://images.wondershare.com/filmora/article-images/Picture-to-People.jpg)
 
-### 7. [Sygns](https://www.sygns.com/products/design-personalised-neon-sign)
+### 7. Sygns
 
 Though, this site comes with a neat interface, it takes time to load. It might annoy people who are new to the page. The effects are very lucrative to the eyes. The site is a paid one and you need to get the edited text shipped to you in printed format.
 
@@ -502,7 +502,7 @@ Features:
 
 ![Sygns](https://images.wondershare.com/filmora/article-images/Sygns.jpg)
 
-### 8. [Engfto](http://engfto.com/index/designer%5Fneon%5Ftexts%5Fcreate%5Fneon%5Flogo/0-5)
+### 8. Engfto
 
 This glow text maker page can produce GIFs with neon texts. They look really cool, if you want to include them on a blog or social media post. You can save the output as a GIF and enjoy.
 
@@ -559,7 +559,7 @@ In this part of the article, we are going to explain about 8 effective neon text
 * [**7\. Sygns**](#part7)
 * [**8\. Engfto**](#part8)
 
-### 1. [Flaming Text](https://flamingtext.com/logo/Design-Neon)
+### 1. Flaming Text
 
 Flaming text is a popular neon sign maker online. You can get a wide range of options here for customizing the text. Apart from adding neon effects, you can even alter the background, shadow etc. The page contains Ads.
 
@@ -572,7 +572,7 @@ Features:
 
 ![Flaming Text](https://images.wondershare.com/filmora/article-images/Flaming-Text.jpg)
 
-### 2. [Cool Text](https://cooltext.com/Logo-Design-Neon)
+### 2. Cool Text
 
 Though, Cool Text is a nice online neon text generator, the excessive Ads make it difficult to track the desired tools on the page.
 
@@ -585,7 +585,7 @@ Features:
 
 ![Cool Text](https://images.wondershare.com/filmora/article-images/Cool-Text.jpg)
 
-### 3. [Poster Gen](http://postergen.com/neon-text-generator)
+### 3. Poster Gen
 
 PosterGen has a wide range of products apart from neon texts. You can create chalkboard posters, photography prints, canvas art, gym posters, quote posters, quote generator, graffiti creator etc. It is a paid neon text generator and hence you need to pay for the created art work to be yours.
 
@@ -598,7 +598,7 @@ Features:
 
 ![Poster Gen](https://images.wondershare.com/filmora/article-images/Poster-Gen.jpg)
 
-### 4. [Glow txt](https://glowtxt.com/)
+### 4. Glow txt
 
 Using this site, you can not only create neon texts for videos, but also for social media posts and comments. Moreover, school projects, blog headings, forum signatures, YouTube thumbnails, posters can also be done using Glowtxt.
 
@@ -622,7 +622,7 @@ Features:
 
 ![Flash Vortex](https://images.wondershare.com/filmora/article-images/Flash-Vortex.jpg)
 
-### 6. [Picture to People](http://www.picturetopeople.org/text%5Fgenerator/others/rainbow%5Fneon/rainbow%5Fneon%5Ftext%5Feffect%5Fcreator.html)
+### 6. Picture to People
 
 This neon text generator can produce glow neon text effects online. You can control the light colors fully. For proper outputs, you must wait till the page loads completely.
 
@@ -635,7 +635,7 @@ Features:
 
 ![Picture to People](https://images.wondershare.com/filmora/article-images/Picture-to-People.jpg)
 
-### 7. [Sygns](https://www.sygns.com/products/design-personalised-neon-sign)
+### 7. Sygns
 
 Though, this site comes with a neat interface, it takes time to load. It might annoy people who are new to the page. The effects are very lucrative to the eyes. The site is a paid one and you need to get the edited text shipped to you in printed format.
 
@@ -646,7 +646,7 @@ Features:
 
 ![Sygns](https://images.wondershare.com/filmora/article-images/Sygns.jpg)
 
-### 8. [Engfto](http://engfto.com/index/designer%5Fneon%5Ftexts%5Fcreate%5Fneon%5Flogo/0-5)
+### 8. Engfto
 
 This glow text maker page can produce GIFs with neon texts. They look really cool, if you want to include them on a blog or social media post. You can save the output as a GIF and enjoy.
 
@@ -703,7 +703,7 @@ In this part of the article, we are going to explain about 8 effective neon text
 * [**7\. Sygns**](#part7)
 * [**8\. Engfto**](#part8)
 
-### 1. [Flaming Text](https://flamingtext.com/logo/Design-Neon)
+### 1. Flaming Text
 
 Flaming text is a popular neon sign maker online. You can get a wide range of options here for customizing the text. Apart from adding neon effects, you can even alter the background, shadow etc. The page contains Ads.
 
@@ -716,7 +716,7 @@ Features:
 
 ![Flaming Text](https://images.wondershare.com/filmora/article-images/Flaming-Text.jpg)
 
-### 2. [Cool Text](https://cooltext.com/Logo-Design-Neon)
+### 2. Cool Text
 
 Though, Cool Text is a nice online neon text generator, the excessive Ads make it difficult to track the desired tools on the page.
 
@@ -729,7 +729,7 @@ Features:
 
 ![Cool Text](https://images.wondershare.com/filmora/article-images/Cool-Text.jpg)
 
-### 3. [Poster Gen](http://postergen.com/neon-text-generator)
+### 3. Poster Gen
 
 PosterGen has a wide range of products apart from neon texts. You can create chalkboard posters, photography prints, canvas art, gym posters, quote posters, quote generator, graffiti creator etc. It is a paid neon text generator and hence you need to pay for the created art work to be yours.
 
@@ -742,7 +742,7 @@ Features:
 
 ![Poster Gen](https://images.wondershare.com/filmora/article-images/Poster-Gen.jpg)
 
-### 4. [Glow txt](https://glowtxt.com/)
+### 4. Glow txt
 
 Using this site, you can not only create neon texts for videos, but also for social media posts and comments. Moreover, school projects, blog headings, forum signatures, YouTube thumbnails, posters can also be done using Glowtxt.
 
@@ -766,7 +766,7 @@ Features:
 
 ![Flash Vortex](https://images.wondershare.com/filmora/article-images/Flash-Vortex.jpg)
 
-### 6. [Picture to People](http://www.picturetopeople.org/text%5Fgenerator/others/rainbow%5Fneon/rainbow%5Fneon%5Ftext%5Feffect%5Fcreator.html)
+### 6. Picture to People
 
 This neon text generator can produce glow neon text effects online. You can control the light colors fully. For proper outputs, you must wait till the page loads completely.
 
@@ -779,7 +779,7 @@ Features:
 
 ![Picture to People](https://images.wondershare.com/filmora/article-images/Picture-to-People.jpg)
 
-### 7. [Sygns](https://www.sygns.com/products/design-personalised-neon-sign)
+### 7. Sygns
 
 Though, this site comes with a neat interface, it takes time to load. It might annoy people who are new to the page. The effects are very lucrative to the eyes. The site is a paid one and you need to get the edited text shipped to you in printed format.
 
@@ -790,7 +790,7 @@ Features:
 
 ![Sygns](https://images.wondershare.com/filmora/article-images/Sygns.jpg)
 
-### 8. [Engfto](http://engfto.com/index/designer%5Fneon%5Ftexts%5Fcreate%5Fneon%5Flogo/0-5)
+### 8. Engfto
 
 This glow text maker page can produce GIFs with neon texts. They look really cool, if you want to include them on a blog or social media post. You can save the output as a GIF and enjoy.
 
@@ -847,7 +847,7 @@ In this part of the article, we are going to explain about 8 effective neon text
 * [**7\. Sygns**](#part7)
 * [**8\. Engfto**](#part8)
 
-### 1. [Flaming Text](https://flamingtext.com/logo/Design-Neon)
+### 1. Flaming Text
 
 Flaming text is a popular neon sign maker online. You can get a wide range of options here for customizing the text. Apart from adding neon effects, you can even alter the background, shadow etc. The page contains Ads.
 
@@ -860,7 +860,7 @@ Features:
 
 ![Flaming Text](https://images.wondershare.com/filmora/article-images/Flaming-Text.jpg)
 
-### 2. [Cool Text](https://cooltext.com/Logo-Design-Neon)
+### 2. Cool Text
 
 Though, Cool Text is a nice online neon text generator, the excessive Ads make it difficult to track the desired tools on the page.
 
@@ -873,7 +873,7 @@ Features:
 
 ![Cool Text](https://images.wondershare.com/filmora/article-images/Cool-Text.jpg)
 
-### 3. [Poster Gen](http://postergen.com/neon-text-generator)
+### 3. Poster Gen
 
 PosterGen has a wide range of products apart from neon texts. You can create chalkboard posters, photography prints, canvas art, gym posters, quote posters, quote generator, graffiti creator etc. It is a paid neon text generator and hence you need to pay for the created art work to be yours.
 
@@ -886,7 +886,7 @@ Features:
 
 ![Poster Gen](https://images.wondershare.com/filmora/article-images/Poster-Gen.jpg)
 
-### 4. [Glow txt](https://glowtxt.com/)
+### 4. Glow txt
 
 Using this site, you can not only create neon texts for videos, but also for social media posts and comments. Moreover, school projects, blog headings, forum signatures, YouTube thumbnails, posters can also be done using Glowtxt.
 
@@ -910,7 +910,7 @@ Features:
 
 ![Flash Vortex](https://images.wondershare.com/filmora/article-images/Flash-Vortex.jpg)
 
-### 6. [Picture to People](http://www.picturetopeople.org/text%5Fgenerator/others/rainbow%5Fneon/rainbow%5Fneon%5Ftext%5Feffect%5Fcreator.html)
+### 6. Picture to People
 
 This neon text generator can produce glow neon text effects online. You can control the light colors fully. For proper outputs, you must wait till the page loads completely.
 
@@ -923,7 +923,7 @@ Features:
 
 ![Picture to People](https://images.wondershare.com/filmora/article-images/Picture-to-People.jpg)
 
-### 7. [Sygns](https://www.sygns.com/products/design-personalised-neon-sign)
+### 7. Sygns
 
 Though, this site comes with a neat interface, it takes time to load. It might annoy people who are new to the page. The effects are very lucrative to the eyes. The site is a paid one and you need to get the edited text shipped to you in printed format.
 
@@ -934,7 +934,7 @@ Features:
 
 ![Sygns](https://images.wondershare.com/filmora/article-images/Sygns.jpg)
 
-### 8. [Engfto](http://engfto.com/index/designer%5Fneon%5Ftexts%5Fcreate%5Fneon%5Flogo/0-5)
+### 8. Engfto
 
 This glow text maker page can produce GIFs with neon texts. They look really cool, if you want to include them on a blog or social media post. You can save the output as a GIF and enjoy.
 
@@ -1214,13 +1214,13 @@ Currently PowerDirector is only available on Android, but if you’re using an i
 
 ## Best PowerDirector Alternatives for Android and iOS
 
-#### 1\. [Kinemaster](https://www.kinemaster.com/index.php?lang=en) \- £2.91 per month
+#### 1\. Kinemaster
 
 System: Android, iOS
 
 Kinemaster is an impressive app that brings simplicity to complex professional editing tools, making it easy to use even on a small screen. It supports multiple layers including unlimited text, handwriting and sticker layers, as well as up to two video layers and four additional audio tracks. The precision editing features allow you edit frame by frame and it’s easy to quickly import extra footage and add additional effects. With a host of other features we haven’t mentioned it’s amazing how simple this app is. The only downside is the pricing model; instead of a one-off payment you’re saddled with £2.91 per month, an investment that could end up exceeding the value of the app.
 
-#### 2\. [LumaFX](https://luma-touch.com/lumafx/) \- £2.99
+#### 2\. LumaFX
 
 System: iOS
 
@@ -1232,7 +1232,7 @@ System: iOS
 
 Every iOS user should be familiar with iMovie as it comes bundled on every apple device. Costing nothing is a big upside, especially when the technology handles as intuitively as it does. Splicing footage becomes laughably easy. On the audio side you can add music and personalised voiceovers to your videos and if you’re in the mood for something a little silly there are plenty of over the top TV templates and movie style themes. Accessibility is a big plus for iMovie, but it’s definitely geared to more casual users – professionals will find high end features lacking and should consider a more powerful paid alternative.
 
-#### 4\. [Adobe Premiere Clip](https://www.adobe.com/products/premiere-clip.html) \- Free
+#### 4\. Adobe Premiere Clip
 
 System: Android, iOS
 
@@ -1258,13 +1258,13 @@ Currently PowerDirector is only available on Android, but if you’re using an i
 
 ## Best PowerDirector Alternatives for Android and iOS
 
-#### 1\. [Kinemaster](https://www.kinemaster.com/index.php?lang=en) \- £2.91 per month
+#### 1\. Kinemaster
 
 System: Android, iOS
 
 Kinemaster is an impressive app that brings simplicity to complex professional editing tools, making it easy to use even on a small screen. It supports multiple layers including unlimited text, handwriting and sticker layers, as well as up to two video layers and four additional audio tracks. The precision editing features allow you edit frame by frame and it’s easy to quickly import extra footage and add additional effects. With a host of other features we haven’t mentioned it’s amazing how simple this app is. The only downside is the pricing model; instead of a one-off payment you’re saddled with £2.91 per month, an investment that could end up exceeding the value of the app.
 
-#### 2\. [LumaFX](https://luma-touch.com/lumafx/) \- £2.99
+#### 2\. LumaFX
 
 System: iOS
 
@@ -1276,7 +1276,7 @@ System: iOS
 
 Every iOS user should be familiar with iMovie as it comes bundled on every apple device. Costing nothing is a big upside, especially when the technology handles as intuitively as it does. Splicing footage becomes laughably easy. On the audio side you can add music and personalised voiceovers to your videos and if you’re in the mood for something a little silly there are plenty of over the top TV templates and movie style themes. Accessibility is a big plus for iMovie, but it’s definitely geared to more casual users – professionals will find high end features lacking and should consider a more powerful paid alternative.
 
-#### 4\. [Adobe Premiere Clip](https://www.adobe.com/products/premiere-clip.html) \- Free
+#### 4\. Adobe Premiere Clip
 
 System: Android, iOS
 
@@ -1302,13 +1302,13 @@ Currently PowerDirector is only available on Android, but if you’re using an i
 
 ## Best PowerDirector Alternatives for Android and iOS
 
-#### 1\. [Kinemaster](https://www.kinemaster.com/index.php?lang=en) \- £2.91 per month
+#### 1\. Kinemaster
 
 System: Android, iOS
 
 Kinemaster is an impressive app that brings simplicity to complex professional editing tools, making it easy to use even on a small screen. It supports multiple layers including unlimited text, handwriting and sticker layers, as well as up to two video layers and four additional audio tracks. The precision editing features allow you edit frame by frame and it’s easy to quickly import extra footage and add additional effects. With a host of other features we haven’t mentioned it’s amazing how simple this app is. The only downside is the pricing model; instead of a one-off payment you’re saddled with £2.91 per month, an investment that could end up exceeding the value of the app.
 
-#### 2\. [LumaFX](https://luma-touch.com/lumafx/) \- £2.99
+#### 2\. LumaFX
 
 System: iOS
 
@@ -1320,7 +1320,7 @@ System: iOS
 
 Every iOS user should be familiar with iMovie as it comes bundled on every apple device. Costing nothing is a big upside, especially when the technology handles as intuitively as it does. Splicing footage becomes laughably easy. On the audio side you can add music and personalised voiceovers to your videos and if you’re in the mood for something a little silly there are plenty of over the top TV templates and movie style themes. Accessibility is a big plus for iMovie, but it’s definitely geared to more casual users – professionals will find high end features lacking and should consider a more powerful paid alternative.
 
-#### 4\. [Adobe Premiere Clip](https://www.adobe.com/products/premiere-clip.html) \- Free
+#### 4\. Adobe Premiere Clip
 
 System: Android, iOS
 
@@ -1346,13 +1346,13 @@ Currently PowerDirector is only available on Android, but if you’re using an i
 
 ## Best PowerDirector Alternatives for Android and iOS
 
-#### 1\. [Kinemaster](https://www.kinemaster.com/index.php?lang=en) \- £2.91 per month
+#### 1\. Kinemaster
 
 System: Android, iOS
 
 Kinemaster is an impressive app that brings simplicity to complex professional editing tools, making it easy to use even on a small screen. It supports multiple layers including unlimited text, handwriting and sticker layers, as well as up to two video layers and four additional audio tracks. The precision editing features allow you edit frame by frame and it’s easy to quickly import extra footage and add additional effects. With a host of other features we haven’t mentioned it’s amazing how simple this app is. The only downside is the pricing model; instead of a one-off payment you’re saddled with £2.91 per month, an investment that could end up exceeding the value of the app.
 
-#### 2\. [LumaFX](https://luma-touch.com/lumafx/) \- £2.99
+#### 2\. LumaFX
 
 System: iOS
 
@@ -1364,7 +1364,7 @@ System: iOS
 
 Every iOS user should be familiar with iMovie as it comes bundled on every apple device. Costing nothing is a big upside, especially when the technology handles as intuitively as it does. Splicing footage becomes laughably easy. On the audio side you can add music and personalised voiceovers to your videos and if you’re in the mood for something a little silly there are plenty of over the top TV templates and movie style themes. Accessibility is a big plus for iMovie, but it’s definitely geared to more casual users – professionals will find high end features lacking and should consider a more powerful paid alternative.
 
-#### 4\. [Adobe Premiere Clip](https://www.adobe.com/products/premiere-clip.html) \- Free
+#### 4\. Adobe Premiere Clip
 
 System: Android, iOS
 

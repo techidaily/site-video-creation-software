@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Get Started with Final Cut Pro 90 Days of Free Access
-date: 2024-05-19T13:03:57.929Z
-updated: 2024-05-20T13:03:57.929Z
+date: 2024-07-02T22:24:18.418Z
+updated: 2024-07-03T22:24:18.418Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Get Started with Final Cut Pro 90 Days of Free Access
 excerpt: This Article Describes New 2024 Approved Get Started with Final Cut Pro 90 Days of Free Access
 keywords: get started with final cut pro 90 days of free access,learn create and grow 90 days of free final cut pro access,unlimited access 90 day free trial of final cut pro inside,get started with final cut pro 90 days of free usage ahead,final cut pro on a budget get 90 days of free access now,ai animation get started with final cut pro 90 days of free access,final cut face off what sets pro apart from express
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## Get Started with Final Cut Pro: 90 Days of Free Access
@@ -613,7 +613,7 @@ With the availability of so many **video dubbing apps**, users have become a lit
 
 While there are tons of video dubbing and social apps out there, I would say the following tried-and-tested options are the best.
 
-#### 1\. [Dubsmash](https://dubsmash.com/)
+#### 1\. Dubsmash
 
 Dubsmash is often considered as the original dub app as it has been around for years. You can find tons of existing voiceovers and can instantly share your videos with your friends via its social feature.
 
@@ -633,7 +633,7 @@ Dubsmash is often considered as the original dub app as it has been around for y
 
 **Runs on**: iOS and Android
 
-#### 2\. [MadLipz](https://madlipz.com/)
+#### 2\. MadLipz
 
 Known for its “instant dubbing and subbing” features, this dub app is already used by millions of people worldwide. The video dubbing app runs on iOS and Android and is available in different languages as well.
 
@@ -653,7 +653,7 @@ Known for its “instant dubbing and subbing” features, this dub app is alread
 
 **Runs on**: iOS and Android
 
-#### 3\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. Filmora
 
 If you are looking for a freely available mobile application to edit your videos, then Filmora should be an ideal pick. Apart from being a dub app, you can also use it to edit your videos with its inbuilt features.
 
@@ -673,7 +673,7 @@ If you are looking for a freely available mobile application to edit your videos
 
 **Runs on**: iOS and Android
 
-#### 4\. [Likee](https://likee.com/)
+#### 4\. Likee
 
 Previously known as LIKE video, this is another popular social platform used by leading video creators. Therefore, you can use this dub app to post creative videos and find all kinds of content in one place.
 
@@ -693,7 +693,7 @@ Previously known as LIKE video, this is another popular social platform used by 
 
 **Runs on**: iOS and Android
 
-#### 5\. [Vigo Video](https://www.vigovideo.net/)
+#### 5\. Vigo Video
 
 Already used by millions of people worldwide, it is a thriving community of video creators. You can use this dub app to record videos using the available options and even find interesting content to watch.
 
@@ -714,7 +714,7 @@ Already used by millions of people worldwide, it is a thriving community of vide
 
 **Runs on**: iOS and Android
 
-#### 6\. [YeDub](http://yedub.com/)
+#### 6\. YeDub
 
 Lastly, you can also try YeDub video dubbing app to record your videos and add different dialogues. While the voiceover options are limited, it will meet your basic needs for sure.
 
@@ -798,7 +798,7 @@ With the availability of so many **video dubbing apps**, users have become a lit
 
 While there are tons of video dubbing and social apps out there, I would say the following tried-and-tested options are the best.
 
-#### 1\. [Dubsmash](https://dubsmash.com/)
+#### 1\. Dubsmash
 
 Dubsmash is often considered as the original dub app as it has been around for years. You can find tons of existing voiceovers and can instantly share your videos with your friends via its social feature.
 
@@ -818,7 +818,7 @@ Dubsmash is often considered as the original dub app as it has been around for y
 
 **Runs on**: iOS and Android
 
-#### 2\. [MadLipz](https://madlipz.com/)
+#### 2\. MadLipz
 
 Known for its “instant dubbing and subbing” features, this dub app is already used by millions of people worldwide. The video dubbing app runs on iOS and Android and is available in different languages as well.
 
@@ -838,7 +838,7 @@ Known for its “instant dubbing and subbing” features, this dub app is alread
 
 **Runs on**: iOS and Android
 
-#### 3\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. Filmora
 
 If you are looking for a freely available mobile application to edit your videos, then Filmora should be an ideal pick. Apart from being a dub app, you can also use it to edit your videos with its inbuilt features.
 
@@ -858,7 +858,7 @@ If you are looking for a freely available mobile application to edit your videos
 
 **Runs on**: iOS and Android
 
-#### 4\. [Likee](https://likee.com/)
+#### 4\. Likee
 
 Previously known as LIKE video, this is another popular social platform used by leading video creators. Therefore, you can use this dub app to post creative videos and find all kinds of content in one place.
 
@@ -878,7 +878,7 @@ Previously known as LIKE video, this is another popular social platform used by 
 
 **Runs on**: iOS and Android
 
-#### 5\. [Vigo Video](https://www.vigovideo.net/)
+#### 5\. Vigo Video
 
 Already used by millions of people worldwide, it is a thriving community of video creators. You can use this dub app to record videos using the available options and even find interesting content to watch.
 
@@ -899,7 +899,7 @@ Already used by millions of people worldwide, it is a thriving community of vide
 
 **Runs on**: iOS and Android
 
-#### 6\. [YeDub](http://yedub.com/)
+#### 6\. YeDub
 
 Lastly, you can also try YeDub video dubbing app to record your videos and add different dialogues. While the voiceover options are limited, it will meet your basic needs for sure.
 
@@ -983,7 +983,7 @@ With the availability of so many **video dubbing apps**, users have become a lit
 
 While there are tons of video dubbing and social apps out there, I would say the following tried-and-tested options are the best.
 
-#### 1\. [Dubsmash](https://dubsmash.com/)
+#### 1\. Dubsmash
 
 Dubsmash is often considered as the original dub app as it has been around for years. You can find tons of existing voiceovers and can instantly share your videos with your friends via its social feature.
 
@@ -1003,7 +1003,7 @@ Dubsmash is often considered as the original dub app as it has been around for y
 
 **Runs on**: iOS and Android
 
-#### 2\. [MadLipz](https://madlipz.com/)
+#### 2\. MadLipz
 
 Known for its “instant dubbing and subbing” features, this dub app is already used by millions of people worldwide. The video dubbing app runs on iOS and Android and is available in different languages as well.
 
@@ -1023,7 +1023,7 @@ Known for its “instant dubbing and subbing” features, this dub app is alread
 
 **Runs on**: iOS and Android
 
-#### 3\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. Filmora
 
 If you are looking for a freely available mobile application to edit your videos, then Filmora should be an ideal pick. Apart from being a dub app, you can also use it to edit your videos with its inbuilt features.
 
@@ -1043,7 +1043,7 @@ If you are looking for a freely available mobile application to edit your videos
 
 **Runs on**: iOS and Android
 
-#### 4\. [Likee](https://likee.com/)
+#### 4\. Likee
 
 Previously known as LIKE video, this is another popular social platform used by leading video creators. Therefore, you can use this dub app to post creative videos and find all kinds of content in one place.
 
@@ -1063,7 +1063,7 @@ Previously known as LIKE video, this is another popular social platform used by 
 
 **Runs on**: iOS and Android
 
-#### 5\. [Vigo Video](https://www.vigovideo.net/)
+#### 5\. Vigo Video
 
 Already used by millions of people worldwide, it is a thriving community of video creators. You can use this dub app to record videos using the available options and even find interesting content to watch.
 
@@ -1084,7 +1084,7 @@ Already used by millions of people worldwide, it is a thriving community of vide
 
 **Runs on**: iOS and Android
 
-#### 6\. [YeDub](http://yedub.com/)
+#### 6\. YeDub
 
 Lastly, you can also try YeDub video dubbing app to record your videos and add different dialogues. While the voiceover options are limited, it will meet your basic needs for sure.
 
@@ -1168,7 +1168,7 @@ With the availability of so many **video dubbing apps**, users have become a lit
 
 While there are tons of video dubbing and social apps out there, I would say the following tried-and-tested options are the best.
 
-#### 1\. [Dubsmash](https://dubsmash.com/)
+#### 1\. Dubsmash
 
 Dubsmash is often considered as the original dub app as it has been around for years. You can find tons of existing voiceovers and can instantly share your videos with your friends via its social feature.
 
@@ -1188,7 +1188,7 @@ Dubsmash is often considered as the original dub app as it has been around for y
 
 **Runs on**: iOS and Android
 
-#### 2\. [MadLipz](https://madlipz.com/)
+#### 2\. MadLipz
 
 Known for its “instant dubbing and subbing” features, this dub app is already used by millions of people worldwide. The video dubbing app runs on iOS and Android and is available in different languages as well.
 
@@ -1208,7 +1208,7 @@ Known for its “instant dubbing and subbing” features, this dub app is alread
 
 **Runs on**: iOS and Android
 
-#### 3\. [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+#### 3\. Filmora
 
 If you are looking for a freely available mobile application to edit your videos, then Filmora should be an ideal pick. Apart from being a dub app, you can also use it to edit your videos with its inbuilt features.
 
@@ -1228,7 +1228,7 @@ If you are looking for a freely available mobile application to edit your videos
 
 **Runs on**: iOS and Android
 
-#### 4\. [Likee](https://likee.com/)
+#### 4\. Likee
 
 Previously known as LIKE video, this is another popular social platform used by leading video creators. Therefore, you can use this dub app to post creative videos and find all kinds of content in one place.
 
@@ -1248,7 +1248,7 @@ Previously known as LIKE video, this is another popular social platform used by 
 
 **Runs on**: iOS and Android
 
-#### 5\. [Vigo Video](https://www.vigovideo.net/)
+#### 5\. Vigo Video
 
 Already used by millions of people worldwide, it is a thriving community of video creators. You can use this dub app to record videos using the available options and even find interesting content to watch.
 
@@ -1269,7 +1269,7 @@ Already used by millions of people worldwide, it is a thriving community of vide
 
 **Runs on**: iOS and Android
 
-#### 6\. [YeDub](http://yedub.com/)
+#### 6\. YeDub
 
 Lastly, you can also try YeDub video dubbing app to record your videos and add different dialogues. While the voiceover options are limited, it will meet your basic needs for sure.
 
@@ -1348,7 +1348,7 @@ Follow @Shanoon Cox
 
 ## Amazon Prime Video: How to Fix Aspect Ratio Issues on Your Device
 
-##### [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Video Editor
 
 Adjust the aspect ratio of Amazon Prime Video in an easy way!
 
@@ -1416,7 +1416,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1534,7 +1534,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1652,7 +1652,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1770,7 +1770,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1875,7 +1875,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1887,17 +1887,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1905,15 +1905,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -1966,7 +1966,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -1978,17 +1978,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -1996,15 +1996,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -2057,7 +2057,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2069,17 +2069,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2087,15 +2087,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 
@@ -2148,7 +2148,7 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-![Show Color Board”. ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
+![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
@@ -2160,17 +2160,17 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-![ Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
+![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-![ select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
+![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-![ Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
+![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
 
@@ -2178,15 +2178,15 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Exposure or Brightness:** On the Color board window you can easily make adjustments for brightness levels of video clips. As you move on to different portions of the image ranging between dark and white parts, the scope will keep on displaying waveforms with values between 0 and 100 representing darkness and brightness respectively. The master slider available on screen helps users to make overall adjustments for brightness by using three control options: highlights for white circles, midtones for gray scale and shadows for black parts. Consider waveform values as a guide for adjustment and move controls up and down to adjust contrast as per need.
 
-![ Exposure or Brightness ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
+![Exposure or Brightness](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-7.png)
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-![ Saturation ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
+![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
 
-![Hue ](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
+![Hue](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-9.png)
 
 #### Step 4
 

@@ -1,7 +1,7 @@
 ---
 title: Updated The Ultimate List 10 Online Video Rotators for Perfect Orientation
-date: 2024-06-24T09:06:46.275Z
-updated: 2024-06-25T09:06:46.275Z
+date: 2024-07-02T22:24:28.892Z
+updated: 2024-07-03T22:24:28.892Z
 tags: 
   - video editing software
   - video editing
@@ -663,7 +663,7 @@ Yes, they can. Apps such as Google's Speech to Text include a translation featur
 
 ### How much faster is speech to text faster than typing?
 
-A 2017 Stanford study states that speech to text is about[three times faster than typing](https://dl.acm.org/doi/10.1145/3161187). In addition, it found that speech-to-text apps can transcribe over 150 words per minute, while professional transcriptionists range between 50 to 80 words per minute.
+A 2017 Stanford study states that speech to text is about [three times faster than typing](https://dl.acm.org/doi/10.1145/3161187). In addition, it found that speech-to-text apps can transcribe over 150 words per minute, while professional transcriptionists range between 50 to 80 words per minute.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -707,7 +707,7 @@ Yes, they can. Apps such as Google's Speech to Text include a translation featur
 
 ### How much faster is speech to text faster than typing?
 
-A 2017 Stanford study states that speech to text is about[three times faster than typing](https://dl.acm.org/doi/10.1145/3161187). In addition, it found that speech-to-text apps can transcribe over 150 words per minute, while professional transcriptionists range between 50 to 80 words per minute.
+A 2017 Stanford study states that speech to text is about [three times faster than typing](https://dl.acm.org/doi/10.1145/3161187). In addition, it found that speech-to-text apps can transcribe over 150 words per minute, while professional transcriptionists range between 50 to 80 words per minute.
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 

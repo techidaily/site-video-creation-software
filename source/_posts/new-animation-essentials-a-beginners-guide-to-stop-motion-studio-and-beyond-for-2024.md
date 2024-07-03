@@ -1,7 +1,7 @@
 ---
 title: New Animation Essentials A Beginners Guide to Stop Motion Studio and Beyond for 2024
-date: 2024-05-19T13:04:05.470Z
-updated: 2024-05-20T13:04:05.470Z
+date: 2024-07-02T22:24:42.637Z
+updated: 2024-07-03T22:24:42.637Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New Animation Essentials A Beginners Guide to Stop Motion Studio and Beyond for 2024
 excerpt: This Article Describes New Animation Essentials A Beginners Guide to Stop Motion Studio and Beyond for 2024
 keywords: animation essentials a beginners introduction to stop motion studio,stop motion animation a step by step guide to studio and beyond,beginners guideline for stop motion studio and its alternatives,ai animation ai animation beginners guideline for stop motion studio and its alternatives,stop motion made easy a beginners guide to studio and alternatives,ai animation beginners guideline for stop motion studio and its alternatives,animation essentials a beginners guide to stop motion studio and beyond
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## Animation Essentials: A Beginner's Guide to Stop Motion Studio and Beyond
@@ -1443,7 +1443,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1453,7 +1453,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1463,7 +1463,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1551,7 +1551,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1561,7 +1561,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1571,7 +1571,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1659,7 +1659,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1669,7 +1669,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1679,7 +1679,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 
@@ -1767,7 +1767,7 @@ However, as with any good program, third-party plugins could only help you take 
 
 It should be unsurprising that After Effects has many plugins for a program that is over 30 years old. Here are the best stabilization plugins for smoother video in AE:
 
-### 1\. [Orb](https://www.videocopilot.net/orb/)
+### 1\. Orb
 
 Orb is focused on generating realistic planets and includes a range of unique features to make planetary creation easy. It utilizes a similar 3D engine to Video Copilot's great Element 3D plugin, and it employs a similar 3D engine to Video Copilot's outstanding Element 3D plugin.
 
@@ -1777,7 +1777,7 @@ For example, how can the line between night and day be altered in a model of a p
 
 Although Orb doesn't work for every planetary picture, this would function for 90% of them and is a helpful previs tool. This is particularly true when used in conjunction with other After Effects plugins or paired with a 3D lens from a 3D program, which may be brought into After Effects with background plates for things like spacecraft.
 
-### 2\. [**Depth of Field Generator PRO (DOF PRO)**](http://richardrosenman.com/shop/dof-pro-ae/)
+### 2\. **Depth of Field Generator PRO (DOF PRO)**
 
 Richard Rosenman's renowned Photoshop depth of field generator plugin, DOF PRO (Depth of Field Generator PRO), is now downloadable for After Effects. DOF PRO has become the industry's professional option for an unprecedented and complex depth of field effects rapidly and effectively as a post-process.
 
@@ -1787,7 +1787,7 @@ Capability for chromatic and achromatic aberration, focal plane bokeh distinctio
 
 There will also be compatibility with the alpha channel and transparency, 32-bit floating-point color, correct aperture displays, and an iris array display. A feature comparison between the plugin and After Effects' Camera Lens Blur effect can be found here.
 
-### 3\. [ReelSteady](https://www.reelsteady.com/)
+### 3\. ReelSteady
 
 ReelSteady for After Effects is a recent addition to the stabilization marketplace. ReelSteady is similar to After Effects' warp stabilizer plugin. However, the stabilization in ReelSteady is far superior.
 

@@ -1,7 +1,7 @@
 ---
 title: Videopad Video Editor A Comprehensive Review and Purchase Guide for 2024
-date: 2024-05-19T13:03:40.935Z
-updated: 2024-05-20T13:03:40.935Z
+date: 2024-07-02T22:24:27.814Z
+updated: 2024-07-03T22:24:27.814Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Videopad Video Editor A Comprehensive Review and Purchase Guide for 2024
 excerpt: This Article Describes Videopad Video Editor A Comprehensive Review and Purchase Guide for 2024
 keywords: videopad video editor a comprehensive review for aspiring filmmakers,vn video editor android review a comprehensive guide,videopad video editing software a comprehensive review and guide,videopad video editor 2023 a comprehensive review and recommendation,avs video editor 2023 a comprehensive review and guide,videopad video editor a comprehensive review and buying guide,videopad video editor a comprehensive review and purchase guide
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## Videopad Video Editor: A Comprehensive Review and Purchase Guide
@@ -316,7 +316,7 @@ Get started easily with Filmora's powerful engine, intuitive interface, and thou
 
 Google Chromecast is a digital media player that allows you to stream MP4, WebM, MPEG-DASH, Smooth Streaming, and HTTP Live Streaming (HLS) video formats on your High Definition Television (HDTV). It requires a wireless connection using the Internet or a network-connected computer, tablet, or smartphone. You can play various multimedia content, but only Google Cast-supported formats can be streamed directly.
 
-If you would like to play unsupported formats, such as MKV, VOB, FLV, and AVI, you will need to get a video format converter to stream movies, TV shows, and music videos with unsupported formats. We've picked some best video converters that you can use which also support 4K footage. Check the list of the[best 4K video converters](https://tools.techidaily.com/wondershare/filmora/download/) here. In this article, you will learn about supported and unsupported video formats and how you can stream them using your Chromecast media player.
+If you would like to play unsupported formats, such as MKV, VOB, FLV, and AVI, you will need to get a video format converter to stream movies, TV shows, and music videos with unsupported formats. We've picked some best video converters that you can use which also support 4K footage. Check the list of the [best 4K video converters](https://tools.techidaily.com/wondershare/filmora/download/) here. In this article, you will learn about supported and unsupported video formats and how you can stream them using your Chromecast media player.
 
 ![google chromecast](https://images.wondershare.com/images/multimedia/chromecast/gogle-chromecast.jpg)
 
@@ -352,7 +352,7 @@ The default Chromecast video formats are MP4 and WebM. It also supports MPEG-DAS
 
 What are the differences between each format? Check [What's Video Format?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-Since Chromecast only supports few video formats, it is recommended that you get a[video streaming application](https://tools.techidaily.com/wondershare/filmora/download/)that allows you to stream unsupported formats, such as M2TS, 3GP, DIVX, RM, RMVB, ASF, TS, DV, F4V, OGV, TOD. Wondershare Video Converter for example allows you to use Chromecast to stream unsupported formats through your Windows computer to your television.
+Since Chromecast only supports few video formats, it is recommended that you get a [video streaming application](https://tools.techidaily.com/wondershare/filmora/download/) that allows you to stream unsupported formats, such as M2TS, 3GP, DIVX, RM, RMVB, ASF, TS, DV, F4V, OGV, TOD. Wondershare Video Converter for example allows you to use Chromecast to stream unsupported formats through your Windows computer to your television.
 
 ---
 
@@ -452,7 +452,7 @@ Follow @Ollie Mattison
 
 Google Chromecast is a digital media player that allows you to stream MP4, WebM, MPEG-DASH, Smooth Streaming, and HTTP Live Streaming (HLS) video formats on your High Definition Television (HDTV). It requires a wireless connection using the Internet or a network-connected computer, tablet, or smartphone. You can play various multimedia content, but only Google Cast-supported formats can be streamed directly.
 
-If you would like to play unsupported formats, such as MKV, VOB, FLV, and AVI, you will need to get a video format converter to stream movies, TV shows, and music videos with unsupported formats. We've picked some best video converters that you can use which also support 4K footage. Check the list of the[best 4K video converters](https://tools.techidaily.com/wondershare/filmora/download/) here. In this article, you will learn about supported and unsupported video formats and how you can stream them using your Chromecast media player.
+If you would like to play unsupported formats, such as MKV, VOB, FLV, and AVI, you will need to get a video format converter to stream movies, TV shows, and music videos with unsupported formats. We've picked some best video converters that you can use which also support 4K footage. Check the list of the [best 4K video converters](https://tools.techidaily.com/wondershare/filmora/download/) here. In this article, you will learn about supported and unsupported video formats and how you can stream them using your Chromecast media player.
 
 ![google chromecast](https://images.wondershare.com/images/multimedia/chromecast/gogle-chromecast.jpg)
 
@@ -488,7 +488,7 @@ The default Chromecast video formats are MP4 and WebM. It also supports MPEG-DAS
 
 What are the differences between each format? Check [What's Video Format?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-Since Chromecast only supports few video formats, it is recommended that you get a[video streaming application](https://tools.techidaily.com/wondershare/filmora/download/)that allows you to stream unsupported formats, such as M2TS, 3GP, DIVX, RM, RMVB, ASF, TS, DV, F4V, OGV, TOD. Wondershare Video Converter for example allows you to use Chromecast to stream unsupported formats through your Windows computer to your television.
+Since Chromecast only supports few video formats, it is recommended that you get a [video streaming application](https://tools.techidaily.com/wondershare/filmora/download/) that allows you to stream unsupported formats, such as M2TS, 3GP, DIVX, RM, RMVB, ASF, TS, DV, F4V, OGV, TOD. Wondershare Video Converter for example allows you to use Chromecast to stream unsupported formats through your Windows computer to your television.
 
 ---
 
@@ -588,7 +588,7 @@ Follow @Ollie Mattison
 
 Google Chromecast is a digital media player that allows you to stream MP4, WebM, MPEG-DASH, Smooth Streaming, and HTTP Live Streaming (HLS) video formats on your High Definition Television (HDTV). It requires a wireless connection using the Internet or a network-connected computer, tablet, or smartphone. You can play various multimedia content, but only Google Cast-supported formats can be streamed directly.
 
-If you would like to play unsupported formats, such as MKV, VOB, FLV, and AVI, you will need to get a video format converter to stream movies, TV shows, and music videos with unsupported formats. We've picked some best video converters that you can use which also support 4K footage. Check the list of the[best 4K video converters](https://tools.techidaily.com/wondershare/filmora/download/) here. In this article, you will learn about supported and unsupported video formats and how you can stream them using your Chromecast media player.
+If you would like to play unsupported formats, such as MKV, VOB, FLV, and AVI, you will need to get a video format converter to stream movies, TV shows, and music videos with unsupported formats. We've picked some best video converters that you can use which also support 4K footage. Check the list of the [best 4K video converters](https://tools.techidaily.com/wondershare/filmora/download/) here. In this article, you will learn about supported and unsupported video formats and how you can stream them using your Chromecast media player.
 
 ![google chromecast](https://images.wondershare.com/images/multimedia/chromecast/gogle-chromecast.jpg)
 
@@ -624,7 +624,7 @@ The default Chromecast video formats are MP4 and WebM. It also supports MPEG-DAS
 
 What are the differences between each format? Check [What's Video Format?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-Since Chromecast only supports few video formats, it is recommended that you get a[video streaming application](https://tools.techidaily.com/wondershare/filmora/download/)that allows you to stream unsupported formats, such as M2TS, 3GP, DIVX, RM, RMVB, ASF, TS, DV, F4V, OGV, TOD. Wondershare Video Converter for example allows you to use Chromecast to stream unsupported formats through your Windows computer to your television.
+Since Chromecast only supports few video formats, it is recommended that you get a [video streaming application](https://tools.techidaily.com/wondershare/filmora/download/) that allows you to stream unsupported formats, such as M2TS, 3GP, DIVX, RM, RMVB, ASF, TS, DV, F4V, OGV, TOD. Wondershare Video Converter for example allows you to use Chromecast to stream unsupported formats through your Windows computer to your television.
 
 ---
 
@@ -724,7 +724,7 @@ Follow @Ollie Mattison
 
 Google Chromecast is a digital media player that allows you to stream MP4, WebM, MPEG-DASH, Smooth Streaming, and HTTP Live Streaming (HLS) video formats on your High Definition Television (HDTV). It requires a wireless connection using the Internet or a network-connected computer, tablet, or smartphone. You can play various multimedia content, but only Google Cast-supported formats can be streamed directly.
 
-If you would like to play unsupported formats, such as MKV, VOB, FLV, and AVI, you will need to get a video format converter to stream movies, TV shows, and music videos with unsupported formats. We've picked some best video converters that you can use which also support 4K footage. Check the list of the[best 4K video converters](https://tools.techidaily.com/wondershare/filmora/download/) here. In this article, you will learn about supported and unsupported video formats and how you can stream them using your Chromecast media player.
+If you would like to play unsupported formats, such as MKV, VOB, FLV, and AVI, you will need to get a video format converter to stream movies, TV shows, and music videos with unsupported formats. We've picked some best video converters that you can use which also support 4K footage. Check the list of the [best 4K video converters](https://tools.techidaily.com/wondershare/filmora/download/) here. In this article, you will learn about supported and unsupported video formats and how you can stream them using your Chromecast media player.
 
 ![google chromecast](https://images.wondershare.com/images/multimedia/chromecast/gogle-chromecast.jpg)
 
@@ -760,7 +760,7 @@ The default Chromecast video formats are MP4 and WebM. It also supports MPEG-DAS
 
 What are the differences between each format? Check [What's Video Format?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-Since Chromecast only supports few video formats, it is recommended that you get a[video streaming application](https://tools.techidaily.com/wondershare/filmora/download/)that allows you to stream unsupported formats, such as M2TS, 3GP, DIVX, RM, RMVB, ASF, TS, DV, F4V, OGV, TOD. Wondershare Video Converter for example allows you to use Chromecast to stream unsupported formats through your Windows computer to your television.
+Since Chromecast only supports few video formats, it is recommended that you get a [video streaming application](https://tools.techidaily.com/wondershare/filmora/download/) that allows you to stream unsupported formats, such as M2TS, 3GP, DIVX, RM, RMVB, ASF, TS, DV, F4V, OGV, TOD. Wondershare Video Converter for example allows you to use Chromecast to stream unsupported formats through your Windows computer to your television.
 
 ---
 
@@ -902,9 +902,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -1010,9 +1010,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -1118,9 +1118,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -1226,9 +1226,9 @@ Generally, the shaky videos are due to our unintended movements during shooting.
 
 Further, there are three more parameters to consider while using a Warp stabilizer for stabilizing the shaky footage.
 
-* Process ( an algorithm that can analyze and track the footage)
-* Smoothness ( called the strength of the effect)
-* Framing ( it can handle the edges of the clips)
+* Process (an algorithm that can analyze and track the footage)
+* Smoothness (called the strength of the effect)
+* Framing (it can handle the edges of the clips)
 
 ## Part 3: How to Stabilize A Shaky Video In Premiere Pro with Warp Stabilizer?
 
@@ -1325,7 +1325,7 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Avidemux](http://avidemux-mswin.sourceforge.net/)
+## #1\. Avidemux
 
  Besides cutting and filtering video files, Avidemux allows the users to flip and rotate the video file with ease. It supports popular video formats like MPEG, AVI, WMV, MOV and many more. It allows the user to set audio codec, video dimension and quality to get the desired output. Avidemux has made it's easier to add a video file and make changes using various options available in the menu tab.
 
@@ -1340,7 +1340,7 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 
 * Outdated interface.
 
-## [#2\. Video Rotator](http://www.videorotator.com/index.html)
+## #2\. Video Rotator
 
  Video rotator is easy to use software that offers a particular task to perform which is none other than video rotation. The user can easily use its drag and drop menu to select and rotate the video. It takes multiple video formats as input and produces output in the specified format. It fixes the orientation and preserves high video quality.
 
@@ -1358,7 +1358,7 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 * Crashed occasionally;
 * Few editing controls.
 
-## [#3\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #3\. Free Video Flip and Rotate
 
  Free video flip and rotate is a handy application that allows he users to rotate the video files in multiple formats like AVI, WMV and MPG. However, it takes input files in multiple formats but supports only AVI format as output. It has a preview screen that offers various playback buttons on it. The user can use this software individually or can also install applications suite free of cost.
 
@@ -1375,7 +1375,7 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 * Cannot create presets;
 * AVI output only.
 
-## [#4\. Freemake Video Converter](http://www.freemake.com/)
+## #4\. Freemake Video Converter
 
  This software includes different video editing features that can rotate MPG, ASF, WMV and AVI files in a convenient manner. It enables the users to rotate the video at any degree they want to rotate the file; they can save the file using either same or different file name. Direct video rotate functionalities are available for both compressed and uncompressed AVI files.
 
@@ -1392,7 +1392,7 @@ Shaky footage is almost inescapable once you go handheld. If you don't have a ma
 * Limited editing abilities;
 * Few Extra Features.
 
-## [#5\. Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## #5\. Any Video Converter
 
  Any Video Converter is a compatible tool that supports different video formats including AVI, MOV, MPG and WMV files. It is recognized as one of the most useful video rotating software that comes with many features including the choice of rotation; it enables the users to rotate the file at 90, 180 ad 270 degrees with ease. Its user friendly interface and quality output have attracted the users in an efficient and effective manner.
 
@@ -1434,7 +1434,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Avidemux](http://avidemux-mswin.sourceforge.net/)
+## #1\. Avidemux
 
  Besides cutting and filtering video files, Avidemux allows the users to flip and rotate the video file with ease. It supports popular video formats like MPEG, AVI, WMV, MOV and many more. It allows the user to set audio codec, video dimension and quality to get the desired output. Avidemux has made it's easier to add a video file and make changes using various options available in the menu tab.
 
@@ -1449,7 +1449,7 @@ Follow @Ollie Mattison
 
 * Outdated interface.
 
-## [#2\. Video Rotator](http://www.videorotator.com/index.html)
+## #2\. Video Rotator
 
  Video rotator is easy to use software that offers a particular task to perform which is none other than video rotation. The user can easily use its drag and drop menu to select and rotate the video. It takes multiple video formats as input and produces output in the specified format. It fixes the orientation and preserves high video quality.
 
@@ -1467,7 +1467,7 @@ Follow @Ollie Mattison
 * Crashed occasionally;
 * Few editing controls.
 
-## [#3\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #3\. Free Video Flip and Rotate
 
  Free video flip and rotate is a handy application that allows he users to rotate the video files in multiple formats like AVI, WMV and MPG. However, it takes input files in multiple formats but supports only AVI format as output. It has a preview screen that offers various playback buttons on it. The user can use this software individually or can also install applications suite free of cost.
 
@@ -1484,7 +1484,7 @@ Follow @Ollie Mattison
 * Cannot create presets;
 * AVI output only.
 
-## [#4\. Freemake Video Converter](http://www.freemake.com/)
+## #4\. Freemake Video Converter
 
  This software includes different video editing features that can rotate MPG, ASF, WMV and AVI files in a convenient manner. It enables the users to rotate the video at any degree they want to rotate the file; they can save the file using either same or different file name. Direct video rotate functionalities are available for both compressed and uncompressed AVI files.
 
@@ -1501,7 +1501,7 @@ Follow @Ollie Mattison
 * Limited editing abilities;
 * Few Extra Features.
 
-## [#5\. Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## #5\. Any Video Converter
 
  Any Video Converter is a compatible tool that supports different video formats including AVI, MOV, MPG and WMV files. It is recognized as one of the most useful video rotating software that comes with many features including the choice of rotation; it enables the users to rotate the file at 90, 180 ad 270 degrees with ease. Its user friendly interface and quality output have attracted the users in an efficient and effective manner.
 
@@ -1543,7 +1543,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Avidemux](http://avidemux-mswin.sourceforge.net/)
+## #1\. Avidemux
 
  Besides cutting and filtering video files, Avidemux allows the users to flip and rotate the video file with ease. It supports popular video formats like MPEG, AVI, WMV, MOV and many more. It allows the user to set audio codec, video dimension and quality to get the desired output. Avidemux has made it's easier to add a video file and make changes using various options available in the menu tab.
 
@@ -1558,7 +1558,7 @@ Follow @Ollie Mattison
 
 * Outdated interface.
 
-## [#2\. Video Rotator](http://www.videorotator.com/index.html)
+## #2\. Video Rotator
 
  Video rotator is easy to use software that offers a particular task to perform which is none other than video rotation. The user can easily use its drag and drop menu to select and rotate the video. It takes multiple video formats as input and produces output in the specified format. It fixes the orientation and preserves high video quality.
 
@@ -1576,7 +1576,7 @@ Follow @Ollie Mattison
 * Crashed occasionally;
 * Few editing controls.
 
-## [#3\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #3\. Free Video Flip and Rotate
 
  Free video flip and rotate is a handy application that allows he users to rotate the video files in multiple formats like AVI, WMV and MPG. However, it takes input files in multiple formats but supports only AVI format as output. It has a preview screen that offers various playback buttons on it. The user can use this software individually or can also install applications suite free of cost.
 
@@ -1593,7 +1593,7 @@ Follow @Ollie Mattison
 * Cannot create presets;
 * AVI output only.
 
-## [#4\. Freemake Video Converter](http://www.freemake.com/)
+## #4\. Freemake Video Converter
 
  This software includes different video editing features that can rotate MPG, ASF, WMV and AVI files in a convenient manner. It enables the users to rotate the video at any degree they want to rotate the file; they can save the file using either same or different file name. Direct video rotate functionalities are available for both compressed and uncompressed AVI files.
 
@@ -1610,7 +1610,7 @@ Follow @Ollie Mattison
 * Limited editing abilities;
 * Few Extra Features.
 
-## [#5\. Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## #5\. Any Video Converter
 
  Any Video Converter is a compatible tool that supports different video formats including AVI, MOV, MPG and WMV files. It is recognized as one of the most useful video rotating software that comes with many features including the choice of rotation; it enables the users to rotate the file at 90, 180 ad 270 degrees with ease. Its user friendly interface and quality output have attracted the users in an efficient and effective manner.
 
@@ -1652,7 +1652,7 @@ Follow @Ollie Mattison
 * [Any Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Avidemux](http://avidemux-mswin.sourceforge.net/)
+## #1\. Avidemux
 
  Besides cutting and filtering video files, Avidemux allows the users to flip and rotate the video file with ease. It supports popular video formats like MPEG, AVI, WMV, MOV and many more. It allows the user to set audio codec, video dimension and quality to get the desired output. Avidemux has made it's easier to add a video file and make changes using various options available in the menu tab.
 
@@ -1667,7 +1667,7 @@ Follow @Ollie Mattison
 
 * Outdated interface.
 
-## [#2\. Video Rotator](http://www.videorotator.com/index.html)
+## #2\. Video Rotator
 
  Video rotator is easy to use software that offers a particular task to perform which is none other than video rotation. The user can easily use its drag and drop menu to select and rotate the video. It takes multiple video formats as input and produces output in the specified format. It fixes the orientation and preserves high video quality.
 
@@ -1685,7 +1685,7 @@ Follow @Ollie Mattison
 * Crashed occasionally;
 * Few editing controls.
 
-## [#3\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #3\. Free Video Flip and Rotate
 
  Free video flip and rotate is a handy application that allows he users to rotate the video files in multiple formats like AVI, WMV and MPG. However, it takes input files in multiple formats but supports only AVI format as output. It has a preview screen that offers various playback buttons on it. The user can use this software individually or can also install applications suite free of cost.
 
@@ -1702,7 +1702,7 @@ Follow @Ollie Mattison
 * Cannot create presets;
 * AVI output only.
 
-## [#4\. Freemake Video Converter](http://www.freemake.com/)
+## #4\. Freemake Video Converter
 
  This software includes different video editing features that can rotate MPG, ASF, WMV and AVI files in a convenient manner. It enables the users to rotate the video at any degree they want to rotate the file; they can save the file using either same or different file name. Direct video rotate functionalities are available for both compressed and uncompressed AVI files.
 
@@ -1719,7 +1719,7 @@ Follow @Ollie Mattison
 * Limited editing abilities;
 * Few Extra Features.
 
-## [#5\. Any Video Converter](http://www.any-video-converter.com/products/for%5Fvideo%5Ffree/)
+## #5\. Any Video Converter
 
  Any Video Converter is a compatible tool that supports different video formats including AVI, MOV, MPG and WMV files. It is recognized as one of the most useful video rotating software that comes with many features including the choice of rotation; it enables the users to rotate the file at 90, 180 ad 270 degrees with ease. Its user friendly interface and quality output have attracted the users in an efficient and effective manner.
 

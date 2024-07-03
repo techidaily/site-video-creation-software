@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Unlock the Power of Slow Motion in Windows Live Movie Maker (Updated 2023)
-date: 2024-04-29T12:49:41.813Z
-updated: 2024-04-30T12:49:41.813Z
+date: 2024-07-02T22:24:39.694Z
+updated: 2024-07-03T22:24:39.694Z
 tags: 
   - video editing software
   - video editing
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New 2024 Approved Unlock the Power of Slow Motion in Windows Live Movie Maker (Updated 2023)
 excerpt: This Article Describes New 2024 Approved Unlock the Power of Slow Motion in Windows Live Movie Maker (Updated 2023)
 keywords: unlock the power of slow motion a beginners guide to windows live movie maker,slow motion magic unlocking the power of windows live movie maker,unlock the power of slow motion in windows live movie maker updated 2023,the ultimate guide to slow motion in windows live movie maker,slow down time using slow motion effects in windows live movie maker 2023,from fast to slow mastering the art of slow motion in windows live movie maker,the art of slow motion tips and tricks for windows live movie maker users
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Unlock the Power of Slow Motion in Windows Live Movie Maker (Updated 2023)
@@ -198,7 +198,7 @@ As mentioned earlier that movie intros are very important. Intros have a signifi
 
 To avoid all such situations and make attractive movie intros let's discuss 6 movie intro makers with you. Without any further delay, let’s get started.
 
-### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+### 1\. Wondershare Filmora
 
 ![filmora intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-1.jpg)
 
@@ -221,7 +221,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -234,7 +234,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -247,7 +247,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -260,7 +260,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -273,7 +273,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -311,7 +311,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -324,7 +324,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -337,7 +337,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -350,7 +350,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -363,7 +363,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -401,7 +401,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -414,7 +414,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -427,7 +427,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -440,7 +440,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -453,7 +453,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -491,7 +491,7 @@ With Filmora Movie Intro Maker, you can create phenomenal intros. Using these fe
 * It has a very simple interface that everyone can easily understand.
 * Wondershare Filmora is available for both Windows and macOS.
 
-### 2\. [Renderforest](https://www.renderforest.com/)
+### 2\. Renderforest
 
 ![renderforest online tool](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-2.jpg)
 
@@ -504,7 +504,7 @@ The best thing about Renderforest is that it has a free intro maker package. Wit
 * With Renderforest and its complete customization feature, you can create attractive and unique movie intros.
 * You can modify the lighting, speed, and animation with Renderforest.
 
-### 3\. [Final Cut Pro X](https://www.apple.com/final-cut-pro/)
+### 3\. Final Cut Pro X
 
 ![final cut pro x design](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-3.jpg)
 
@@ -517,7 +517,7 @@ The software is a leading editor in the industry today. Unlike other makers, you
 * Final Cut Pro X comes with a 90-day trial which is fairly enough to play with it and learn about it.
 * A key feature of editors that either make or break it is their interface. The Final Cut Pro X case has a very intuitive interface.
 
-### 4\. [Biteable](https://biteable.com/)
+### 4\. Biteable
 
 ![bitable online editor](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-4.jpg)
 
@@ -530,7 +530,7 @@ Biteable has a text editor. As well as the editor holds a bunch of stock footage
 * The best part about Biteable is its speed and the level of ease. It has a simple interface that helps beginners understand things easily.
 * Biteable has 2D intros that have very good quality that can attract anyone.
 
-### 5\. [Panzoid](https://panzoid.com/)
+### 5\. Panzoid
 
 ![panzoid editor interface](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-5.jpg)
 
@@ -543,7 +543,7 @@ Panzoid has an online community with which its users create custom content. With
 * Panzoid is completely free along with that the tools are also free.
 * It lets you add your favorite graphic, image, and music to make interesting movie intros.
 
-### 6\. [LightMV](https://lightmv.com/)
+### 6\. LightMV
 
 ![lightmv intro maker](https://images.wondershare.com/filmora/article-images/2021/movie-intro-maker-6.jpg)
 
@@ -578,7 +578,7 @@ Detailed tutorials provided by the official channel
 
 ## Say Goodbye to Black Bars: Amazon Prime Video Aspect Ratio Solutions
 
-##### [Filmora Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Video Editor
 
 Adjust the aspect ratio of Amazon Prime Video in an easy way!
 
@@ -646,7 +646,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -764,7 +764,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -882,7 +882,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1000,7 +1000,7 @@ As per Amazon video direct mentioned aspect ratio criteria, is as follows:
 
 **●** 2.20:1 (Film standard)
 
-**●** 2.40:1( Blu-Ray films- resolution of 1920X800)
+**●** 2.40:1(Blu-Ray films- resolution of 1920X800)
 
 **●** 1.85:1 (the UK, US widescreen releases)
 
@@ -1086,13 +1086,13 @@ Fortunately, there are a number of simple, free tools that you can easily correc
 * [Freemake Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Filmora for iOS](https://app.adjust.com/w06dr6m%5F19za1f6)
+## #1\. Filmora for iOS
 
 Filmora for iOS is a free video editing app running on iOS system. It is one of the best free iPhone video editors you can find on the market. Primarily, this is a full featured editing program that allows you to cut/trim videos, merge videos, add video effects/sound effects to your videos, add background music etc easily and quickly. However, it can also rotate video clips 90 degrees either clockwise or counter-clockwise.
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-## [#2\. iMovie](http://movierotator.com/)
+## #2\. iMovie
 
 One of the most successful of the video rotating programs, iMovie lets you pull in different video clips, edit, rotate and create what you want simply and easily for your iPhone and other Apple devices. This is a complete system that will have you taking all types of videos to create full length films and even trailers as well.
 
@@ -1106,7 +1106,7 @@ One of the most successful of the video rotating programs, iMovie lets you pull 
 
 * Somewhat complicated.
 
-## [#3\. Video Rotator](http://www.videorotator.com/index.html)
+## #3\. Video Rotator
 
 As the name implies, you can rotate video with this free software program. It can handle a number of popular formats and let you turn videos 90 degrees either clockwise or counter-clockwise. In addition, the controls are simple and easy to follow, allowing you to make quick changes when needed. In fact, just a click of the button will let you turn a video instantly.
 
@@ -1124,7 +1124,7 @@ As the name implies, you can rotate video with this free software program. It ca
 * Crashed occasionally;
 * Few editing controls.
 
-## [#4\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #4\. Free Video Flip and Rotate
 
 As the name implies, this is a fairly straightforward tool to flip and rotate the video into pre-determined positions. You can choose 90 and 180 in a clockwise or counter-clockwise fashion. Plus, you can flip the video horizontally as well.
 
@@ -1141,7 +1141,7 @@ As the name implies, this is a fairly straightforward tool to flip and rotate th
 * Cannot create presets;
 * AVI output only.
 
-## [#5\. Freemake Video Converter](http://www.freemake.com/)
+## #5\. Freemake Video Converter
 
 This free and complete version supports over 250 video formats from MP4 to FLV, DVD and more. You also get a basic video editor as well that allows you to easily flip and rotate videos on your iPhone. With the Freemake, you can go 90 to 180 degrees clockwise or 90 degrees counter-clockwise.
 
@@ -1194,13 +1194,13 @@ Fortunately, there are a number of simple, free tools that you can easily correc
 * [Freemake Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Filmora for iOS](https://app.adjust.com/w06dr6m%5F19za1f6)
+## #1\. Filmora for iOS
 
 Filmora for iOS is a free video editing app running on iOS system. It is one of the best free iPhone video editors you can find on the market. Primarily, this is a full featured editing program that allows you to cut/trim videos, merge videos, add video effects/sound effects to your videos, add background music etc easily and quickly. However, it can also rotate video clips 90 degrees either clockwise or counter-clockwise.
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-## [#2\. iMovie](http://movierotator.com/)
+## #2\. iMovie
 
 One of the most successful of the video rotating programs, iMovie lets you pull in different video clips, edit, rotate and create what you want simply and easily for your iPhone and other Apple devices. This is a complete system that will have you taking all types of videos to create full length films and even trailers as well.
 
@@ -1214,7 +1214,7 @@ One of the most successful of the video rotating programs, iMovie lets you pull 
 
 * Somewhat complicated.
 
-## [#3\. Video Rotator](http://www.videorotator.com/index.html)
+## #3\. Video Rotator
 
 As the name implies, you can rotate video with this free software program. It can handle a number of popular formats and let you turn videos 90 degrees either clockwise or counter-clockwise. In addition, the controls are simple and easy to follow, allowing you to make quick changes when needed. In fact, just a click of the button will let you turn a video instantly.
 
@@ -1232,7 +1232,7 @@ As the name implies, you can rotate video with this free software program. It ca
 * Crashed occasionally;
 * Few editing controls.
 
-## [#4\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #4\. Free Video Flip and Rotate
 
 As the name implies, this is a fairly straightforward tool to flip and rotate the video into pre-determined positions. You can choose 90 and 180 in a clockwise or counter-clockwise fashion. Plus, you can flip the video horizontally as well.
 
@@ -1249,7 +1249,7 @@ As the name implies, this is a fairly straightforward tool to flip and rotate th
 * Cannot create presets;
 * AVI output only.
 
-## [#5\. Freemake Video Converter](http://www.freemake.com/)
+## #5\. Freemake Video Converter
 
 This free and complete version supports over 250 video formats from MP4 to FLV, DVD and more. You also get a basic video editor as well that allows you to easily flip and rotate videos on your iPhone. With the Freemake, you can go 90 to 180 degrees clockwise or 90 degrees counter-clockwise.
 
@@ -1302,13 +1302,13 @@ Fortunately, there are a number of simple, free tools that you can easily correc
 * [Freemake Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Filmora for iOS](https://app.adjust.com/w06dr6m%5F19za1f6)
+## #1\. Filmora for iOS
 
 Filmora for iOS is a free video editing app running on iOS system. It is one of the best free iPhone video editors you can find on the market. Primarily, this is a full featured editing program that allows you to cut/trim videos, merge videos, add video effects/sound effects to your videos, add background music etc easily and quickly. However, it can also rotate video clips 90 degrees either clockwise or counter-clockwise.
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-## [#2\. iMovie](http://movierotator.com/)
+## #2\. iMovie
 
 One of the most successful of the video rotating programs, iMovie lets you pull in different video clips, edit, rotate and create what you want simply and easily for your iPhone and other Apple devices. This is a complete system that will have you taking all types of videos to create full length films and even trailers as well.
 
@@ -1322,7 +1322,7 @@ One of the most successful of the video rotating programs, iMovie lets you pull 
 
 * Somewhat complicated.
 
-## [#3\. Video Rotator](http://www.videorotator.com/index.html)
+## #3\. Video Rotator
 
 As the name implies, you can rotate video with this free software program. It can handle a number of popular formats and let you turn videos 90 degrees either clockwise or counter-clockwise. In addition, the controls are simple and easy to follow, allowing you to make quick changes when needed. In fact, just a click of the button will let you turn a video instantly.
 
@@ -1340,7 +1340,7 @@ As the name implies, you can rotate video with this free software program. It ca
 * Crashed occasionally;
 * Few editing controls.
 
-## [#4\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #4\. Free Video Flip and Rotate
 
 As the name implies, this is a fairly straightforward tool to flip and rotate the video into pre-determined positions. You can choose 90 and 180 in a clockwise or counter-clockwise fashion. Plus, you can flip the video horizontally as well.
 
@@ -1357,7 +1357,7 @@ As the name implies, this is a fairly straightforward tool to flip and rotate th
 * Cannot create presets;
 * AVI output only.
 
-## [#5\. Freemake Video Converter](http://www.freemake.com/)
+## #5\. Freemake Video Converter
 
 This free and complete version supports over 250 video formats from MP4 to FLV, DVD and more. You also get a basic video editor as well that allows you to easily flip and rotate videos on your iPhone. With the Freemake, you can go 90 to 180 degrees clockwise or 90 degrees counter-clockwise.
 
@@ -1410,13 +1410,13 @@ Fortunately, there are a number of simple, free tools that you can easily correc
 * [Freemake Video Converter](#tab%5F05)
 * [Recommended: Wondershare Filmora (originally Wondershare Video Editor)](#tab%5F06)
 
-## [#1\. Filmora for iOS](https://app.adjust.com/w06dr6m%5F19za1f6)
+## #1\. Filmora for iOS
 
 Filmora for iOS is a free video editing app running on iOS system. It is one of the best free iPhone video editors you can find on the market. Primarily, this is a full featured editing program that allows you to cut/trim videos, merge videos, add video effects/sound effects to your videos, add background music etc easily and quickly. However, it can also rotate video clips 90 degrees either clockwise or counter-clockwise.
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
-## [#2\. iMovie](http://movierotator.com/)
+## #2\. iMovie
 
 One of the most successful of the video rotating programs, iMovie lets you pull in different video clips, edit, rotate and create what you want simply and easily for your iPhone and other Apple devices. This is a complete system that will have you taking all types of videos to create full length films and even trailers as well.
 
@@ -1430,7 +1430,7 @@ One of the most successful of the video rotating programs, iMovie lets you pull 
 
 * Somewhat complicated.
 
-## [#3\. Video Rotator](http://www.videorotator.com/index.html)
+## #3\. Video Rotator
 
 As the name implies, you can rotate video with this free software program. It can handle a number of popular formats and let you turn videos 90 degrees either clockwise or counter-clockwise. In addition, the controls are simple and easy to follow, allowing you to make quick changes when needed. In fact, just a click of the button will let you turn a video instantly.
 
@@ -1448,7 +1448,7 @@ As the name implies, you can rotate video with this free software program. It ca
 * Crashed occasionally;
 * Few editing controls.
 
-## [#4\. Free Video Flip and Rotate](http://www.dvdvideosoft.com/products/dvd/Free-Video-Flip-and-Rotate.htm)
+## #4\. Free Video Flip and Rotate
 
 As the name implies, this is a fairly straightforward tool to flip and rotate the video into pre-determined positions. You can choose 90 and 180 in a clockwise or counter-clockwise fashion. Plus, you can flip the video horizontally as well.
 
@@ -1465,7 +1465,7 @@ As the name implies, this is a fairly straightforward tool to flip and rotate th
 * Cannot create presets;
 * AVI output only.
 
-## [#5\. Freemake Video Converter](http://www.freemake.com/)
+## #5\. Freemake Video Converter
 
 This free and complete version supports over 250 video formats from MP4 to FLV, DVD and more. You also get a basic video editor as well that allows you to easily flip and rotate videos on your iPhone. With the Freemake, you can go 90 to 180 degrees clockwise or 90 degrees counter-clockwise.
 

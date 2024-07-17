@@ -1,7 +1,7 @@
 ---
 title: New Adobe Premiere Pro Power User Master These 20 Shortcuts for 2024
-date: 2024-06-24T09:08:06.798Z
-updated: 2024-06-25T09:08:06.798Z
+date: 2024-07-16T07:55:39.792Z
+updated: 2024-07-17T07:55:39.792Z
 tags: 
   - video editing software
   - video editing
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -75,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -97,6 +106,14 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 * Arc Tool - A
 * Ellipse Tool – E
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -127,6 +144,9 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -167,6 +187,9 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -215,3 +238,51 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/everage-tags-a-step-by-step-youtube-tactical-guide/"><u>[New] Leverage Tags  A Step-by-Step YouTube Tactical Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-tiktok-integrating-audio-narration-with-videos/"><u>[Updated] Mastering TikTok  Integrating Audio Narration with Videos</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-boosting-views-on-tiktok-the-years-most-influential-font-generator/"><u>2024 Approved  Boosting Views on TikTok  The Year's Most Influential Font Generator</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-viral-video-legends-youtubed-for-millions/"><u>2024 Approved  Viral Video Legends  YouTubed for Millions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-itel-p55-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Itel P55 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/eyedome-recorder-chromeos-screen-snapshots/"><u>EyeDome Recorder  ChromeOS Screen Snapshots</u></a></li>
+<li><a href="https://review-topics.techidaily.com/huawei-data-recovery-recover-lost-data-from-huawei-nova-y71-by-fonelab-android-recover-data/"><u>Huawei Data Recovery – recover lost data from Huawei Nova Y71</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-creative-freedom-at-no-cost-top-free-audio-engineering-tools-of-the-year/"><u>In 2024, Creative Freedom at No Cost Top Free Audio Engineering Tools of the Year</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs/"><u>In 2024, Fantasy Realms Awaits  Ultimate List of No-Cost RPGs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-purestream-app-audit-report/"><u>In 2024, PureStream App Audit Report</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-supercharge-your-gaming-experience-the-best-free-voice-transformer-awaits/"><u>In 2024, Supercharge Your Gaming Experience - The Best Free Voice Transformer Awaits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-large-scale-tiktok-content-acquisition/"><u>In 2024, The Ultimate Guide to Large-Scale TikTok Content Acquisition</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-elevate-your-linkedin-game-mastering-video-aspect-ratios/"><u>New 2024 Approved Elevate Your LinkedIn Game Mastering Video Aspect Ratios</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-elevate-your-storytelling-advanced-video-editing-techniques-for-sony-camcorder-users/"><u>New 2024 Approved Elevate Your Storytelling Advanced Video Editing Techniques for Sony Camcorder Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-elevate-your-storytelling-easy-online-video-creation-with-wevideo/"><u>New 2024 Approved Elevate Your Storytelling Easy Online Video Creation with WeVideo</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-elevate-your-storytelling-microsoft-video-editor-for-windows-10-8-and-7-users/"><u>New 2024 Approved Elevate Your Storytelling Microsoft Video Editor for Windows 10, 8, and 7 Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-elevate-your-video-content-a-step-by-step-guide-to-3d-effects-on-windows/"><u>New 2024 Approved Elevate Your Video Content A Step-by-Step Guide to 3D Effects on Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-elevate-your-video-content-with-advanced-64-bit-editing-capabilities/"><u>New 2024 Approved Elevate Your Video Content with Advanced 64-Bit Editing Capabilities</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-elevate-your-video-editing-a-comprehensive-guide-to-using-the-ken-burns-effect-in-final-cut-pro/"><u>New 2024 Approved Elevate Your Video Editing A Comprehensive Guide to Using the Ken Burns Effect in Final Cut Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-elevate-your-video-editing-game-10-best-premiere-pro-transitions/"><u>New 2024 Approved Elevate Your Video Editing Game 10 Best Premiere Pro Transitions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-elevate-your-sound-10-best-professional-audio-editing-programs-for-2024/"><u>New Elevate Your Sound 10 Best Professional Audio Editing Programs for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-elevate-your-sound-the-10-most-powerful-audio-editing-software-for-2024/"><u>New Elevate Your Sound The 10 Most Powerful Audio Editing Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-elevate-your-storytelling-microsoft-video-editor-for-windows-10-8-and-7-users-for-2024/"><u>New Elevate Your Storytelling Microsoft Video Editor for Windows 10, 8, and 7 Users for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-elevate-your-video-content-a-guide-to-creating-3d-effects-on-windows-for-2024/"><u>New Elevate Your Video Content A Guide to Creating 3D Effects on Windows for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-elevate-your-video-content-with-advanced-64-bit-editing-capabilities-for-2024/"><u>New Elevate Your Video Content with Advanced 64-Bit Editing Capabilities for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-elevate-your-video-editing-game-10-best-premiere-pro-transitions-for-2024/"><u>New Elevate Your Video Editing Game 10 Best Premiere Pro Transitions for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-elevate-your-storytelling-advanced-nikon-video-editing-techniques/"><u>New In 2024, Elevate Your Storytelling Advanced Nikon Video Editing Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-elevate-your-storytelling-easy-online-video-creation-with-wevideo/"><u>New In 2024, Elevate Your Storytelling Easy Online Video Creation with WeVideo</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-elevate-your-video-editing-game-best-premiere-pro-transitions/"><u>New In 2024, Elevate Your Video Editing Game Best Premiere Pro Transitions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/step-by-step-your-path-to-excellent-video-tutorials/"><u>Step-by-Step  Your Path to Excellent Video Tutorials</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-elevate-your-soundtrack-2-audio-fade-techniques-in-final-cut-pro/"><u>Updated 2024 Approved Elevate Your Soundtrack 2 Audio Fade Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-elevate-your-storytelling-8-leading-mac-video-creators/"><u>Updated 2024 Approved Elevate Your Storytelling 8 Leading Mac Video Creators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-elevate-your-video-editing-game-top-premiere-pro-transition-plugins/"><u>Updated 2024 Approved Elevate Your Video Editing Game Top Premiere Pro Transition Plugins</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-essential-techniques-for-filtering-out-background-disturbances-in-digital-sound-recordings/"><u>Updated 2024 Approved Essential Techniques for Filtering Out Background Disturbances in Digital Sound Recordings</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-linkedin-video-strategy-with-optimized-aspect-ratios-for-2024/"><u>Updated Elevate Your LinkedIn Video Strategy with Optimized Aspect Ratios for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-mobile-videos-top-10-editing-apps-for-iphone-and-android-for-2024/"><u>Updated Elevate Your Mobile Videos Top 10 Editing Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-sound-the-10-most-powerful-audio-editing-software-for-2024/"><u>Updated Elevate Your Sound The 10 Most Powerful Audio Editing Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-storytelling-best-photo-slideshow-video-makers-for-2024/"><u>Updated Elevate Your Storytelling Best Photo Slideshow Video Makers for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-video-editing-a-comprehensive-guide-to-using-the-ken-burns-effect-in-final-cut-pro-for-2024/"><u>Updated Elevate Your Video Editing A Comprehensive Guide to Using the Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-sound-10-best-music-video-directors/"><u>Updated In 2024, Elevate Your Sound 10 Best Music Video Directors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-storytelling-easy-online-video-creation-with-wevideo/"><u>Updated In 2024, Elevate Your Storytelling Easy Online Video Creation with WeVideo</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook/"><u>Updated In 2024, Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-storytelling-how-to-create-engaging-hollywood-style-movies/"><u>Updated In 2024, Elevate Your Storytelling How to Create Engaging, Hollywood-Style Movies</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-video-editing-game-10-best-premiere-pro-transitions/"><u>Updated In 2024, Elevate Your Video Editing Game 10 Best Premiere Pro Transitions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-video-editing-game-best-premiere-pro-transitions/"><u>Updated In 2024, Elevate Your Video Editing Game Best Premiere Pro Transitions</u></a></li>
+</ul></div>

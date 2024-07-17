@@ -1,7 +1,7 @@
 ---
 title: New Fast Forward Your Videos A Beginners Guide to Time Lapse Photography for 2024
-date: 2024-07-02T22:25:06.651Z
-updated: 2024-07-03T22:25:06.651Z
+date: 2024-07-16T07:56:04.466Z
+updated: 2024-07-17T07:56:04.466Z
 tags: 
   - video editing software
   - video editing
@@ -53,12 +53,18 @@ If you wanna make a time lapse video with photos, you need set up your camera to
 
 [Tips for Recording Time Lapse Video on iPhone](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 1: Creating time lapse video from photos
 
 #### 1  Import the original photos to Filmora
 
 After installing and launch Filmora video editor, import the shot time lapse photos to it. Click **New Project** and then click the **Import** button to add your photos to the media library. You can also directly drag and drop your video to the program. Then all the imported files will appear as thumbnails in the left of the window.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![text overlay](https://images.wondershare.com/filmora/article-images/import-video-9.jpg)
 
 You can also import the photos from the video shooting device. Just plug in the video camera, click **Import from Phone or Camera** option in Import menu, and then transfer the target media files to Filmora.
@@ -73,6 +79,9 @@ After all your photos are placed in timeline, you can zoom in the timeline or pr
 
 Select one of the photos in the timeline and right click on it to select **Speed and Duration** to open the Custom Speed panel. Go to **Duration** section, and change the duration of the photo to 00:00:00:01 or other duration based on your needs, and then click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Photo Timelapse video](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 You can also add a background music to make time lapse more professional. You can choose a music sound from the built-in music library or import your own audio file.
@@ -83,6 +92,9 @@ Place the timeline playhead at the beginner, and play it in Preview window to ch
 
 If you want to save and play your video on iPhone, iPod, iPad and other devices, just switch to the **Device** tab and choose from the device list. What’s more, you can upload the newly made video file to all popular video sites such as YouTube and Vimeo directly from the interface of Filmora. Or turn to **DVD** tab to burn your video to DVD for playing on TV.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![text overlay software](https://images.wondershare.com/filmora/article-images/export-video-9.jpg)
 
 ## Method 2: Speed Up to Make a Time lapse Video
@@ -97,12 +109,18 @@ Just like importing photos to Filmora, follow the steps to import the video clip
 
 Next, drag your video onto the video column in the timeline. Select the loaded video and click the "Play" button. While playing the video, drag the slider bar at the start time and hit the "Split" icon to cut out the part you want to do time lapse editing.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add text overlay](https://images.wondershare.com/filmora/article-images/cut-part-9.jpg)
 
 #### 3 Speed up to create time lapse video
 
 Right click on the video clip in the timeline to select **Speed and Duration**. Then a window will pop up for you to adjust the settings of video. Find the **Speed** option and drag the slider bar to the right to increase the speed. If you set the playback speed to play at 200% the original speed, then the 30-second clip be only 15 seconds (twice the speed). After that click **OK**. Click the **Play** button to preview the result. Filmora now support up to 100x fast mo and 0.01x slow mo.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add text overlay](https://images.wondershare.com/filmora/article-images/custom-speed-panel.jpg)
 
 #### 4 Export your new time lapse video
@@ -131,3 +149,39 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-beyond-a-single-lens-discover-the-top-11-angle-capable-cams-for-2024/"><u>[Updated] Beyond a Single Lens  Discover the Top 11 Angle-Capable Cams for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-6-innovative-mc-house-concepts-for-community-living/"><u>[Updated] In 2024, 6 Innovative MC House Concepts for Community Living</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags-for-2024/"><u>[Updated] Taking the Plunge  A Beginner's Guide to Metaverse Memes and Gags for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-green-screen-magic-video-production-tips/"><u>2024 Approved  Unlocking Green Screen Magic  Video Production Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-oppo-a2-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Oppo A2 Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-apple-iphone-13-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On Apple iPhone 13 Pro? How to Fix it?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/discover-the-leading-podcast-hosting-sites-for-2024/"><u>Discover the Leading Podcast Hosting Sites for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-130-music-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Nokia 130 Music Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-learning-lifelines-top-ten-ways-for-a-better-future/"><u>Language Learning Lifelines: Top Ten Ways for a Better Future</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-free-online-video-editing-made-easy-a-jaycut-user-guide/"><u>New 2024 Approved Free Online Video Editing Made Easy A Jaycut User Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-free-security-camera-apps-10-top-rated-options-for-your-peace-of-mind/"><u>New 2024 Approved Free Security Camera Apps 10 Top-Rated Options for Your Peace of Mind</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-online-video-editing-tools-with-background-music-options/"><u>New In 2024, Free Online Video Editing Tools with Background Music Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-online-video-editors-with-music-and-effects/"><u>New In 2024, Free Online Video Editors with Music and Effects</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-photo-editing-tools-blur-backgrounds-with-ease/"><u>New In 2024, Free Photo Editing Tools Blur Backgrounds with Ease</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/quickly-locating-your-curated-music-compilation-on-youtube/"><u>Quickly Locating Your Curated Music Compilation on Youtube</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-graphics-driver-woes-of-r9-on-windows-10/"><u>Solving Graphics Driver Woes of R9 on Windows 10</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-creating-personalized-dvds-with-movie-making-software-for-2024/"><u>The Ultimate Guide to Creating Personalized DVDs with Movie Making Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-online-video-cutter-10-best-options-reviewed/"><u>Updated 2024 Approved Free Online Video Cutter 10 Best Options Reviewed</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-online-video-editors-like-imovie-top-picks/"><u>Updated 2024 Approved Free Online Video Editors Like iMovie Top Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-photo-editor-blur-background-online-with-these-tools/"><u>Updated 2024 Approved Free Photo Editor Blur Background Online with These Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-security-camera-apps-10-top-rated-options-for-your-peace-of-mind/"><u>Updated 2024 Approved Free Security Camera Apps 10 Top-Rated Options for Your Peace of Mind</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-and-paid-time-lapse-video-editors-a-comparative-analysis-for-2024/"><u>Updated Free & Paid Time-Lapse Video Editors A Comparative Analysis for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-online-video-cutter-10-best-options-reviewed-for-2024/"><u>Updated Free Online Video Cutter 10 Best Options Reviewed for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-online-video-flipper-no-download-or-installation-required-for-2024/"><u>Updated Free Online Video Flipper No Download or Installation Required for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-online-video-orientation-changer-best-options-for-2024/"><u>Updated Free Online Video Orientation Changer Best Options for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-and-paid-time-lapse-video-editors-a-comparative-analysis/"><u>Updated In 2024, Free & Paid Time-Lapse Video Editors A Comparative Analysis</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-online-video-editing-made-easy-a-jaycut-user-guide/"><u>Updated In 2024, Free Online Video Editing Made Easy A Jaycut User Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-online-video-makers-with-background-music-options/"><u>Updated In 2024, Free Online Video Makers with Background Music Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-online-video-orientation-changer-best-options/"><u>Updated In 2024, Free Online Video Orientation Changer Best Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-online-video-production-studios-top-9-options/"><u>Updated In 2024, Free Online Video Production Studios Top 9 Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-photo-editing-websites-to-remove-background-distractions/"><u>Updated In 2024, Free Photo Editing Websites to Remove Background Distractions</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: New FCP Hack How to Create a VHS Aesthetic in Minutes for 2024
-date: 2024-07-02T22:25:23.827Z
-updated: 2024-07-03T22:25:23.827Z
+date: 2024-07-16T07:56:22.777Z
+updated: 2024-07-17T07:56:22.777Z
 tags: 
   - video editing software
   - video editing
@@ -30,10 +30,16 @@ Fortunately, you don't have to reshoot your video using an analog camera and tra
 
 In this article, you will learn how to add VHS effects to a video in Final Cut Pro X, how to use VHS video effects, and some common VHS filter choices to use in your next project, so keep reading:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part1: How to do VHS effect in FCPX?
 
 A VHS effect is a textured, warped effect that looks like an outdated analog videotape cassette recording. Adding this antique effect to an edit adds a fantastic old-school discord. How often should you utilize these glitchy and vintage effects? When the mood you're trying to create begs for some visual or aural distortion. Perhaps you need to recreate the appearance of discovered film or express a dramatic flashback to a character's history. In any case, VHS tapes and glitch effects are pretty trendy right now.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
@@ -84,8 +90,14 @@ Click on Exposure and adjust the Highlights, Midtones, and Shadow. Go to the Sat
 
 After your video is rendered, you will get the final results using the VHS filter in Final Cut Pro. Your video will look like it was made in a VCR Video format.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -106,6 +118,9 @@ To do VHS effects quickly, follow these steps:
 * Drag and drop Credit 1 to your project timeline and pace it above the black image.
 * Stretch it all the way to the black image. Change all the text in it as you like.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select_end_credits](https://images.wondershare.com/filmora/images/final-cut-pro/select_end_credits.jpg)
 
 Go to Effect, and in the search bar, type **VHS**.
@@ -118,11 +133,17 @@ Go to Effect, and in the search bar, type **VHS**.
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
  Now search for the **Strong Glitch effect**.
@@ -131,6 +152,9 @@ Go to Effect, and in the search bar, type **VHS**.
 * Stretch it all the way across.
 * Change its Alpha value to 25 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
 Search for **Chromatic Aberration effect**.
@@ -140,6 +164,9 @@ Search for **Chromatic Aberration effect**.
 * Double click on it.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
 
  Now Search for **VCR Distortion** in the search bar.
@@ -209,3 +236,38 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>[New] 2024 Approved  Integrated Recorder Functions  Mate 10, 20 & P-Series (P20, P10) Phones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-seamlessly-share-tweets-as-video-on-instagram/"><u>[New] How To Seamlessly Share Tweets as Video on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-lightroom-lut-essentials-for-professional-imagery/"><u>[New] LightRoom LUT Essentials for Professional Imagery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-methods-to-resuscitate-windows-photo-viewer-on-latest-os/"><u>[New] Methods to Resuscitate Windows Photo Viewer on Latest OS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-ascend-your-earning-game-executing-a-three-part-blueprint-for-youtube-revenue-analysis/"><u>[Updated] 2024 Approved  Ascend Your Earning Game  Executing a Three-Part Blueprint for YouTube Revenue Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-video-crafting-for-the-modern-youtube-creator/"><u>[Updated] Video Crafting for the Modern YouTube Creator</u></a></li>
+<li><a href="https://extra-information.techidaily.com/av1-triumph-surpassing-vp9-performance-for-2024/"><u>AV1 Triumph  Surpassing VP9 Performance for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-2023-youtubers-handbook-for-rotated-content/"><u>In 2024, The Complete 2023 Youtuber's Handbook for Rotated Content</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-oppo-reno-11f-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Reno 11F 5G Device</u></a></li>
+<li><a href="https://win11.techidaily.com/master-the-art-of-fixing-black-screens-and-blank-cursors-on-win11/"><u>Master the Art of Fixing Black Screens & Blank Cursors on Win11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-instant-twitter-video-dimensions-aspect-ratio-insights/"><u>New 2024 Approved Get Instant Twitter Video Dimensions Aspect Ratio Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-more-out-of-fcpx-a-beginners-guide-to-freeing-up-storage-space-on-your-mac/"><u>New 2024 Approved Get More Out of FCPX A Beginners Guide to Freeing Up Storage Space on Your Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-moving-how-to-accelerate-video-playback-in-quicktime-player/"><u>New 2024 Approved Get Moving How to Accelerate Video Playback in QuickTime Player</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-noticed-10-exceptional-music-video-makers-for-emerging-artists/"><u>New 2024 Approved Get Noticed 10 Exceptional Music Video Makers for Emerging Artists</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-noticed-on-facebook-the-simple-guide-to-optimizing-your-video-aspect-ratios/"><u>New 2024 Approved Get Noticed on Facebook The Simple Guide to Optimizing Your Video Aspect Ratios</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-get-noticed-on-instagram-the-right-video-size-matters-for-2024/"><u>New Get Noticed on Instagram The Right Video Size Matters for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-instagram-sounds-as-mp3-easy-download-methods/"><u>New In 2024, Get Instagram Sounds as MP3 Easy Download Methods</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-instant-twitter-video-dimensions-aspect-ratio-insights/"><u>New In 2024, Get Instant Twitter Video Dimensions Aspect Ratio Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-more-out-of-fcpx-a-beginners-guide-to-freeing-up-storage-space-on-your-mac/"><u>New In 2024, Get More Out of FCPX A Beginners Guide to Freeing Up Storage Space on Your Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-moving-the-best-motion-tracking-apps-for-smartphones/"><u>New In 2024, Get Moving The Best Motion Tracking Apps for Smartphones</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-noticed-a-step-by-step-guide-to-perfect-social-media-image-sizes/"><u>New In 2024, Get Noticed A Step-by-Step Guide to Perfect Social Media Image Sizes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-noticed-on-facebook-the-simple-guide-to-optimizing-your-video-aspect-ratios/"><u>New In 2024, Get Noticed on Facebook The Simple Guide to Optimizing Your Video Aspect Ratios</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/tech-tip-turning-off-your-mic-in-zoom-conferences-across-platforms/"><u>Tech Tip Turning Off Your Mic in Zoom Conferences Across Platforms</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-get-lumafusion-for-mac-os-explore-alternative-video-editors/"><u>Updated 2024 Approved Get Lumafusion for Mac OS Explore Alternative Video Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-get-noticed-on-facebook-the-simple-guide-to-optimizing-your-video-aspect-ratios/"><u>Updated 2024 Approved Get Noticed on Facebook The Simple Guide to Optimizing Your Video Aspect Ratios</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-more-done-in-less-time-quicktime-player-video-speed-up-tips-for-2024/"><u>Updated Get More Done in Less Time QuickTime Player Video Speed Up Tips for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-moving-the-best-motion-tracking-apps-for-smartphones-for-2024/"><u>Updated Get Moving The Best Motion Tracking Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-noticed-20-stunning-adobe-premiere-intro-templates-free-to-download-for-2024/"><u>Updated Get Noticed 20 Stunning Adobe Premiere Intro Templates Free to Download for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-noticed-on-instagram-the-importance-of-choosing-the-right-video-dimensions-and-aspect-ratios-for-2024/"><u>Updated Get Noticed on Instagram The Importance of Choosing the Right Video Dimensions and Aspect Ratios for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-moving-10-best-free-video-speed-changer-apps-for-iphone-and-android/"><u>Updated In 2024, Get Moving 10 Best Free Video Speed Changer Apps for iPhone and Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-moving-with-the-best-free-video-speed-editor-apps-for-ios-and-android/"><u>Updated In 2024, Get Moving with the Best Free Video Speed Editor Apps for iOS and Android</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win10-achieved-ideal-screen-res/"><u>Win10: Achieved Ideal Screen Res</u></a></li>
+</ul></div>

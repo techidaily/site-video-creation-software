@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Premiere Pro Power User 20 Shortcuts to Save Time
-date: 2024-06-08T20:01:18.421Z
-updated: 2024-06-09T20:01:18.421Z
+date: 2024-07-16T07:52:44.462Z
+updated: 2024-07-17T07:52:44.462Z
 tags: 
   - video editing software
   - video editing
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -75,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -97,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 * Arc Tool - A
 * Ellipse Tool – E
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -127,6 +139,9 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -167,6 +182,9 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -215,3 +233,44 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ideal-top-7-video-apps-for-apple-devices/"><u>[New] 2024 Approved  Ideal Top 7 Video Apps for Apple Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-chill-and-thrills-highlighting-olympic-snowboard-cross-winners/"><u>[New] In 2024, Chill & Thrills  Highlighting Olympic Snowboard Cross Winners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-interpreting-single-photos-as-video-chronicles/"><u>[Updated] Interpreting Single Photos as Video Chronicles</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-11-pros-window-secrets/"><u>[Updated] Unlocking 11  Pro's Window Secrets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-blueprints-to-hiring-creative-cinematographers/"><u>2024 Approved  Blueprints to Hiring Creative Cinematographers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unleash-window-history-an-in-depth-look-at-springs-tech/"><u>2024 Approved  Unleash Window History  An In-Depth Look at Spring's Tech</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-complete-guide-to-reversing-tiktok-videos-tips-and-tricks/"><u>2024 Approved The Complete Guide to Reversing TikTok Videos Tips and Tricks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-cream-of-the-crop-top-video-editing-software/"><u>2024 Approved The Cream of the Crop Top Video Editing Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-easiest-video-editors-to-use-no-experience-needed/"><u>2024 Approved The Easiest Video Editors to Use (No Experience Needed)</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/a-full-review-of-leeming-lut-pro-for-2024/"><u>A Full Review of Leeming LUT Pro for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a25-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A25 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-poco-m6-pro-4g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Poco M6 Pro 4G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-golden-5-premier-macsierra-dvd-makers/"><u>In 2024, Golden 5  Premier MacSierra Dvd Makers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone SE?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-social-feast-tiktoks-10-sensational-food-moments/"><u>In 2024, Social Feast  TikTok's 10 Sensational Food Moments</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-complete-handbook-to-converting-audio-files-like-a-pro/"><u>In 2024, The Complete Handbook to Converting Audio Files Like a Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-cream-of-the-crop-10-exceptional-video-editing-programs/"><u>In 2024, The Cream of the Crop 10 Exceptional Video Editing Programs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-definitive-handbook-to-choosing-the-perfect-aiff-converter/"><u>In 2024, The Definitive Handbook to Choosing the Perfect Aiff Converter</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-complete-guide-to-facebook-video-aspect-ratios-a-one-stop-resource/"><u>New The Complete Guide to Facebook Video Aspect Ratios A One-Stop Resource</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-complete-guide-to-selecting-the-ideal-aiff-converter/"><u>New The Complete Guide to Selecting the Ideal Aiff Converter</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-conversion-pros-guide-top-12-audio-converters-for-professionals/"><u>New The Conversion Pros Guide Top 12 Audio Converters for Professionals</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-countdown-begins-3-simple-steps-to-fcpx-timer-success/"><u>New The Countdown Begins 3 Simple Steps to FCPX Timer Success</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-countdown-begins-a-step-by-step-guide-to-adding-timers-in-fcpx/"><u>New The Countdown Begins A Step-by-Step Guide to Adding Timers in FCPX</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-definitive-guide-to-facebook-video-aspect-ratios-what-you-need-to-know/"><u>New The Definitive Guide to Facebook Video Aspect Ratios What You Need to Know</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-complete-handbook-to-choosing-the-perfect-aiff-converter-for-2024/"><u>The Complete Handbook to Choosing the Perfect AIFF Converter for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-definitive-guide-to-choosing-a-video-editing-app-on-android-for-2024/"><u>The Definitive Guide to Choosing a Video Editing App on Android for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-details-below-can-help-you-make-color-correction-simply-in-final-cut-pro-for-2024/"><u>The Details Below Can Help You Make Color Correction Simply in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-dos-and-donts-of-converting-mp3-files-to-mp4-videos-for-2024/"><u>The Dos and Donts of Converting MP3 Files to MP4 Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-complete-guide-to-downloading-and-using-windows-movie-maker-for-free/"><u>Updated The Complete Guide to Downloading and Using Windows Movie Maker for Free</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-complete-handbook-of-youtube-audio-downloading/"><u>Updated The Complete Handbook of YouTube Audio Downloading</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-complete-handbook-to-converting-audio-files-like-a-pro/"><u>Updated The Complete Handbook to Converting Audio Files Like a Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-complete-resource-for-selecting-the-ideal-aiff-converter/"><u>Updated The Complete Resource for Selecting the Ideal AIFF Converter</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-complete-stop-motion-toolkit-software-tutorials-and-best-practices/"><u>Updated The Complete Stop Motion Toolkit Software, Tutorials, and Best Practices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-complete-xml-file-handbook-for-fcpx-users/"><u>Updated The Complete XML File Handbook for FCPX Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-conversion-pros-guide-top-12-audio-converters-for-professionals/"><u>Updated The Conversion Pros Guide Top 12 Audio Converters for Professionals</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-countdown-begins-3-simple-steps-to-fcpx-timer-success/"><u>Updated The Countdown Begins 3 Simple Steps to FCPX Timer Success</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-difference-is-in-the-details-final-cut-pro-vs-final-cut-express/"><u>Updated The Difference Is in the Details Final Cut Pro Vs. Final Cut Express</u></a></li>
+</ul></div>

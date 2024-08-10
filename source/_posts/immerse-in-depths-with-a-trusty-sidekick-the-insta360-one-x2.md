@@ -1,0 +1,226 @@
+---
+title: Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
+date: 2024-08-09T06:19:18.585Z
+updated: 2024-08-10T06:19:18.585Z
+categories:
+  - BestProducts
+description: This Article Describes Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
+excerpt: This Article Describes Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
+thumbnail: https://www.lifewire.com/thmb/ZSPG6uZDhit_U84RypZ4iQCpX3M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Insta360_One_X2_HeroSquare-80809b6088f0400baa121b1e7d14e4b1.jpg
+---
+
+## Maximize Your Safety on the Road with the Pruveeo 1080P Full HD Action Camera - Reviews Inside
+
+2.2
+
+## Pruveeo F5 FHD 1080P Dash Cam
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+![Pruveeo F5 FHD 1080P Dash Cam](https://www.lifewire.com/thmb/HxuX8Nh2m27bJICrrOKRxkDa_ZA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4149406-HeroSquare-d2d1dcc28b154c6a882988be1138b9e1.jpg)
+
+Lifewire / Andy Zahn
+
+ What We Like
+
+* Inexpensive
+* Functions reliably on a basic level
+* Retro early 21th century design
+
+ What We Don't Like
+
+* Cheap plastic design
+* Small, hard to see screen
+* Poor video quality
+* No Wi-Fi
+* Poor battery life
+
+ The Pruveeo F5 FHD 1080P Dash Cam is a dirt cheap camera that is only barely worth its low price.
+
+[View On Amazon](https://www.amazon.com/Pruveeo-F5-Dual-Camera-Driving-Recorder/dp/B01MRH8QCX?tag=lifewire-onsite-prod-20&ascsubtag=4773203%7Cn1881c1ff69b146d2871914bbb9ada1ce22%7CB01MRH8QCX)
+
+2.2
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Pruveeo F5 FHD 1080P Dash Cam
+
+![Pruveeo F5 FHD 1080P Dash Cam](https://www.lifewire.com/thmb/HralEtvgYYnUzQf18LIyFW3UhkU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4149406-HeroSquare-d2d1dcc28b154c6a882988be1138b9e1.jpg)
+
+Lifewire / Andy Zahn
+
+[View On Amazon](https://www.amazon.com/Pruveeo-F5-Dual-Camera-Driving-Recorder/dp/B01MRH8QCX?tag=lifewire-onsite-prod-20&ascsubtag=4773203%7Cn1881c1ff69b146d2871914bbb9ada1ce22%7CB01MRH8QCX)
+
+ in this article
+
+ Expand
+
+* [Design](https://coinrule.sjv.io/rqzonv)
+* [Setup Process](https://tokenmetrics.sjv.io/jrkzxp)
+* [Camera Quality](https://martinic.evyy.net/m5azrm)
+* [Performance](https://aspironcom.sjv.io/kj14en)
+* [Connectivity and software](https://newchic.sjv.io/jzg4zq)
+* [Price](https://copa.sjv.io/6eoowq)
+* [Competition](https://lenovo-in.zlvv.net/kj14kn)
+* [Final Verdict](https://bluettide.pxf.io/ekmjb2)
+* [Specs](https://turtlebeacheu.sjv.io/1r0r59)
+
+ _We purchased the Pruveeo F5 FHD 1080P Dash Cam so our expert reviewer could thoroughly test and assess it. Keep reading for our full product review._
+
+ A dash cam is not your typical camera, but rather one you never want to have to use, because if you do need to use it something has likely gone terribly wrong. At least with the Pruveeo F5 FHD 1080P Dash Cam you don’t have to spend much more than pocket change for the security that a backup cam provides.
+
+ Lifewire / Andy Zahn
+
+## **Design: Nostalgia trip**
+
+ The Pruveeo F5 gives the immediate impression that it was constructed some time in the previous decade. Anyone who bought a bargain bin MP3 player from the aughts will instantly recognize the cheap plastic shell, the glossy, chintzy buttons, and a screen that screams early 21st century in big neon letters.
+
+ Despite their antiquated design, the buttons are easy to operate, though their function is somewhat obtuse. The screen is truly tiny at just 1.5 inches, and very difficult to use, which paired with the subpar quality of the controls means navigating the on screen menu system is a pain. The screen’s also very prone to picking up scratches, dirt, and fingerprints.
+
+ The inclusion of a worse-than-useless audio port is bizarre and inexplicable.
+
+ Power is provided via an accessory socket adapter that plugs into the camera via a mini USB port that can also be used to transfer files. However, you’ll need to purchase a different mini USB cable for file transfer as the included cable is permanently affixed to the charger. You can run the camera off the built-in battery for a short time, but it’s only intended for emergencies and will only last a few minutes before the charge is depleted.
+
+ The camera angle can be adjusted by turning a small knob, but only very slightly, and the mechanism is difficult to operate. Also included is a cable management extension to the main body of the device which nearly doubles it in length. It seems unnecessary, as there’s only one cable and it’s not difficult to manage. Perhaps it’s to make the device look like part of the car by extending it up to the trim where you are presumably meant to route the cable around to your accessory port. We found it more convenient to just let the cable dangle straight down, which is less aesthetically pleasing but much more convenient and less difficult to install.
+
+ Lifewire / Andy Zahn
+
+## **Setup Process:** **Simple, but poorly described**
+
+ Setting up the Pruveeo F5 may not be a particularly complicated process, but it is complicated by the fact that the instruction manual doesn’t really tell you anything about the installation process. You’re mostly left to figure it out on your own.
+
+ Start by inserting the microSD card (class 10 is recommended), then stick the corresponding adhesive pads to the mounts and then the window. We found it very difficult to perfectly align the camera, but due to the very wide field of view it doesn’t need to be exactly right. We also only found it necessary to install one of the two adhesive pads, as the second is only for the cable management add on. The camera can be clipped and unclipped from the adhesive mounts for file transfer to a computer.
+
+ As mentioned, you can hide the cable along the edge of your windshield, but this is difficult to do and you risk damaging your interior. If you’re not up for this you can simply let the cable dangle, which we found most convenient.
+
+ Lastly, you just need to set the time and date, format your memory card, and you should be good to go. Those unfamiliar with cameras and other electronics may find the lack of adequate instructions frustrating and a real obstacle while installing and operating this device.
+
+ Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+## **Camera Quality: Extremely poor**
+
+ Every issue associated with a cheap camera is magnified in the Pruveeo F5\. It’s actually hard to know where to begin when describing the serious problems present in the footage this dash cam produces. Artifacting, noise, poor color, and a mushy, unclear appearance make reviewing the video from the Pruveeo F5 an almost painful experience. You won’t be using this to film your vacation.
+
+ Every issue associated with a cheap camera is magnified in the Pruveeo F5.
+
+ However, it’s important to realize that this is not what the Pruveeo F5 is built for, and that this is a tool more akin to a black box on an airplane than a traditional camera. It is more well suited for this purpose, if only slightly. The field of view ahead is wide enough, and you can tell roughly what is going on in the video, and even read license plates if they are close enough (a couple of feet). Though this camera is indeed terrible, it does its essential job, albeit at the most basic possible level. Surprisingly, it does not become so much worse while driving in low light conditions—perhaps because a camera can only be so bad.
+
+ Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## **Performance: Lackluster and very basic**
+
+ The F5 records video and audio poorly but reliably, and you can loop video so that old video is erased as new video is recorded, and lock important video clips to keep them from being erased by accident. Unlike other dash cams, this locking function must be triggered manually with a button press rather than automatically by collision sensors.
+
+ For some reason there’s also an audio jack, which is unmarked and unmentioned in the manual. You might think that this is meant for headphones, so that you can listen to videos you have recorded, but under no circumstances should you try to do this—not only will audio play through the speakers and not through your headphones, but as we found, an extremely loud buzzing noise will blast from the headphones. The inclusion of this worse-than-useless port is bizarre and inexplicable.
+
+ As Wi-Fi is not available, you have two options for transferring footage to other devices. You can either use a USB cable to plug the camera into a computer, or you can remove the microSD card and insert it directly into your computer.
+
+ Lifewire / Andy Zahn
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## **Connectivity and software: Mysteriously absent**
+
+ You will find in your instructions information on using Wi-Fi and a mobile app. However, as pointed out on Pruveeo’s Amazon storefront and on Pruveeo’s website, the feature has been removed from the F5\. This is not a death blow to the camera, but it severely limits its appeal compared to competing products. Without Wi-Fi and the companion app (GoPlus Cam), you can’t use the various features this enables. You can’t use your phone to remotely control the Pruveeo F5, use it as a viewfinder, download files to your phone, or change settings using a less frustrating interface than that built into the camera.
+
+## **Price: Cheap if below MSRP**
+
+ At its MSRP of $70 the Pruveeo F5 faces stiff competition, but fortunately it typically retails for about half that price, and in the $30-$50 range its a bargain. For around $40 it offers decent video capabilities and useful features despite its cheap exterior. Keep in mind that you must consider the price of a microSD card in the total cost, as one is necessary but not included.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## **Pruveeo F5 vs. Anker Roav C1**
+
+ The Anker Roav C1 offers far superior build quality, Wi-Fi connectivity, and a much better screen than the Pruveeo F5 at a similar MSRP. However, the Pruveeo F5 can be found for steeper discounts, and often retails for about half the price of the Anker C1\. That’s cheap enough that the many deficiencies of the Pruveeo F5 can be forgiven to some extent. Even with such a price difference we would still recommend the Anker C1 as a better value given the glut of flaws in quality and performance hamstringing the F5.
+
+[Anker Roav DashCam C1 Review](https://www.lifewire.com/anker-roav-dashcam-c1-review-4773139)
+
+ Final Verdict
+
+**Difficult to recommend.**
+
+ The only reason not to completely write off the Pruveeo F5 as hot garbage is how frequently it’s on sale, but enough at a discount it’s not a great product. It’s only barely possible, given its limited capabilities, to use this as an aid for insurance claims in case of accidents. For all its faults we did find it to be reliable, and the video it captures marginally acceptable for its purpose, but there are so many better options available for slightly more money.
+
+## Specs
+
+* Product Name  F5 FHD 1080P Dash Cam
+* Product Brand  Pruveeo
+* UPC  B01MQVYT8E
+* Price  $70.00
+* Product Dimensions  3.9 x 1.7 x 1.5 in.
+* Warranty  1 year
+* Recording Quality  FHD 1080P
+* Night vision  Low light sensitivity
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-step-by-step-approach-to-mastering-lut-utilization/"><u>[New] 2024 Approved  A Step-by-Step Approach to Mastering LUT Utilization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-7-multimedia-cameras-for-quality-live-streams-and-video-blogs/"><u>[New] 2024 Approved  Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-action-in-pixelation-top-3-strategies-for-sports-gameplay-recordings/"><u>[New] In 2024, Action in Pixelation  Top 3 Strategies for Sports Gameplay Recordings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-seeking-clarity-complete-accessibility-of-mutual-shared-materials-for-2024/"><u>[New] Seeking Clarity  Complete Accessibility of Mutual Shared Materials for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-the-art-of-rewinding-videos-for-2024/"><u>[Updated] Mastering Instagram  The Art of Rewinding Videos for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-smart-choice-essential-steps-in-upgrading-your-tech/"><u>2024 Approved  The Smart Choice  Essential Steps in Upgrading Your Tech</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-revenue-analysis-made-simple/"><u>2024 Approved  YouTube Revenue Analysis Made Simple</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/a-deep-dive-into-inshots-editing-proficiency-for-2024/"><u>A Deep Dive Into InShot's Editing Proficiency for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Google Pixel 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/designing-the-ideal-youtube-playlist-for-you-for-2024/"><u>Designing the Ideal YouTube Playlist for You for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-motorola-moto-g14-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Motorola Moto G14 FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Hot 40 Phone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-creative-with-these-free-video-special-effects-apps-for-ios-and-android/"><u>New 2024 Approved Get Creative with These Free Video Special Effects Apps for iOS and Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unleash-your-creativity-top-stop-motion-apps-for-ios-and-android-devices/"><u>New 2024 Approved Unleash Your Creativity Top Stop Motion Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-are-you-looking-for-an-interesting-dub-app-for-your-android-or-iphone-read-on-to-find-out-the-best-video-dubbing-app-from-our-list-of-funny-and-creative/"><u>New Are You Looking for an Interesting Dub App for Your Android or iPhone? Read on to Find Out the Best Video Dubbing App From Our List of Funny and Creative Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bend-reality-with-these-10-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>New Bend Reality with These 10 Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-best-time-lapse-video-editing-software/"><u>New Best Time-Lapse Video Editing Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bring-your-invitations-to-life-top-video-maker-apps-for-mobile/"><u>New Bring Your Invitations to Life Top Video Maker Apps for Mobile</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-download-filmora-for-free-safe-and-virus-free-methods/"><u>New Download Filmora for Free Safe and Virus-Free Methods</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-eliminate-unwanted-sound-a-step-by-step-guide-to-noise-reduction-in-fcpx-for-2024/"><u>New Eliminate Unwanted Sound A Step-by-Step Guide to Noise Reduction in FCPX for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-3d-animation-apps-for-android-and-iphone-a-comprehensive-guide-for-2024/"><u>New Free 3D Animation Apps for Android and iPhone A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-game-downloads-the-top-10-websites-you-need-to-know/"><u>New Free Game Downloads The Top 10 Websites You Need to Know</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-chromebook-linux-installation-tutorial-the-ultimate-guide/"><u>New In 2024, Chromebook Linux Installation Tutorial The Ultimate Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-mp4-video-editor-roundup-top-10-options/"><u>New In 2024, Free MP4 Video Editor Roundup Top 10 Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-game-recording-made-easy-3-options-for-every-gamer/"><u>New In 2024, Game Recording Made Easy 3 Options for Every Gamer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mov-video-trimming-made-easy-top-6-free-tools/"><u>New In 2024, MOV Video Trimming Made Easy Top 6 Free Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-smooth-cuts-ahead-3-ways-to-master-transitions-in-fcp/"><u>New In 2024, Smooth Cuts Ahead 3 Ways to Master Transitions in FCP</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mp4-editing-made-easy-on-os-x-mavericks-for-2024/"><u>New MP4 Editing Made Easy on OS X Mavericks for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mp4-video-editing-made-easy-a-beginners-guide-for-mac-and-windows/"><u>New MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-remove-filmora-logo-from-your-videos-easy-solutions/"><u>New Remove Filmora Logo From Your Videos Easy Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-art-of-time-manipulation-speeding-updown-videos-in-camtasia/"><u>New The Art of Time Manipulation Speeding Up/Down Videos in Camtasia</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-funniest-video-dubbing-apps-you-need-to-try-for-2024/"><u>New The Funniest Video Dubbing Apps You Need to Try for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-controlling-video-speed-in-quicktime-player/"><u>New The Ultimate Guide to Controlling Video Speed in QuickTime Player</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-10-best-free-webm-video-editors-for-2024/"><u>New Top 10 Best Free WebM Video Editors for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-5-best-free-iphone-video-rotators-for-2024/"><u>New Top 5 Best Free iPhone Video Rotators for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creative-potential-top-audio-editing-software-for-pros/"><u>New Unleash Your Creative Potential Top Audio Editing Software for Pros</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-advertising-trailer-production-platforms-for-2024/"><u>New Video Advertising Trailer Production Platforms for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-zero-cost-video-editing-solutions-top-14-picks-without-watermarks/"><u>New Zero-Cost Video Editing Solutions Top 14 Picks Without Watermarks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-best-of-the-best-lego-stop-motion-creators/"><u>The Best of the Best Lego Stop Motion Creators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-ultimate-list-14-free-video-editing-software-with-no-watermark/"><u>The Ultimate List 14 Free Video Editing Software with No Watermark</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-motion-detection-apps-for-mobile-devices/"><u>Top Motion Detection Apps for Mobile Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-video-editing-apps-for-chromebook-users/"><u>Top Video Editing Apps for Chromebook Users</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
-date: 2024-08-09T06:19:18.585Z
-updated: 2024-08-10T06:19:18.585Z
+date: 2024-09-03T23:56:42.973Z
+updated: 2024-09-04T23:56:42.973Z
 categories:
   - BestProducts
 description: This Article Describes Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
@@ -15,9 +15,6 @@ thumbnail: https://www.lifewire.com/thmb/ZSPG6uZDhit_U84RypZ4iQCpX3M=/400x300/fi
 
 ## Pruveeo F5 FHD 1080P Dash Cam
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Pruveeo F5 FHD 1080P Dash Cam](https://www.lifewire.com/thmb/HxuX8Nh2m27bJICrrOKRxkDa_ZA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4149406-HeroSquare-d2d1dcc28b154c6a882988be1138b9e1.jpg)
 
 Lifewire / Andy Zahn
@@ -42,9 +39,6 @@ Lifewire / Andy Zahn
 
 2.2
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pruveeo F5 FHD 1080P Dash Cam
 
 ![Pruveeo F5 FHD 1080P Dash Cam](https://www.lifewire.com/thmb/HralEtvgYYnUzQf18LIyFW3UhkU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4149406-HeroSquare-d2d1dcc28b154c6a882988be1138b9e1.jpg)
@@ -73,6 +67,12 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Nostalgia trip**
 
  The Pruveeo F5 gives the immediate impression that it was constructed some time in the previous decade. Anyone who bought a bargain bin MP3 player from the aughts will instantly recognize the cheap plastic shell, the glossy, chintzy buttons, and a screen that screams early 21st century in big neon letters.
@@ -87,6 +87,18 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process:** **Simple, but poorly described**
 
  Setting up the Pruveeo F5 may not be a particularly complicated process, but it is complicated by the fact that the instruction manual doesn’t really tell you anything about the installation process. You’re mostly left to figure it out on your own.
@@ -100,7 +112,10 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Camera Quality: Extremely poor**
 
@@ -112,10 +127,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## **Performance: Lackluster and very basic**
 
  The F5 records video and audio poorly but reliably, and you can loop video so that old video is erased as new video is recorded, and lock important video clips to keep them from being erased by accident. Unlike other dash cams, this locking function must be triggered manually with a button press rather than automatically by collision sensors.
@@ -127,18 +138,30 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Connectivity and software: Mysteriously absent**
 
  You will find in your instructions information on using Wi-Fi and a mobile app. However, as pointed out on Pruveeo’s Amazon storefront and on Pruveeo’s website, the feature has been removed from the F5\. This is not a death blow to the camera, but it severely limits its appeal compared to competing products. Without Wi-Fi and the companion app (GoPlus Cam), you can’t use the various features this enables. You can’t use your phone to remotely control the Pruveeo F5, use it as a viewfinder, download files to your phone, or change settings using a less frustrating interface than that built into the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Cheap if below MSRP**
 
  At its MSRP of $70 the Pruveeo F5 faces stiff competition, but fortunately it typically retails for about half that price, and in the $30-$50 range its a bargain. For around $40 it offers decent video capabilities and useful features despite its cheap exterior. Keep in mind that you must consider the price of a microSD card in the total cost, as one is necessary but not included.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Pruveeo F5 vs. Anker Roav C1**
 

@@ -1,7 +1,7 @@
 ---
 title: "Success Story: Fixing the Non-Launch Problem for PC Gamers in Far Cry 6"
-date: 2024-09-03T23:56:42.841Z
-updated: 2024-09-04T23:56:42.841Z
+date: 2024-09-09T00:54:54.890Z
+updated: 2024-09-10T00:54:54.890Z
 tags:
   - win11
   - win10
@@ -23,6 +23,12 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Re-enable DirectX 12 mode](https://tools.techidaily.com/drivereasy/download/)
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Disable DirectX 12 mode
 
  For most players getting stuck at the “Optimizing Shaders” screen, you won’t be able to get to your main menu and see the**OPTIONS** screen. But you can change the DirectX mode by editing the bootup file. Here’s how:
@@ -31,6 +37,12 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![STAR WARS Battlefront II installation file](https://images.drivereasy.com/wp-content/uploads/2021/01/game-installation-file.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Inside of it, open the folder**settings** .
 
  3) Now double-click**BootOptions** and select**Notepad** .  
@@ -49,12 +61,24 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
  3) Press the**Windows logo key** and**R** at the same time to open the File Explorer. Then click**Documents** . And open the file**STAR WARS Battlefront II** . Double-click**BootOptions** and open it with**Notepad** .
@@ -63,19 +87,19 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) Click**File > Save** to save the changes.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Why disabling DirectX 12 works
 

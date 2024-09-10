@@ -1,7 +1,7 @@
 ---
 title: Updated Video Editing Made Easy A Windows Movie Maker Crash Course
-date: 2024-09-03T23:56:44.581Z
-updated: 2024-09-04T23:56:44.581Z
+date: 2024-09-09T00:54:56.658Z
+updated: 2024-09-10T00:54:56.658Z
 tags: 
   - video editing software
   - video editing
@@ -14,12 +14,24 @@ keywords: unleash your creativity top mac video editing software like windows mo
 thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4255ce54480ebe44b63f8c8e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Video Editing Made Easy: A Windows Movie Maker Crash Course
 
 # How to Edit Videos in Windows Live Movie Maker
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Ollie Mattison
 
  Mar 27, 2024• Proven solutions
@@ -38,12 +50,24 @@ Windows Live Movie Maker is a little bit limiting for video editing. In most cas
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Edit Videos in Windows Live Movie Maker \[Step by Step\]
 
 #### 1.Add Videos and Photos
 
 ![edit videos in windows live movie maker](https://images.wondershare.com/topic/video-editing/windows-live-movie-maker-start.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 While you are adding videos to Windows Live Movie Maker, you may encounter a problem like 3GP files can't be added to Windows Live Movie Maker. Or it can't be played in Window Live Movie Maker. And many other video files as well, such as RM, RMVB, DAT and HD video formats: MTS, TS, HD MKV, HD WMV, and HD MOV, etc. It's quite necessary to get familiar with what all those files that could be imported to Windows Live Movie Maker.
 
 ![ edit video using windows live movie maker ](https://images.wondershare.com/images/edit-videos-in-windows-live-movie-maker.jpg)
@@ -66,6 +90,12 @@ As we said before, Windows Live Movie Maker (later named Windows Movie Maker) is
 
 ![Windows Movie Maker Edit](https://images.wondershare.com/filmora/article-images/windows-movie-maker-edit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Cut & Trim & Split video in Windows Movie Maker**
 
 After adding videos and photos to the storyboard, you can now keep the useful sections and remove unwanted parts. To trim video, just place the playhead to the target position and right click the clip to select the Trim Set Start Point and move the playhead again to then end point and right click to select Set End Point. You can also go to the Edit tab and click the Split menu to split the video into parts. You can then delete and cut out unwanted sections or move it to the proper position.
@@ -76,6 +106,12 @@ Windows Movie Maker also allows you to add narrations and background music to vi
 
 ![Windows Movie Maker Edit Add music](https://images.wondershare.com/filmora/article-images/add-music-windows-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Add auto movie themes to Video**
 
 There is a built-in AutoMovie themes library in Movie Maker. You can use some popular themes such as Contemporary, Cinematic, Fade, Pan and Zoom, Black and White and Sepia.
@@ -173,9 +209,3 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

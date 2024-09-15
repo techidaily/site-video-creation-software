@@ -1,7 +1,7 @@
 ---
 title: Updated Mastering Titles in FCPX Essential Skills for Video Editors for 2024
-date: 2024-09-09T00:54:57.100Z
-updated: 2024-09-10T00:54:57.100Z
+date: 2024-09-12T22:31:10.151Z
+updated: 2024-09-14T20:37:38.856Z
 tags: 
   - video editing software
   - video editing
@@ -14,24 +14,12 @@ keywords: 8 essential video metadata editors for mac users updated 2023,masterin
 thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625c6e0b9ad212abd473aa163b.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Mastering Titles in FCPX: Essential Skills for Video Editors
 
 # How to Add Titles in Final Cut Pro X
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
@@ -44,12 +32,6 @@ This is a basic tutorial about Apple Final Cut Pro X, professional video editing
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 Final Cut Pro X has almost 200 different text effects that we can add, but the process of adding titles is essentially the same. Adding titles is what this article is about.
@@ -68,24 +50,12 @@ Just to keep us all on the same page, here are my definitions of key terms relat
 
 ![remote](https://images.wondershare.com/multimedia/titles001.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 I'd like to introduce "Yertle," he's a sea turtle and the star of this article. (Footage courtesy of Jim Walker and Lobsters Gone Wild Productions.)
 
 At its simplest, we use titles to display his (its?) name.
 
 ![remote](https://images.wondershare.com/multimedia/titles002.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
 
 ![remote](https://images.wondershare.com/multimedia/titles003.jpg)
@@ -100,18 +70,6 @@ Select that title and delete it by pressing the Delete key.
 
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
 
 ![remote](https://images.wondershare.com/multimedia/titles005.jpg)
@@ -128,30 +86,12 @@ Click the Title icon in the Toolbar. This displays the contents of the Title Bro
 
 ![remote](https://images.wondershare.com/multimedia/titles007.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Let's add a totally ridiculous title to our turtle - drag Clouds from the Title Browser and place it above the clip at the point where you want a title to appear.
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
 
 So, we:
@@ -166,18 +106,6 @@ So, we:
 
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
 
 NOTE: We can also change the text using the Inspector. I'll show you how in a few paragraphs. Pick whichever method is easiest for you.
@@ -220,12 +148,6 @@ However, I STRONGLY recommend adding drop shadows to all text that you want view
 
 ![remote](https://images.wondershare.com/multimedia/titles014.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After making a few changes in the Inspector, here's the final result. Very cool - and very different from where we started!
 
 #### ACTION SAFE/TITLE SAFE ZONES
@@ -260,50 +182,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-visual-voyage-documenting-desktop-views-on-winos/"><u>[New] In 2024, Visual Voyage  Documenting Desktop Views on WinOS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-tier-camera-setups-reviewed-for-new-windows-11-users/"><u>[New] Top-Tier Camera Setups Reviewed for New Windows 11 Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-powerdirector-a-compreran-review-and-tutorial/"><u>[New] Unlocking PowerDirector  A Compreran Review & Tutorial</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-investment-selecting-the-top-5-pro-drones/"><u>[Updated] Best Investment - Selecting the Top 5 Pro Drones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-dissecting-apowersoft-an-in-depth-screen-recorder-study-for-2024/"><u>[Updated] Dissecting Apowersoft  An In-Depth Screen Recorder Study for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-precision-play-mastering-steams-switch-controllers/"><u>[Updated] In 2024, Precision Play  Mastering Steam's Switch Controllers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-revenue-demystified/"><u>[Updated] In 2024, YouTube Revenue Demystified</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-streamlining-your-editing-workflow-with-final-cut-pro-tips/"><u>[Updated] Streamlining Your Editing Workflow with Final Cut Pro Tips</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 8 Plus | Stellar</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721202588752-bitraser-prodrive-cleaner-shop-now-and-securely-delete-drives/"><u>BitRaser ProDrive Cleaner – Shop Now & Securely Delete Drives!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/fusing-live-streams-combining-cameras-plus-monitors-for-2024/"><u>Fusing Live Streams  Combining Cameras + Monitors for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-infinix-smart-7-phone-by-drfone-android/"><u>How to Reset a Locked Infinix Smart 7 Phone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/prime-opening-strategies-top-16-youtube-vids-that-thrive-for-2024/"><u>Prime Opening Strategies  Top 16 YouTube Vids That Thrive for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pro-video-enhancement-ranking-the-superior-15-gopro-lut-tools-for-2024/"><u>Pro Video Enhancement  Ranking the Superior 15 GoPro LUT Tools for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/seamless-capture-and-share-iphone-to-snapchat-backup-guide-for-2024/"><u>Seamless Capture & Share  IPhone to Snapchat Backup Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-list-of-superior-live-streaming-services-for-2024/"><u>The Ultimate List of Superior Live Streaming Services for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-best-no-cost-email-services-we-recommend/"><u>Top 10 Best No-Cost Email Services We Recommend</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-8-best-free-online-video-stabilizers-guide-provided/"><u>Updated 2024 Approved 8 Best Free Online Video Stabilizers Guide Provided</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device/"><u>Updated 2024 Approved Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-countdown-made-easy-a-3-step-guide-for-fcpx-users/"><u>Updated 2024 Approved Countdown Made Easy A 3-Step Guide for FCPX Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-fcp-transition-hacks-3-pro-tips-for-seamless-video-editing/"><u>Updated 2024 Approved FCP Transition Hacks 3 Pro Tips for Seamless Video Editing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes/"><u>Updated 2024 Approved Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-capture-to-masterpiece-the-best-1080p-video-editing-software/"><u>Updated 2024 Approved From Capture to Masterpiece The Best 1080P Video Editing Software</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-in-this-article-we-will-review-on-virtualdub-virtualdub2-and-provide-its-best-alternatives/"><u>Updated 2024 Approved In This Article, We Will Review on Virtualdub, Virtualdub2 and Provide Its Best Alternatives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-jaycut-essentials-learn-how-to-use-free-online-video-editing-software-like-a-pro/"><u>Updated 2024 Approved Jaycut Essentials Learn How to Use Free Online Video Editing Software Like a Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-fcpx-cropping-guide-resize-and-refine-your-images/"><u>Updated 2024 Approved The Ultimate FCPX Cropping Guide Resize and Refine Your Images</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-5-free-wmv-video-merging-solutions/"><u>Updated 2024 Approved Top 5 Free WMV Video Merging Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-android-essentials-the-most-popular-apps-you-need-for-2024/"><u>Updated Android Essentials The Most Popular Apps You Need for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-beyond-pinnacle-the-best-video-editing-apps-for-mac-this-year/"><u>Updated Beyond Pinnacle The Best Video Editing Apps for Mac This Year</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-final-cut-pro-x-power-user-master-40-time-saving-shortcuts/"><u>Updated Final Cut Pro X Power User Master 40 Time-Saving Shortcuts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-how-to-do-jump-cuts-like-a-pro-in-final-cut-pro-x-in-2024/"><u>Updated How to Do Jump Cuts Like a Pro in Final Cut Pro X, In 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-videos-the-secrets-to-great-lower-thirds-in-fcpx/"><u>Updated In 2024, Elevate Your Videos The Secrets to Great Lower Thirds in FCPX</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-back-to-editing-how-to-reset-final-cut-pro-x/"><u>Updated In 2024, Get Back to Editing How to Reset Final Cut Pro X</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-glitch-video-editing-on-a-budget-top-free-and-affordable-options-for-windows-and-mac/"><u>Updated In 2024, Glitch Video Editing on a Budget Top Free and Affordable Options for Windows and Mac</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-learn-how-to-cut-trim-and-merge-3gp-files-with-ease/"><u>Updated In 2024, Learn How to Cut, Trim, and Merge 3GP Files with Ease</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-best-of-the-best-top-ipad-video-editing-software/"><u>Updated In 2024, The Best of the Best Top iPad Video Editing Software</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-building-on-your-content-a-guide-to-stellar-videography-closures-for-2024/"><u>[New] Building on Your Content A Guide to Stellar Videography Closures for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-transform-your-devices-tone-swiftly-with-these-leading-chrome-apps/"><u>[New] In 2024, Transform Your Device's Tone Swiftly With These Leading Chrome Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-mastering-makeup-tutorials-launching-your-glam-vlog/"><u>[New] Mastering Makeup Tutorials Launching Your Glam Vlog</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>3 Smart and Simple Ways to Change Home Address on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fastest-audio-playback-speed-controlers-collection/"><u>Fastest Audio Playback Speed Controlers Collection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-asuss-proart-pa-329q-a-full-review-of-a-top-tier-workstation-monitor/"><u>Inside Asus’s ProArt PA 329Q A Full Review of a Top-Tier Workstation Monitor</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-which-green-screen-software-for-mac-to-choose/"><u>Updated In 2024, Which Green Screen Software for Mac to Choose?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-finest-the-ultimate-list-of-2d-animation-software-free-paid-and-everything-in-between/"><u>Updated S Finest The Ultimate List of 2D Animation Software Free, Paid, and Everything In Between</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-simplify-avi-editing-a-step-by-step-guide-to-trimming-and-splitting-for-2024/"><u>Updated Simplify AVI Editing A Step-by-Step Guide to Trimming and Splitting for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-top-10-free-video-editing-tools-for-trimming-videos-online/"><u>Updated Top 10 Free Video Editing Tools for Trimming Videos Online</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Final Cut Pro 2 Simple Ways to Add Professional Audio Fades
-date: 2024-08-02T04:31:15.984Z
-updated: 2024-08-03T04:31:15.984Z
+date: 2024-09-12T23:08:21.225Z
+updated: 2024-09-14T20:12:09.826Z
 tags: 
   - video editing software
   - video editing
@@ -44,32 +44,20 @@ Before we get started, you can firstly detach the audio from video to better edi
 
 Check more articles here, if you are also interested in other [audio editing tips](https://tools.techidaily.com/wondershare/filmora/download/) in Final Cut Pro or want to know how to [record a voice over](https://tools.techidaily.com/wondershare/filmora/download/) with FCP.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Fade Audio by using the Modify Menu
 
 You can go to the **Modify** menu and easily apply fade-in or fade-outs to the audio clip you are editing. The Final Cut Pro preferences also allow you to adjust the fade duration.
 
 **Step 1** **:** First, you have to select the audio or the video clips with audio in the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Select the audio or the video clips](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-1.png)
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
@@ -92,30 +80,10 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
 
 * Linear: The rate of change is constant over the length of the fade.
@@ -137,65 +105,36 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2023s-ios-leading-psp-emulators-ranked-the-creme-de-la-creme-for-2024/"><u>[New] 2023'S iOS Leading PSP Emulators Ranked  The Crème De La Crème for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-connecting-with-the-world-how-to-use-roku-for-fb-live/"><u>[New] 2024 Approved  Connecting With The World  How to Use Roku for FB Live</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-facebook-video-wonders-your-must-see-list-for-2024/"><u>[New] Facebook Video Wonders - Your Must-See List for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-obscure-watching-methods-5-unique-stories-apps/"><u>[New] In 2024, Obscure Watching Methods  5 Unique Stories Apps</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-transforming-your-media-expertise-in-itunes-recordings/"><u>[New] In 2024, Transforming Your Media  Expertise in iTunes Recordings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-ace-your-signature-rapid-background-cleansing-guide/"><u>[Updated] Ace Your Signature  Rapid Background Cleansing Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capturing-every-detail-best-practices-for-hp-laptop-recording/"><u>[Updated] In 2024, Capturing Every Detail  Best Practices for HP Laptop Recording</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-speed-for-vimeo-playback/"><u>[Updated] In 2024, Enhancing Speed for Vimeo Playback</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-uncovering-8-superior-online-srt-translation-tools/"><u>[Updated] In 2024, Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-optimize-your-workday-with-io-screen-capture-expertise-for-2024/"><u>[Updated] Optimize Your Workday with IO Screen Capture Expertise for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-boosting-your-brand-on-instagram-proven-5-techniques-and-success-stories/"><u>2024 Approved  Boosting Your Brand on Instagram  Proven 5 Techniques & Success Stories</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-essential-list-of-5-drone-racing-virtual-headsets/"><u>2024 Approved  The Essential List of 5 Drone Racing Virtual Headsets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-detailed-guide-youtubes-most-engaging-storytellers-in-23/"><u>A Detailed Guide  YouTube's Most Engaging Storytellers in '23</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-catalonias-language-in-10-minsday/"><u>Conquer Catalonia's Language in 10 Mins/Day</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-motorola-moto-g34-5g-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Moto G34 5G Lock Screen Password</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-15-premium-free-music-websites-every-videographer-needs/"><u>In 2024, 15 Premium, Free Music Websites Every Videographer Needs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-90-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor 90 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-essential-steps-to-record-and-archive-google-voice-calls/"><u>In 2024, Essential Steps to Record and Archive Google Voice Calls</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-redmi-a2-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi Redmi A2 to iPod | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-11-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 11 to iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-vrecorder-basics-seamless-installation/"><u>In 2024, VRecorder Basics  Seamless Installation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-gopro-essentials-of-time-lapse-photography/"><u>Mastering GoPro  Essentials of Time-Lapse Photography</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-essentials-a-comprehensive-guide-to-telegram-web-usage/"><u>Mastering the Essentials  A Comprehensive Guide to Telegram Web Usage</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-noticed-the-top-10-animated-text-tools-for-social-media-and-more/"><u>New 2024 Approved Get Noticed The Top 10 Animated Text Tools for Social Media and More</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mac-video-editing-software-alternatives-to-pinnacle-studio/"><u>New 2024 Approved Mac Video Editing Software Alternatives to Pinnacle Studio</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-must-have-video-invite-tools-for-ios-and-android-users/"><u>New 2024 Approved Must-Have Video Invite Tools for iOS and Android Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-simple-and-free-the-best-online-tone-creators/"><u>New 2024 Approved Simple and Free The Best Online Tone Creators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-top-tier-best-4k8k-video-editing-software-for-professionals/"><u>New 2024 Approved The Top Tier Best 4K/8K Video Editing Software for Professionals</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-8-best-video-animation-app-for-androidiphoneipad-for-2024/"><u>New 8 Best Video Animation App for Android/iPhone/iPad for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-filmora-on-a-budget-how-to-get-it-without-breaking-the-bank-or-the-law-for-2024/"><u>New Filmora on a Budget How to Get It Without Breaking the Bank or the Law for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-free-and-fabulous-top-mov-movie-editors-for-2024/"><u>New Free and Fabulous Top MOV Movie Editors for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-from-still-to-stunning-how-to-add-the-ken-burns-effect-to-your-videos-for-2024/"><u>New From Still to Stunning How to Add the Ken Burns Effect to Your Videos for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-animation-in-education-top-picks-for-teachers-and-educators/"><u>New In 2024, Animation in Education Top Picks for Teachers and Educators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac/"><u>New In 2024, Edit Video Tags with Ease Best MP4 Editors for Windows and Mac</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-filmora-watermark-removal-free-trials-hacks-and-official-methods/"><u>New In 2024, Filmora Watermark Removal Free Trials, Hacks, and Official Methods</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-s-best-gopro-editing-tools-replacing-gopro-studio-with-these-alternatives/"><u>New In 2024, S Best GoPro Editing Tools Replacing GoPro Studio with These Alternatives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-transform-your-photos-the-ultimate-guide-to-animation-tools/"><u>New In 2024, Transform Your Photos The Ultimate Guide to Animation Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-troubleshooting-fcpx-a-step-by-step-reset-guide/"><u>New In 2024, Troubleshooting FCPX A Step-by-Step Reset Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-unleash-your-creativity-gopro-video-editing-on-mac-made-easy/"><u>New In 2024, Unleash Your Creativity GoPro Video Editing on Mac Made Easy</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-virtualdub-competitors-a-review-of-the-best-video-editing-tools/"><u>New In 2024, VirtualDub Competitors A Review of the Best Video Editing Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-online-photo-and-video-montage-tools-ranked-and-reviewed/"><u>New Online Photo and Video Montage Tools Ranked and Reviewed</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-take-your-mobile-photography-to-the-next-level-best-time-lapse-apps/"><u>New Take Your Mobile Photography to the Next Level Best Time-Lapse Apps</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-final-cut-pro-slideshow-tutorial-for-beginners/"><u>New The Ultimate Final Cut Pro Slideshow Tutorial for Beginners</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-virtualdub-features-pros-and-cons-plus-top-alternatives/"><u>New The Ultimate Guide to Virtualdub Features, Pros, and Cons, Plus Top Alternatives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-list-of-online-collage-makers-for-photos-and-videos/"><u>New The Ultimate List of Online Collage Makers for Photos and Videos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-video-trailer-creators-for-mac-and-pc-2023-update/"><u>New Top Video Trailer Creators for Mac and PC (2023 Update)</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-poco-c51-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Poco C51 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/s-most-popular-online-video-reverse-editors-for-2024/"><u>S Most Popular Online Video Reverse Editors for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/still-moments-from-moving-pictures-a-review-of-10-video-to-image-converters-for-2024/"><u>Still Moments From Moving Pictures A Review of 10 Video to Image Converters for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/the-ultimate-list-7-video-mergers-with-no-watermarks-for-2024/"><u>The Ultimate List 7 Video Mergers with No Watermarks for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/unleash-your-creativity-with-fcp-90-days-of-free-usage-for-2024/"><u>Unleash Your Creativity with FCP 90 Days of Free Usage for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-more-views-the-art-of-crafting-titles-and-tags-for-youtube-for-2024/"><u>Unlock More Views  The Art of Crafting Titles & Tags for YouTube for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-mysteries-of-firefoxs-pip-mode/"><u>[New] Unveiling the Mysteries of Firefox’s PIP Mode</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tech-savvy-guide-to-excellent-recording-apps/"><u>[Updated] 2024 Approved Tech-Savvy Guide to Excellent Recording Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-innovation-at-toms-hardware-leading-tech-insights-unveiled/"><u>Discover Innovation at Tom's Hardware: Leading Tech Insights Unveiled</u></a></li>
+<li><a href="https://extra-information.techidaily.com/fiscal-football-freedom-capturing-contests-without-cash/"><u>Fiscal Football Freedom Capturing Contests Without Cash</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-s18e-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo S18e</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-static-shots-to-time-lapse-video-tapestry/"><u>In 2024, From Static Shots to Time-Lapse Video Tapestry</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-next-generation-of-compression-how-does-av1-stack-up-against-hevc-for-enhanced-media-delivery/"><u>The Next Generation of Compression: How Does AV1 Stack Up Against HEVC for Enhanced Media Delivery?</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-trick-to-connect-an-unresponsive-xbox-one-controller-with-ease/"><u>Ultimate Trick to Connect an Unresponsive Xbox One Controller with Ease</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-no-budget-no-problem-top-free-wmv-video-editors-for-2024/"><u>Updated No Budget? No Problem! Top Free WMV Video Editors for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-hottest-explainer-video-creation-software-reviews-and-comparisons/"><u>Updated S Hottest Explainer Video Creation Software Reviews and Comparisons</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-shrink-your-videos-10-best-free-online-compression-tools/"><u>Updated Shrink Your Videos 10 Best Free Online Compression Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-of-10-free-video-hosting-sites-for-online-success-for-2024/"><u>Updated The Ultimate List of 10 Free Video Hosting Sites for Online Success for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-top-free-video-editors-for-cutting-and-trimming-mov-files-for-2024/"><u>Updated Top Free Video Editors for Cutting and Trimming MOV Files for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unwanted-sounds-gone-learn-how-to-remove-background-noise-in-fcp-for-2024/"><u>Updated Unwanted Sounds? Gone! Learn How to Remove Background Noise in FCP for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/winning-at-windows-11-image-tweaking-tricks/"><u>Winning at Window's 11 Image Tweaking Tricks</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

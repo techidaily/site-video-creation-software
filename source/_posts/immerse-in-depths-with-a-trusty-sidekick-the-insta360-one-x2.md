@@ -1,7 +1,7 @@
 ---
 title: Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
-date: 2024-09-09T00:54:55.019Z
-updated: 2024-09-10T00:54:55.019Z
+date: 2024-09-10T00:17:43.594Z
+updated: 2024-09-15T03:51:56.646Z
 categories:
   - BestProducts
 description: This Article Describes Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
@@ -17,12 +17,6 @@ thumbnail: https://www.lifewire.com/thmb/ZSPG6uZDhit_U84RypZ4iQCpX3M=/400x300/fi
 
 ![Pruveeo F5 FHD 1080P Dash Cam](https://www.lifewire.com/thmb/HxuX8Nh2m27bJICrrOKRxkDa_ZA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4149406-HeroSquare-d2d1dcc28b154c6a882988be1138b9e1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lifewire / Andy Zahn
 
  What We Like
@@ -45,12 +39,6 @@ Lifewire / Andy Zahn
 
 2.2
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pruveeo F5 FHD 1080P Dash Cam
 
 ![Pruveeo F5 FHD 1080P Dash Cam](https://www.lifewire.com/thmb/HralEtvgYYnUzQf18LIyFW3UhkU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01LW4149406-HeroSquare-d2d1dcc28b154c6a882988be1138b9e1.jpg)
@@ -93,12 +81,6 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process:** **Simple, but poorly described**
 
  Setting up the Pruveeo F5 may not be a particularly complicated process, but it is complicated by the fact that the instruction manual doesn’t really tell you anything about the installation process. You’re mostly left to figure it out on your own.
@@ -121,6 +103,19 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Performance: Lackluster and very basic**
 
  The F5 records video and audio poorly but reliably, and you can loop video so that old video is erased as new video is recorded, and lock important video clips to keep them from being erased by accident. Unlike other dash cams, this locking function must be triggered manually with a button press rather than automatically by collision sensors.
@@ -132,37 +127,27 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Connectivity and software: Mysteriously absent**
 
  You will find in your instructions information on using Wi-Fi and a mobile app. However, as pointed out on Pruveeo’s Amazon storefront and on Pruveeo’s website, the feature has been removed from the F5\. This is not a death blow to the camera, but it severely limits its appeal compared to competing products. Without Wi-Fi and the companion app (GoPlus Cam), you can’t use the various features this enables. You can’t use your phone to remotely control the Pruveeo F5, use it as a viewfinder, download files to your phone, or change settings using a less frustrating interface than that built into the camera.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Cheap if below MSRP**
 
  At its MSRP of $70 the Pruveeo F5 faces stiff competition, but fortunately it typically retails for about half that price, and in the $30-$50 range its a bargain. For around $40 it offers decent video capabilities and useful features despite its cheap exterior. Keep in mind that you must consider the price of a microSD card in the total cost, as one is necessary but not included.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Pruveeo F5 vs. Anker Roav C1**
 
  The Anker Roav C1 offers far superior build quality, Wi-Fi connectivity, and a much better screen than the Pruveeo F5 at a similar MSRP. However, the Pruveeo F5 can be found for steeper discounts, and often retails for about half the price of the Anker C1\. That’s cheap enough that the many deficiencies of the Pruveeo F5 can be forgiven to some extent. Even with such a price difference we would still recommend the Anker C1 as a better value given the glut of flaws in quality and performance hamstringing the F5.
@@ -192,8 +177,6 @@ Lifewire / Andy Zahn
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,47 +186,19 @@ Lifewire / Andy Zahn
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-a-step-by-step-approach-to-mastering-lut-utilization/"><u>[New] 2024 Approved  A Step-by-Step Approach to Mastering LUT Utilization</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-7-multimedia-cameras-for-quality-live-streams-and-video-blogs/"><u>[New] 2024 Approved  Best 7 Multimedia Cameras For Quality Live Streams & Video Blogs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-action-in-pixelation-top-3-strategies-for-sports-gameplay-recordings/"><u>[New] In 2024, Action in Pixelation  Top 3 Strategies for Sports Gameplay Recordings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-seeking-clarity-complete-accessibility-of-mutual-shared-materials-for-2024/"><u>[New] Seeking Clarity  Complete Accessibility of Mutual Shared Materials for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-the-art-of-rewinding-videos-for-2024/"><u>[Updated] Mastering Instagram  The Art of Rewinding Videos for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-smart-choice-essential-steps-in-upgrading-your-tech/"><u>2024 Approved  The Smart Choice  Essential Steps in Upgrading Your Tech</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-revenue-analysis-made-simple/"><u>2024 Approved  YouTube Revenue Analysis Made Simple</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/a-deep-dive-into-inshots-editing-proficiency-for-2024/"><u>A Deep Dive Into InShot's Editing Proficiency for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Google Pixel 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/designing-the-ideal-youtube-playlist-for-you-for-2024/"><u>Designing the Ideal YouTube Playlist for You for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-motorola-moto-g14-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Motorola Moto G14 FRP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Hot 40 Phone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-creative-with-these-free-video-special-effects-apps-for-ios-and-android/"><u>New 2024 Approved Get Creative with These Free Video Special Effects Apps for iOS and Android</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unleash-your-creativity-top-stop-motion-apps-for-ios-and-android-devices/"><u>New 2024 Approved Unleash Your Creativity Top Stop Motion Apps for iOS and Android Devices</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-are-you-looking-for-an-interesting-dub-app-for-your-android-or-iphone-read-on-to-find-out-the-best-video-dubbing-app-from-our-list-of-funny-and-creative/"><u>New Are You Looking for an Interesting Dub App for Your Android or iPhone? Read on to Find Out the Best Video Dubbing App From Our List of Funny and Creative Apps</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-bend-reality-with-these-10-glitch-art-video-editing-apps-for-ios-and-android-for-2024/"><u>New Bend Reality with These 10 Glitch Art Video Editing Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-best-time-lapse-video-editing-software/"><u>New Best Time-Lapse Video Editing Software</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-bring-your-invitations-to-life-top-video-maker-apps-for-mobile/"><u>New Bring Your Invitations to Life Top Video Maker Apps for Mobile</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-download-filmora-for-free-safe-and-virus-free-methods/"><u>New Download Filmora for Free Safe and Virus-Free Methods</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-eliminate-unwanted-sound-a-step-by-step-guide-to-noise-reduction-in-fcpx-for-2024/"><u>New Eliminate Unwanted Sound A Step-by-Step Guide to Noise Reduction in FCPX for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-free-3d-animation-apps-for-android-and-iphone-a-comprehensive-guide-for-2024/"><u>New Free 3D Animation Apps for Android and iPhone A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-free-game-downloads-the-top-10-websites-you-need-to-know/"><u>New Free Game Downloads The Top 10 Websites You Need to Know</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-chromebook-linux-installation-tutorial-the-ultimate-guide/"><u>New In 2024, Chromebook Linux Installation Tutorial The Ultimate Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-mp4-video-editor-roundup-top-10-options/"><u>New In 2024, Free MP4 Video Editor Roundup Top 10 Options</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-game-recording-made-easy-3-options-for-every-gamer/"><u>New In 2024, Game Recording Made Easy 3 Options for Every Gamer</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mov-video-trimming-made-easy-top-6-free-tools/"><u>New In 2024, MOV Video Trimming Made Easy Top 6 Free Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-smooth-cuts-ahead-3-ways-to-master-transitions-in-fcp/"><u>New In 2024, Smooth Cuts Ahead 3 Ways to Master Transitions in FCP</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-mp4-editing-made-easy-on-os-x-mavericks-for-2024/"><u>New MP4 Editing Made Easy on OS X Mavericks for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-mp4-video-editing-made-easy-a-beginners-guide-for-mac-and-windows/"><u>New MP4 Video Editing Made Easy A Beginners Guide for Mac and Windows</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-remove-filmora-logo-from-your-videos-easy-solutions/"><u>New Remove Filmora Logo From Your Videos Easy Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-art-of-time-manipulation-speeding-updown-videos-in-camtasia/"><u>New The Art of Time Manipulation Speeding Up/Down Videos in Camtasia</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-funniest-video-dubbing-apps-you-need-to-try-for-2024/"><u>New The Funniest Video Dubbing Apps You Need to Try for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-controlling-video-speed-in-quicktime-player/"><u>New The Ultimate Guide to Controlling Video Speed in QuickTime Player</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-10-best-free-webm-video-editors-for-2024/"><u>New Top 10 Best Free WebM Video Editors for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-5-best-free-iphone-video-rotators-for-2024/"><u>New Top 5 Best Free iPhone Video Rotators for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creative-potential-top-audio-editing-software-for-pros/"><u>New Unleash Your Creative Potential Top Audio Editing Software for Pros</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-video-advertising-trailer-production-platforms-for-2024/"><u>New Video Advertising Trailer Production Platforms for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-zero-cost-video-editing-solutions-top-14-picks-without-watermarks/"><u>New Zero-Cost Video Editing Solutions Top 14 Picks Without Watermarks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/the-best-of-the-best-lego-stop-motion-creators/"><u>The Best of the Best Lego Stop Motion Creators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/the-ultimate-list-14-free-video-editing-software-with-no-watermark/"><u>The Ultimate List 14 Free Video Editing Software with No Watermark</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-motion-detection-apps-for-mobile-devices/"><u>Top Motion Detection Apps for Mobile Devices</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-video-editing-apps-for-chromebook-users/"><u>Top Video Editing Apps for Chromebook Users</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-jumpstart-to-understanding-av1-codecs/"><u>[New] Jumpstart to Understanding AV1 Codecs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ace-your-laughs-kinemaster-for-top-memes-for-2024/"><u>[Updated] Ace Your Laughs KineMaster for Top Memes for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-navigating-picture-in-picture-settings-for-iphone-and-ipad/"><u>[Updated] Navigating Picture-in-Picture Settings for iPhone & iPad</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pushing-boundaries-spotlight-on-top-6-digital-innovators/"><u>2024 Approved Pushing Boundaries Spotlight on Top 6 Digital Innovators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/how-to-overcome-lego-star-wars-series-crashes-a-guide-for-gamers-pc-2024-update/"><u>How to Overcome Lego Star Wars Series Crashes - A Guide for Gamers (PC, 2024 Update)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-pro-max-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 Pro Max Properly</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stop-your-iphone-from-being-easily-found-disable-discovery-settings-instantly/"><u>Stop Your iPhone From Being Easily Found: Disable Discovery Settings Instantly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-instagram-a-comprehensive-guide/"><u>Understanding Instagram: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-fix-stop-final-cut-pro-x-from-crashing-on-your-mac/"><u>Updated The Ultimate Fix Stop Final Cut Pro X From Crashing on Your Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-time-lapse-software-create-time-lapse-video-for-2024/"><u>Updated Time Lapse Software Create Time Lapse Video for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-video-storytelling-made-easy-a-final-cut-pro-slideshow-tutorial-for-all-levels/"><u>Updated Video Storytelling Made Easy A Final Cut Pro Slideshow Tutorial for All Levels</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-videopad-video-editor-a-thorough-review-and-comparison-with-other-options-for-2024/"><u>Updated Videopad Video Editor A Thorough Review and Comparison with Other Options for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-vlc-video-cutter-for-mac-trim-and-preserve-quality-with-ease/"><u>Updated VLC Video Cutter for Mac Trim and Preserve Quality with Ease</u></a></li>
 </ul></div>
+

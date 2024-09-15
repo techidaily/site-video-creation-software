@@ -1,7 +1,7 @@
 ---
 title: "Lightweight Kodi 19 Setup: A Step-by-Step Guide to Adding the Chains Matrix Addon"
-date: 2024-09-09 17:38:14
-updated: 2024-09-11 12:31:25
+date: 2024-09-09T20:53:55.334Z
+updated: 2024-09-14T18:59:04.189Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/7920bad9c940d300dc2622371db47153e51643f1951aaa98f2575aa4c7a7894a.jpg
@@ -68,12 +68,26 @@ Launch **Free HD Video Converter Factory** after downloading and installing it o
 
 ![Audio Converter WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-1-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Select MP3 as the Output Format
 
 Press the format icon on the right side of the interface to open the output format library. Go to the “**Audio**” tab and select “**MP3**”. You can also choose to convert WMA to other popular formats here.  
 Tips: You can also click on the “**Parameter settings**” button to [change the audio bitrate](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), sample, volume, etc.
 
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Windows Media Audio to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-2-mobi.webp) 
 
@@ -99,6 +113,13 @@ Step 3: Click on “**Import Settings**” from the “**Files (General)**” ta
 
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Convert WMA to MP3 Mac](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-4-mobi.webp) 
 
 Step 3: Find the files you want to convert in the library. Or you can add the local files to the library by selecting “**File**” > “**Add File**”.  
@@ -116,10 +137,24 @@ Another desktop WMA to MP3 free converter is VLC. VLC is an open-source media pl
 
 ![VLC Convert WMA to MP3](https://www.videoconverterfactory.com/tips/imgs-self/convert-wma-to-mp3/convert-wma-to-mp3-6-mobi.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 1: Open VLC media player, go to “**Media**” > “**Convert/Save**” in the menu bar, you can also directly press the shortcut key “**Ctrl+R**”.  
 Step 2: Hit the “**\+ Add**” button to import the WMA files and press the “**Convert/Save**” button below.  
 Step 3: Navigate to the Profile part and select “**Audio-MP3**” from the drop-down list.  
 Step 4: Click on “**Browse**” to specify an output file and hit the “**Start**” button to start the conversion.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. ZamZar (Online)
 
@@ -199,11 +234,28 @@ WonderFox HD Video Converter Factory Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-achieving-profit-through-youtube-sourav-joshis-guide/"><u>[New] 2024 Approved Achieving Profit Through YouTube Sourav Joshi’s Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/1716984565902-updated-how-to-remove-background-noise-from-your-youtube-video/"><u>[Updated] How To Remove Background Noise From Your YouTube Video</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/a-critical-look-at-the-googles-battery-operated-nest-video-doorbell-solution/"><u>A Critical Look at the Google's Battery Operated Nest Video Doorbell Solution</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/achieving-professional-quality-with-instagrams-virtual-screens/"><u>Achieving Professional Quality with Instagram's Virtual Screens</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/affordable-excellence-on-wheels-a-closer-look-at-the-intuitive-z-edge-z3-plus-cameras/"><u>Affordable Excellence on Wheels: A Closer Look at the Intuitive Z-Edge Z3 Plus Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comment-reduire-efficacement-la-taille-du-fichier-video-mov-guide-complet/"><u>Comment Réduire Efficacement La Taille Du Fichier Video MOV : Guide Complet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-find-x6-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X6 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726028984914-pc/"><u>PCによるクリッピング手法：簡単で、長持ちの撮影技術</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-best-nas-devices-choose-the-right-network-storage-drive-for-effortless-backups-and-media-management/"><u>The Best NAS Devices: Choose the Right Network Storage Drive for Effortless Backups & Media Management</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mastering-fcp-essential-tips-for-saving-and-organizing-your-projects/"><u>Updated Mastering FCP Essential Tips for Saving and Organizing Your Projects</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-rock-solid-footage-the-best-free-online-video-stabilizers-for-2024/"><u>Updated Rock-Solid Footage The Best Free Online Video Stabilizers for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlocking-filmora-scrn-a-comprehensive-guide-to-desktop-recording/"><u>Updated Unlocking Filmora Scrn A Comprehensive Guide to Desktop Recording</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/virtualdub-review-pros-cons-and-the-best-alternatives-for-you/"><u>Virtualdub Review Pros, Cons, and the Best Alternatives for You</u></a></li>
+</ul></div>
+

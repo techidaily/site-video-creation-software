@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash the 80S Adding VHS Flair to Your FCP Projects for 2024
-date: 2024-09-09T00:54:56.986Z
-updated: 2024-09-10T00:54:56.986Z
+date: 2024-09-13T02:57:58.728Z
+updated: 2024-09-14T19:53:18.954Z
 tags: 
   - video editing software
   - video editing
@@ -14,12 +14,6 @@ keywords: unleash the 80s easy vhs effects for final cut pro users,unleash the 8
 thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unleash the 80S: Adding VHS Flair to Your FCP Projects
 
 # Do VHS Effect with Final Cut Pro in the Right Way
@@ -42,12 +36,6 @@ A VHS effect is a textured, warped effect that looks like an outdated analog vid
 
 ![vhs_effect](https://images.wondershare.com/filmora/images/final-cut-pro/vhs_effect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you want to know how to add VHS effect to your videos without any plugins in Final Cut Pro X, then follow these steps:
 
 Open Final Cut Pro and click on New Project.
@@ -86,12 +74,6 @@ Now go to the search bar again and type Prism. Select the prism effect and drop 
 
 ![add_prism_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/add_prism_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Set the amount to around 13.0-14.0.
 
 Go back to the search bar and type Color Correction. Drag and drop this effect to your footage in Final Cut Pro.
@@ -104,12 +86,6 @@ After your video is rendered, you will get the final results using the VHS filte
 
 ![final_result_of_vhs_effect_in_final_cut_pro](https://images.wondershare.com/filmora/images/final-cut-pro/final_result_of_vhs_effect_in_final_cut_pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part2: How to do VHS effect in easy steps?
 
 If you want to quickly add VHS effect to your video, you can use Filmora X. You will have to add different effects and values to get the final results. You can use VHS effects on your lyric video, intro, outro, or any other video that you like by following the same process.
@@ -118,22 +94,10 @@ First, if you haven't got Filmora, click here to download it for free!
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
 * Select the Black Color.
@@ -151,23 +115,11 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_distortion_bad](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion_bad.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Now drag the VHS Distortion effect and place it above the previous one.
 * Double click on it and change its Alpha value to 35 and click Ok.
 
 ![add_vhs_distortion](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_distortion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Drag and Place the VHS Rewind effect above the previous layer.
 * Change its Alpha value to 10 and click Ok.
 
@@ -181,12 +133,6 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_strong_glitch](https://images.wondershare.com/filmora/images/final-cut-pro/add_strong_glitch.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Search for **Chromatic Aberration effect**.
 
 * Drag and drop it above the previous layer.
@@ -213,12 +159,6 @@ You can play around with these values to change the intensity of the VHS effect.
 
 Still not enough? See this article: [The Best Glitch Video Editors.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part3: Where to find the best plugins or templates for the VHS effect?
 
 If you want to recreate some of that analog feel to your video clip with plugins or templates, you can use the following recommendations to give your film a VHS effect:
@@ -255,55 +195,11 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-detecting-changes-in-your-instagram-network-for-2024/"><u>[New] Detecting Changes in Your Instagram Network for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-explore-free-fb-visual-creation-tools-best/"><u>[New] In 2024, Explore Free FB Visual Creation Tools - Best</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-coding-warfare-comparing-the-superiority-of-av1-and-vp9/"><u>[Updated] Coding Warfare  Comparing the Superiority of AV1 and VP9</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-use-filters-on-instagram-for-2024/"><u>[Updated] How to Use Filters on Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-from-planning-to-performance-tips-for-wirecast-and-facebook-livestreaming/"><u>2024 Approved  From Planning to Performance  Tips for Wirecast & Facebook Livestreaming</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-14-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 14 Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 document electronically</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Realme 12 5G Phone without PIN</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/incorporating-cards-and-annotations-in-youtube-content/"><u>Incorporating Cards and Annotations in YouTube Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/strategies-to-address-and-correct-inconsistent-drops-in-frames-per-second/"><u>Strategies to Address and Correct Inconsistent Drops in Frames Per Second</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-stream-success-beginners-roadmap-for-2024/"><u>Twitter Stream Success  Beginner's Roadmap for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-4k-video-editors-for-creators/"><u>Updated 2024 Approved Best 4K Video Editors for Creators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-here-are-10-best-webm-to-mp4-converters-on-the-market-that-you-can-use-to-convert-video-from-webm-to-mp4-format/"><u>Updated 2024 Approved Here Are 10 Best WebM to MP4 Converters on the Market that You Can Use to Convert Video From WebM to MP4 Format</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mov-video-rotator-top-5-free-downloads/"><u>Updated 2024 Approved MOV Video Rotator Top 5 Free Downloads</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-os-x-mavericks-video-editing-101-from-beginner-to-pro/"><u>Updated 2024 Approved OS X Mavericks Video Editing 101 From Beginner to Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-pro-level-hd-video-editing-top-5-software-options/"><u>Updated 2024 Approved Pro-Level HD Video Editing Top 5 Software Options</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-10-free-video-rotators-to-rotateflip-videos/"><u>Updated 2024 Approved Top 10 Free Video Rotators to Rotate/Flip Videos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-creativit/"><u>Updated 2024 Approved Unleash Your Creativit</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-creativity-top-rated-stop-motion-apps-for-mobile/"><u>Updated 2024 Approved Unleash Your Creativity Top-Rated Stop Motion Apps for Mobile</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-weve-selected-the-best-online-video-stabilizers-that-enable-you-to-fix-your-videos-effortlessly-now-lets-see-web-based-platforms-used-/"><u>Updated 2024 Approved Weve Selected the Best Online Video Stabilizers that Enable You to Fix Your Videos Effortlessly. Now Lets See Web-Based Platforms Used to Stabilize Your Videos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-work-smarter-not-harder-top-adobe-premiere-shortcuts-and-tricks/"><u>Updated 2024 Approved Work Smarter, Not Harder Top Adobe Premiere Shortcuts and Tricks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-cutting-edge-video-editing-the-best-4k8k-software-for-2024/"><u>Updated Cutting-Edge Video Editing The Best 4K/8K Software for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-free-mpeg-merger-tools-top-5-picks-for-2024/"><u>Updated Free MPEG Merger Tools Top 5 Picks for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-from-camcorder-to-cinema-canon-video-editing-tips-and-tricks-for-2024/"><u>Updated From Camcorder to Cinema Canon Video Editing Tips and Tricks for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-from-webm-to-mp4-top-10-converters-for-smooth-video-playback-for-2024/"><u>Updated From WebM to MP4 Top 10 Converters for Smooth Video Playback for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-how-to-split-videos-in-windows-live-movie-maker-for-2024/"><u>Updated How to Split Videos in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-a-closer-look-at-vn-video-editor-for-windows-and-macos/"><u>Updated In 2024, A Closer Look at VN Video Editor for Windows and macOS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-achieve-hollywood-grade-video-a-step-by-step-fcpx-guide/"><u>Updated In 2024, Achieve Hollywood-Grade Video A Step-by-Step FCPX Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-dailymotion-video-conversion-without-registration/"><u>Updated In 2024, Free Dailymotion Video Conversion without Registration</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-convert-and-download-4k-video-in-mp4-format/"><u>Updated In 2024, How to Convert and Download 4K Video in MP4 Format</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-guide-to-picture-in-picture-video-editing-in-final-cut-pro/"><u>Updated In 2024, The Ultimate Guide to Picture-in-Picture Video Editing in Final Cut Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-list-of-free-animation-software-for-windows-and-macos/"><u>Updated In 2024, The Ultimate List of Free Animation Software for Windows and macOS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-5-free-mov-video-rotators/"><u>Updated In 2024, Top 5 Free MOV Video Rotators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-budget-friendly-video-editors/"><u>Updated In 2024, Top Budget-Friendly Video Editors</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -311,3 +207,33 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-amass-wealth-the-art-of-vimeo-video-monetization/"><u>[New] How to Amass Wealth The Art of Vimeo Video Monetization</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads/"><u>[Updated] In 2024, Nifty Steps to Generate Timely Captions and Text for FB Video Uploads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-legends-of-arcade-combat-nintendos-top-ten-on-switch/"><u>2024 Approved Legends of Arcade Combat Nintendo's Top Ten on Switch</u></a></li>
+<li><a href="https://windows11.techidaily.com/end-the-ebb-and-flow-top-strategies-for-smooth-windows-streaming/"><u>End the Ebb and Flow: Top Strategies for Smooth Windows Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/freescape-extraction-revisited-a-look-at-the-latest-update/"><u>Freescape Extraction Revisited A Look at the Latest Update</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-your-creative-potential-with-the-premier-free-software-lineup-on-mac/"><u>In 2024, Unlock Your Creative Potential with the Premier Free Software Lineup on Mac</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsung-tv-tips-easy-steps-to-uninstall-applications/"><u>Samsung TV Tips: Easy Steps to Uninstall Applications</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/tips-and-tricks-to-eliminate-stutters-while-gaming-fortnite-on-windows-or-mac/"><u>Tips and Tricks to Eliminate Stutters While Gaming Fortnite on Windows or Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/top-reasons-windows-11-media-player-outshines-competitors-why-switch-now/"><u>Top Reasons Windows 11 Media Player Outshines Competitors: Why Switch Now?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-most-popular-free-m4a-editor-programs-for-2024/"><u>Updated S Most Popular Free M4A Editor Programs for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-streamline-your-video-workflow-mkvtoolnix-for-mac-2023-for-2024/"><u>Updated Streamline Your Video Workflow MKVtoolnix for Mac 2023 for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-best-online-video-editors-compatible-with-chromebook-for-2024/"><u>Updated The Best Online Video Editors Compatible with Chromebook for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Master Guide: Fixing the Persistent Crash Problem in The Surge 2"
-date: 2024-09-07T18:54:48.724Z
-updated: 2024-09-15T03:35:48.981Z
+date: 2024-09-14T06:13:45.606Z
+updated: 2024-09-19T20:46:15.524Z
 tags:
   - win11
   - win10
@@ -84,15 +84,16 @@ The Ascent
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -113,8 +114,23 @@ The Ascent
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the game still crashes, try the next fix, below.
 
@@ -149,10 +165,10 @@ If the game still crashes, try the next fix, below.
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Update MS Visual C++ Redistributables
@@ -184,37 +200,24 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
-3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
+3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -252,21 +255,13 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-comparative-income-freelance-vs-full-time-podcaster/"><u>[New] Comparative Income Freelance Vs. Full-Time Podcaster</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-explore-tiktoks-charms-7-most-popular-emojis-and-their-secrets-revealed/"><u>[New] Explore TikTok's Charms #7 Most Popular Emojis and Their Secrets Revealed</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-free-top-8-best-apps-to-get-likes-on-instagram-for-2024/"><u>[Updated] FREE Top 8 Best Apps to Get Likes on Instagram for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-high-definition-recording-reigns-supreme-top-picks-listed-for-2024/"><u>[Updated] High Definition Recording Reigns Supreme Top Picks Listed for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-ad-revenue-for-youtube-channels-post-monetization/"><u>2024 Approved Streamlining Ad Revenue for YouTube Channels Post-Monetization</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-total-insight-navigating-through-googles-podcast-app/"><u>2024 Approved Total Insight Navigating Through Google's Podcast App</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/diy-video-mastery-10-straightforward-concepts-everyone-should-try/"><u>DIY Video Mastery 10 Straightforward Concepts Everyone Should Try</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-innovating-content-creation-vimeo-edition/"><u>In 2024, Innovating Content Creation Vimeo Edition</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/latest-insights-on-facebook-whats-new/"><u>Latest Insights on Facebook - What's New?</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-mac-video-editing-made-easy-download-splice-for-2024/"><u>Updated Mac Video Editing Made Easy Download Splice for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-mkvtoolnix-mac-a-user-friendly-video-editing-solution/"><u>Updated MKVtoolnix Mac A User-Friendly Video Editing Solution</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-replace-sony-vegas-with-these-powerful-windows-video-editing-tools/"><u>Updated Replace Sony Vegas with These Powerful Windows Video Editing Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-say-goodbye-to-windows-10-photos-top-alternative-photo-editors-for-2024/"><u>Updated Say Goodbye to Windows 10 Photos Top Alternative Photo Editors for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-webm-to-mp3-converters-for-every-need/"><u>Updated The Ultimate List WebM to MP3 Converters for Every Need</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-best-free-video-fx-apps-for-ios-and-android-for-2024/"><u>Updated Unleash Your Creativity Best Free Video FX Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-video-resumes-can-be-quite-effective-if-used-in-the-right-context-and-that-is-the-reason-why-weve-decided-to-take-you-through-some-of-the-best-video/"><u>Updated Video Resumes Can Be Quite Effective if Used in the Right Context, and that Is the Reason Why Weve Decided to Take You Through some of the Best Video Resume Makers You Can Use to Get the Job Youve A for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-ultimate-video-streaming-channel-lists-films-and-series/"><u>[New] In 2024, Ultimate Video Streaming Channel Lists Films & Series</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compact-cameras-for-mobile-cinematography-for-2024/"><u>Compact Cameras for Mobile Cinematography for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-flipped-digital-image-screens/"><u>Correcting Flipped Digital Image Screens</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-y17s-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/secure-your-data-mastering-dvd-duplication-and-conversion-to-iso-with-winx-dvd-copy-software-tutorial/"><u>Secure Your Data: Mastering DVD Duplication & Conversion to ISO with WinX DVD Copy Software Tutorial</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/speedy-guide-to-transforming-mp4-files-into-mp3-format-on-desktop-systems/"><u>Speedy Guide to Transforming MP4 Files Into MP3 Format on Desktop Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/step-by-step-guide-installing-the-az-screen-recorder-on-your-windows-computer/"><u>Step-by-Step Guide: Installing the AZ Screen Recorder on Your Windows Computer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/step-by-step-tutorial-on-fetching-and-syncing-subtitles-from-urls-for-films-and-series-viewing/"><u>Step-by-Step Tutorial on Fetching and Syncing Subtitles From URLs for Films & Series Viewing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Persistent Issues with Diablo Immortal on PC - Latest Solutions for 2N4
-date: 2024-09-08T17:15:47.292Z
-updated: 2024-09-15T00:41:41.543Z
+date: 2024-09-18T18:29:21.788Z
+updated: 2024-09-25T23:36:46.137Z
 tags:
   - win11
   - win10
@@ -72,28 +72,29 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working14.jpg)
 3. Then right-click your microphone device and click**Enable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working13.jpg)
 4. Right-click it again and select**Set as Default Device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working15.jpg)
 5. Right-click it again and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working16.jpg)
 6. Select the**Levels** tab, then drag the volume slider towards the largest value. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working24.jpg)
 7. Click**OK** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Check if mic Exclusive Mode is on
@@ -102,19 +103,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working17.jpg)
 2. Select**Recording** . Right-click your microphone device and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working18.jpg)
 3. Select the**Advanced** tab. Uncheck**Allow applications to take exclusive control of this device** . Then click**OK** to apply the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working11.jpg)
@@ -122,6 +110,13 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
  Now you have made certain changes to your computer. Try to use the mic device on OBS to see if you have gotten rid of its microphone problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 Update audio driver
 
@@ -135,14 +130,22 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/google-meet-camera-6.jpg)
 3. Click the**Update** button next to the flagged audio drivers to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -160,14 +163,28 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 2. Click**Audio** on the left tab. Locate and uncheck**Enable Push-to-talk** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working21.jpg)
 3. Click**Hotkeys** on the left tab. Scroll down to locate Push-to-talk. If it’s displaying a key,**delete** it.  
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working19.jpg)
 4. Click**Apply** and**OK** on the bottom-right corner.
 
@@ -202,6 +219,13 @@ Use your microphone to check whether the problem is solved.
 3. Visit[**OBS Analyzer web page**](https://obsproject.com/tools/analyzer) . Paste the URL and click**Analyze** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working10-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Follow the instructions of OBS technical support and they’ll spare no effort to help you grapple with this microphone matter.
 
 ---
@@ -224,5 +248,19 @@ Use your microphone to check whether the problem is solved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-innovative-ways-to-document-your-digital-collaboration-sessions/"><u>[New] In 2024, Innovative Ways to Document Your Digital Collaboration Sessions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-royale-champions-the-defining-battle-royale-titles-for-2024/"><u>[New] Royale Champions The Defining Battle Royale Titles for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/data-dispatch-dynamics-fast-file-transfers-to-pcs-for-2024/"><u>Data Dispatch Dynamics Fast File Transfers to PCs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-hp-universal-printer-drivers-for-windows-free/"><u>Download the HP Universal Printer Drivers for Windows - FREE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-13-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 13 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/making-funny-photos-no-fees-involved-for-2024/"><u>Making Funny Photos No Fees Involved for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mpegtowav-web-mp3aac-ogg-movavi/"><u>MpegtoWAV 無料 Webベース MP3/AAC / OGG変換 - Movavi</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-simple-and-free-the-best-online-tone-creators/"><u>New 2024 Approved Simple and Free The Best Online Tone Creators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-filmora-on-a-budget-how-to-get-it-without-breaking-the-bank-or-the-law-for-2024/"><u>New Filmora on a Budget How to Get It Without Breaking the Bank or the Law for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-from-still-to-stunning-how-to-add-the-ken-burns-effect-to-your-videos-for-2024/"><u>New From Still to Stunning How to Add the Ken Burns Effect to Your Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-final-cut-pro-slideshow-tutorial-for-beginners/"><u>New The Ultimate Final Cut Pro Slideshow Tutorial for Beginners</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/still-moments-from-moving-pictures-a-review-of-10-video-to-image-converters-for-2024/"><u>Still Moments From Moving Pictures A Review of 10 Video to Image Converters for 2024</u></a></li>
+</ul></div>
 

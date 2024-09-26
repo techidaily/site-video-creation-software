@@ -1,7 +1,7 @@
 ---
 title: "Success Story: Fixing the Non-Launch Problem for PC Gamers in Far Cry 6"
-date: 2024-09-13T02:50:02.408Z
-updated: 2024-09-19T16:00:45.004Z
+date: 2024-09-21T19:46:23.649Z
+updated: 2024-09-26T09:54:12.244Z
 tags:
   - win11
   - win10
@@ -49,11 +49,25 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -63,7 +77,21 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**File > Save** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -84,12 +112,24 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[New] 2024 Approved Expert Tips Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-az-video-logger-full-application-breakdown/"><u>[Updated] 2024 Approved AZ Video Logger Full Application Breakdown</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-open-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Open to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/stardew-valley-pc-crash-problem-easy-solutions-for-stable-gameplay/"><u>Stardew Valley PC Crash Problem: Easy Solutions for Stable Gameplay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-guide-to-upgraded-audio-increasing-pc-volume-seamlessly-with-windows-10/"><u>The Ultimate Guide to Upgraded Audio: Increasing PC Volume Seamlessly with Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-7-affordable-mobile-phone-plans-compare-and-save/"><u>Top 7 Affordable Mobile Phone Plans - Compare and Save!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-vllo-for-mac-download-and-discover-similar-options/"><u>Updated In 2024, VLLO for Mac Download and Discover Similar Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-lighten-the-load-best-free-video-compression-software-for-windows-10/"><u>Updated Lighten the Load Best Free Video Compression Software for Windows 10</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-no-cost-split-screen-video-editors-online-and-offline-options-reviewed/"><u>Updated No-Cost Split Screen Video Editors Online and Offline Options Reviewed</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-ranking-the-best-slow-motion-video-editing-programs/"><u>Updated Ranking the Best Slow Motion Video Editing Programs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-most-popular-free-m4a-editor-programs/"><u>Updated S Most Popular Free M4A Editor Programs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-top-rated-free-music-recording-programs-a-comprehensive-list-for-2024/"><u>Updated S Top-Rated Free Music Recording Programs A Comprehensive List for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-speed-up-or-slow-down-top-gif-editing-software-and-apps-for-2024/"><u>Updated Speed Up or Slow Down Top GIF Editing Software and Apps for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-best-of-both-worlds-free-and-paid-3d-animation-software-solutions/"><u>Updated The Best of Both Worlds Free and Paid 3D Animation Software Solutions</u></a></li>
+</ul></div>
 

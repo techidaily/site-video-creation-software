@@ -1,7 +1,7 @@
 ---
 title: Updated Say Goodbye to Blemishes FCPX Skin Smoothing Techniques for 2024
-date: 2024-09-14T02:01:15.577Z
-updated: 2024-09-15T03:15:37.748Z
+date: 2024-09-19T16:14:29.230Z
+updated: 2024-09-25T16:37:46.828Z
 tags: 
   - video editing software
   - video editing
@@ -80,6 +80,13 @@ Color Finale is a user-friendly, fine-tuned, and fully-featured professional ski
 
 ![color-finale-2](https://images.wondershare.com/filmora/article-images/top-10-free-fcpx-plugins-color-finale-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Price:** $152
 
 **Software Requirements:** FCP 10.4.8 - 10.5.1
@@ -112,13 +119,21 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
@@ -126,6 +141,13 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 Wondershare Filmora features advanced tuning tools and a variety of video filters and overlays. Learn how to smooth skin or beautify your face in the video with this advanced video-editing software.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Open Filmora, open New Project and click Import to load your videos to the timeline.
 2. Double click on the video to open the editing window. Open the Color panel and adjust parameters according to your preference such as white balance, tone, and 3D LUT, etc.
@@ -153,13 +175,6 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -173,5 +188,22 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-your-channel-vision-selecting-ideal-content-strategies/"><u>[New] 2024 Approved Elevate Your Channel Vision Selecting Ideal Content Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flawless-soundscapes-in-the-world-of-social-media-videos-for-2024/"><u>[New] Flawless Soundscapes in the World of Social Media Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-speedy-retrieval-for-elusive-snaps/"><u>[Updated] 2024 Approved Speedy Retrieval for Elusive Snaps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-crafting-memorable-experiences-with-vr-escapades/"><u>[Updated] In 2024, Crafting Memorable Experiences with VR Escapades</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-virtual-companionship-with-chatgpt-tips-and-tricks/"><u>Building Virtual Companionship with ChatGPT: Tips & Tricks</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-correcting-display-drivers-for-your-hp-monitor-in-latest-and-older-windows-systems-windows-1187/"><u>Guide to Correcting Display Drivers for Your HP Monitor in Latest and Older Windows Systems (Windows 11/8/7)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/integrating-obs-in-daily-skype-monitoring-for-2024/"><u>Integrating OBS in Daily Skype Monitoring for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-adding-titles-in-fcpx-a-beginners-guide-to-professional-results/"><u>New Adding Titles in FCPX A Beginners Guide to Professional Results</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-from-watermarks-the-best-video-joining-software-for-2024/"><u>New Free From Watermarks The Best Video Joining Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-10-essential-video-rotation-software-for-web-and-social-media/"><u>New In 2024, 10 Essential Video Rotation Software for Web and Social Media</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-record-your-screen-with-ease-a-comprehensive-guide-to-filmora-scrn/"><u>New Record Your Screen with Ease A Comprehensive Guide to Filmora Scrn</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/replace-vsdc-with-these-top-notch-video-editors-on-mac/"><u>Replace VSDC with These Top-Notch Video Editors on Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/s-top-rated-video-editing-software-for-high-definition-videos-for-2024/"><u>S Top-Rated Video Editing Software for High-Definition Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/speed-up-your-storytelling-mastering-time-lapses-in-final-cut-pro-for-2024/"><u>Speed Up Your Storytelling Mastering Time Lapses in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unwavering-devotion-discover-why-i-admire-the-huawei-p3pro/"><u>Unwavering Devotion: Discover Why I Admire the Huawei P3ˈPro</u></a></li>
+</ul></div>
 

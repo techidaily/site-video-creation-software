@@ -1,7 +1,7 @@
 ---
 title: "Eero Pro Mesh Wi-Fi System Review: A Router to Cover Your Entire Home"
-date: 2024-09-11T00:57:12.075Z
-updated: 2024-09-14T20:48:32.001Z
+date: 2024-09-19T23:36:03.060Z
+updated: 2024-09-26T06:07:06.656Z
 categories:
   - BestProducts
 description: "This Article Describes Eero Pro Mesh Wi-Fi System Review: A Router to Cover Your Entire Home"
@@ -63,6 +63,13 @@ Lifewire / Erika Rawes
 
  The TP-Link Archer C80 is an affordable[long range router](https://www.lifewire.com/best-long-range-routers-4122554) that should be ideal for medium-sized homes. With 3x3[MU-MIMO](https://www.lifewire.com/mimo-wifi-routers-818332) , parental controls, and remote control using TP-Link’s Tether app, the Archer C80 has a few admirable features for a router under $100, but it also lacks some of the things we’ve come to expect in a router in this price range (like smart assistant compatibility and no USB port). I tested the TP-Link Archer C80 for a week to see if its design, connectivity, network performance, range, and software make the device a worthwhile investment when compared to other budget routers on the market.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Basic, but effective**
 
  The Archer C80 is an exceptionally small router, with a body that measures only 4.6 inches tall, 8.5 inches wide, and 1.26 inches in depth. Since its body is smaller than a paperback book, the router can sit inconspicuously on a table or desk. It also has two keyhole mounts on the back for mounting on a wall.
@@ -95,6 +102,13 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/_Q5QoisOd-Mv52nqHoV1nGzgcAU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_05-9d8e4d6e12094157a7083463ee3c3ca4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Lifewire / Erika Rawes
 
 ## **Range: Even better than advertised**
@@ -114,30 +128,24 @@ Lifewire / Erika Rawes
 ![TP-Link Archer C80](https://www.lifewire.com/thmb/K7t4mxXXwGR4rJTa20ITT7J74sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TP-Link_Archer_C80_Tether_App_02-e29468aacf8f426981080a8914426619.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Around 100 bucks**
 
  The TP-Link Archer C80 sells for $100, which is a reasonable price for the unit considering it offers fast speeds, dual-band connectivity, and technologies like MU-MIMO to enhance performance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **TP-Link Archer C80 vs. TP-Link Archer A9**
 
@@ -150,16 +158,10 @@ Lifewire / Erika Rawes
  Even though it lacks a USB port, the Archer C80 puts out impressive speeds over a long range in homes with light to medium networking capacity. For homes that have several people streaming, gaming, and working on cloud applications, they’ll want something more high octane.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -195,5 +197,20 @@ Lifewire / Erika Rawes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-boost-creativity-and-production-in-movies-xp-software/"><u>[Updated] Boost Creativity and Production in Movies XP Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-correcting-smudged-stream-content-on-facebook-devices/"><u>[Updated] Correcting Smudged Stream Content on Facebook Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/editorprime-design/"><u>EditorPrime Design</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-y200-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-prime-lenses-for-professionals-shooting-4k/"><u>In 2024, Innovative Prime Lenses for Professionals Shooting 4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-power-of-reverse-recording-in-phantom-cameras/"><u>In 2024, Unveiling the Power of Reverse Recording in Phantom Cameras</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-ditch-the-search-get-your-filmora-discount-code-here-for-2024/"><u>New Ditch the Search Get Your Filmora Discount Code Here for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-do-you-want-to-make-video-metadata-on-mac-here-you-will-know-8-best-video-metadata-editors-for-mac-they-are-easy-to-use-for-beginners-check-it-o/"><u>New In 2024, Do You Want to Make Video Metadata on Mac? Here You Will Know 8 Best Video Metadata Editors for Mac. They Are Easy to Use for Beginners. Check It Out</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-install-kinemaster-on-mac-a-comprehensive-guide-for-2024/"><u>New Install KineMaster on Mac A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/pioneering-techniques-for-popularizing-youtube-videos-for-2024/"><u>Pioneering Techniques for Popularizing YouTube Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/split-your-videos-with-ease-top-5-free-mpeg-splitters-for-2024/"><u>Split Your Videos with Ease Top 5 Free MPEG Splitters for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-ultimate-guide-to-pc-intro-makers-online-vs-offline-for-2024/"><u>The Ultimate Guide to PC Intro Makers Online vs Offline for 2024</u></a></li>
+</ul></div>
 

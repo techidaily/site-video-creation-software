@@ -1,7 +1,7 @@
 ---
 title: Updated Unleash the 80S Adding VHS Flair to Your FCP Projects for 2024
-date: 2024-09-13T02:57:58.728Z
-updated: 2024-09-14T19:53:18.954Z
+date: 2024-09-25T04:28:29.830Z
+updated: 2024-09-25T18:33:04.753Z
 tags: 
   - video editing software
   - video editing
@@ -98,6 +98,13 @@ To do VHS effects quickly, follow these steps:
 
 ![select_sample_color](https://images.wondershare.com/filmora/images/final-cut-pro/select_sample_color.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Open Wondershare Filmora on your device.
 * Go to the Media tab and select Sample Colors.
 * Select the Black Color.
@@ -125,6 +132,13 @@ Go to Effect, and in the search bar, type **VHS**.
 
 ![add_vhs_rewind](https://images.wondershare.com/filmora/images/final-cut-pro/add_vhs_rewind.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now search for the **Strong Glitch effect**.
 
 * Drag and drop it above the previous layer.
@@ -141,6 +155,13 @@ Search for **Chromatic Aberration effect**.
 * Change its Alpha value to 60 and Fade to 0.05 and click Ok.
 
 ![add_chromatic_abberation](https://images.wondershare.com/filmora/images/final-cut-pro/add_chromatic_abberation.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now Search for **VCR Distortion** in the search bar.
 
@@ -195,6 +216,13 @@ The appearance and feel of your production may be significantly enhanced by usin
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
@@ -208,18 +236,21 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-practices-for-documenting-chat-history-on-whatsapp/"><u>[New] 2024 Approved Best Practices for Documenting Chat History on WhatsApp</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-for-audacity-audio-mastery/"><u>[New] Advanced Techniques for Audacity Audio Mastery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-essential-techniques-for-crafting-efficient-thumbnails/"><u>[Updated] 2024 Approved Essential Techniques for Crafting Efficient Thumbnails</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-blurry-looks-simple-ways-to-hide-identities-in-pictures/"><u>2024 Approved Blurry Looks Simple Ways to Hide Identities in Pictures</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nokia-xr21-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nokia XR21 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-huawei-nova-y91-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Huawei Nova Y91 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-s-top-picks-android-video-editor-apps-for-chrome-os/"><u>New 2024 Approved S Top Picks Android Video Editor Apps for Chrome OS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-from-hours-to-minutes-how-to-rapidly-cut-large-videos-on-mac/"><u>New In 2024, From Hours to Minutes How to Rapidly Cut Large Videos on Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-split-trim-and-cut-avi-videos-best-software-and-apps-for-every-need/"><u>New Split, Trim, and Cut AVI Videos Best Software and Apps for Every Need</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-of-both-worlds-top-split-screen-video-editing-apps-for-ios-and-android/"><u>New The Best of Both Worlds Top Split-Screen Video Editing Apps for iOS & Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-of-the-best-top-avchd-video-editing-software-for-2024/"><u>New The Best of the Best Top AVCHD Video Editing Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/transform-your-videos-top-mp4-to-mp3-conversion-tools-for-2024/"><u>Transform Your Videos Top MP4 to MP3 Conversion Tools for 2024</u></a></li>
+</ul></div>
 

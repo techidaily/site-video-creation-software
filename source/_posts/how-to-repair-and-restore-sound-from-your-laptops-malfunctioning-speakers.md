@@ -1,7 +1,7 @@
 ---
 title: How to Repair and Restore Sound From Your Laptop's Malfunctioning Speakers
-date: 2024-09-12T22:03:12.602Z
-updated: 2024-09-14T17:13:16.127Z
+date: 2024-09-24T16:59:38.799Z
+updated: 2024-09-25T18:59:36.558Z
 tags:
   - win11
   - win10
@@ -34,12 +34,34 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 1. On your keyboard, press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) key and**R** at the same time to invoke the Run box.
 2. Type **services.msc** and press**Enter** to open the Services window.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41858d02eb.png)
 3. Scroll down to and select**Windows Audio** , then click**Restart** on the upper left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4188411dba.jpg)
 4. Test if the sound works now on your laptop. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reinstall your audio driver
 
@@ -47,6 +69,14 @@ thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0
 
 1. Press the**Windows logo** ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4ecde832800.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter** to access Device Manager.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418b9425d4.png)
 3. Expand**Sound, video and game controllers** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418e3d5421.jpg)
@@ -76,24 +106,17 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41665b9a39.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4166ea8070.jpg)
 4. Restart your computer and check if the sound on your laptop now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4 below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change your audio format
 
@@ -112,20 +135,20 @@ Or
 6. Click the**Test** button, then try to play a song to test.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be41a2973d7c.jpg)
 7. Once you’ve picked a proper audio format, click**OK** to save the change.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -149,5 +172,22 @@ Does the sound work properly on your laptop now?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-billion-views-video-hall-youtubes-top-ever-watches/"><u>[New] 2024 Approved Billion-Views Video Hall YouTube's Top Ever Watches</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-laptop-and-mobile-entrance-into-online-gatherings-google-meet-for-2024/"><u>[New] Laptop & Mobile Entrance Into Online Gatherings (Google Meet) for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-engagement-crafting-anime-subscribe-bars-for-youtube-content/"><u>[Updated] Elevate Engagement Crafting Anime Subscribe Bars for YouTube Content</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-infinix-smart-8-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Infinix Smart 8 Pro Unlock Without Password</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparison-mistral-vs-chatgpt-in-language-models/"><u>Comparison: Mistral vs ChatGPT in Language Models</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-note-30-vip-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Note 30 VIP to Protect Your Individual Information</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y100i-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y100i</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y100t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y100t Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-loop-it-like-you-mean-it-top-10-free-online-video-looping-tools/"><u>New 2024 Approved Loop It Like You Mean It Top 10 Free Online Video Looping Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-best-free-dvd-playback-options-for-windows-10-users-updated-2023-for-2024/"><u>New Best Free DVD Playback Options for Windows 10 Users Updated 2023 for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-create-stunning-video-invites-with-these-ios-and-android-apps-for-2024/"><u>New Create Stunning Video Invites with These iOS and Android Apps for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-fcp-file-management-101-saving-and-organizing-your-projects/"><u>New In 2024, FCP File Management 101 Saving and Organizing Your Projects</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-best-free-video-cutters-for-divx-format-2023-review/"><u>New In 2024, The Best Free Video Cutters for Divx Format (2023 Review)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-the-most-downloaded-iphone-apps/"><u>New The Ultimate Guide to the Most Downloaded iPhone Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/s-top-free-video-editing-software-simplified-for-beginners-for-2024/"><u>S Top Free Video Editing Software Simplified for Beginners for 2024</u></a></li>
+</ul></div>
 

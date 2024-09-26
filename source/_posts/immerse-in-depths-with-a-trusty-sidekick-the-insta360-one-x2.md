@@ -1,7 +1,7 @@
 ---
 title: Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
-date: 2024-09-16T17:10:43.703Z
-updated: 2024-09-20T07:07:54.585Z
+date: 2024-09-20T18:40:06.052Z
+updated: 2024-09-26T05:56:30.403Z
 categories:
   - BestProducts
 description: This Article Describes Immerse in Depths with a Trusty Sidekick - The Insta360 One X2
@@ -67,6 +67,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: Nostalgia trip**
 
  The Pruveeo F5 gives the immediate impression that it was constructed some time in the previous decade. Anyone who bought a bargain bin MP3 player from the aughts will instantly recognize the cheap plastic shell, the glossy, chintzy buttons, and a screen that screams early 21st century in big neon letters.
@@ -93,6 +100,13 @@ Lifewire / Andy Zahn
 
  Lifewire / Andy Zahn
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Camera Quality: Extremely poor**
 
  Every issue associated with a cheap camera is magnified in the Pruveeo F5\. It’s actually hard to know where to begin when describing the serious problems present in the footage this dash cam produces. Artifacting, noise, poor color, and a mushy, unclear appearance make reviewing the video from the Pruveeo F5 an almost painful experience. You won’t be using this to film your vacation.
@@ -102,13 +116,6 @@ Lifewire / Andy Zahn
  However, it’s important to realize that this is not what the Pruveeo F5 is built for, and that this is a tool more akin to a black box on an airplane than a traditional camera. It is more well suited for this purpose, if only slightly. The field of view ahead is wide enough, and you can tell roughly what is going on in the video, and even read license plates if they are close enough (a couple of feet). Though this camera is indeed terrible, it does its essential job, albeit at the most basic possible level. Surprisingly, it does not become so much worse while driving in low light conditions—perhaps because a camera can only be so bad.
 
  Lifewire / Andy Zahn
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Performance: Lackluster and very basic**
 
@@ -121,26 +128,26 @@ Lifewire / Andy Zahn
  Lifewire / Andy Zahn
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Connectivity and software: Mysteriously absent**
 
  You will find in your instructions information on using Wi-Fi and a mobile app. However, as pointed out on Pruveeo’s Amazon storefront and on Pruveeo’s website, the feature has been removed from the F5\. This is not a death blow to the camera, but it severely limits its appeal compared to competing products. Without Wi-Fi and the companion app (GoPlus Cam), you can’t use the various features this enables. You can’t use your phone to remotely control the Pruveeo F5, use it as a viewfinder, download files to your phone, or change settings using a less frustrating interface than that built into the camera.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Cheap if below MSRP**
 
  At its MSRP of $70 the Pruveeo F5 faces stiff competition, but fortunately it typically retails for about half that price, and in the $30-$50 range its a bargain. For around $40 it offers decent video capabilities and useful features despite its cheap exterior. Keep in mind that you must consider the price of a microSD card in the total cost, as one is necessary but not included.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Pruveeo F5 vs. Anker Roav C1**
 
@@ -178,5 +185,22 @@ Lifewire / Andy Zahn
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-tier-free-screen-capture-programs-2023-edition/"><u>[New] Top-Tier Free Screen Capture Programs – 2023 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nocturnal-tales-on-the-silver-screen/"><u>2024 Approved Nocturnal Tales on the Silver Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-quick-start-guide-to-setup-and-use-obs-on-apple-systems/"><u>2024 Approved Quick Start Guide to Setup and Use OBS on Apple Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/economic-hearing-enhancement-with-senso-wireless-buds/"><u>Economic Hearing Enhancement with Senso Wireless Buds</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/eero-pro-mesh-wi-fi-system-review-a-router-to-cover-your-entire-home/"><u>Eero Pro Mesh Wi-Fi System Review: A Router to Cover Your Entire Home</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-art-of-iphone-macro-and-micro-imaging/"><u>In 2024, Mastering the Art of iPhone Macro & Micro Imaging</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/making-your-mark-with-video-content-in-captivate/"><u>Making Your Mark with Video Content in Captivate</u></a></li>
+<li><a href="https://games-able.techidaily.com/protecting-game-moments-steam-screenshots-copyright/"><u>Protecting Game Moments: Steam Screenshots Copyright</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722963171667-step-by-step-tutorial-for-downloading-and-updating-synaptics-device-drivers-in-windows/"><u>Step-by-Step Tutorial for Downloading and Updating Synaptics Device Drivers in Windows.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-educators-compendium-of-video-assisted-methods-for-2024/"><u>The Educator's Compendium of Video-Assisted Methods for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-master-1080p-video-editing-expert-approved-software-for-stunning-results-for-2024/"><u>Updated Master 1080P Video Editing Expert-Approved Software for Stunning Results for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-take-your-videos-to-the-next-level-professional-1080p-video-editing-tools-for-2024/"><u>Updated Take Your Videos to the Next Level Professional 1080P Video Editing Tools for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-free-flv-video-editing-tools-for-2024/"><u>Updated The Ultimate Guide to Free FLV Video Editing Tools for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-inner-filmmaker-a-step-by-step-guide-to-professional-movie-making/"><u>Updated Unleash Your Inner Filmmaker A Step-by-Step Guide to Professional Movie Making</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-vn-video-editor-pro-apk-is-it-a-worthy-video-editing-app-for-2024/"><u>Updated VN Video Editor Pro Apk - Is It A Worthy Video Editing App for 2024</u></a></li>
+</ul></div>
 

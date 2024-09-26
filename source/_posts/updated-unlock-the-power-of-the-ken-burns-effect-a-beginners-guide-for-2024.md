@@ -1,7 +1,7 @@
 ---
 title: Updated Unlock the Power of the Ken Burns Effect A Beginners Guide for 2024
-date: 2024-09-14T06:35:37.653Z
-updated: 2024-09-20T00:30:02.340Z
+date: 2024-09-21T05:11:45.494Z
+updated: 2024-09-26T04:11:34.875Z
 tags: 
   - video editing software
   - video editing
@@ -114,6 +114,13 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -122,6 +129,13 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 2. Duplicate the clip by click and drag option or copy and paste option;
 3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
 4. Verify if multiple camera movements have been added.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
@@ -135,6 +149,13 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **What are the Applications of Ken Burns Effect?**
 
 Primarily, the Ken Burns Effect is used due to the unavailability of a film or video. The technique gives action to still photographs to glorify the subjects of interest like couples in wedding photography. It gets better and better as you apply simulated parallax with Ken Burns Effect to make your 2D images appear as 3D plus advanced zooming visuals. You can also use the Ken Burns effect to make a video of your graduation ceremony pictures or memorable moments of reunion. Ken Burns Effect is also used in documentaries by professional filmmakers and editors.
@@ -144,6 +165,19 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -158,12 +192,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-the-world-of-facebook-cover-vids-explained/"><u>[New] Navigating the World of Facebook Cover Vids Explained</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-elevating-your-minecraft-game-perfectly-shaped-circles-and-spheres/"><u>[Updated] 2024 Approved Elevating Your Minecraft Game Perfectly Shaped Circles and Spheres</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-kinemasters-ultimate-green-screen-implementation-techniques/"><u>2024 Approved Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-11-pro-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 11 Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/effortless-methods-for-ipod-touch-dvd-conversion-a-step-by-step-tutorial/"><u>Effortless Methods for iPod Touch DVD Conversion – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-rate-text-animation-setups-for-2024/"><u>First-Rate Text Animation Setups for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtube-profitability-guide-cpm-and-earnings-analysis/"><u>In 2024, YouTube Profitability Guide CPM and Earnings Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-spark-20c-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Spark 20C Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/troubleshoot-lack-of-sound-and-non-dts-compatibility-on-mx-video-player/"><u>Troubleshoot Lack of Sound & Non-DTS Compatibility on MX Video Player</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mac-users-learn-how-to-download-and-use-kinemaster/"><u>Updated Mac Users Learn How to Download and Use KineMaster</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-nikon-video-workflow-efficient-editing-for-stunning-results/"><u>Updated Nikon Video Workflow Efficient Editing for Stunning Results</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-a-mac-users-guide-to-movie-making-for-2024/"><u>Updated Unleash Your Creativity A Mac Users Guide to Movie Making for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/windows-10-essentials-top-free-video-compressors-for-2024/"><u>Windows 10 Essentials Top Free Video Compressors for 2024</u></a></li>
+</ul></div>
 

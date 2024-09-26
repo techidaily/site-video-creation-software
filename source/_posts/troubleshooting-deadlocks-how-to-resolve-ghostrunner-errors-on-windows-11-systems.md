@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Deadlocks: How to Resolve GhostRunner Errors on Windows 11 Systems"
-date: 2024-09-08T04:27:03.970Z
-updated: 2024-09-15T02:57:39.500Z
+date: 2024-09-19T08:48:30.277Z
+updated: 2024-09-25T16:11:40.672Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
@@ -64,13 +71,20 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -89,22 +103,15 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -118,6 +125,13 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -147,5 +161,23 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-convenient-ways-to-merge-igtv-and-insta-stories/"><u>[New] In 2024, Convenient Ways to Merge IGTV & Insta Stories</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-intrinsic-storytelling-principles/"><u>[New] Intrinsic Storytelling Principles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-photography-on-instagram-adding-images-made-simple/"><u>[New] Photography on Instagram Adding Images Made Simple</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-enhancing-home-media-with-fb-video-integration-for-2024/"><u>[Updated] Enhancing Home Media with FB Video Integration for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-eliminating-audible-hum-techniques-for-silence-in-recorded-sounds/"><u>In 2024, Eliminating Audible Hum Techniques for Silence in Recorded Sounds</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-professional-grade-hd-video-editing-software-top-5-recommendations/"><u>New 2024 Approved Professional-Grade HD Video Editing Software Top 5 Recommendations</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-capturing-memories-a-guide-to-sharing-ps4-screenshots-online-for-2024/"><u>New Capturing Memories A Guide to Sharing PS4 Screenshots Online for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-hop-to-it-wondershare-filmora-easter-sale-get-your-discount-now/"><u>New Hop to It! Wondershare Filmora Easter Sale - Get Your Discount Now</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-no-experience-needed-top-free-video-editing-software/"><u>New In 2024, No Experience Needed Top Free Video Editing Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mac-video-editor-software-edit-videos-on-mac/"><u>New Mac Video Editor Software Edit Videos on Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mastering-titles-in-fcpx-essential-skills-for-video-editors/"><u>New Mastering Titles in FCPX Essential Skills for Video Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-video-editing-on-windows-10-for-2024/"><u>New The Ultimate Guide to Video Editing on Windows 10 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-intelnvidia-graphic-mix-up-in-win10-environment/"><u>Rectifying Intel/NVIDIA Graphic Mix-Up in Win10 Environment</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-insights-setting-up-time-limited-sessions-with-obs-for-2024/"><u>Ultimate Insights Setting Up Time-Limited Sessions with OBS for 2024</u></a></li>
+</ul></div>
 

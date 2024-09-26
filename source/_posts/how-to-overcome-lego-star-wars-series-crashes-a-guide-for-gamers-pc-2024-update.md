@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Lego Star Wars Series Crashes - A Guide for Gamers (PC, 2024 Update)
-date: 2024-09-15T05:58:33.287Z
-updated: 2024-09-19T22:47:44.525Z
+date: 2024-09-20T08:43:01.042Z
+updated: 2024-09-25T17:17:36.654Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run your game as an administrator
 
 _Arma 3_ crashing issues might occur when it fails to access critical game files or folders under the stander user account. To see if that’s the core issue, try running Steam as an administrator, then launch your game from Steam. Here is how to do it:
@@ -84,6 +91,13 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
  You can hopefully play_Arma 3_ without crashing now. If the problem still exists, then go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**End unnecessary program** s
 
@@ -109,10 +123,10 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try relaunching_Arma 3_ to see if this has resolved your issue. If this didn’t help, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -134,6 +148,13 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching _Arma 3_  to see if it works properly now. If the crash error still happens, go ahead with the fix below.
 
@@ -171,28 +192,29 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change your PC power plan
 
@@ -215,6 +237,13 @@ OR
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and_Arma 3_ to see if this worked for you. If your problem persists, try the fix below.
 
@@ -310,16 +339,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Arma 3** and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-48.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click **DELETE** .
 
@@ -351,13 +380,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon** and select **Open file location** .
@@ -367,13 +389,6 @@ OR
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)**  Restart _Arma 3_ to test your problem.
 
@@ -398,5 +413,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortlessly-add-youtube-videos-to-google-slate-decks/"><u>[New] 2024 Approved Effortlessly Add YouTube Videos to Google Slate Decks</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-essentials-for-effective-free-timer-utilization-for-2024/"><u>[New] The Essentials for Effective Free Timer Utilization for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-youtube-content-selecting-professional-gear/"><u>[Updated] In 2024, Elevating Your YouTube Content Selecting Professional Gear</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-leading-editing-pros-in-dev-device-content/"><u>[Updated] In 2024, Leading Editing Pros in Dev Device Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-securely-shifting-snapchat-images-onto-your-device-storage/"><u>2024 Approved Securely Shifting SnapChat Images Onto Your Device Storage</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/herramientas-de-control-en-tiempo-ensenanza-basica/"><u>Herramientas De Control en Tiempo - Enseñanza Básica</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 14</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-12-mini-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 12 mini Location | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/kid-friendly-amazon-fire-hd-10-tablet-comprehensive-review-and-top-parental-controls/"><u>Kid-Friendly Amazon Fire HD 10 Tablet - Comprehensive Review & Top Parental Controls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/smart-resume-writing-leverage-ai-inspire-employers/"><u>Smart Résumé Writing: Leverage AI, Inspire Employers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tcl-50s425-50-inch-smart-roku-led-television-ultimate-value-4k-viewing-experience-in-2019/"><u>TCL 50S425 50 Inch Smart Roku LED Television - Ultimate Value 4K Viewing Experience in 2019.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-ken-burns-effect-tutorial-add-movement-to-your-photos/"><u>Updated Ken Burns Effect Tutorial Add Movement to Your Photos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-learn-video-editing-fast-top-beginner-friendly-software/"><u>Updated Learn Video Editing Fast Top Beginner-Friendly Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-lego-animation-masters-the-best-for-2024/"><u>Updated Lego Animation Masters The Best for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-one-look-one-feel-the-ultimate-guide-to-color-matching-in-final-cut-pro/"><u>Updated One Look, One Feel The Ultimate Guide to Color Matching in Final Cut Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>Updated S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-of-gif-speed-changer-apps-and-websites/"><u>Updated The Ultimate List of GIF Speed Changer Apps and Websites</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-potential-top-video-resume-creators-with-free-templates-and-tips-for-2024/"><u>Updated Unleash Your Potential Top Video Resume Creators with Free Templates and Tips for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlock-screen-recording-potential-tips-and-tricks-for-filmora-scrn-users-for-2024/"><u>Updated Unlock Screen Recording Potential Tips and Tricks for Filmora Scrn Users for 2024</u></a></li>
+</ul></div>
 

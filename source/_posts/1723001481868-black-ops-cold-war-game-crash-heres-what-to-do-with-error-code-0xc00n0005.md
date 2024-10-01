@@ -1,7 +1,7 @@
 ---
 title: Black Ops Cold War Game Crash? Here's What To Do With Error Code 0XC00n0005
-date: 2024-09-20T22:46:12.420Z
-updated: 2024-09-25T19:23:54.048Z
+date: 2024-09-30T07:37:25.500Z
+updated: 2024-09-30T18:22:12.470Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 4. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Change your RAM](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Scan and repair system and game files
 
  According to some Microsoft experts, the 0xc0000005 error might be caused by**missing or corrupted system files** . So before you dive into anything more advanced, first**check the integrity of your game and system** . To do so, simply follow the steps below.
@@ -53,16 +46,31 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 1. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 2. In the command prompt, type or paste**sfc /scannow** (note the space between sfc and the slash) and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/cmd-sfc-scannow.jpg)
 3. Once done, restart your PC and check if the error persists in Black Ops Cold War.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this method doesn’t work for you, simply take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -95,6 +103,19 @@ To do so, first visit the website of your GPU manufacturer:
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code has disappeared.
@@ -110,13 +131,6 @@ It’s actually pretty easy to update:
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -136,44 +150,31 @@ To do so, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. Next you need to disable the unnecessary startup programs. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
-5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
+5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your computer and test the stability of Black Ops Cold War.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this trick doesn’t help you, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Change your RAM
@@ -181,6 +182,13 @@ If this trick doesn’t help you, simply check out the next one.
  One of the possible causes of the 0xc0000005 error is you’re using faulty hardware and most of the time, it’s RAM-related. To check if your RAM is corrupted, you can simply**replace them with new ones** . But be sure to choose well-known and recognized manufacturers. If you’re not comfortable fiddling with computer hardware, contact your supplier or consult the nearby repair services.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 RAM
 
@@ -205,19 +213,22 @@ RAM
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-navigating-through-complete-circles-on-screen/"><u>[New] Navigating Through Complete Circles on Screen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streaming-mastery-record-hulu-playback-on-multiple-systems/"><u>[New] Streaming Mastery Record Hulu Playback on Multiple Systems</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-live-stream-capture-tv-show-recording-techniques-for-2024/"><u>[Updated] Mastering Live Stream Capture TV Show Recording Techniques for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/brush-up-creativity-leading-mac-friendly-free-design-tools/"><u>Brush Up Creativity Leading Mac-Friendly FREE Design Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/error-resolution-guide-for-cod-black-ops-cold-war-understanding-and-fixing-error-80070057/"><u>Error Resolution Guide for Cod: Black Ops Cold War - Understanding and Fixing Error 80070057</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-7-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 7</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-finding-the-facebook-in-niche-driven-instagram-realms/"><u>In 2024, Finding the Face(book) in Niche-Driven Instagram Realms</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mov-video-cutter-reviews-top-6-free-options/"><u>New 2024 Approved MOV Video Cutter Reviews Top 6 Free Options</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-video-editing-on-a-mac-the-top-picks-for/"><u>New 2024 Approved Video Editing on a Mac The Top Picks For</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-s-top-online-cartoon-video-editors-for-newbies/"><u>New In 2024, S Top Online Cartoon Video Editors for Newbies</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-vn-video-editor-android-review-a-comprehensive-guide/"><u>New In 2024, VN Video Editor Android Review A Comprehensive Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-sound-effects-on-a-budget-finding-and-adding-free-resources-in-final-cut-pro-for-2024/"><u>New Sound Effects on a Budget Finding and Adding Free Resources in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-verdict-on-recuva-pioneering-leadership-in-file-undeletion-technology-reviews/"><u>The Ultimate Verdict on Recuva: Pioneering Leadership in File Undeletion Technology Reviews</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-dvd-burning-made-easy-convert-videos-to-dvd-on-windows-and-mac/"><u>Updated DVD Burning Made Easy Convert Videos to DVD on Windows and Mac</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-innovation-in-action-sonys-s6500-player-redefined-for-2024/"><u>[New] Innovation in Action Sony's S6500 Player Redefined for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premium-recommendations-for-ultra-hd-monitoring-tools-for-2024/"><u>[New] Premium Recommendations for Ultra-HD Monitoring Tools for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/2024-approved-7-best-real-time-video-translation-apps/"><u>2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blitz-photo-screening-for-windows-users-for-2024/"><u>Blitz Photo Screening for Windows Users for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effective-techniques-for-adding-captions-to-mp4-videos/"><u>Effective Techniques for Adding Captions to MP4 Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effective-techniques-for-chapterizing-your-mp4-videos/"><u>Effective Techniques for Chapterizing Your MP4 Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/efficient-conversion-techniques-from-h265-to-h264-video-codecs/"><u>Efficient Conversion Techniques From H.265 To H.264 Video Codecs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effortless-conversion-from-flac-to-wma-audio-files-on-windows/"><u>Effortless Conversion From FLAC to WMA Audio Files on Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/exploring-vp9-compatibility-with-handbrake-your-ultimate-guide/"><u>Exploring VP9 Compatibility with Handbrake - Your Ultimate Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/from-dvds-to-srt-the-ultimate-step-by-step-process-for-extracting-subtitles-easily/"><u>From DVDs to SRT: The Ultimate Step-By-Step Process for Extracting Subtitles Easily</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/guide-securing-online-versions-of-your-existing-movie-collection/"><u>Guide: Securing Online Versions of Your Existing Movie Collection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/health-advocacy-through-strategic-social-media-plays/"><u>Health Advocacy Through Strategic Social Media Plays</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/how-to-effortlessly-integrate-the-midia-plugin-into-your-kodi-setup-personalized-media-experience/"><u>How to Effortlessly Integrate the Midia Plugin Into Your Kodi Setup - Personalized Media Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y28-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y28 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solved-dell-optiplex-790-driver-issues-in-windows/"><u>Solved Dell OptiPlex 790 Driver Issues in Windows</u></a></li>
 </ul></div>
 

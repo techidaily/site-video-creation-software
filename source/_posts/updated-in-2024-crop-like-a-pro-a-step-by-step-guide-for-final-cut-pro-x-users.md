@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users
-date: 2024-08-02T04:30:48.234Z
-updated: 2024-08-03T04:30:48.234Z
+date: 2024-09-25T03:43:06.778Z
+updated: 2024-09-30T16:01:03.356Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ Cropping an image means to remove a portion of the image, either to hide somethi
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -54,16 +51,10 @@ I'll show you two ways to crop a video clip in this article, one that maintains 
 
 Trimming is the process of removing portions of a video clip without changing the size of the clip. This retains the highest amount of image quality.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop001.jpg)
 
 For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say that we want to emphasize the barn and not the sky.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
 
 The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
@@ -72,16 +63,10 @@ The easiest way to do this is to click the icon in the lower left corner of the 
 
 This displays the cropping tools in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop004.jpg)
 
 Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop005.jpg)
 
 Grab one of the blue dots and drag to hide portions of the frame. I generally grab a corner, but any blue dot will do.
@@ -92,9 +77,6 @@ NOTE: Press and hold the Option key while dragging to drag opposite edges or cor
 
 Drag other corners or edges to further trim the image.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop007.jpg)
 
 When you have trimmed the image the way you want, click the "Done" button in the top right corner to exit trimming mode.
@@ -103,10 +85,6 @@ When you have trimmed the image the way you want, click the "Done" button in the
 
 If no other clip is below the trimmed clip, the background will be black.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
@@ -128,9 +106,6 @@ There are several ways we can choose to crop an image:
 * Right-mouse click (or Control-click) inside the Viewer and choose
 * Type Shift+C
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop012.jpg)
 
 \* In the Inspector > Video tab > Crop (this option provides the most precision, but is the least intuitive to use)
@@ -149,9 +124,6 @@ Final Cut displays numbers at the top of the Viewer indicating how much the imag
 
 Reposition the frame by grabbing inside the rectangle and dragging.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop016.jpg)
 
 When you are happy with the results, click the Done button in the top right corner.
@@ -176,9 +148,6 @@ Cropping is used to reframe an image, say from a medium shot to a close-up, but 
 
 I use both these techniques frequently in my own editing.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -187,11 +156,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-initial-movie-capture-evaluation-with-options/"><u>[New] 2024 Approved Initial Movie Capture Evaluation with Options</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-experts-to-follow-on-igtv/"><u>[New] In 2024, Experts to Follow on IGTV</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-tips-for-ppt-video-production/"><u>[Updated] 2024 Approved Essential Tips for PPT Video Production</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harness-the-power-of-keywords-top-selection-software-unveiled/"><u>[Updated] 2024 Approved Harness the Power of Keywords Top Selection Software Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-evolution-of-action-cams-comparing-hero5-and-yis-newest-models/"><u>[Updated] In 2024, The Evolution of Action Cams Comparing Hero5 and Yi's Newest Models</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-ensuring-effectiveness-and-risk-in-exerrances/"><u>ChatGPT: Ensuring Effectiveness & Risk in Exerrances</u></a></li>
+<li><a href="https://games-able.techidaily.com/economically-savvy-gamers-guide-to-xbox-series-xs/"><u>Economically Savvy Gamers' Guide to Xbox Series X/S</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-y17s-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo Y17s</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-best-image-to-video-converters-free-and-paid-options-for-2024/"><u>New Best Image to Video Converters Free and Paid Options for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-best-vertical-video-apps-for-ios-and-android-for-2024/"><u>New Best Vertical Video Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-avi-video-rotation-16-top-picks-for-windows-mac-android-iphone-and-online-platforms-for-2024/"><u>New Free AVI Video Rotation 16 Top Picks for Windows, MAC, Android, iPhone, and Online Platforms for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mts-video-editing-made-easy-top-5-software-solutions/"><u>New In 2024, MTS Video Editing Made Easy Top 5 Software Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-make-movies-like-a-pro-insider-secrets-for-achieving-professional-results-for-2024/"><u>New Make Movies Like a Pro Insider Secrets for Achieving Professional Results for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

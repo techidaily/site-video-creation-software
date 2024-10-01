@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro
-date: 2024-08-02T04:29:41.617Z
-updated: 2024-08-03T04:29:41.617Z
+date: 2024-09-28T01:13:21.550Z
+updated: 2024-09-30T18:26:15.854Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
 # Two Ways to Fade In/Out Audio in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -37,9 +34,6 @@ Creating a fade in or out effect in [Final Cut Pro](https://www.apple.com/final-
 
 This tutorial offers only the basics of the audio fading techniques in Apple Final Cut Pro X, which is a specialized video editing software used by professionals worldwide. If you are an amateur who is new to video editing, we suggest you begin with [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) (originally Wondershare Video Editor for Mac). It is a powerful yet easy-to-use software that is ideal for beginners. You can download the free trial version of Wondershare Filmora below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 With this modern and extremely user-friendly tool, you'll find that applying effects like fade-in, fade-out, or crossfade to your audio clips is very easy.
@@ -60,17 +54,10 @@ You can go to the **Modify** menu and easily apply fade-in or fade-outs to the a
 
 **Step 2** **:** Select Modify> Adjust Volume> Apply Fades.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Apply fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-2.png)
 
 You should remember that the fades appear at the beginning and the end of each clip. The default duration of the fade is one half-second. If you want to modify that duration, you just have to drag the fade handle up to the point where your fade is supposed to begin or end.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Modify duration of fades](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-3.png)
 
 **Step 3**: If you want to remove the fades, choose Modify > Adjust Volume > Remove Fades.
@@ -78,9 +65,12 @@ You should remember that the fades appear at the beginning and the end of each c
 See more details on how to fade audio in Final Cut Pro from the following video.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -97,11 +87,32 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -114,9 +125,6 @@ You can easily change the sound of your fades by modifying the default fade shap
 
 [](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -125,11 +133,33 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-creative-components-free-youtube-visual-resources/"><u>[Updated] 2024 Approved Creative Components FREE YouTube Visual Resources</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-az-screenscape-full-application-review-alternatives-for-2024/"><u>[Updated] AZ Screenscape Full Application Review, Alternatives for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-game-ahead-with-funimates-easy-apk-instructions-for-2024/"><u>[Updated] Game Ahead with Funimate's Easy APK Instructions for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-deep-dive-into-how-dts-virtualx-enhances-sound-quality/"><u>A Deep Dive Into How DTS Virtual:X Enhances Sound Quality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tips-and-tricks-how-to-update-your-facebook-password-today/"><u>Easy Tips & Tricks: How To Update Your Facebook Password Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-hp-speakers-up-and-running-free-driver-download-explained/"><u>Get Your HP Speakers Up & Running: Free Driver Download Explained</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-version-of-m-audio-fast-track-drivers-for-windows-download-now-windows-11-7-8-and-81/"><u>Latest Version of M-Audio Fast Track Drivers for Windows: Download Now (Windows 11, 7, 8 & 8.1)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-5-best-vob-video-editors-that-wont-break-the-bank/"><u>New 5 Best VOB Video Editors That Wont Break the Bank</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-say-goodbye-to-watermarks-top-10-free-online-video-editing-software/"><u>New In 2024, Say Goodbye to Watermarks Top 10 Free Online Video Editing Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-5-best-free-wmv-video-editors/"><u>New In 2024, Top 5 Best Free WMV Video Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-stop-time-in-its-tracks-how-to-freeze-frames-in-your-favorite-video-editor/"><u>New Stop Time in Its Tracks How to Freeze Frames in Your Favorite Video Editor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-gen-foldables-revealed-discover-the-samsung-galaxy-z-fold-6s-release-date-and-features/"><u>Next-Gen Foldables Revealed: Discover the Samsung Galaxy Z Fold 6'S Release Date and Features!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/no-budget-no-problem-free-animation-software-for-windows-and-mac/"><u>No Budget? No Problem! Free Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/rise-and-shine-wondershare-filmora-easter-sale-brings-you-unbeatable-offers/"><u>Rise and Shine Wondershare Filmora Easter Sale Brings You Unbeatable Offers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-creme-de-la-creme-of-4k-video-top-10-picks/"><u>The Crème De La Crème of 4K Video Top 10 Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-rated-pc-intro-makers-free-and-paid-tools-online-and-offline/"><u>Top-Rated PC Intro Makers Free and Paid Tools Online & Offline</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-10-best-free-video-hosting-sites-for-privatebusiness-online-for-2024/"><u>Updated 10 Best Free Video Hosting Sites for Private/Business Online for 2024</u></a></li>
+</ul></div>
+

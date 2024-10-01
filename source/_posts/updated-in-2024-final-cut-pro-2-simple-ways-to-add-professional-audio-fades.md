@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Final Cut Pro 2 Simple Ways to Add Professional Audio Fades
-date: 2024-09-12T23:08:21.225Z
-updated: 2024-09-14T20:12:09.826Z
+date: 2024-09-25T18:50:06.671Z
+updated: 2024-10-01T06:49:03.187Z
 tags: 
   - video editing software
   - video editing
@@ -64,6 +64,13 @@ You should remember that the fades appear at the beginning and the end of each c
 
 See more details on how to fade audio in Final Cut Pro from the following video.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Fade Music by using Fade Handles
 
 You have already learned how to find the fade handles on the screen. Now, you just have to manually drag the handle to the exact point from which you want the fade to begin or end. Just keep in mid this simple rule: fade handles at the beginning of a clip produce fade-in effects, whereas fade handles at the end give fade-out effects.
@@ -80,11 +87,32 @@ You can manually fade-in or out a portion of the audio clip on your timeline by 
 
 ![ Using the fade handles to create crossfades ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips: How to change fade shapes while using the fade handle
 
 You can easily change the sound of your fades by modifying the default fade shape. For this, you'll have to control-click a fade handle and select one of the fade preferences from the list.
 
 ![Fade preferences ](https://images.wondershare.com/filmora/article-images/fade-audio-in-fcp-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Linear: The rate of change is constant over the length of the fade.
 * S-curve: Eases in and out of the fade with the midpoint at 0 dB.
@@ -112,12 +140,23 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-gaming-youtubers-you-may-want-to-subscribe/"><u>[New] In 2024, Top 10 Gaming YouTubers You May Want to Subscribe</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y36i-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y36i to Roku | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/examining-the-cyberpower-uninterruptible-power-supply-the-cp685avrg-model-reviewed/"><u>Examining the Cyberpower Uninterruptible Power Supply: The CP685AVRG Model Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-assemble-your-unique-google-cardboard-virtual-reality/"><u>In 2024, Assemble Your Unique Google Cardboard Virtual Reality</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-13-mini-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 13 mini without Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-epson-gt-s50-printing-software-on-your-pc-running-windows-781nt/"><u>Install Epson GT-S50 Printing Software on Your PC Running Windows 7/8/1nT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphones-a-compreenas-guide-to-storing-and-sharing-gifs/"><u>IPhones A Compreenas Guide to Storing & Sharing GIFs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-macos-video-editing-studio-create-stunning-videos/"><u>New 2024 Approved MacOS Video Editing Studio Create Stunning Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-5-free-wmv-video-merging-solutions/"><u>New 2024 Approved Top 5 Free WMV Video Merging Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-filmmaking-on-a-shoestring-10-essential-low-budget-tools-for-2024/"><u>New Filmmaking on a Shoestring 10 Essential Low-Budget Tools for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-ditch-final-cut-pro-x-10-free-and-paid-alternatives-to-consider/"><u>New In 2024, Ditch Final Cut Pro X? 10 Free and Paid Alternatives to Consider</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-green-screen-editing-on-a-mac-software-comparison-and-recommendations/"><u>New In 2024, Green Screen Editing on a Mac Software Comparison and Recommendations</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-guide-to-free-video-cutting-and-joining-software/"><u>New In 2024, The Ultimate Guide to Free Video Cutting and Joining Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-ranking-the-best-slow-motion-video-editing-programs/"><u>New Ranking the Best Slow Motion Video Editing Programs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/seamlessly-posting-online-content-to-ig-storypost/"><u>Seamlessly Posting Online Content to IG Story/Post</u></a></li>
+</ul></div>
 

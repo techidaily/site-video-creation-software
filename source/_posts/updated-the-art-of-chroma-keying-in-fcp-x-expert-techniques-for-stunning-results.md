@@ -1,7 +1,7 @@
 ---
 title: Updated The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results
-date: 2024-09-10T23:28:34.456Z
-updated: 2024-09-14T21:30:59.605Z
+date: 2024-09-26T03:26:21.511Z
+updated: 2024-09-30T16:12:40.769Z
 tags: 
   - video editing software
   - video editing
@@ -46,6 +46,13 @@ First, the best thing you can do to improve the quality of your keys is to impro
 * Light your background for smoothness. Light your actors for drama.
 * Don't worry about having the green background fill the frame. It only needs to completely surround the edges of your actors. Garbage mattes are used to get rid of junk around the edges.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Setting up the Key
 
 ![fx chroma 01](https://images.wondershare.com/multimedia/fx-chroma-01.jpg)
@@ -58,9 +65,23 @@ From the **Effects Browser > Keying** category, double-click the **Keyer** effec
 
 ![fx chroma 02](https://images.wondershare.com/multimedia/fx-chroma-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Don't panic if your image looks weird – we will fix it.
 
 ![fx chroma 03](https://images.wondershare.com/multimedia/fx-chroma-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Click the **Sample Color** icon. This allows fine-tuning the selection of the background color.
 
@@ -94,6 +115,13 @@ Then, click and drag a line from the foreground to the background in the Canvas.
 
 ![fx chroma 09a](https://images.wondershare.com/multimedia/fx-chroma-09a.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Final Cut provides four additional tweaks at the bottom of the keyer filter:
 
 * Color Selection
@@ -119,11 +147,25 @@ When you are done, you have a great looking key!
 
 ![fx chroma 12](https://images.wondershare.com/multimedia/fx-chroma-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Sometimes, however, you don't have, ah, perhaps, the best green-screen image to work with. Here, for example, there are lighting instruments in the foreground, with a very inadequately lit green screen in the background. (Sigh… this is just pitiful.)
 
 Once you pull the key – which is film-speak for creating a green-screen shot, as I described above – and get it looking as good as possible, there's one more step: adding a garbage matte to get rid of all the garbage surrounding your actors.
 
 ![fx chroma 13](https://images.wondershare.com/multimedia/fx-chroma-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you get your key looking as good as you can – which in this case isn't all that good – drag the Mask effect (**Effects > Keying > Mask**) on top of the green-screen clip.
 
@@ -135,19 +177,6 @@ Then, drag each of the four circles to create a shape such that your foreground 
 
 However, the big limitation of the Mask effect is that you only have four points to work with. That's where a free effect comes in, which allows you to create far more flexible shapes with it. It's written by Alex Gollner and is available on his website – alex4d.wordpress.com/fcpx/ – I recommend his effects highly.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Create a Chroma-Key in easier ways?
 
 Chroma-key, or green screen, is an essential part of every editor to make all kinds of effects. Is there any way to make this sophisticated procedure easier way? Yes, try Filmora.
@@ -158,13 +187,6 @@ By adopting AI portrait, you can add those stunning effects in simple steps: How
 
 Or: [How to Add a Shake Effect to your Videos?](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The chroma-key filter in FCP X allows us to create some amazing effects. If you want to use green screen effects more easily, here is [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) for you. You can appaly Chroma-Key effects with just a few click. Have fun playing with it.
@@ -172,6 +194,13 @@ The chroma-key filter in FCP X allows us to create some amazing effects. If you 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -186,5 +215,18 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-preserving-gh-meetings-live/"><u>[New] In 2024, Preserving GH Meetings Live</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-saving-smiles-the-ultimate-list-of-twitvid-tools/"><u>[Updated] Saving Smiles The Ultimate List of TwitVid Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shopping-smart-with-drones-what-you-need-to-think-about-first/"><u>[Updated] Shopping Smart with Drones What You Need to Think About First</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-4-easy-ways-to-screen-record-lenovo-laptop/"><u>2024 Approved 4 Easy Ways to Screen Record Lenovo Laptop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-connect-your-tiktok-creativity-to-twitter/"><u>2024 Approved Connect Your TikTok Creativity to Twitter</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/cross-promoting-platforms-from-twitter-vids-to-insta-audience/"><u>Cross-Promoting Platforms From Twitter Vids to Insta Audience</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-a-picture-in-picture-effect-is-a-very-popular-effect-in-that-it-allows-us-to-see-two-images-at-once-this-tutorial-shows-you-how-to-cre/"><u>Updated 2024 Approved A Picture-in-Picture Effect Is a Very Popular Effect in that It Allows Us to See Two Images at Once. This Tutorial Shows You How to Create This in FCP</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-get-the-most-out-of-fcpx-10-free-plugins-every-editor-should-use/"><u>Updated 2024 Approved Get the Most Out of FCPX 10 Free Plugins Every Editor Should Use</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-create-split-screen-videos-for-free-online-and-offline-editors/"><u>Updated Create Split-Screen Videos for Free Online and Offline Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-crop-like-a-pro-a-step-by-step-guide-for-final-cut-pro-x-users/"><u>Updated In 2024, Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-mod-video-editing-on-a-budget-the-best-free-options/"><u>Updated In 2024, MOD Video Editing on a Budget The Best Free Options</u></a></li>
+</ul></div>
 

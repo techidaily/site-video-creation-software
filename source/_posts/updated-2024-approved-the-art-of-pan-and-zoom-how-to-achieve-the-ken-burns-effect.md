@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Art of Pan and Zoom How to Achieve the Ken Burns Effect
-date: 2024-08-02T04:28:18.920Z
-updated: 2024-08-03T04:28:18.920Z
+date: 2024-09-28T10:14:12.774Z
+updated: 2024-09-30T17:55:13.499Z
 tags: 
   - video editing software
   - video editing
@@ -46,9 +46,6 @@ _![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/fina
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
 
 **Step 3: Add the Ken Burns Effect**
@@ -63,9 +60,6 @@ The Ken Burns Effect is used to focus on specific parts of an image and bring mo
 6. Press the Ken Burns button in the Crop onscreen controls to add the effect; and
 7. Finally, notice the start frame and the end frame controls.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 _![adding ken burns effect](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%203%20Adding%20the%20Ken%20Burns%20Effect.jpg)_
 
 **Step 4: Customize Your Effect**
@@ -88,18 +82,12 @@ You’re not done yet because you need to hold your picture at the end of the an
 2. Press Option-F to add a freeze-frame;
 3. Make sure that your added frame matches the ending frame of the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 _![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%205%20Adding%20a%20Freeze%20Frame.jpg)_
 
 **Step 6: Adjust the Duration of the Freeze Frame**
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 _![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
 
 **Step 7: Swap the Start and End Frame**
@@ -124,14 +112,15 @@ After you have optimized the speed of the Ken Burns Effect by trimming the clip�
 
 Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan and zoom effect, in much easier steps, click to download and have a try!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -140,6 +129,13 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 2. Duplicate the clip by click and drag option or copy and paste option;
 3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
 4. Verify if multiple camera movements have been added.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
@@ -151,10 +147,14 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
 
@@ -166,13 +166,18 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -180,3 +185,27 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-essential-photographic-tool-dynamic-wallpaper-editor-for-2024/"><u>[Updated] Essential Photographic Tool Dynamic Wallpaper Editor for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-realme-11-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Realme 11 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oppo-reno-11-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Oppo Reno 11 5G Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-se-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone SE with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-redmi-a2plus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi Redmi A2+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones-for-2024/"><u>Innovating Messaging Sounds A Guide to Downloading & Personalizing WhatsApp Ringtones for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-mac-mkv-players-compilation-for-2024/"><u>Top Mac MKV Players Compilation for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-your-way-through-chatgpt-sign-in-issues/"><u>Troubleshooting Your Way Through ChatGPT Sign-In Issues</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-easy-video-reversal-top-online-tools/"><u>Updated 2024 Approved Easy Video Reversal Top Online Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-10-essential-android-video-editor-apps-for-chromebook/"><u>Updated In 2024, 10 Essential Android Video Editor Apps for Chromebook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-storytelling-microsoft-video-editor-for-windows-10-8-and-7-users/"><u>Updated In 2024, Elevate Your Storytelling Microsoft Video Editor for Windows 10, 8, and 7 Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-from-motion-to-still-a-guide-to-converting-videos-to-photos-10-best-converters/"><u>Updated In 2024, From Motion to Still A Guide to Converting Videos to Photos 10 Best Converters</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-in-this-article-we-are-going-to-take-you-through-some-of-the-best-8k-video-editing-software-products-on-the-market-and-help-you-select-the-a/"><u>Updated In 2024, In This Article, We Are Going to Take You Through some of the Best 8K Video Editing Software Products on the Market and Help You Select the App that Can Cater to All of Your Video Editing Needs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-optimize-your-mac-a-step-by-step-guide-to-freeing-up-space-for-fcpx/"><u>Updated In 2024, Optimize Your Mac A Step-by-Step Guide to Freeing Up Space for FCPX</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-say-goodbye-to-watermarks-filmora-removal-techniques/"><u>Updated In 2024, Say Goodbye to Watermarks Filmora Removal Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-time-lapse-mastery-a-step-by-step-guide-in-final-cut-pro/"><u>Updated In 2024, Time Lapse Mastery A Step-by-Step Guide in Final Cut Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-transforming-raw-footage-into-masterpieces-sony-camcorder-video-editing/"><u>Updated In 2024, Transforming Raw Footage Into Masterpieces Sony Camcorder Video Editing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-on-your-iphoneipad-the-ultimate-downloading-guide-for-2024/"><u>Youtube on Your iPhone/iPad The Ultimate Downloading Guide for 2024</u></a></li>
+</ul></div>
+

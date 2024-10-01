@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Work Smarter, Not Harder Top Adobe Premiere Shortcuts and Tricks
-date: 2024-08-02T04:29:16.961Z
-updated: 2024-08-03T04:29:16.961Z
+date: 2024-09-28T00:23:22.793Z
+updated: 2024-10-01T05:28:23.510Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 # Top 20 Adobe Premiere Shortcuts You Will Use When Editing Video Files
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,18 +30,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -90,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -145,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -188,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -223,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -234,11 +207,37 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-unlocking-monetization-success-a-3-step-system-to-determine-your-youtube-earnings/"><u>[New] In 2024, Unlocking Monetization Success A 3-Step System to Determine Your YouTube Earnings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-playlist-on-a-page-embedding-yt-videos-online/"><u>[New] Playlist on a Page Embedding YT Videos Online</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-definitive-guide-to-appending-srt-track-in-videos/"><u>[Updated] 2024 Approved The Definitive Guide to Appending SRT Track in Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-hp-officejet-pro-6968-drivers-secure-download-now/"><u>Easy Installation of HP OfficeJet Pro 6968 Drivers - Secure Download Now!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-computer-gear-with-toms-hardware-insights/"><u>Exploring Computer Gear with Tom's Hardware Insights</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-mobvoi-ticwatch-pro-4g-a-comprehensive-review-for-tech-enthusiasts/"><u>Exploring the Mobvoi Ticwatch Pro 4G: A Comprehensive Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-instantgrabbed-extendedcapture/"><u>In 2024, InstantGrabbed ExtendedCapture</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-efficacy-of-quick-subscribing-in-video-platforms/"><u>In 2024, The Efficacy of Quick-Subscribing in Video Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-bypassing-disneys-drm-protection-to-copy-your-favorite-movies-on-pc-or-mac/"><u>Step-by-Step Guide: Bypassing Disney's DRM Protection to Copy Your Favorite Movies on PC or Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-clips-to-masterpiece-a-beginners-guide-to-video-editing-in-windows/"><u>Updated 2024 Approved From Clips to Masterpiece A Beginners Guide to Video Editing in Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-join-multiple-mov-files-into-one-top-5-free-video-joiners/"><u>Updated 2024 Approved Join Multiple MOV Files Into One Top 5 Free Video Joiners</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-reaction-video-made-easy-unlock-the-power-of-filmora/"><u>Updated 2024 Approved Reaction Video Made Easy Unlock the Power of Filmora</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-10-best-free-video-cutters-for-mp4-files/"><u>Updated 2024 Approved The 10 Best Free Video Cutters for MP4 Files</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-tone-generation-made-simple-5-top-online-options/"><u>Updated 2024 Approved Tone Generation Made Simple 5 Top Online Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-3d-animation-software-free-and-paid2022-new-for-2024/"><u>Updated Best 3D Animation Software Free and Paid(2022 New) for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-filmora-on-a-budget-how-to-get-it-for-free-seriously/"><u>Updated Filmora on a Budget How to Get It for Free (Seriously!)</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

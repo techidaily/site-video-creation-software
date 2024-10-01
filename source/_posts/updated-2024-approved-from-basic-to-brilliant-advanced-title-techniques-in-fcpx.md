@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved From Basic to Brilliant Advanced Title Techniques in FCPX
-date: 2024-08-02T04:28:34.472Z
-updated: 2024-08-03T04:28:34.472Z
+date: 2024-09-24T01:33:44.524Z
+updated: 2024-09-30T19:12:11.940Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d39
 
 # How to Add Titles in Final Cut Pro X
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -33,9 +30,6 @@ We add text titles to our projects to tell the audience something they can't fig
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -54,15 +48,6 @@ Just to keep us all on the same page, here are my definitions of key terms relat
 
 #### JUST THE BASICS
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles001.jpg)
 
 I'd like to introduce "Yertle," he's a sea turtle and the star of this article. (Footage courtesy of Jim Walker and Lobsters Gone Wild Productions.)
@@ -73,14 +58,6 @@ At its simplest, we use titles to display his (its?) name.
 
 In the Timeline, put the playhead where you want a title to appear and type Shift+Control+T. This inserts the default lower-third title at the position of the playhead. The title, like almost all titles, has a default duration of 10:00 seconds.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles003.jpg)
 
 Look at the Browser and see the results of your work. A lower-third title is superimposed over the video in the lower left corner. (I'll talk about formatting the text in a few paragraphs.)
@@ -91,9 +68,6 @@ You position or trim a title the same as any video clip: drag the clip to a diff
 
 Select that title and delete it by pressing the Delete key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles004.jpg)
 
 This time, type Control+T and the default full-screen title appears in the center of the screen. Again, this has a default duration of 10 seconds.
@@ -116,9 +90,6 @@ Let's add a totally ridiculous title to our turtle - drag Clouds from the Title 
 
 NOTE: I'm using a marker in the Timeline to help me find the same place in a clip so my screen shots are consistent. Markers are not needed in any way for titles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles008.jpg)
 
 Um, yeah. So, some titles look more professional than others... You can delete this title now.
@@ -133,9 +104,6 @@ So, we:
 
 #### CHANGING TEXT
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles009.jpg)
 
 Add a new full-screen title (type Control+T) to the Timeline. To change the text in a title, double-click it in the Viewer. Here, I've changed my title to "An Undersea Adventure."
@@ -154,9 +122,6 @@ Here, I selected my entire title and opened the Inspector (shortcut Cmd+4). Clic
 
 NOTE: The text box near the top of the panel is the second place you can select text for formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles011.jpg)
 
 If you want a fast way to format text, click the word "Normal" at the top. This displays a menu filled with different text formats. Some of these formats look pretty dreadful; the rest look worse.
@@ -173,16 +138,10 @@ While many of these settings you already know there are a few you may not:
 * Tracking. Adjusts the horizontal spacing between letters.
 * Baseline. Adjusts the vertical spacing of text compared to the horizontal line running thru the center of the white circle in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles013.jpg)
 
 The Face section allows us to change font color, opacity and blue. Outline and Glow allows us to add, not surprisingly, outlines and glows. You can adjust these as you see fit - I tend not to add outlines or glows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![remote](https://images.wondershare.com/multimedia/titles017.jpg)
 
 However, I STRONGLY recommend adding drop shadows to all text that you want viewers to read. Video, even HD video, is low resolution compared to print. Drop shadows make your text much easier to read. These are the settings I recommend for drop shadows.
@@ -223,11 +182,32 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-digital-workshop-archives/"><u>[Updated] 2024 Approved Digital Workshop Archives</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-innovative-approaches-to-capturing-moments-with-zooms-snaps/"><u>[Updated] 2024 Approved Innovative Approaches to Capturing Moments with Zoom's Snaps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-the-art-of-converting-still-images-into-engaging-videos-with-pixiz/"><u>[Updated] 2024 Approved Unveiling the Art of Converting Still Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/nightshade-techniques-to-safeguard-your-unique-artistic-creations/"><u>Nightshade Techniques to Safeguard Your Unique Artistic Creations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/secure-smooth-photo-viewing-w10-troubleshooting-tips-unveiled/"><u>Secure Smooth Photo Viewing W10 Troubleshooting Tips Unveiled</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-mini-moviemaker-a-fun-guide-for-kids-to-make-their-own-movies/"><u>Updated 2024 Approved The Mini Moviemaker A Fun Guide for Kids to Make Their Own Movies</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-edits-advanced-l-cuts-and-j-cuts-techniques-in-fcpx/"><u>Updated Elevate Your Edits Advanced L-Cuts and J-Cuts Techniques in FCPX</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-best-free-and-paid-glitch-video-editors-for-windowsmac-onlinedesktop/"><u>Updated In 2024, Best Free & Paid Glitch Video Editors for Windows/Mac Online/Desktop</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-solving-the-fcpx-crash-problem-top-solutions/"><u>Updated In 2024, Solving the FCPX Crash Problem Top Solutions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-bokeh-blur-apps-for-mobile-photography/"><u>Updated In 2024, Top Bokeh Blur Apps for Mobile Photography</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

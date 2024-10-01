@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved FCPX Skin Retouching A Plugin-Free Guide to Flawless Skin
-date: 2024-09-12T22:12:26.283Z
-updated: 2024-09-14T16:49:13.737Z
+date: 2024-09-25T17:53:23.300Z
+updated: 2024-10-01T05:56:26.667Z
 tags: 
   - video editing software
   - video editing
@@ -111,8 +111,37 @@ Follow these steps to use the Skin Smooth 2 Plugin for Final Cut Pro X:
 1. Purchase and download the Skin Smoother 2 plugin. Go to downloads, unzip the folder containing the plugin and install it on your computer.
 2. Open the FCPX, go to Effects, and click on Skin Smoother 2\. A list of options will appear. Import the image or video you want to edit.![Skin_Smoother_Effect_4](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_4.png)
 3. To apply the skin-smoothing effect, click on Add Color Mask, and select the areas of the face where the color mask has to be added.![Skin_Smoother_Effect_5](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Adjust the Skin Smoothing, Smoothing Mix, and the Softness of the color mask as per your requirements.![Skin_Smoother_Effect_6](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Finally, click on Add Shape Mask, two circles will appear on the image. Adjust the covering area of both circles for Shape Mask 1 to add a smiling face.![Skin_Smoother_Effect_7](https://images.wondershare.com/filmora/images/final-cut-pro/Skin_Smoother%20Effect_7.png)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: How to Smooth Skin in Filmora?
 
@@ -125,19 +154,6 @@ Wondershare Filmora features advanced tuning tools and a variety of video filter
 3. Open the toolbar, click the Advanced Color Tuning icon, go to the advanced color tuning window, and adjust the white balance, color tint and temperature, HSL, 3D LUT, Vignette, and Light. If you are a beginner, try applying the present templates.
 4. To set a specific tone or beautify your video, open the Tools tab and click the Color Correction option to change the color tones.
 5. Open Effects and Transitions and select the skin smooth filter. Hover the cursor over the filter and click the plus icon in the middle to add that effect. You can also apply the effect to the whole clip by dragging and dropping it directly onto the video clip.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to smooth skin in Adobe Pro?
 
@@ -160,10 +176,10 @@ There are two methods to add a skin smooth effect with FCPX: By using in-built s
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -179,5 +195,21 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-broadcast-your-curated-playlist-with-ease/"><u>[New] 2024 Approved Broadcast Your Curated Playlist with Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-tailoring-tags-to-achieve-six-figures-in-views/"><u>[New] 2024 Approved Tailoring #Tags to Achieve Six Figures in Views</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-cutting-edge-video-experience-on-your-phone-os/"><u>[New] Cutting Edge Video Experience on Your Phone OS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-efficiently-remove-discord-server-from-pc-and-mobile/"><u>2024 Approved Efficiently Remove Discord Server From PC & Mobile</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-repair-non-functional-logitech-options-in-windows/"><u>Fixing Issues: How to Repair Non-Functional Logitech Options in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-s17t-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo S17t</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-presentations-incorporating-snap-features-on-meet/"><u>In 2024, Enhancing Presentations Incorporating Snap Features on Meet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ranked-worlds-best-anime-opening-music/"><u>In 2024, Ranked World's Best Anime Opening Music</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-if-you-have-upgraded-to-windows-8-and-havent-find-a-proper-flv-editor-for-windows-8-yet-give-wondershare-video-editor-windows-87xpvista-su/"><u>New 2024 Approved If You Have Upgraded to Windows 8 and Havent Find a Proper FLV Editor for Windows 8 Yet. Give Wondershare Video Editor (Windows 8/7/XP/Vista Supported) a Try</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-safeguard-your-subjects-face-blurring-techniques-in-video-editing/"><u>New 2024 Approved Safeguard Your Subjects Face Blurring Techniques in Video Editing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-animate-for-free-top-10-whiteboard-animation-software-for-windows-and-mac/"><u>New In 2024, Animate for Free Top 10 Whiteboard Animation Software for Windows and Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-how-to-freeze-frame-in-a-video-easily/"><u>New In 2024, How to Freeze Frame in a Video Easily</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-list-of-free-online-glitch-effect-software/"><u>New In 2024, The Ultimate List of Free Online Glitch Effect Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-creativity-top-10-must-have-plugins-for-final-cut-pro-x-users/"><u>New Unleash Creativity Top 10 Must-Have Plugins for Final Cut Pro X Users</u></a></li>
+</ul></div>
 

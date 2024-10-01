@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Make Ken Burns Effect in Final Cut Pro?
-date: 2024-08-02T04:29:53.593Z
-updated: 2024-08-03T04:29:53.593Z
+date: 2024-09-29T16:19:48.089Z
+updated: 2024-10-01T02:48:35.036Z
 tags: 
   - video editing software
   - video editing
@@ -32,9 +32,6 @@ This article introduces the readers to Final Cut Pro and explains how to add the
 * [Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?](#Part2)
 * [Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?](#Part3)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 1: How to Make a Ken Burns Effect in Final Cut Pro?**
 
 Final Cut Pro is user-friendly software and makes it easy for you to create a Ken Burns Effect without having advanced skills and expertise. So, are you interested in knowing the best part? Given below are a few simple steps to create Ken Burns Effect and make your pictures and videos look adorable.
@@ -43,18 +40,12 @@ Final Cut Pro is user-friendly software and makes it easy for you to create a Ke
 
 First of all, you should specify a name for your project and add photos to the timeline in Final Cut Pro. For this purpose, select multiple photos and press E. A clip will be added to the timeline as shown in figure 1.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 _![AddingPhotostotheTimeline](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%201%20AddingPhotostotheTimeline.jpg)_
 
 **Step 2: Check Your Settings**
 
 As you can see, our timeline has no other video clip. Hence, Final Cut Pro will not recognize the clip until you adjust the video properties such as format, resolution, and rate, etc. For this purpose, click OK to use your preferred settings and press Shift + Z to fit the picture to your timeline window. Once you’re done it’s time to apply the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 _![adjust properties](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%202%20Adjusting%20Video%20Properties%20While%20Adding%20Picture%20to%20the%20Timeline.jpg)_
 
 **Step 3: Add the Ken Burns Effect**
@@ -97,9 +88,6 @@ _![adding a freeze frame](https://images.wondershare.com/filmora/images/final-cu
 
 The users can also adjust the speed of the animation and the duration of the freeze-frame by trimming your clip. For this purpose, trim the length as per your requirement and it will optimize the speed as shown in figure 6.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 _![adjust the length and speed](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%206%20Adjusting%20the%20Length%20and%20Speed.jpg)_
 
 **Step 7: Swap the Start and End Frame**
@@ -112,9 +100,6 @@ Now, swap the start and ending frame as per your preference for the Ken Burns an
 4. Apply enough zoom in to make the black areas disappear;
 5. Preview to see how your animation looks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _![swapping the start and end frames](https://images.wondershare.com/filmora/images/final-cut-pro/Fig.%207%20Swapping%20the%20Start%20and%20End%20Frames.jpg)_
 
 **Step 8: Play/Preview Looping**
@@ -129,6 +114,19 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -139,8 +137,12 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
 **What is the Ken Burns Effect?**
@@ -151,10 +153,20 @@ The Ken Burns Effect is a feature in Final Cut Pro to create a pan and zoom effe
 
 Now, as you have learned the purpose of the Ken Burns Effect, you must be curious about its name. It is named after American documentarian Ken Burns, who is known for his instantly recognizable and highly influential visual aesthetic. Surprisingly, Ken Burns did not invent this Ken Burns Effect; rather, it has existed for decades. You might be wondering why the technique was then named after Ken Burns. This was due to the persistent and adroit use of this technique that it is now known as the Ken Burns Effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
 
@@ -166,13 +178,18 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -180,3 +197,24 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-visual-journey-mastering-the-art-of-incorporating-text-into-images-on-pcmacos/"><u>[Updated] 2024 Approved A Visual Journey Mastering the Art of Incorporating Text Into Images on PC/MacOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-revenue-from-a-million-watches-on-youtube/"><u>[Updated] In 2024, Decoding Revenue From A Million Watches on YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exploring-the-top-8-free-and-paid-videomosaic-apps-on-android-platforms-for-2024/"><u>Exploring the Top 8 Free & Paid Videomosaic Apps on Android Platforms for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unable-to-initialize-dolby-audio-in-windows-10/"><u>How to Resolve 'Unable to Initialize Dolby Audio' In Windows 10</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-downloading-facebook-gifs-pc-android-and-ios-guide/"><u>In 2024, Downloading Facebook GIFs PC, Android & iOS Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-gopro-hero-10-secrets-for-flawless-long-exposure-films/"><u>In 2024, GoPro Hero 10 Secrets for Flawless Long-Exposure Films</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-harnessing-the-power-of-mov-recording-in-windows-10/"><u>In 2024, Harnessing the Power of MOV Recording in Windows 10</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-3gp-file-cutter-extract-specific-parts-of-your-video-for-2024/"><u>New 3GP File Cutter Extract Specific Parts of Your Video for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bringing-your-sony-camcorder-videos-to-life-advanced-editing-techniques/"><u>New Bringing Your Sony Camcorder Videos to Life Advanced Editing Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-capturing-moments-how-to-turn-videos-into-photos-with-10-easy-converters/"><u>New Capturing Moments How to Turn Videos Into Photos with 10 Easy Converters</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-hd-video-editing-software-showdown-the-top-5-contenders-for-2024/"><u>New HD Video Editing Software Showdown The Top 5 Contenders for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-3d-animation-software-showdown-free-vs-paid-options-for-every-budget/"><u>New In 2024, 3D Animation Software Showdown Free Vs. Paid Options for Every Budget</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-simplify-video-editing-on-mac-with-mkvtoolnix/"><u>New Simplify Video Editing on Mac with MKVtoolnix</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-vn-video-editor-on-mac-download-install-or-explore-alternatives/"><u>New VN Video Editor on Mac Download, Install, or Explore Alternatives</u></a></li>
+<li><a href="https://win-forum.techidaily.com/say-hello-to-efficient-app-cleanup-with-revo-uninstaller-pro-5/"><u>Say Hello to Efficient App Cleanup with Revo Uninstaller Pro 5</u></a></li>
+<li><a href="https://solve-news.techidaily.com/step-by-step-tutorial-on-how-to-link-external-libraries-with-plex-for-enhanced-content-management/"><u>Step-by-Step Tutorial on How to Link External Libraries with Plex for Enhanced Content Management</u></a></li>
+</ul></div>
+

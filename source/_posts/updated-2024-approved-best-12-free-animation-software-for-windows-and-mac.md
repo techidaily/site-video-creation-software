@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Best 12 Free Animation Software for Windows and Mac
-date: 2024-08-02T04:27:43.582Z
-updated: 2024-08-03T04:27:43.582Z
+date: 2024-09-29T18:15:02.014Z
+updated: 2024-10-01T10:32:20.131Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c
 
 # Best 12 Free Download Animation Software for Windows and Mac
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -39,9 +36,6 @@ The best part is you will find these **free animation programs** are also very u
 
 Here we have made a table of 12 free animation software without watermark on Windows and macOS. Take a look.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 6 Free Animation Software for macOS
 
 5K-3DMiddleIt is a great tool for 3D artists6KritaDifficultPerfect software for 2D animation
@@ -53,9 +47,6 @@ Here we have made a table of 12 free animation software without watermark on Win
 | 3      | Tupi               | Middle           | Its community is active to offer solutions                  |
 | 4      | Blender            | Difficult        | It is a powerful animation tool to render and make modeling |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 6 Free Animation Software for Windows
 
 | Number | Software   | Difficulty Level | Highlight                                                          |
@@ -82,14 +73,8 @@ Besides, various title templates and transitions are also available for you. Dow
 * Fine-tuning to make it smooth
 * Add visual effects/text/color before export it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/images2022/download-mac-store.png) ](https://apps.apple.com/app/apple-store/id1516822341?pt=169436&ct=pc-article-top50&mt=8)
 
 You can even create photo cut animation which has been very trendy on Tiktok and Instagram. Here is a video to present you how you can do it in Filmora.
@@ -98,9 +83,6 @@ You can even create photo cut animation which has been very trendy on Tiktok and
 
 Listed below is free animation software on Mac. Take a look.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 01 [Synfig Studio](https://www.synfig.org/) \- Mac Software to Animate Video
 
 **Difficulty Level**: Easy
@@ -123,6 +105,13 @@ You can free download its latest version 1.3.11\. The upcoming version is 1.4.
 * The program’s bone system means that you can easily create animations with bitmap images or vector artwork.
 * It allows you to sync your creative work with any sound that you want. Has a full-featured audio editor.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 02 [Pencil2D Animation](https://www.pencil2d.org/) \- Animation Program for 2D Pencil Lover
 
 **Difficulty Level**: Easiest
@@ -144,10 +133,21 @@ The frequency of releasing the new version is very fast as Pencil2D is committed
 * Will run on all platforms - Mac, Windows, and Linux.
 * Completely free and open source.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![free animation software Pencil2D](https://images.wondershare.com/filmora/article-images/2022/01/best-10-free-download-animation-software-for-windows-and-mac-2021-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 03 [TupiTube](https://tupitube.com/index.php?r=dashboard%2Fdashboard) \- Free Animation Application for Mac Users
 
@@ -172,6 +172,20 @@ It also offers a solution for schools with related features including academic l
 
 ![TupiTube free animation software mac](https://images.wondershare.com/filmora/article-images/2022/01/best-10-free-download-animation-software-for-windows-and-mac-2021-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 04 [Blender](https://www.blender.org/) \- Need Some Time to Learn This Animation Tool
 
 **Difficulty Level**: Difficult
@@ -194,11 +208,6 @@ You can use Blender to make a video game, modeling, and high-quality animation. 
 
 ![free download 3D animation software blender](https://images.wondershare.com/filmora/article-images/2022/01/best-10-free-download-animation-software-for-windows-and-mac-2021-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ## 05 [K-3D](http://www.k-3d.org/) \- Best for Animation and Modeling in 3D
 
 **Difficulty Level**: Middle
@@ -263,9 +272,6 @@ Below is free animation software on Windows. Keep reading.
 
 Anireel is a simple yet powerful Video Creativity tool used to make 2D animated explainer videos. Developed by Wondershare, one of the most popular Windows software and tool developers, Anireel uses rich, ready-to-use, and diverse assets to help one effortlessly make animated videos.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://download.wondershare.com/anireel%5Ffull9589.exe)
 
 **Features:**
@@ -278,8 +284,12 @@ Anireel is a simple yet powerful Video Creativity tool used to make 2D animated 
 ![anireel animation software](https://images.wondershare.com/filmora/article-images/2022/07/anireel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 02 [DAZ Studio](https://www.daz3d.com/daz%5Fstudio) \- Free Software for 3D Lovers
 
 **Difficulty Level**: Difficult
@@ -299,15 +309,8 @@ Daz 3d is a powerful and completely free 3D creation tool that will let you crea
 * Interactive tutorials to help you become a better 3D artist.
 * Everything you make is yours, royalty-free!
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![DAZ animation software](https://images.wondershare.com/filmora/article-images/2022/01/best-10-free-download-animation-software-for-windows-and-mac-2021-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 03 [Terragen](https://planetside.co.uk/) \- Use It to Make CG Animation
 
 **Difficulty Level**: Middle
@@ -331,9 +334,6 @@ For advanced tools, you can choose FBX to make animation quickly. The featured i
 
 ![Terragen animation software](https://images.wondershare.com/filmora/article-images/2022/01/best-10-free-download-animation-software-for-windows-and-mac-2021-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 04 [Anim8or](https://anim8or.en.softonic.com/download) \- Free Tool to Make 3D Modeling
 
 **Difficulty Level**: Difficult
@@ -355,6 +355,13 @@ Anim8or is a great tool to step into 3D animation ff you think other software is
 * Easy to create 3D scenes and output them as video files or images.
 
 ![Anim8or video animation software](https://images.wondershare.com/filmora/article-images/2022/01/best-10-free-download-animation-software-for-windows-and-mac-2021-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 05 [Seamless3d](http://www.seamless3d.com/) \- Open-source Free Software
 
@@ -392,10 +399,14 @@ This animation program is made for beginners on Windows. It is among the best 2D
 * Smooth correction without frame losing.
 * Compatible with black-and-white, colored, or without binarization scanning.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![OpenToonz animation program](https://images.wondershare.com/filmora/article-images/2022/01/best-10-free-download-animation-software-for-windows-and-mac-2021-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 [Stykz](https://www.stykz.net/) \- Simple to Use Animation Program for Beginners
 
@@ -417,39 +428,24 @@ With its frame-based feature, Stykz is easy to customize each frame. You can cha
 
 ![Stykz best free animation software](https://images.wondershare.com/filmora/article-images/2022/01/best-10-free-download-animation-software-for-windows-and-mac-2021-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3  FAQ about Animation Software for Windows and Mac
 
 ### 01  Are Macs good for animation?
 
 To be frank, Mac is a better choice to make animation if you want to have a smooth animation experience. For example, screen resolution is a crucial factor to make excellent animation. The good is Mac's screen will never let you disappointed.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### 02  What is the best animation software for Mac?
 
 The best animation software on mac includes Synfig Studio, Pencil2D Animation, Tupi, Blender, and more. Mentioned are free-to-use. Maya is also worth considering animation software if you are a professional user. Maya offers a 1-month free trial. After it is ended, the paid plans are month, 1-year, and 3-year.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 03  Can you animate in Photoshop?
 
 Yes, you can make basic animation in Photoshop. However, it only supports frame-based animation making. In this case, you need to use other professional software to make animation. But, you still can use Photoshop to meet your needs if you are a beginner.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 With any of these **free animation maker programs on Mac and Windows**, you will have an easy time creating your next 2D or 3D video. Ensure you choose the program that has the features and compatibility that you desire. Then it is up to your creative mind to come up with stunning animations! If you want to make animation easily, you can also find inspiration through [classical animated cartoon types with examples](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -458,11 +454,27 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-life-on-a-macbook-air-the-comprehensive-guide-to-screen-recording/"><u>[New] Capturing Life on a MacBook Air The Comprehensive Guide to Screen Recording</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhancing-engagement-with-best-practices-for-fb-cover-vids/"><u>[New] In 2024, Enhancing Engagement with Best Practices for FB Cover Vids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-transform-your-webcam-footage-edit-and-export-tips/"><u>[Updated] Transform Your WebCam Footage Edit & Export Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/5lqs6igv57ay5ywn6lk76auy6kej5p6q5bqm5b2x54mh6acy6iiqic0g6iie5aid44cn/"><u>互聯網免費高解析度影片領航 - 舞娃」</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-high-speed-wi-fi-routers-of-202n4-optimized-for-wi-fi-6-6e-and-future-standards-wi-fi-7/"><u>Best Value High-Speed Wi-Fi Routers of 202N4: Optimized for Wi-Fi 6, 6E and Future Standards (Wi-Fi 7)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/economic-hearing-enhancement-with-senso-wireless-buds/"><u>Economic Hearing Enhancement with Senso Wireless Buds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-androids-top-ranked-collage-assemblers-unveiled/"><u>In 2024, Android’s Top-Ranked Collage Assemblers Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-magnification-how-to-zoom-in-and-out-on-ios-devices/"><u>Mastering the Art of Magnification: How to Zoom In & Out on iOS Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mental-healing-on-the-rise-with-top-5-bot-counselors/"><u>Mental Healing on the Rise with Top 5 Bot Counselors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-this-article-weve-reviewed-a-list-of-the-best-music-video-makers-for-you-it-includes-free-music-video-makers-used-on-pc-and-online-video-maker-ap/"><u>Updated In This Article, Weve Reviewed a List of the Best Music Video Makers for You. It Includes Free Music Video Makers Used on PC and Online Video Maker App for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mkvtoolnix-for-macos-a-user-friendly-video-editing-solution-for-2024/"><u>Updated MKVtoolnix for macOS A User-Friendly Video Editing Solution for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-10-best-free-and-paid-2d-animation-software-for-2024/"><u>Updated The Ultimate List 10 Best Free and Paid 2D Animation Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-vn-video-editor-app-analysis-strengths-and-weaknesses-for-2024/"><u>Updated VN Video Editor App Analysis Strengths and Weaknesses for 2024</u></a></li>
+</ul></div>
+

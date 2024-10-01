@@ -1,7 +1,7 @@
 ---
 title: Updated Ken Burns Effect Tutorial Add Movement to Your Photos
-date: 2024-09-09T20:33:55.429Z
-updated: 2024-09-14T22:50:21.860Z
+date: 2024-09-28T03:00:08.828Z
+updated: 2024-10-01T06:06:27.827Z
 tags: 
   - video editing software
   - video editing
@@ -114,6 +114,13 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
 
 Although you can apply a single Ken Burns movement to your image, you can still give the impression of multiple movements being used. This means the Ken Burns Effect can be added to multiple camera movements by duplicating the photo and building numerous movements in sequence.
@@ -122,6 +129,19 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 2. Duplicate the clip by click and drag option or copy and paste option;
 3. Press the Swap button in the Ken Burns settings to reverse the start and end positions;
 4. Verify if multiple camera movements have been added.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
 
@@ -135,6 +155,13 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **What are the Applications of Ken Burns Effect?**
 
 Primarily, the Ken Burns Effect is used due to the unavailability of a film or video. The technique gives action to still photographs to glorify the subjects of interest like couples in wedding photography. It gets better and better as you apply simulated parallax with Ken Burns Effect to make your 2D images appear as 3D plus advanced zooming visuals. You can also use the Ken Burns effect to make a video of your graduation ceremony pictures or memorable moments of reunion. Ken Burns Effect is also used in documentaries by professional filmmakers and editors.
@@ -144,6 +171,13 @@ Primarily, the Ken Burns Effect is used due to the unavailability of a film or v
 Adding animated effects to your pictures and videos makes them look gorgeous. This is crazy, isn’t it, when you impress your peers with your editing skills. So, what’s the bottom line of this whole discussion? Try adding the Ken Burns Effect with Final Cut Pro to create a pan and zoom effect on your pictures and clips get the output in your desired format.
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -158,12 +192,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-enhancing-visuals-tips-for-shooting-and-editing-slow-motion-content-on-instagram/"><u>[New] Enhancing Visuals Tips for Shooting and Editing Slow Motion Content on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-achieving-flawless-audio-to-text-translation-using-google/"><u>[Updated] 2024 Approved Achieving Flawless Audio to Text Translation Using Google</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-percussive-peacock-swing/"><u>[Updated] In 2024, Percussive Peacock Swing</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>[Updated] In 2024, Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-melody-filled-visuals-the-fusion-project/"><u>[Updated] Melody-Filled Visuals The Fusion Project</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bending-words-in-media-landscapes-for-2024/"><u>Bending Words in Media Landscapes for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-tecno-spark-20cmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Tecno Spark 20CMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-top-choice-for-fb-vids-mp4-download-toolkit/"><u>In 2024, Top Choice for FB Vids – MP4 Download Toolkit</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/step-by-step-guide-removing-movavis-branding-from-your-videos/"><u>Step-by-Step Guide: Removing Movavi's Branding From Your Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-video-annotation-tools-add-watermarks-and-captions/"><u>Updated 2024 Approved Free Video Annotation Tools Add Watermarks and Captions</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-glitch-to-glory-how-to-reset-final-cut-pro-x-for-error-free-video-editing/"><u>Updated 2024 Approved From Glitch to Glory How to Reset Final Cut Pro X for Error-Free Video Editing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-make-a-heartfelt-slideshow-with-music-a-beginners-guide/"><u>Updated 2024 Approved Make a Heartfelt Slideshow with Music A Beginners Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-ready-to-play-top-10-free-game-download-sites-for-pc-and-android-for-2024/"><u>Updated Get Ready to Play Top 10 Free Game Download Sites for PC and Android for 2024</u></a></li>
+</ul></div>
 

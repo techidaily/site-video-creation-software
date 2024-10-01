@@ -1,7 +1,7 @@
 ---
 title: Updated Edit Like a Pro FCP Audio Editing Techniques for Video Creators for 2024
-date: 2024-08-02T04:29:54.404Z
-updated: 2024-08-03T04:29:54.404Z
+date: 2024-09-26T07:32:58.534Z
+updated: 2024-09-30T19:44:56.999Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f
 
 # How to Edit Audio of a Video on FCP
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -39,9 +36,6 @@ Those of you reading this article as a guide to audio editing of videos on Final
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## How to edit audio on FCP
 
 There are 2 ways of editing audio of videos on FCP-clip-level audio editing and advanced audio editing.
@@ -54,9 +48,6 @@ While dragging the audio or video clip onto the timeline you have surely seen th
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -71,9 +62,6 @@ The audio of the video can be detached for editing the audio file separately. Th
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Detach audio ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-4.png)
 
 **Note:** There is a fine difference between ‘Detach Audio’ and ‘Expand Audio’. In Expand Audio, the audio clip is synced with the video. For instance, while moving the audio to the timeline, the video clip would also go with it. In case of detaching audio however the audio file would remain as a standalone clip that can be inserted into any portion of the video.
@@ -83,16 +71,10 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Audio Equalization ](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
@@ -111,11 +93,31 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-videosnatch-quality-inspector/"><u>[New] 2024 Approved VideoSnatch Quality Inspector</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-want-to-try-sub4sub-check-this-guide-first/"><u>[Updated] Want to Try Sub4sub? Check This Guide First</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-g2-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo G2 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/master-tagalog-in-under-an-hour-join-today/"><u>Master Tagalog in Under an Hour - Join Today!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-redmi-12-converter-convert-mov-files-for-redmi-12-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Redmi 12 converter-convert .mov files for Redmi 12</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-best-online-video-spinners-rotate-your-clips-with-ease-for-2024/"><u>New Best Online Video Spinners Rotate Your Clips with Ease for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-creativity-top-10-must-have-plugins-for-final-cut-pro-x-users-for-2024/"><u>New Unleash Creativity Top 10 Must-Have Plugins for Final Cut Pro X Users for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-best-free-avi-video-rotators-for-windows-mac-android-and-iphone-in-year/"><u>The Best Free AVI Video Rotators for Windows, MAC, Android, and iPhone in Year</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/unleash-your-creativity-top-3d-video-makers-for-all-budgets-for-2024/"><u>Unleash Your Creativity Top 3D Video Makers for All Budgets for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-is-this-a-pigeon-meme-generator/"><u>Updated Is This a Pigeon Meme Generator</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Affordable Excellence on Wheels: A Closer Look at the Intuitive Z-Edge Z3 Plus Cameras"
-date: 2024-09-25T03:47:04.321Z
-updated: 2024-09-26T06:46:19.380Z
+date: 2024-09-25T10:33:02.089Z
+updated: 2024-10-01T02:35:11.959Z
 categories:
   - BestProducts
 description: "This Article Describes Affordable Excellence on Wheels: A Closer Look at the Intuitive Z-Edge Z3 Plus Cameras"
@@ -39,15 +39,28 @@ Lifewire / Erika Rawes
 3
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## TP-Link Archer C9 Wireless Router
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/5L4k_oD-GKPyliYY-jL-tLQH-Uk=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_HeroSquare-68c63e89f59a47a2944b2a73434417e9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Erika Rawes
 
@@ -83,16 +96,16 @@ Lifewire / Erika Rawes
 
  Lifewire / Erika Rawes
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Setup: Takes less than 10 minutes**
 
  Setup is simple, and you can use the Tether app or the TP-Link site. There’s a QR code in the quick setup leaflet, so you can easily find the app. As it goes with most routers, you’ll find a temporary network name, password, and login info on the label. The app walks you through the setup process step-by-step, guiding you through creating your 2.4 and 5 GHz networks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Connectivity: Decent speeds, long range**
 
@@ -104,14 +117,14 @@ Lifewire / Erika Rawes
 
 ![TP-Link Archer C9 AC1900](https://www.lifewire.com/thmb/gPQRxhQBJ13ETuiP-7-Vy9eGcss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TPLink_LongRangeRouters_ArcherAC1900_05-4ddd14a5299f45279789011ce3b9e8ea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Erika Rawes
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Key features: Guest network and parental controls**
 
@@ -122,13 +135,6 @@ Lifewire / Erika Rawes
  Although this is somewhat of a basic router, it has some modern perks. It supports the most recent Internet Protocol version, IPv6\. You can also create a guest network, so you don’t have to share your main network credentials with visitors. The C9 does feature parental controls, but they aren’t exactly comprehensive.
 
  The router performed extremely well at close proximity, but not so well at a distance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Software: TP-Link Tether app**
 
@@ -146,13 +152,6 @@ Lifewire / Erika Rawes
 
  The Archer C9 AC1900 is an older model, so it’s not as readily available as it was a couple of years back. You can typically find it for around $120, which is a good price for a long-range router with its feature set.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **TP-Link Archer C9 AC1900 vs. ASUS RT-AC1900**
 
  The ASUS RT-AC1900 typically sells for closer to $150, but you can find it refurbished or on sale for around the same price as the Archer AC1900\. The two routers look similar at first glance—they both have three very long antennas protruding from the top. They have similar specifications, including a dual-core processor, AC1900 speed, and dual-bands, and a long-range. But, the ASUS RT-AC1900 offers a few perks, like TrendMicro security and NVIDIA GameStream technology.
@@ -162,6 +161,13 @@ Lifewire / Erika Rawes
  **A reliable budget router that will help prevent drop-offs.**
 
  The TP-Link Archer C9 AC1900 is a good option for those who want a reasonably fast and stable network connection, but don’t want to pay a lot of cash for extra bells and whistles.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -199,21 +205,17 @@ Lifewire / Erika Rawes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-efficient-sound-capturing-in-the-latest-windows-11/"><u>[Updated] Efficient Sound Capturing in the Latest Windows 11</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-enhancing-instagram-video-visibility/"><u>[Updated] In 2024, Enhancing Instagram Video Visibility</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726029908634-pc/"><u>「初めてのコンテンツ制作：PC/スマホを使った比較動画ガイドのレシピ」</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726029163211-windows7/"><u>「完全ガイド：Windows7 デスクトップをフルサポートする録画方法」</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/44cm44kq44oz44op44kk44oz44gn5pya5paw44os44od44oi5puy44ks5yq5546h6imv44gp44oa44km44oz44ot44o844oj44gz44kl44kz44oe44cn/"><u>「オンラインで最新ヒット曲を効率良くダウンロードするコツ」</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-budget-pc-video-capture-tools-assessed/"><u>2024 Approved Budget PC Video Capture Tools Assessed</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-nexus-core-systems-single-screen-high-definition-touch/"><u>2024 Approved Nexus Core Systems Single Screen, High Definition Touch</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-affordable-vector-art-websites/"><u>2024 Approved Ultimate Guide to Affordable Vector Art Websites</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/2024flactop5/"><u>2024年新着！厳選FLAC音源を楽しむためのオススメ無料プレーヤーTOP5</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/apple-proresmp4aviwmv/"><u>劣化しない！Apple ProResフォーマットをMP4/AVI/WMVに容易に変換する手順</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-transactions-at-a-glance-the-ultimate-how-to-for-apple-pay-integration-on-apple-wearables/"><u>Seamless Transactions at a Glance: The Ultimate How-To for Apple Pay Integration on Apple Wearables</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/trailblazers-in-auditory-and-visual-creation-list/"><u>Trailblazers in Auditory & Visual Creation List</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-great-dvr-debate-tivo-vs-comcast-xfinity/"><u>Updated 2024 Approved The Great DVR Debate TiVo vs Comcast Xfinity</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726028954086-wonderfox-dvd-video-converter/"><u>WonderFox DVD Video Converter使っての動画再生ガイド</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/2024mkvtop5/"><u>オススメの2024年最新MKV再生ソフトウェアTOP5</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-stream-talent-twitter-live-broadcast-basics/"><u>[New] 2024 Approved Stream Talent Twitter Live Broadcast Basics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-master-mp4-transformer-for-fb-for-2024/"><u>[Updated] Master MP4 Transformer for FB for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-mini-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratuit-verbetering-mod-naar-mp4-met-movavi-online-konvertor/"><u>Gratuit Verbetering MOD Naar MP4 Met Movavi - Online Konvertor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-high-definition-gaming-with-lg-27ud68-monitor-review/"><u>In 2024, High Definition Gaming with LG 27UD68 Monitor Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-sony-xperia-1-v-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Sony Xperia 1 V FRP In 3 Different Ways</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/incognito-tips-stay-anonymous-on-chrome-edge-firefox-safari-and-opera-online/"><u>Incognito Tips: Stay Anonymous on Chrome, Edge, Firefox, Safari & Opera Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-8-selecting-top-live-stream-cameras/"><u>Masterclass 8 Selecting Top Live Stream Cameras</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mastering-video-editing-for-sony-camcorder-footage-2023-guide/"><u>Updated Mastering Video Editing for Sony Camcorder Footage (2023 Guide)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-online-video-rotation-made-easy-top-picks-for-2024/"><u>Updated Online Video Rotation Made Easy Top Picks for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/virtualdub-substitutes-a-comprehensive-list-of-video-editors/"><u>VirtualDub Substitutes A Comprehensive List of Video Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/wmv-video-editing-on-a-budget-top-5-free-options-for-2024/"><u>WMV Video Editing on a Budget Top 5 Free Options for 2024</u></a></li>
 </ul></div>
 

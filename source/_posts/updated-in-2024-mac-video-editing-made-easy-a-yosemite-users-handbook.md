@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Mac Video Editing Made Easy A Yosemite Users Handbook
-date: 2024-08-02T04:25:34.238Z
-updated: 2024-08-03T04:25:34.238Z
+date: 2024-10-04T16:37:18.238Z
+updated: 2024-10-06T17:00:07.955Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
 # How to Edit Video Files on Mac OS X Yosemite
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -33,10 +30,6 @@ Although Apple’s new operating system - Mac OS X 10.10 Yosemite will bring new
 
 Don’t worry. Here a comprehensive and easy-to-use video editor for Yosemite – Wondershare [Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/) is recommended. It supports almost all the popular video formats including AVI, WMV, MP4, FLV, MKV, MOV, 3GP, etc. With it, you can put together your video clips or split to segments to get creative and customized brand new videos. Here is a detailed guide on how to create videos on Yosemite with this smart video editor.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Step 1. Import media files to edit
 
 To import videos, audio, photos to edit, you can go to “File”>”Import Media” or directly drag and drop them to the Media Library of this app. By the way, there is a window which allows you to import media files from your iTunes or iMovie etc. To activate it, just go to "File" > "Resources". You can also capture a video with the built-in iSight by clicking the “Video Recording” icon above the timeline.
@@ -51,41 +44,69 @@ When all the media files have been imported to the software, drag and drop them 
 
 You have two different ways to edit the video. One is to double click the video and then choose different editing options. The other is to hit the corresponding Trim, Crop, Rotate, Voiceover button on the tool bar.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Yosemite Video Editor basic editing ](https://images.wondershare.com/filmora/guide/filmora-mac-transform-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Edit and enhance audio**
 
 If you want to add an additional audio file as the background music to the videos and photos, just drag your favorite audio clip to the music track. To further edit the audio file, just double click the clip. Then the Audio Inspector will pop up for you to adjust different settings like pitch, volume, and speed or add Fade in/out effect. You can also right click the audio to cut, copy or trim the audio file.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![Yosemite Video Editor edit audio](https://images.wondershare.com/filmora/guide/filmora-mac-audio-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Add transition and other effects**
 
 This app also allows you to add cool transitions and other effects to your videos and photos. To achieve this, just go to the respective tab in near the Media Library. For more details, please go to the user guide of Filmora for Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Yosemite Video Editor add transition ](https://images.wondershare.com/filmora/guide/filmora-mac-transitions-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3. Export your video creation
 
 After you preview the effect, just click the “Export” button to export the video creator. There are totally five methods: Devices, Formats, YouTube, Vimeo and DVD. Just select any one you want to save or share the edited videos.
 
 ![Export video on Yosemite Video Editor](https://images.wondershare.com/filmora/article-images/filmora9-mac-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![Download Win Version](https://images.wondershare.com/filmora/article-images/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/article-images/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -93,11 +114,30 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-unwanted-tiktok-reset-regain-access-and-videos/"><u>[New] 2024 Approved Unwanted TikTok Reset – Regain Access and Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-for-2024/"><u>[New] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-slay-the-game-designing-quirky-text-memes/"><u>[Updated] 2024 Approved Slay the Game Designing Quirky Text Memes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/accelerating-video-playback-tips-for-enhancing-performance-in-windows-10-and-macos/"><u>Accelerating Video Playback: Tips for Enhancing Performance in Windows 10 and macOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-audio-capture-a-comprehensive-look-at-whatsapp-call-recording/"><u>Advanced Audio Capture A Comprehensive Look at WhatsApp Call Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/android-screen-capture-made-easy-free-for-2024/"><u>Android Screen Capture Made Easy, Free for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/data-sanitization-wisdom-hand-picked-tips-and-analysis-by-data-protection-specialists-at-stellar/"><u>Data Sanitization Wisdom: Hand-Picked Tips and Analysis by Data Protection Specialists at Stellar</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/export-controls-may-require-detailed-verification-processes-to-prevent-the-diversion-of-fireworks-for-illegal-purposes/"><u>Export Controls May Require Detailed Verification Processes to Prevent the Diversion of Fireworks for Illegal Purposes.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/free-downloads-compatible-flv-player-software-for-windows-11-8-and-7/"><u>Free Downloads: Compatible FLV Player Software for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-package-management-via-winget-in-windows-11/"><u>Mastering Package Management via Winget in Windows 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resolving-playback-problems-with-mplayerx-on-macos-el-capitan-a-comprehensive-guide/"><u>Resolving Playback Problems with MPlayerX on macOS El Capitan - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/superleistender-kostenloser-streaming-player-als-ersatz-fur-den-bekannten-vlc-die-besten-optionen-erkunden/"><u>Superleistender Kostenloser Streaming Player Als Ersatz Für Den Bekannten VLC - Die Besten Optionen Erkunden!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-ultimate-guide-to-premium-hd-movie-playback-software-on-windows-1-and-macos-platforms-top-picks-revealed/"><u>The Ultimate Guide to Premium HD Movie Playback Software on Windows 1# and MacOS Platforms - Top Picks Revealed!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-rated-no-cost-h264-video-player-stream-hd-and-ultrahd-footage-seamlessly/"><u>Top Rated No Cost H.264 Video Player - Stream HD and UltraHD Footage Seamlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-boosting-utorrent-download-speed-successfully/"><u>Troubleshooting Guide: Boosting uTorrent Download Speed Successfully</u></a></li>
+</ul></div>
+

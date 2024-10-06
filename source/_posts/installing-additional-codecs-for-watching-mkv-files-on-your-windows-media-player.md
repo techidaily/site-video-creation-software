@@ -1,7 +1,7 @@
 ---
 title: Installing Additional Codecs for Watching MKV Files on Your Windows Media Player
-date: 2024-09-29T19:10:22.666Z
-updated: 2024-10-01T02:15:03.925Z
+date: 2024-10-01T17:33:08.018Z
+updated: 2024-10-06T17:42:33.676Z
 tags:
   - video-music-player
 categories:
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 
 Living up to its promise to provide native support of MKV codec in Windows 10, we still can't play MKV files without **MKV Codec for Windows Media Player**. Microsoft publicly claimed its openess to MKV Codec for Windows Media Player for users' sake. But is it? In fact, we already have MKV codec in Windows 10, but that doesn't mean the Windows Media Player supports MKV videos in real terms. This article tells you a way out!
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to install MKV Codec for Windows Media Player?
 
 **\# How to Install Full MKV Codec Pack?** Default installation of the abovementioned codec packs bunch installs every codec for your Windows Media Player, including some rare video format like .\*vfw, .\*iv, and .\*vro. The occupied storage saddles PC speed while you mightn't use these codecs at all. So better not choose Recommended Installation unless you work professionally with video codecs.
@@ -50,10 +37,16 @@ However, if either of the method suits your favor, take a look at the recommende
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The first reason why you can't play MKV files on Windows Media Player is, it's not a [MKV video player](https://tools.techidaily.com/5kplayer/video-music-player/) by nature. In that case, WMV (windows media video) as the native video format of the Windows platform, is backed up by Microsoft to turn against MKV codec for quite some time, posing a rivalry stand to each.  
@@ -65,10 +58,10 @@ On the software level, Windows Media Player 12 shows no intention for MKV codec 
 ![MKV codec for Windows Media Player](https://www.5kplayer.com/video-music-player/img/5k-mkv-codec-windows-yxt-071501.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **\# Easiest Way: All-in-one MKV Video Player for Windows (10)**
@@ -131,15 +124,28 @@ Now, proceed to convert MKV videos to MP4 so that you USB sync and watch it on i
 ![Convert MKV to MP4](https://www.5kplayer.com/video-music-player/../youtube-download/img/convert-x-men-movie.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [A well considerate MKV player](https://tools.techidaily.com/5kplayer/video-music-player/) configures video format demand in planning all from the beginning, not crediting the habit of adding troublesome packs after codec supplies day in day out. Ascending from the sleek performance in MKV, MP4 playback, H.264 and M2TS playback, 5KPlayer deploys the video enhancing technology for the best. 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,20 +162,18 @@ Now, proceed to convert MKV videos to MP4 so that you USB sync and watch it on i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-10-webcam-applications-in-windows-a-comprehensive-list-for-2024/"><u>[Updated] Top 10 Webcam Applications in Windows A Comprehensive List for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/golden-nuggets-revealing-the-hottest-reddit-topics-10/"><u>Golden Nuggets Revealing the Hottest Reddit Topics (10)</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-ultimate-routine-for-placing-imovie-in-the-vimeo-spotlight/"><u>In 2024, The Ultimate Routine for Placing iMovie in the Vimeo Spotlight</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-filmora-deals-and-steals-your-go-to-resource-for-coupon-codes/"><u>New In 2024, Filmora Deals and Steals Your Go-To Resource for Coupon Codes</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-mpeg-video-joiner-software-top-selections/"><u>New In 2024, Free MPEG Video Joiner Software Top Selections</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-s-top-online-cartoon-video-editors-for-newbies/"><u>New In 2024, S Top Online Cartoon Video Editors for Newbies</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-vignette-mastery-the-best-ios-and-android-apps-free-and-paid/"><u>New In 2024, Vignette Mastery The Best iOS and Android Apps Free & Paid</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-quality-movie-maker-turn-everyday-video-clips-into-high-quality-for-2024/"><u>New Quality Movie Maker Turn Everyday Video Clips Into High Quality for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-replace-imovie-with-these-top-windows-10-video-editing-tools/"><u>New Replace iMovie with These Top Windows 10 Video Editing Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-animation-tools-expert-approved-software-for-mac-and-pc-for-2024/"><u>New Top Animation Tools Expert-Approved Software for Mac and PC for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-huawei-enjoy-60x-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Huawei Enjoy 60X</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/section-4a-advanced-topic-neuroplasticity-in-nerve-injury-recovery/"><u>Section 4A: Advanced Topic - Neuroplasticity in Nerve Injury Recovery</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ogm-mov-movavi/"><u>온라인 OGM MOV 전환 – 비용 없는 Movavi 도구와 기술</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-gifify-your-tweet-a-costless-how-to-guide-for-2024/"><u>[New] Gifify Your Tweet A Costless How-To Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-to-build-your-own-4k-video-editing-pc-for-2024/"><u>[New] How To Build Your Own 4K Video Editing PC for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-future-of-virtual-game-viewership-income/"><u>[New] In 2024, Future of Virtual Game Viewership Income</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-blueprint-to-surge-in-youtubers-popularity/"><u>[New] The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-crafting-the-perfect-zoom-call-timeline/"><u>[Updated] 2024 Approved Crafting the Perfect Zoom Call Timeline</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage-for-2024/"><u>[Updated] The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-how-to-record-skype-video-and-audio-calls-on-windows-and-mac-10-ways/"><u>2024 Approved How to Record Skype Video & Audio Calls on Windows & Mac [10 Ways]</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-4k-video-conversion-mastery-how-to-download-in-mp4-format/"><u>Updated 2024 Approved 4K Video Conversion Mastery How to Download in MP4 Format</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-brand-11-best-free-animated-logo-design-tools/"><u>Updated 2024 Approved Unleash Your Brand 11 Best Free Animated Logo Design Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-webm-vs-mp4-10-best-conversion-software-options/"><u>Updated 2024 Approved WebM vs MP4 10 Best Conversion Software Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-edit-like-a-pro-64-bit-video-editor-for-windows-8-and-up-for-2024/"><u>Updated Edit Like a Pro 64-Bit Video Editor for Windows 8 and Up for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-acceleration-station-top-gif-speed-editors-online-and-on-the-go/"><u>Updated In 2024, Acceleration Station Top GIF Speed Editors Online and On-The-Go</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-make-memories-shine-video-editing-secrets-for-amateur-filmmakers/"><u>Updated In 2024, Make Memories Shine Video Editing Secrets for Amateur Filmmakers</u></a></li>
 </ul></div>
 

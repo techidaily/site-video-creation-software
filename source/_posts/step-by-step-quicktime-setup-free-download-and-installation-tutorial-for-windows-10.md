@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step QuickTime Setup: Free Download & Installation Tutorial for Windows 10"
-date: 2024-09-26T22:29:12.441Z
-updated: 2024-09-30T19:43:17.023Z
+date: 2024-10-02T17:59:39.772Z
+updated: 2024-10-06T17:46:37.048Z
 tags:
   - video-music-player
 categories:
@@ -36,33 +36,40 @@ If you want to install the latest QuickTime v7.7.9 for Windows 10, you will see 
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/1.png) Download the latest QuickTimeInstaller.exe from the official QuickTime for Windows 10 page, or google it to download. (The QuickTimeInstaller.exe will be saved in your frequently-used folder like C:\\QT, you can also create a specific for preference.)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/video-music-player/../seoimg/2.png) Open the folder, right-click the QuickTimeInstaller.exe and choose "Extract here". If you can't extract the installation file, you can download and install WinRAR or 7Zip to have a try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/3.png) Now, you should have a folder that looks something like this, under C:\\QT or whichever folder you create. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-01.jpg) 
 
-![](https://www.5kplayer.com/video-music-player/../seoimg/4.png) Install the easy prerequisites:
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.5kplayer.com/video-music-player/../seoimg/4.png) Install the easy prerequisites:
 
 \*Double-click the AppleSoftsUpdate.msi file and click "OK", "I accept" etc. until the install finishes.  
  \*Do the same with ApplicationSupport.msi.  
@@ -73,6 +80,13 @@ If you want to install the latest QuickTime v7.7.9 for Windows 10, you will see 
 a. Select "Troubleshoot compatibility" 
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-02.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
   
 b. Wait for the wizard to scan the QuickTime.msi file for possible culprits (which we already know to be the Windows version check). 
@@ -85,37 +99,30 @@ c. It should say that it has applied a "Skip Version Check" workaround to enable
 
 ![](https://www.5kplayer.com/video-music-player/../seoimg/6.png) Download this TRANSFORM file and extract it to the same folder. We will use this file to temporarily remove the OS checks preventing the installation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/video-music-player/../seoimg/7.png) Click the Windows icon or Search icon and search CMD. Right-click the Command Prompt shortcut/icon and choose Run as administrator.
 
 ![QuickTime for Windows 10](https://www.5kplayer.com/video-music-player/img/quicktime-win10-04.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.5kplayer.com/video-music-player/../seoimg/8.png) Type the following command and hit **ENTER**:  
 **msiexec /i QuickTime.msi /qn TRANSFORMS=FIX.mst ALLUSERS=1 /log C:\\QT\\install.log**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.5kplayer.com/video-music-player/../seoimg/9.png) Installation shouldn't take more than a couple of minutes.
 
-![](https://www.5kplayer.com/video-music-player/../seoimg/10.png) Note: A log file called install.log will be created in the C:\\QT folder, which should end with something along the lines of "Return code 0". If not, and QuickTime wasn't installed, you may look in this file for any possible error codes (opens fine in Notepad or WordPad). Alternatively, you will need to download and install the older version QuickTime v7.7.6.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.5kplayer.com/video-music-player/../seoimg/10.png) Note: A log file called install.log will be created in the C:\\QT folder, which should end with something along the lines of "Return code 0". If not, and QuickTime wasn't installed, you may look in this file for any possible error codes (opens fine in Notepad or WordPad). Alternatively, you will need to download and install the older version QuickTime v7.7.6.
 
 \[**Notice:** The soultion 2 for installing QuickTime for Windows 10 is based on Tommy Stephansen's post on TommyNation.\]
 
@@ -124,13 +131,6 @@ Obviously, it is quite complicated that installing QuickTime player v7.7.9 on Wi
 **Bonus:** 5KPlayer is an all-in-one software integrating with video music playback, [online video download](https://tools.techidaily.com/5kplayer/youtube-download/) and [video audio AirPlay](https://tools.techidaily.com/5kplayer/airplay/) that you can download hot songs, latest movies, Olympic games, TV shows, etc to watch offline and stream them to HDTV to have a better viewing and listening experience.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,19 +147,22 @@ Obviously, it is quite complicated that installing QuickTime player v7.7.9 on Wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-audiovisual-harmony-music-integration-in-social-media/"><u>[New] Audiovisual Harmony Music Integration in Social Media</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-comprehensive-rotational-view-analysis-for-2024/"><u>[New] Comprehensive Rotational View Analysis for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-direct-directions-simple-techniques-for-laptop-screening-dell/"><u>[New] In 2024, Direct Directions Simple Techniques for Laptop Screening (Dell)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-from-fledgling-to-front-runner-flourishing-in-follower-count/"><u>2024 Approved From Fledgling to Front-Runner Flourishing in Follower Count</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-proving-your-phones-ability-ios-11-camera-enhancements/"><u>2024 Approved Proving Your Phone's Ability IOS 11 Camera Enhancements</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-boost-connectivity-discover-the-best-5-chrome-tools-for-facebook-videos/"><u>In 2024, Boost Connectivity Discover the Best 5 Chrome Tools for Facebook Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-tips-for-zoom-on-chrome-devices/"><u>Top Tips for Zoom on Chrome Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unblocking-the-elevated-privileges-required-alert-in-windows-os-versions/"><u>Unblocking the 'Elevated Privileges Required' Alert in Windows OS Versions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-final-cut-pro-color-grading-essentials-mastering-seamless-matches-in-your-video-edits/"><u>Updated 2024 Approved Final Cut Pro Color Grading Essentials Mastering Seamless Matches in Your Video Edits</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro/"><u>Updated 2024 Approved How to Find Free Sites for Sound Effect and Add Them in Final Cut Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-s-top-avchd-video-editing-tools-compared/"><u>Updated 2024 Approved S Top AVCHD Video Editing Tools Compared</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-save-big-on-final-cut-pro-education-bundle-deals-inside/"><u>Updated 2024 Approved Save Big on Final Cut Pro Education Bundle Deals Inside</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-best-vsdc-video-editor-substitutes-for-macos-for-2024/"><u>Updated Best VSDC Video Editor Substitutes for macOS for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-full-guide-how-to-add-a-skin-smoother-effect-with-final-cut-pro/"><u>Updated In 2024, Full Guide How to Add a Skin Smoother Effect with Final Cut Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-5-ios-backdrop-swappers-x87-edition/"><u>[New] Best 5 iOS Backdrop Swappers X/8/7 Edition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-precisionvid-recorder-inspection/"><u>[Updated] 2024 Approved PrecisionVid Recorder Inspection</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-experts-guide-to-achieving-screencasting-perfection-with-mobizen/"><u>[Updated] In 2024, Expert's Guide to Achieving Screencasting Perfection with Mobizen</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hymn-based-ringtone-options-for-every-believer/"><u>2024 Approved Hymn-Based Ringtone Options for Every Believer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mp4-windows-11macos/"><u>熱門免費MP4解碼器列表 - 供Windows 11和MacOS用户使用</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-the-latest-official-release-of-5kplayer-on-mac-os-catalinabig-sur-no-cost/"><u>Download the Latest Official Release of 5KPlayer on Mac OS Catalina/Big Sur - No Cost</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-gptzero-the-tool-for-identifying-artificebot-content/"><u>Exploring GPTZero: The Tool for Identifying Artificebot Content</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/global-operations-require-compliance-with-both-domestic-and-international-laws-regarding-fireworks/"><u>Global Operations Require Compliance with Both Domestic and International Laws Regarding Fireworks.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/guide-technology-decoding-and-streaming/"><u>Guide, Technology, Decoding, and Streaming.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/how-to-resolve-non-playable-advanced-multiplexed-audio-format-amr-issues-in-macos-windows-and-mobile-os/"><u>How to Resolve Non-Playable Advanced Multiplexed Audio Format (AMR) Issues in macOS, Windows, and Mobile OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-window-to-world-class-video-playback/"><u>In 2024, Ultimate Window to World-Class Video Playback</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/international-treaties-can-influence-national-regulations-on-explosives-and-related-materials/"><u>International Treaties Can Influence National Regulations on Explosives and Related Materials.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mac-vs-pc-ultimate-guide-to-fixing-audio-video-desynchronization/"><u>Mac Vs. PC: Ultimate Guide to Fixing Audio-Video Desynchronization</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-honor-x9a-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Honor X9a FRP</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-how-to-fetch-and-enhance-intel-ac-9560-wireless-drivers/"><u>Step-by-Step: How to Fetch and Enhance Intel AC 9560 Wireless Drivers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-comparison-of-free-dts-decoder-software-for-immersive-stereo-surround-quality/"><u>Ultimate Comparison of FREE DTS Decoder Software for Immersive Stereo Surround Quality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-for-stress-management-smart-ways-to-achieve-calmness/"><u>Utilizing ChatGPT for Stress Management: Smart Ways to Achieve Calmness</u></a></li>
 </ul></div>
 

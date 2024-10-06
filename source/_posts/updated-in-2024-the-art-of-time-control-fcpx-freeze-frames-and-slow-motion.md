@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, The Art of Time Control FCPX Freeze Frames and Slow Motion
-date: 2024-08-02T04:25:36.142Z
-updated: 2024-08-03T04:25:36.142Z
+date: 2024-10-05T17:28:34.316Z
+updated: 2024-10-06T17:07:20.956Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ This article shows you how to do this using Final Cut Pro X.
 
 For more tutorials on slow-motion please refer to this article: [Top 10 Slow Motion Video Editing Software.](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Freeze-Frames and Slow Motion in Final Cut Pro X
 
 #### 1\.  STILL FRAMES
@@ -43,9 +40,6 @@ A still-frame freezes action. For instance, here is a clip of a hummingbird gett
 
 In Final Cut Pro X, put the playhead (or skimmer) on the frame you want to freeze and type Option+F.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![freeze frames](https://images.wondershare.com/multimedia/speed002.jpg)
 
 This creates a two-second freeze-frame at the position of the playhead.
@@ -82,9 +76,6 @@ I use both these techniques in many different projects.
 
 A Hold Frame is similar to an in-line still frame, but with more flexibility.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hold frame](https://images.wondershare.com/multimedia/speed013.jpg)
 
 Put the playhead (or skimmer) on the frame you want to hold. Then, Then, using either Modify > Retime or the "Smurf-on-a-headset" Toolbar icon, choose Hold Frame (or type: Shift+H).
@@ -97,9 +88,6 @@ This displays the orange Retime editor bar above the clip, with a small red port
 
 Change the duration of the Hold frame by dragging the small thumb at the right end of the red bar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![speed016](https://images.wondershare.com/multimedia/speed016.jpg)
 
 Add a speed ramp transition at the end of the Hold frame by clicking the downward-pointing arrow next to the word "Hold" in the Retime Editor.
@@ -118,9 +106,6 @@ We use slow-motion to show events that are too fast for the unaided eye to see. 
 
 WE create either effect using the same tools, just different values. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![slow motion](https://images.wondershare.com/multimedia/speed008.jpg)
 
 Select the clip who's speed you want to change. Then, using either Modify > Retime or the "Smurf" Toolbar icon, select Slow (or Fast).
@@ -135,28 +120,18 @@ Three things happen at once:
 * The orange Retiming bar appears over the top of the clip
 * The speed of the clip changes
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![speed010](https://images.wondershare.com/multimedia/speed010.jpg)
 
 To reset the speed back to normal (100%), click the downward-pointing arrow in the Retiming bar and choose Normal (100%).
 
 There are two ways to change the speed of a clip.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![speed017](https://images.wondershare.com/multimedia/speed017.jpg)
 
 The easy way is to grab the small handle at the end of the clip and drag left or right. The speed will change as you drag it.
 
 Or, for more precision, click the downward-pointing arrow in the Retiming bar and choose Custom.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![speed011](https://images.wondershare.com/multimedia/speed011.jpg)
 
 This opens a new dialog allowing a number of changes:
@@ -172,9 +147,6 @@ You will get the smoothest speed changes when the percentage you choose divides 
 
 There is one more setting to consider when slowing a clip. (This does not apply when creating fast motion.)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![speed012](https://images.wondershare.com/multimedia/speed012.jpg)
 
 Using, again, either Modify > Retime or the "Smurf" menu, select Video Quality.
@@ -199,10 +171,6 @@ This is a basic tutorial about Apple Final Cut Pro X, a professional video editi
 
 Whether you want your clips to speed up, slow down or just plain stop, Final Cut Pro X makes the entire process easy.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -211,11 +179,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-pro-mac-and-pc-screen-capture-experts/"><u>[New] In 2024, Pro Mac & PC Screen Capture Experts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-best-chosen-templates-for-viral-ae-content/"><u>2024 Approved Best Chosen Templates for Viral AE Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-smooth-media-transfer-twitvideos-to-whatsapp-guide/"><u>2024 Approved Smooth Media Transfer TwitVideos to WhatsApp Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-4k-ultra-hd-blu-ray-players-top-5-picks/"><u>Best 4K Ultra HD Blu-Ray Players: Top 5 Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-free-solutions-to-watch-dvds-on-mac-os-x-el-capitan-download-the-compatible-program-now/"><u>Best Free Solutions to Watch DVDs on Mac OS X El Capitan - Download the Compatible Program Now</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/enjoy-superior-sound-a-guide-to-streaming-flac-audio-tracks-on-iphones-and-ios-gadgets/"><u>Enjoy Superior Sound: A Guide to Streaming FLAC Audio Tracks on iPhones and iOS Gadgets</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/free-and-secure-av1-video-player-setup-on-windows-11/"><u>Free & Secure AV1 Video Player Setup on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/master-typing-with-these-top-12-free-lessons-suitable-for-every-generation/"><u>Master Typing with These Top 12 Free Lessons Suitable for Every Generation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-podcasts-on-windows-select-best-8/"><u>Mastering Podcasts on Windows - Select Best 8</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resolve-issues-with-the-apple-music-browser-version-a-step-by-step-guide/"><u>Resolve Issues with the Apple Music Browser Version: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-3-optimal-free-dvd-players-compatible-with-windows-10-get-them-now/"><u>Top 3 Optimal Free DVD Players Compatible with Windows 10 - Get Them Now!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-5-premium-4k-media-players-for-mac-experience-ultra-hd-bliss-with-4320p/"><u>Top 5 Premium 4K Media Players for Mac: Experience Ultra HD Bliss with 4320P</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ups-battery-solutions/"><u>Top-Rated UPS Battery Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-dvdbdcd-drives-that-fail-to-open-or-eject-properly/"><u>Troubleshooting Techniques for DVD/BD/CD Drives that Fail to Open or Eject Properly</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-window-10-compatible-8k-media-viewer-get-it-for-free-now/"><u>Ultimate Window 10 Compatible 8K Media Viewer - Get It for Free Now!</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

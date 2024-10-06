@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Media Player: How to Fix MP4 Format Issues"
-date: 2024-09-25T23:43:03.235Z
-updated: 2024-10-01T00:07:19.761Z
+date: 2024-10-03T16:00:53.238Z
+updated: 2024-10-06T17:15:34.502Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 Your **Windows Media Player won't play MP4** files just happened? The codec problem should be mainly responsible for that. To help you solve the problem once for all, this guide will list detailed reasons to explain why that happens plus corresponding solutions. However, if you want to easily and quickly solve MP4 file not playing problem, you can try third-party MP4 player to play MP4 videos files on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### FAQs about Windows Media Player Won't Play MP4 Files
@@ -51,13 +51,6 @@ Luckily, Windows Media Player 12 natively supports some MP4 codecs like listed b
 
 ![Windows Media Player MP4 Codec Support](https://www.5kplayer.com/video-music-player/img/5kp-play-mp4-wmp-zjy-001.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 However, MP4 file not playing in Windows Media Player 12 problem also happens a lot because WMP 12 may not support codecs like HEVC H.263/H.264/H.265, MPEG-4 ASP, H.264/MPEG-4 AVC,H.263, VC-1, Dirac, MPEG-2/4 (HE)-AAC, AC-3, Apple Lossless, ALS, SLS, Vorbis(with private objectTypeIndication).
 
 **Q4: Why Windows Media Player Show No Video or Audio When Playing MP4?**
@@ -69,10 +62,10 @@ Windows Media Player MP4 no video occurs as MP4 is a container format that can c
 In conclusion, all of the discussions are about codec. So, you can download Windows Media Player MP4 codecs or third-party codec pack like K-Lite to beef up your WMP, or just convert the MP4 to Windows Media Player more compatible format like WMV and AVI. Wiser choice, you are suggested to try another [MP4 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play MP4 video files.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Detailed Solutions to Windows Media Player not Playing MP4 Error
@@ -95,13 +88,20 @@ If you are stubborn fan of Windows Media Player, you can just try the above two 
 
 ![Best Free MP4 Player](https://www.5kplayer.com/video-music-player/img/flv-player-free-download.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -119,17 +119,22 @@ If you are stubborn fan of Windows Media Player, you can just try the above two 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-5-video-editing-platforms-that-dont-feature-in-youtoo-for-2024/"><u>[New] Best 5 Video Editing Platforms That Don't Feature in YouToo for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-phantom-v-flip-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Phantom V Flip is off? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-online-conversion-change-wav-files-to-flac-format-with-ease/"><u>Free Online Conversion: Change WAV Files to FLAC Format with Ease</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-13-pro-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 13 Pro?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-examination-the-dji-phantom-3-experience-for-2024/"><u>In-Depth Examination The DJI Phantom 3 Experience for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-your-gopros-potential-best-alternative-video-editing-software/"><u>New 2024 Approved Unlock Your GoPros Potential Best Alternative Video Editing Software</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-easily-blur-video-backgrounds-or-faces-with-these-top-apps-for-2024/"><u>New Easily Blur Video Backgrounds or Faces with These Top Apps for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-ready-to-record-3-effortless-options-for-video-game-capture/"><u>New In 2024, Get Ready to Record 3 Effortless Options for Video Game Capture</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-split-your-mpeg-videos-like-a-pro-top-5-free-tools/"><u>New Split Your MPEG Videos Like a Pro Top 5 Free Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-and-easy-dvd-ripping-tool-download-the-winx-free-app-for-seamless-media-transfer-on-windows-groverbase/"><u>Quick & Easy DVD Ripping Tool: Download the WinX Free App for Seamless Media Transfer on Windows Grover_base.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tips-for-retrieving-and-reading-your-lost-iphone-messages/"><u>Tips for Retrieving and Reading Your Lost iPhone Messages</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-banner-design-rules-for-top-youtube-channels/"><u>[New] 2024 Approved Essential Banner Design Rules for Top YouTube Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-apex-legends-solo-mode-top-choices-for-non-crossplay-gaming/"><u>[New] Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-getting-unstuck-troubleshooting-absent-fb-vids/"><u>[Updated] 2024 Approved Getting Unstuck Troubleshooting Absent FB Vids</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-investing-in-quality-the-path-to-top-tier-fb-video-ads/"><u>2024 Approved Investing in Quality The Path to Top-Tier FB Video Ads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/determining-playstation-network-status-a-guide-to-understanding-delays-and-disruptions/"><u>Determining PlayStation Network Status - A Guide to Understanding Delays and Disruptions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-your-sierra-cloud-storage-effortlessly/"><u>In 2024, Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-capture-your-best-moments-3-simple-video-game-recording-solutions/"><u>New Capture Your Best Moments 3 Simple Video Game Recording Solutions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/top-5-captivating-videos-from-the-world-of-fb/"><u>Top 5 Captivating Videos From the World of FB</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/top-video-transcoding-solutions-superior-alternatives-to-zamzar/"><u>Top Video Transcoding Solutions: Superior Alternatives to Zamzar</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-fast-to-slow-mastering-video-speed-control-in-camtasia/"><u>Updated 2024 Approved From Fast to Slow Mastering Video Speed Control in Camtasia</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-download-and-use-kinemaster-on-your-mac/"><u>Updated 2024 Approved How to Download and Use KineMaster on Your Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-imovie-alternatives-top-free-options-for-video-editing/"><u>Updated 2024 Approved IMovie Alternatives Top Free Options for Video Editing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-video-editing-on-a-mac-here-are-the-best-options-for/"><u>Updated 2024 Approved Video Editing on a Mac? Here Are the Best Options For</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-online-video-rotators-for-rotating-videos-winmac-for-2024/"><u>Updated Best Online Video Rotators for Rotating Videos Win/Mac for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-free-avi-video-editing-solutions-a-top-5-roundup/"><u>Updated In 2024, Free AVI Video Editing Solutions A Top 5 Roundup</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-create-custom-titles-in-final-cut-pro-x-2023-update/"><u>Updated In 2024, How to Create Custom Titles in Final Cut Pro X 2023 Update</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-resize-and-crop-images-in-fcpx-2023-update/"><u>Updated In 2024, How to Resize and Crop Images in FCPX 2023 Update</u></a></li>
 </ul></div>
 

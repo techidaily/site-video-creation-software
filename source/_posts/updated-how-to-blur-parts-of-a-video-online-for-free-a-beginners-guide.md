@@ -1,7 +1,7 @@
 ---
 title: Updated How to Blur Parts of a Video Online for Free A Beginners Guide
-date: 2024-08-02T04:26:48.910Z
-updated: 2024-08-03T04:26:48.910Z
+date: 2024-10-03T16:41:55.514Z
+updated: 2024-10-06T16:52:19.710Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/5a88545795b5ca3ae26e7c947a2bcf90d0830b425
 
 # How to Blur Video Online for Free
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -31,20 +28,10 @@ Sometimes it becomes important to blur the entire video or a particular part or 
 
 With that said, in the following sections, you will learn about some portals available on the Internet that let you **blur video background online**. In addition, the options present in some of these web apps can also be exploited to **blur part of video online free**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Best Online Tools to Blur Videos
 
 A list of some of the best websites and their essential details are given below:
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1. PickFrom
 
 Visit: <https://pickfrom.net/blur-video>
@@ -65,10 +52,14 @@ To **blur video online** with PickFrom:
 * Turn off the **Blur inside** switch from the right pane, and choose a format from the **Save As** menu present at the bottom-left corner.
 * Click **Start**, and then click **Download** or **Copy the link** to download the modified video to your PC or share it online, respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Blur videos online with PickFrom](https://images.wondershare.com/filmora/article-images/blur-video-online-with-pickfrom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Limitations**
 
@@ -76,9 +67,6 @@ To **blur video online** with PickFrom:
 * Enables you to blur either the full video or a part of it
 * At the time of this writing, the 'Blur video background' feature isn't smart enough to differentiate between the background and the main subject (humans)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### 2. WoFox
 
 Visit: <https://www.wofox.com/video-editing-tools/blur-an-object-in-video>
@@ -97,10 +85,14 @@ To **blur part of video online free** with WoFox:
 * Click **Upload** and upload the source video, and then position and scale the selection box to cover the portion of the video that needs to be blurred.
 * Optionally click the **+** button from the navigation pane on the left to add more selection boxes to cover multiple video portions. Click **Download** from the top-right corner of the page to download the modified clip.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Blur videos online with WoFox](https://images.wondershare.com/filmora/article-images/blur-video-online-with-wofox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Limitations of using Wo** **Fox to Blur Video Online**
 
@@ -136,11 +128,25 @@ To **blur video online** **with** **Flixier**:
 
 ![Blur videos online with flixier](https://images.wondershare.com/filmora/article-images/blur-video-online-flixier.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Limitations of using Flixier**
 
 * The free account can have only up to 2GB of storage
 * It supports only 10 minutes of videos per month to be exported with a free account
 * The maximum resolution for the videos exported with a free account is 720p
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4. Kapwing
 
@@ -174,9 +180,6 @@ To **blur video background online** with Kapwing:
 * Files of only up to 250MB can be uploaded while using a free account
 * Videos of only up to 7 minutes each can be exported with a free account, while the total duration of the videos that can be exported is up to 3 hours.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### 5. Hippo Video
 
 Visit: <https://www.hippovideo.io/users/sign%5Fin>
@@ -213,17 +216,12 @@ To **blur video background online** for free with Hippo Video:
 * With the free version, you only get 1GB of bandwidth per month
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6. YouTube Studio
 
 Visit: <https://studio.youtube.com/>
@@ -273,8 +271,12 @@ You can check more details of [blurring videos with YouTube Studio](https://tool
 Like any other similar program, even Filmora allows you to blur both landscape and portrait videos. The processes of getting these tasks done are given below:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1. Blur a Part of Video (Landscape Video)
 
 **Step 1: Import and Add the Source Video to Timeline**
@@ -295,24 +297,21 @@ Then, click Import from the **Media** box, select and import the source video to
 
 Go to **Effects** from the menu bar, select **Default** from the top of the navigation pane on the left, and select **Utility** from the available list. From the right box, drag the **Mosaic** effect, and place it on a separate layer above the video track in the Timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![add mosaic effects to timeline](https://images.wondershare.com/filmora/article-images/add-mosaic-effect-blur.jpg)
 
 **Step 3: Customize the Effect to Blur a Part of Video**
 
 Double-click the **Blur** effect in the Timeline, use the scaling handles in the preview window to scale and position the effect to cover your preferred part of the video and place it at your desired location respectively, choose a **Mosaic** style from the **Type** list present in the left box, and use the **Intensity** and **Opacity** sliders to customize further the appearance of effect as needed. Optionally, you can drag the side handles of the effect in the Timeline to adjust the duration of its visibility, and click **OK** from the bottom-right area of the upper-left box to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![ mosaic effect settings](https://images.wondershare.com/filmora/article-images/adjust-mosaic-settings-blur.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2. Blur a Vertical Video
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -325,9 +324,6 @@ Use the above method to import the source vertical video to Filmora X and add it
 
 Go to **Effects** and choose **Default** from the left pane, as explained earlier. Next, expand the **Filters** tree if not already expanded, click to select **Background Blur** from the list, from the box on the right, choose and drag your preferred blur effect, and place it on a separate layer in the Timeline above the video track.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![ add background blur](https://images.wondershare.com/filmora/article-images/add-background-blur-vertical-video.jpg)
 
 **Step 3: Customize the Blur Effect**
@@ -344,13 +340,18 @@ If you want to have full control over the post-production process, having an eff
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -358,3 +359,22 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-blitz-photo-screening-for-windows-users/"><u>[Updated] Blitz Photo Screening for Windows Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-and-fixing-failed-to-connect-alerts-in-steam-with-ease/"><u>Addressing and Fixing 'Failed to Connect' Alerts in Steam with Ease</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/free-mkv-file-player-downloads-compatible-with-windows-10-and-macos/"><u>Free MKV File Player Downloads: Compatible with Windows 10 & MacOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/get-your-free-premium-divx-video-player-now-enjoy-watching-divx-movies-without-any-hitches/"><u>Get Your Free Premium DivX Video Player Now! Enjoy Watching DivX Movies Without Any Hitches</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-audiovisual-virtuoso-capturing-emotion-in-harmony/"><u>In 2024, Audiovisual Virtuoso Capturing Emotion in Harmony</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-realme-11-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme 11 5G FRP Bypass</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/kindleoasisreview-a-deep-dive-into-the-ultimate-2019-reading-experience/"><u>KindleOasis_Review: A Deep Dive Into the Ultimate 2019 Reading Experience</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/obtaining-an-atf-license-is-the-first-step-in-starting-a-fireworks-business/"><u>Obtaining an ATF License Is the First Step in Starting a Fireworks Business.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-5-ultimate-mp4-video-players-for-your-mac-computer-stream-in-hd-and-uhd-quality/"><u>Top 5 Ultimate MP4 Video Players for Your Mac Computer: Stream in HD and UHD Quality</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-7-best-free-flv-players-available-on-macos-no-cost-downloads/"><u>Top 7 Best Free Flv Players Available on macOS: No Cost Downloads</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-advanced-system-knowledge-through-toms-hardware/"><u>Unlocking Advanced System Knowledge Through Tom's Hardware</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ventura-upgrade-roadmap-for-your-mac/"><u>Ventura Upgrade Roadmap for Your Mac</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player
-date: 2024-09-26T17:29:52.220Z
-updated: 2024-09-30T21:59:23.378Z
+date: 2024-10-03T18:06:24.533Z
+updated: 2024-10-06T16:37:46.856Z
 tags:
   - video-music-player
 categories:
@@ -51,10 +51,10 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -74,16 +74,10 @@ c. Navigate to "File -> Open Media File".
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
@@ -91,10 +85,10 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -112,24 +106,22 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>[New] 2024 Approved Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-streamlining-movie-file-processing-in-windows-11-for-2024/"><u>[Updated] Streamlining Movie File Processing in Windows 11 for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-look-at-samsung-galaxy-s8-in-4k/"><u>[Updated] The Ultimate Look at Samsung Galaxy S8 in 4K</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/2024-approved-powerdirector-competitors-best-mobile-video-editors-for-android-and-ios/"><u>2024 Approved PowerDirector Competitors Best Mobile Video Editors for Android & iOS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Pro without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-capturing-your-cameras-magic-review-and-best-free-options/"><u>In 2024, Capturing Your Camera's Magic – Review & Best FREE Options</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-leading-windows-call-platforms-7-1-ranked/"><u>In 2024, Leading Windows Call Platforms #7-#1 Ranked</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mac-studio-screen-and-sounds-recording-feature/"><u>Mac Studio Screen & Sounds Recording Feature</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New 2024 Approved The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-time-lapse-video-editing-made-easy-top-software-picks/"><u>New 2024 Approved Time-Lapse Video Editing Made Easy Top Software Picks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-edit-videos-online-for-free-the-best-tools-and-services-for-2024/"><u>New Edit Videos Online for Free The Best Tools and Services for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-list-of-free-video-rotation-tools-no-watermarks/"><u>New In 2024, The Ultimate List of Free Video Rotation Tools (No Watermarks!)</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-voice-over-mastery-essential-fcp-recording-hacks-for-2024/"><u>New Voice Over Mastery Essential FCP Recording Hacks for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile-for-2024/"><u>Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-text-animation-apps-for-mobile-video-editing-for-2024/"><u>Top Text Animation Apps for Mobile Video Editing for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-last-epoch-installation-problems-on-computers/"><u>Troubleshooting Guide: Fixing 'Last Epoch' Installation Problems on Computers</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-3gp-file-trimmer-edit-and-split-your-videos-easily/"><u>Updated 2024 Approved 3GP File Trimmer Edit and Split Your Videos Easily</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/49851723-valorant-portraits-professional-thumbnails-made-in-a-flash/"><u>Valorant Portraits - Professional Thumbnails Made in a Flash</u></a></li>
-<li><a href="https://win-blog.techidaily.com/yakuza-3-hd-remake-freezing-issues-solved-optimized-gameplay-on-windows/"><u>Yakuza 3 HD Remake Freezing Issues Solved: Optimized Gameplay on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-prime-titles-pro-elevate-your-youtube-game/"><u>[New] 2024 Approved Prime Titles Pro Elevate Your YouTube Game</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-8-ultimate-windows-10-video-grabber-apps-you-must-try-for-2024/"><u>[Updated] 8 Ultimate Windows 10 Video Grabber Apps You Must Try for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-personalize-win11-panorama-selecting-stunning-walls/"><u>2024 Approved Personalize Win11 Panorama Selecting Stunning Walls</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-gaming-escape-lgs-virtual-reality-journey/"><u>2024 Approved The Ultimate Gaming Escape LG's Virtual Reality Journey</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-the-reimagined-avatar-world-wide-with-optimal-pc-performance-and-stability/"><u>Experience the Reimagined Avatar World Wide with Optimal PC Performance and Stability</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x50-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-se-2020-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone SE (2020) without Backup | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-infinix-hot-40-pro-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Infinix Hot 40 Pro Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-create-cinematic-videos-the-ultimate-ken-burns-effect-guide/"><u>Updated 2024 Approved Create Cinematic Videos The Ultimate Ken Burns Effect Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-expert-approved-highlight-video-makers-for-any-device/"><u>Updated 2024 Approved Expert-Approved Highlight Video Makers for Any Device</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-video-hosting-platforms-10-best-options-for-small-businesses-and-individuals/"><u>Updated 2024 Approved Free Video Hosting Platforms 10 Best Options for Small Businesses and Individuals</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-ivideoprocessor/"><u>Updated 2024 Approved IVideoProcessor</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-dvr-wars-tivo-and-comcast-face-off-in-a-battle-of-features-and-price/"><u>Updated 2024 Approved The DVR Wars TiVo and Comcast Face Off in a Battle of Features and Price</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-6-free-online-video-mergers/"><u>Updated 2024 Approved Top 6 Free Online Video Mergers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-fcpx-error-fixing-essentials-a-step-by-step-guide/"><u>Updated In 2024, FCPX Error Fixing Essentials A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleash-your-creativity-best-mac-video-maker-apps/"><u>Updated In 2024, Unleash Your Creativity Best Mac Video Maker Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor Magic 6? | Dr.fone</u></a></li>
 </ul></div>
 

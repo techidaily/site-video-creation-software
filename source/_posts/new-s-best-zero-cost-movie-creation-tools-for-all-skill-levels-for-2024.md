@@ -1,7 +1,7 @@
 ---
 title: New S Best Zero-Cost Movie Creation Tools for All Skill Levels for 2024
-date: 2024-08-09T06:07:14.281Z
-updated: 2024-08-10T06:07:14.281Z
+date: 2024-10-11T02:37:04.799Z
+updated: 2024-10-12T10:16:52.615Z
 tags: 
   - video editing software
   - video editing
@@ -47,16 +47,10 @@ As a video editing beginner, easy to use and free are two of the most factors yo
    7. [VideoShow](#13)
    8. [CapCut](#14)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Best Free Easy & Simple Video Editing Software for Windows and macOS \[2024 List\]
 
 There is no need to spend huge amounts of money on professional software to [edit videos](https://tools.techidaily.com/wondershare/filmora/download/) if you just want to polish your videos quickly before sharing them online. In fact, each of the movie makers, we listed below is so easy to use that you can start making videos right away even if you have no previous experience. So, let’s get started.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### 1. Filmora
 
 **Price:** Free trial available, $79.99 for a perpetual license
@@ -84,9 +78,6 @@ Filmora also offers full support for [4K videos](https://tools.techidaily.com/wo
 
 In addition to huge effects and transitions libraries, the Filmora movie maker also features a rich selection of royalty-free music and audio effects you can use to create soundtracks for all of your videos. Filmora can be downloaded for free, but you must purchase one of the available subscription plans in order to gain access to all features it has to offer.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora9 Main Interface](https://images.wondershare.com/filmora/guide/full-feature-interface.jpg)
 
 To improve your [video editing](https://tools.techidaily.com/wondershare/filmora/download/) and create a more stunning video, you can use the package Filmora & Filmstock video templates”, click the image below to see how to make your storytelling more engaging.
@@ -101,14 +92,18 @@ It has been nearly twenty years since the first version of Windows Movie Maker w
 
 Windows Movie Maker lets its users capture new footage or process the pre-recorded videos. Besides trimming and cutting tools Windows Movie Maker is also equipped with effects, transitions and credits animations. Its interface is quite intuitive, so you won’t need too much time to figure out how you can start exporting your projects to YouTube, Vimeo or Facebook.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3. Photos App
 
 Windows Movie Maker was replaced on Windows 10 by the Photos App that offers only the very basic video editing tools. Even so, you can use it to create slideshows, short slow-motion videos or add customized text overlays to the footage.
 
 ![Windows10 Photos Adding Text Interface](https://images.wondershare.com/filmora/article-images/add-text-photos-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Moreover, the app provides a variety of filters that enable you to enhance the colors in your videos effortlessly, while the 3D effects the app features can be used to simulate rain, fire or even rainbows. The Photos app supports nearly all popular photo and video file formats, but it doesn’t offer support for 4K videos, and you can neither edit or export videos in 4K resolution with it.
 
@@ -129,8 +124,12 @@ Filmora Free Movie Maker
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4. iMovie
 
 This movie maker is an obvious choice for all novice video editors who want to process their footage on Mac computers. iMovie supports a wide range of video file formats including 4K resolution files which means that you can use it to edit and export high definition videos.
@@ -164,8 +163,12 @@ Once you’re signed in, you can either start making a video from the videos you
 However, if you opt for the free version of Clipchamp you will only be able to export videos in 480p resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Best Free Easy to Use Movie Making Apps for iOS and Android OS
 
 Editing videos on a laptop or desktop computer requires time, regardless of how minor the edits you want to make are. Movie making apps for iPhones and Android devices provide a simple solution to this problem and enable you to edit your videos minutes after you recorded them.
@@ -180,13 +183,17 @@ Let’s take a look at some of the best movie making apps you can find at Google
 
 [![Download filmora](https://images.wondershare.com/filmora/guide/google_play.jpg) ](https://play.google.com/store/apps/details?id=com.wondershare.filmorago) [![Download filmora](https://images.wondershare.com/filmora/guide/apple_store.jpg)](https://itunes.apple.com/app/filmorago-free-video-editor/id1019382747)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Wondershare’s Filmora](https://tools.techidaily.com/wondershare/filmora/download/) unites simplicity and effectiveness. The app’s interface is easy to get used to, while its features are designed to help its users create stunning videos. You can use the app’s Crop&Rotate tools to make square or vertical videos, enhance colors using the Color Correction options and increase or decrease a clip’s playback speed.
 
 Moreover, you can make the cuts between video clips less harsh by applying transitions or add opening titles to your videos in just a few taps. Making in-app purchases is necessary if you want to remove the logo roll or gain access to different visual effects packs.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. KineMaster
 
 **Price:** Free, but offers in-app purchases
@@ -213,6 +220,13 @@ This is a movie making an app for action video creators who use GoPro cameras to
 
 What’s more, Quik lets you select the video’s aspect ratio, making the process of creating vertical videos for IGTV or square videos effortless. Keep in mind that some models of GoPro cameras are not compatible with the app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4. Magisto
 
 **Price:** Free, but offers in-app purchases
@@ -221,10 +235,14 @@ What’s more, Quik lets you select the video’s aspect ratio, making the proce
 
 This is an AI-powered movie maker that automatically stabilizes footage, crops videos or applies filters and visual effects to them. You just have to choose a Smart Video Editing Style and import the photos, videos, and music you’d like to include in the final cut of the video you’re making. Magisto is going to do the rest for you and you can then easily share your creations to Facebook, Instagram, and other social media networks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Magisto Video Editor](https://images.wondershare.com/filmora/article-images/magisto-video-editor.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The free version of the app offers a rather limited amount of options, which is why you should consider Premium or Professional subscription plans if you are considering using Magisto on a daily basis.
 
@@ -256,9 +274,6 @@ Likewise, switching between video formats is easy. You can select standard video
 
 VivaVideo is a free video maker and editor for iOS and Android devices. The app includes all the basic functions you would expect from an editor. Plus, it has many advanced traits, which makes it popular among its users.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vivavideo](https://images.wondershare.com/filmora/article-images/2022/09/vivavideo.PNG)
 
 VivaVideo provides comprehensive options for video editing. For example, you can combine images, turn them into videos, and add songs. In the same way, you can add transitions, merge a secondary video into your primary video, join multiple clips, add music to your videos, and more. Similarly, VivaVideo also allows you to directly share the edited video to your social media platforms right from the app.
@@ -273,16 +288,10 @@ VideoShow is another popular video-making app for Android and iOS devices. It ha
 
 VideoShow also permits you to add artistic subtitles to your videos. Moreover, the app offers 50+ music themes for your videos. This is exciting news for video makers, vloggers, and YouTubers, who love doing editing without using complex apps.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![videoshow](https://images.wondershare.com/filmora/article-images/2022/09/videoshow.PNG)
 
 There are a few more advantages of VideoShow, like reducing video size, in-app video recording, and audio extraction. Also, if you buy the premium version, you can enjoy adding Doodles to your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 8. CapCut
 
 **Price:** Free, but offers in-app purchases
@@ -307,9 +316,6 @@ In case you’re just looking for a simple video editor that lets you process fo
 
 For Win 7 or later (64-bit)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -336,15 +342,22 @@ There is a wide range of video makers for PC. But not all of them are easy to us
 On the other hand, if you want to work like a pro on a simple and convenient interface, download Filmora. It is an ideal tool for Mac and Windows with lots of great features to make your videos entertaining and meaningful.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Q2. How can I make a video with music and pictures for free?
 
 Some mobile and PC movie makers, like Filmora, Filmora, iMovie, CapCut and more, have a simple and user-friendly timeline. All you need to do is import your main clip on the timeline. Then, import your favorite music and image files you wish to add to your video. Now, place the audio and images below the main video clip and play the video to see the results. If you’re happy with the outcome, save or export the file to your mobile or PC.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q3. What is the best app to make a video?
 
 While there are many powerful mobile apps to make and edit videos, the most famous are Filmora, VivaVideo, CapCut, and Magisto.
@@ -353,19 +366,20 @@ While there are many powerful mobile apps to make and edit videos, the most famo
 
 For Win 7 or later (64-bit)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Click here to get Filmora for PC by email](https://tools.techidaily.com/wondershare/filmora/download/)
 or Try Filmora App for mobile >>>
@@ -380,12 +394,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-popcorn-projections-thorough-review-of-film-snack-recorder/"><u>[New] 2024 Approved Popcorn Projections Thorough Review of Film Snack Recorder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-understanding-your-instagram-stories-visibility/"><u>[New] In 2024, Understanding Your Instagram Stories Visibility</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eering-into-tseries-earnings-processes-on-youtube-networks-for-2024/"><u>[New] Peering Into TSeries' Earnings Processes on YouTube Networks for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-solve-non-playing-fb-videos-on-iphone/"><u>[New] Solve Non-Playing FB Videos on iPhone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-tapping-into-youtubes-earnings-how-much-do-you-make-from-adsense-per-kv/"><u>[Updated] 2024 Approved Tapping Into Youtube's Earnings How Much Do You Make From AdSense Per KV?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/best-pdf-modification-tools-3-superior-alternatives-to-preview-in-macos-for-improved-efficiency/"><u>Best PDF Modification Tools: 3 Superior Alternatives to Preview in MacOS for Improved Efficiency</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-free-gaming-platforms-top-10-sites-for-pc-and-android-downloads/"><u>In 2024, Best Free Gaming Platforms Top 10 Sites for PC and Android Downloads</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-extended-examination-of-uncomplicated-hdr-photography/"><u>In 2024, Extended Examination of Uncomplicated HDR Photography</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-break-free-from-sony-vegas-top-windows-video-editing-software-alternatives-for-2024/"><u>New Break Free From Sony Vegas Top Windows Video Editing Software Alternatives for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bypassing-format-barriers-a-complete-guide-to-chromecast-video-streaming-for-2024/"><u>New Bypassing Format Barriers A Complete Guide to Chromecast Video Streaming for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-discover-the-best-educational-animation-tools/"><u>New In 2024, Discover the Best Educational Animation Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-say-goodbye-to-shaky-videos-10-best-free-online-stabilizers/"><u>New In 2024, Say Goodbye to Shaky Videos 10 Best Free Online Stabilizers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-art-of-stability-fcpx-techniques-for-smoother-video/"><u>New In 2024, The Art of Stability FCPX Techniques for Smoother Video</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-unleash-your-creativity-simple-video-editing-with-microsoft-on-windows/"><u>New In 2024, Unleash Your Creativity Simple Video Editing with Microsoft on Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-macs-top-rated-mkv-trimming-software/"><u>New Macs Top-Rated MKV Trimming Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-s-top-free-video-compressor-options-for-windows-10/"><u>New S Top Free Video Compressor Options for Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-ragnarok-interface-errors-sse/"><u>Resolving Ragnarok Interface Errors (SSE)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/title-design-made-easy-a-final-cut-pro-x-tutorial-for-2024/"><u>Title Design Made Easy A Final Cut Pro X Tutorial for 2024</u></a></li>
+</ul></div>
 

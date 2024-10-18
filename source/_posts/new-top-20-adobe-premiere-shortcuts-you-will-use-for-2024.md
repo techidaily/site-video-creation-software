@@ -1,7 +1,7 @@
 ---
 title: New Top 20 Adobe Premiere Shortcuts You Will Use for 2024
-date: 2024-08-09T06:12:00.996Z
-updated: 2024-08-10T06:12:00.996Z
+date: 2024-10-16T04:36:24.287Z
+updated: 2024-10-17T16:20:10.156Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -81,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -136,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -179,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -214,9 +199,6 @@ thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce09
 
  This enables you to trim the head or tail of the clip very quickly, making an extremely efficient workflow. To trim the next edit from the Playhead use W, for the previous edit from the playhead use Q.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -225,12 +207,34 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-adding-apple-music-a-guide-to-enhanced-videos/"><u>[New] 2024 Approved Adding Apple Music A Guide to Enhanced Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cost-effective-audio-equipment-for-newcomers/"><u>[New] In 2024, Cost-Effective Audio Equipment for Newcomers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-perfect-pairing-sound-and-imagery-in-media-production/"><u>[New] Perfect Pairing Sound & Imagery in Media Production</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effective-source-to-pay-management-unlocking-cost-efficiencies-for-jlls-procurement-success/"><u>Effective Source-to-Pay Management: Unlocking Cost Efficiencies for JLL's Procurement Success</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-12-mini-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 12 mini Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-flip-video-clips-in-final-cut-pro-a-4-step-guide-for-beginners-for-2024/"><u>New Flip Video Clips in Final Cut Pro A 4-Step Guide for Beginners for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-from-zero-to-hero-top-online-animation-makers-for-beginners/"><u>New In 2024, From Zero to Hero Top Online Animation Makers for Beginners</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-macs-top-video-editing-software-adobe-premiere-pro-for-pros-for-2024/"><u>New Macs Top Video Editing Software Adobe Premiere Pro for Pros for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-importing-and-exporting-videos-in-adobe-premiere-for-2024/"><u>New The Ultimate Guide to Importing and Exporting Videos in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-10-free-video-stabilization-tools-online-for-smooth-footage/"><u>New Top 10 Free Video Stabilization Tools Online for Smooth Footage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-guide-to-store-instagram-photosvideos-on-iphones-for-2024/"><u>Step-by-Step Guide to Store Instagram Photos/Videos on iPhones for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/surveillance-on-a-budget-10-free-security-camera-tools-for-2024/"><u>Surveillance on a Budget 10 Free Security Camera Tools for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transform-ogv-videos-into-webm-streaming-on-demand-with-movavis-free-tool/"><u>Transform OGV Videos Into WebM Streaming on Demand with Movavi's Free Tool</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

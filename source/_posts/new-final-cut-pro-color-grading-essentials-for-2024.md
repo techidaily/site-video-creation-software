@@ -1,7 +1,7 @@
 ---
 title: New Final Cut Pro Color Grading Essentials for 2024
-date: 2024-08-02T04:22:46.356Z
-updated: 2024-08-03T04:22:46.356Z
+date: 2024-10-16T17:40:49.150Z
+updated: 2024-10-17T16:25:24.809Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566b
 
 # Color Correction in Final Cut Pro
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -70,25 +67,16 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
@@ -101,9 +89,6 @@ Now it is time to work on color correction directly. There are three types of co
 
 **Saturation:** It refers to the richness of colors in an image. Simply select saturation pane from the color board and on the video scopes window you can use the settings menu directly to adjust saturation information for every pixel. The image pixels that are far away from the center of vectorscope circle means they are more saturated as compared to pixels that are little bit closure.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Saturation](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-8.png)
 
 **Hue:**  Hue displays the actual color values in images or frames in terms of primary colors: red, blue, and yellow. Use color pane from color board to adjust hue that is displayed in the form of a rainbow on screen. It is possible to manipulate values for highlights, midtones and shadows individually as per need. Using the histogram option available on settings menu can help you to make direct adjustments for all these components.
@@ -114,9 +99,6 @@ Now it is time to work on color correction directly. There are three types of co
 
 It is possible to preview all the corrections on the original image before making them final. Simple hit the arrow with left-facing formation in the top left corner of the Color Board and then return to the video inspector. Hit on the Blue box to switch between correction On and Off options.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![correction On and Off options](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-10.png)
 
 **Here's the video tutorial on how to correct color in Final Cut Pro:**
@@ -129,8 +111,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -138,5 +118,31 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-master-your-media-display-with-these-12-videophones/"><u>[New] 2024 Approved Master Your Media Display with These 12 Videophones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-comic-editor-app/"><u>[New] Ultimate Comic Editor App</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-role-of-youtube-images-in-video-promotion-and-discovery-for-2024/"><u>[Updated] The Role of Youtube Images in Video Promotion and Discovery for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-non-root-android-audio-logging-step-by-step/"><u>2024 Approved Non-Root Android Audio Logging, Step by Step</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-value-gear-affordable-cameras-for-dynamic-sports/"><u>In 2024, Top Value Gear Affordable Cameras for Dynamic Sports</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-list-of-free-online-movie-platforms/"><u>Ultimate List of Free Online Movie Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-macs-hidden-recovery-options-a-comprehensive-tutorial/"><u>Unlocking Mac's Hidden Recovery Options – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-lossless-vlc-trimming-on-mac-the-ultimate-solution-for-video-editing-for-2024/"><u>Updated Lossless VLC Trimming on Mac The Ultimate Solution for Video Editing for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-movie-mastery-for-kids-learn-the-art-of-filmmaking/"><u>Updated Movie Mastery for Kids Learn the Art of Filmmaking</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-send-local-videos-to-chromecast-easy-setup-for-windows-mac-android-and-ios/"><u>Updated Send Local Videos to Chromecast Easy Setup for Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-take-your-audio-to-the-next-level-top-10-editing-software-for-2024/"><u>Updated Take Your Audio to the Next Level Top 10 Editing Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unleash-the-glitch-top-free-online-effect-generators/"><u>Updated Unleash the Glitch Top Free Online Effect Generators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-were-going-to-take-a-look-at-some-of-the-alternatives-to-adobe-rush-out-there-which-may-be-more-capable-of-getting-the-job-done/"><u>Updated Were Going to Take a Look at some of the Alternatives to Adobe Rush Out There, Which May Be More Capable of Getting the Job Done</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-xml-demystified-a-step-by-step-guide-for-fcpx-editors-for-2024/"><u>Updated XML Demystified A Step-by-Step Guide for FCPX Editors for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/wevideo-the-simple-way-to-create-professional-looking-videos-for-2024/"><u>WeVideo The Simple Way to Create Professional-Looking Videos for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-troubleshoot-non-functional-printer/"><u>Windows 11: Troubleshoot Non-Functional Printer</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

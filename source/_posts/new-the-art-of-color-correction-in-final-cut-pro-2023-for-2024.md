@@ -1,7 +1,7 @@
 ---
 title: New The Art of Color Correction in Final Cut Pro 2023 for 2024
-date: 2024-08-02T04:23:05.865Z
-updated: 2024-08-03T04:23:05.865Z
+date: 2024-10-15T19:59:09.249Z
+updated: 2024-10-18T07:10:38.205Z
 tags: 
   - video editing software
   - video editing
@@ -55,46 +55,28 @@ First you need to open **Color Board** on FCP as there is an automatic color cor
 
 * You can select audio enhancement and color correction options available below the viewer and then hit “Show Color Board”. It can be simply done by pressing **CMD + 6**.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Show Color Board”.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-1.png)
 
 * On effect browser you can easily access color correction effects inside the color category; that is also easier to allocate.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Effect Browser](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-2.png)
 
 * Choose **Window** and then click on **Go To**, you will find **Color Board** on the appeared drop-down menu.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Go to Color Board](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-3.png)
 
 * All the color correction effects will start appearing in the effects section available on the video inspector.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Color correction effects on video inspector.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-4.png)
 
 #### Step 2
 
 As soon as you start working on **Color Board**, it is good to open Video Scopes on your system. For this you need to click on a small icon of light switch available at the top right corner of the viewer and then select Show Video Scopes from drop-down menu. It can be also done by simply pressing Command+7.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select Show Video Scopes from drop down menu.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-5.png)
 
 As soon as you make this selection, the video scopes window will automatically appear on the next viewer. Here users can easily obtain information related to the current video frame, and they can be easily configured as per need. Go to the settings option available on the top right side of the window and then hit the **Waveform** option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Go to settings option available at top right side of window and then hit Waveform option.](https://images.wondershare.com/filmora/article-images/color-correction-in-fcp-6.png)
 
 #### Step 3
@@ -129,12 +111,35 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-leveraging-frameworks-like-bootstrap-for-rapid-prototyping/"><u>[New] 2024 Approved Leveraging Frameworks Like Bootstrap for Rapid Prototyping</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-crafting-perfect-srt-output-with-premiere-pro/"><u>[New] In 2024, Crafting Perfect SRT Output with Premiere Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-samsungs-2023-revamp-bd-j5900-explored/"><u>[Updated] 2024 Approved Samsung's 2023 Revamp BD-J5900 Explored</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-engaging-audiences-seamlessly-zoom-plus-youtube-and-fb-live-integration/"><u>2024 Approved Engaging Audiences Seamlessly ZOOM + YouTube & FB LIVE Integration</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/expert-tips-and-tricks-to-fix-world-of-warcraft-not-starting-on-pc-success-stories-inside/"><u>Expert Tips and Tricks to Fix World of Warcraft Not Starting on PC - Success Stories Inside!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-screen-record-instagram-story-for-2024/"><u>How to Screen Record Instagram Story for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-g24-power-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola G24 Power to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-nailing-the-perfect-shot-advanced-strategies-for-instagram-video-editing/"><u>In 2024, Nailing the Perfect Shot Advanced Strategies for Instagram Video Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamline-your-playback-secrets-of-gameye/"><u>Streamline Your Playback Secrets of GamEye</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-make-a-movie-in-minutes-the-easy-way-to-film-success/"><u>Updated Make a Movie in Minutes The Easy Way to Film Success</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-master-video-editing-on-mac-vn-video-editor-and-its-competitors-for-2024/"><u>Updated Master Video Editing on Mac VN Video Editor and Its Competitors for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-os-x-mavericks-video-editing-tutorial-mastering-the-basics-for-2024/"><u>Updated OS X Mavericks Video Editing Tutorial Mastering the Basics for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-avs-video-editor-review/"><u>Updated The Ultimate AVS Video Editor Review</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-reaction-video-hack-streamline-your-process-with-filmora-for-2024/"><u>Updated The Ultimate Reaction Video Hack Streamline Your Process with Filmora for 2024</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

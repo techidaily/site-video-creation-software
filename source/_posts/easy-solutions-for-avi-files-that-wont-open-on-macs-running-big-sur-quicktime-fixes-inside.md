@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions for AVI Files That Won't Open on Macs Running Big Sur - QuickTime Fixes Inside!
-date: 2024-10-08T22:33:16.775Z
-updated: 2024-10-12T02:02:54.834Z
+date: 2024-10-16T00:42:29.562Z
+updated: 2024-10-18T00:16:18.120Z
 tags:
   - video-music-player
 categories:
@@ -44,10 +44,10 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
  3\. Sometimes, video gets struck, but sound keeps playing, or vice versa. From AVI wikipedia, audio and video are individually stored in AVI file. Generally, audio and video are well-synchronized, but desynchronization of audio and video may happen when playing AVI on Mac in some certain [AVI media player](https://tools.techidaily.com/5kplayer/video-music-player/) software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## #03\. Solutions to AVI Won't Play on Mac/QuickTime.
@@ -59,10 +59,16 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
 ![Play AVI on Mac](https://www.5kplayer.com/video-music-player/img/play-mts-with-5kp.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \* Play AVI files encoded with any codec on Mac/Windows.  
@@ -71,13 +77,6 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
  \* [Stream AVI to TV](https://tools.techidaily.com/5kplayer/airplay/) to have a better visual experience.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Display resolution of AVI can be set as 4:3, 16:9 and any other display ratio as willing. From 1080p to 720p and even more, 5KPlayer can well handle your AVI files on Mac as this AVI player Mac can automatically change aspect ratio among 1:1, 4:3, 16:9, 2.21:1, 2.35:1, 2.39:1, 16:10 and 5:4 to help you get the golden ratio of pupil and enjoy AVI videos movies comfortably.
 
@@ -92,6 +91,13 @@ If you insist on solving QuickTime won't play AVI problem, you can convert AVI t
 **Note:** There are more output formats including MP4, M4V, MOV, etc that QuickTime supports in "Convert to MP4". Just feel free to convert your AVI files until the AVI file won't play on Mac issue solved.
 
 ![Convert AVI to QuickTime](https://www.5kplayer.com/video-music-player/img/convert-to-ipad-mp4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Solution 3\. Install Codec Pack to Solve AVI Won't Play on Mac/QuickTime**
 
@@ -108,10 +114,16 @@ For my opinion, I recommend you to try 5KPlayer, designed as a[video music playe
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -129,16 +141,16 @@ For my opinion, I recommend you to try 5KPlayer, designed as a[video music playe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-mastering-mp4-downloading-vimeo-videos-easily-for-2024/"><u>[New] Mastering MP4 Downloading Vimeo Videos Easily for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-highest-priority-list-best-10-apps-for-live-baseball-and-basketball-action-for-2024/"><u>[Updated] Highest Priority List Best 10 Apps for Live Baseball & Basketball Action for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/44cm44or44k944kz44oz5l244ge44ke44gz44gp44ot44oh44kq44gr44gk5rcx44gr5ywl44kk44gu5puy6lk844kk5luy44gr44ks44kk44oj44cn/"><u>「パソコン使いやすくビデオにお気に入りの曲貼り付けガイド」</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/a-comprehensive-guide-installing-the-cinematech-hd-movie-player-on-pcmac-for-enhanced-viewing-experience/"><u>A Comprehensive Guide: Installing the Cinematech HD Movie Player on PC/Mac for Enhanced Viewing Experience</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/aacwav/"><u>AAC音声ファイルをシンプルな手順でWAV形式への変換方法</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/best-free-video-codec-packs-for-modern-operating-systems-including-windows-11-10-81-and-earlier-versions/"><u>Best Free Video Codec Packs for Modern Operating Systems Including Windows 11, 10, 8.1, and Earlier Versions</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/creare-slide-show-senza-costi-i-top-16-software-libero-multi-dispositivo-tra-computer-iphone-e-tablet/"><u>Creare Slide Show Senza Costi: I Top 16 Software Libero Multi-Dispositivo Tra Computer, iPhone E Tablet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S24?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-legal-free-fb-tunes-downloader/"><u>In 2024, Legal, Free FB Tunes Downloader</u></a></li>
-<li><a href="https://techidaily.com/remove-y77t-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Y77t unlock screen</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-the-complete-tutorial-on-using-autotune-with-audacity-users-for-2024/"><u>Updated The Complete Tutorial on Using Autotune with Audacity Users for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-recorder-clean-and-clear-android-edition/"><u>[Updated] Premier Recorder Clean and Clear Android Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-fabled-frontiers-top-10-roguely-ventures/"><u>2024 Approved Fabled Frontiers Top 10 Roguely Ventures</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-free-360-degree-media-players-windows-11mac-our-top-picks-and-download-guide/"><u>Best Free 360-Degree Media Players (Windows 11/Mac): Our Top Picks and Download Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/easy-steps-for-disabling-windows-graphics/"><u>Easy Steps for Disabling Windows Graphics</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/hoe-u-toolste-herstellen-na-bestandelosje-van-download-beheersing-in-windows-11/"><u>Hoe U Toolste Herstellen Na Bestandelosje Van Download Beheersing In Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-motorola-moto-g34-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Motorola Moto G34 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-vivo-s17e-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Vivo S17e</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/step-by-step-quicktime-setup-free-download-and-installation-tutorial-for-windows-10/"><u>Step-by-Step QuickTime Setup: Free Download & Installation Tutorial for Windows 10</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/superior-alternatives-to-windows-media-player-on-your-mac-the-ultimate-guide-to-enhanced-audiovideo-experience/"><u>Superior Alternatives to Windows Media Player on Your Mac: The Ultimate Guide to Enhanced Audio/Video Experience</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-federal-explosives-law-mandates-strict-record-keeping-for-explosive-materials/"><u>The Federal Explosives Law Mandates Strict Record-Keeping for Explosive Materials.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-free-dts-surround-sound-players-a-guide-to-enhancing-your-audio-experience/"><u>Top Free DTS Surround Sound Players: A Guide to Enhancing Your Audio Experience</u></a></li>
 </ul></div>
 

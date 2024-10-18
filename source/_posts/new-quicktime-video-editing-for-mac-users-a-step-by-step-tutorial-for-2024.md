@@ -1,7 +1,7 @@
 ---
 title: New QuickTime Video Editing for Mac Users A Step-by-Step Tutorial for 2024
-date: 2024-08-09T06:10:25.714Z
-updated: 2024-08-10T06:10:25.714Z
+date: 2024-10-15T08:27:09.515Z
+updated: 2024-10-17T18:31:44.971Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc
 
 # Edit Videos with QuickTime Player on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -45,40 +42,37 @@ The QuickTime player was originally designed to play almost all types of multime
 * Includes picture viewers for JPEG, BMP and PNG.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Trim Video With QuickTime Player on Mac
 
 Trimming Videos in QuickTime video player is another simple feature. You can delete the beginning or end, or simply shorten the movie or clip.
 
 Step1: Click on “Open File” and select the video or movie to be edited.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Open File on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-1.jpg)
 
 Step2: Click here to edit > trim from the menu bar.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4: When you have done, click on “Trim”.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 ### 2\. Split Video With QuickTime Player on Mac
@@ -122,8 +116,19 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Wondershare Filmora Worth for Trying?
 
 As we mentioned above, Wondershare Filmora is an elegant, full-featured video editing software that includes a variety of basic and advanced video editing tools. It has an easy-to-use interface that allows you to easily add effects, transitions, and edit your videos. You can use it to create random videos or professional videos using the software. So yes, this video editing software is for everyone. Well, you should try the free version and you won't regret.
@@ -138,12 +143,30 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-optimizing-speed-on-vimeo-content/"><u>[New] In 2024, Optimizing Speed on Vimeo Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-7-enhancements-for-an-optimal-stardew-farming-experience/"><u>[New] In 2024, Top 7 Enhancements for an Optimal Stardew Farming Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhancing-igtv-with-translation-captions/"><u>[Updated] In 2024, Enhancing IGTV with Translation Captions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-file-transportation-hacks-efficient-ways-to-upload-on-pc/"><u>2024 Approved File Transportation Hacks Efficient Ways to Upload on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chuckling-chords-crafting-top-tier-meme-content-for-2024/"><u>Chuckling Chords Crafting Top-Tier Meme Content for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/comprehensive-solution-to-overcome-the-ls-0013-bug-in-fortnite/"><u>Comprehensive Solution to Overcome the LS-0013 Bug in Fortnite</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-pc-experience-master-graphics-driver-revisions-in-windows-11/"><u>Enhance Your PC Experience - Master Graphics Driver Revisions in Windows 11</u></a></li>
+<li><a href="https://win-tips.techidaily.com/how-to-move-your-mobile-contacts-to-a-laptop-using-usb-a-guide-for-android-and-iphone-users/"><u>How To Move Your Mobile Contacts to a Laptop Using USB – A Guide for Android and iPhone Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-comprehensive-study-on-razers-camera-quality/"><u>In 2024, Comprehensive Study on Razer's Camera Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-escapes-dodging-edgenuity-online-course-videos-easily/"><u>In 2024, Quick Escapes Dodging Edgenuity Online Course Videos Easily</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/tips-and-tricks-to-eliminate-stutters-while-gaming-fortnite-on-windows-or-mac/"><u>Tips and Tricks to Eliminate Stutters While Gaming Fortnite on Windows or Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-most-popular-free-m4a-editor-programs-for-2024/"><u>Updated S Most Popular Free M4A Editor Programs for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-top-online-video-editing-platforms-for-chromebooks-for-2024/"><u>Updated S Top Online Video Editing Platforms for Chromebooks for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-streamline-your-video-workflow-mkvtoolnix-for-mac-2023-for-2024/"><u>Updated Streamline Your Video Workflow MKVtoolnix for Mac 2023 for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-best-online-video-editors-compatible-with-chromebook-for-2024/"><u>Updated The Best Online Video Editors Compatible with Chromebook for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-top-video-editing-apps-like-powerdirector-for-mobile-devices-for-2024/"><u>Updated Top Video Editing Apps Like PowerDirector for Mobile Devices for 2024</u></a></li>
+</ul></div>
 

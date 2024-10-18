@@ -1,7 +1,7 @@
 ---
 title: New Unlocking FCPX Advanced Image Cropping Techniques for 2024
-date: 2024-08-15T02:11:30.917Z
-updated: 2024-08-16T02:11:30.917Z
+date: 2024-10-15T08:08:49.925Z
+updated: 2024-10-18T08:03:02.918Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ Cropping an image means to remove a portion of the image, either to hide somethi
 
 This is a basic tutorial about Apple Final Cut Pro X, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -58,23 +55,14 @@ Trimming is the process of removing portions of a video clip without changing th
 
 For instance, here an image - courtesy of Pond5 (<www.pond5.com>). Let's say that we want to emphasize the barn and not the sky.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop002.jpg)
 
 The easiest way to do this is to click the icon in the lower left corner of the Viewer and choose "Crop."
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop003.jpg)
 
 This displays the cropping tools in the Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop004.jpg)
 
 Click the Trim button to turn on Trim mode. (This article discusses Trim and Crop. I'll cover the Ken Burns effect in a future article.)
@@ -89,9 +77,6 @@ NOTE: Press and hold the Option key while dragging to drag opposite edges or cor
 
 Drag other corners or edges to further trim the image.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop007.jpg)
 
 When you have trimmed the image the way you want, click the "Done" button in the top right corner to exit trimming mode.
@@ -100,9 +85,6 @@ When you have trimmed the image the way you want, click the "Done" button in the
 
 If no other clip is below the trimmed clip, the background will be black.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop009.jpg)
 
 But, it actually isn't black, it's transparent. If you put another clip below it, you'll see the lower clip underneath the trimmed image.
@@ -115,9 +97,6 @@ Cropping allows us to select just a portion of a video clip, without creating an
 
 There are several ways we can choose to crop an image:
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop010.jpg)
 
 * Click the Crop icon, as we illustrated above
@@ -149,9 +128,6 @@ Reposition the frame by grabbing inside the rectangle and dragging.
 
 When you are happy with the results, click the Done button in the top right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to crop an image with final cut pro](https://images.wondershare.com/multimedia/crop017.jpg)
 
 Notice that the selected portion of the image now fills the frame. Even though there is a clip below our cropped clip, we don't see it.
@@ -180,12 +156,38 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-practices-for-hospitals-social-media-health-promos/"><u>[New] In 2024, Best Practices for Hospitals' Social Media Health Promos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-ultimate-mp4-to-social-media-focus-on-facebook-for-2024/"><u>[New] Ultimate MP4 to Social Media Focus on Facebook for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ai-powered-text-conversion-for-effective-presentations/"><u>2024 Approved AI-Powered Text Conversion for Effective Presentations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-evaluating-the-storage-power-of-64128gb-units-for-vids/"><u>2024 Approved Evaluating the Storage Power of 64/128GB Units for Vids</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-perfect-subtitles-in-videos-discover-essential-web-tools/"><u>Crafting Perfect Subtitles in Videos Discover Essential Web Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-the-breakpoint-exception-error-on-windows-devices/"><u>Fixing the Breakpoint Exception Error on Windows Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 11 Passcode without Computer?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-premiere-pro-transitions-expert-approved-plugins-for-stunning-videos/"><u>Updated 2024 Approved Premiere Pro Transitions Expert-Approved Plugins for Stunning Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-streamline-your-videos-10-top-rated-free-online-video-trimmers/"><u>Updated 2024 Approved Streamline Your Videos 10 Top-Rated Free Online Video Trimmers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-gif-maker-tools-for-seamless-loops-2023-update-for-2024/"><u>Updated Free GIF Maker Tools for Seamless Loops 2023 Update for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-skin-perfection-without-the-price-tag-fcpx-plugin-free-tutorial/"><u>Updated In 2024, Skin Perfection without the Price Tag FCPX Plugin-Free Tutorial</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-split-and-trim-3gp-files-in-minutes-2023-guide/"><u>Updated In 2024, Split and Trim 3GP Files in Minutes 2023 Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-transform-your-videos-into-stunning-dvds-with-ease/"><u>Updated In 2024, Transform Your Videos Into Stunning DVDs with Ease</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleash-your-creativity-best-stop-motion-software-for-mac-and-pc/"><u>Updated In 2024, Unleash Your Creativity Best Stop Motion Software for Mac and PC</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleash-your-creativity-canon-video-editing-software-and-tutorials/"><u>Updated In 2024, Unleash Your Creativity Canon Video Editing Software and Tutorials</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

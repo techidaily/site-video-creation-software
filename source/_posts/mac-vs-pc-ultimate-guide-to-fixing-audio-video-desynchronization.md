@@ -1,7 +1,7 @@
 ---
 title: "Mac Vs. PC: Ultimate Guide to Fixing Audio-Video Desynchronization"
-date: 2024-10-11T00:01:07.893Z
-updated: 2024-10-11T21:12:15.321Z
+date: 2024-10-16T07:52:10.325Z
+updated: 2024-10-18T06:46:47.303Z
 tags:
   - video-music-player
 categories:
@@ -24,15 +24,22 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 
 Audio and video out of sync is no rare thing if you play 4K HD videos with an aged computer. In most cases it's audio delay from video, only a few subtitle delay \[VLC\] in A-V sync. This guide tackles how to sync audio and video on Mac/PC as well as YouTube video out of sync respectively. Tried and true even for Mac and Windows with 2GB-RAM.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Sync Audio and Video: Audio Delay & Video Delay
 
 ![Audio and video out of sync solved](https://www.5kplayer.com/video-music-player/../airplay/img/5kplayer-solveairdelay-yxt-030302.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Audio and video out of sync happens because a media player employs different parts of its kernel to process the AV-output. Though compressed into one codec pack, video files are bigger than audio, thus generating incorrect timing.  
@@ -57,13 +64,6 @@ Audio and video out of sync happens because a media player employs different par
 
 ![Netflix icon](https://www.5kplayer.com/video-music-player/../airplay/img/netflix-hp.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2\. Netflix Audio out of Sync**  
  1) Go to the bottom in Netflix.  
  2) Hit Help Center.  
@@ -72,10 +72,10 @@ Audio and video out of sync happens because a media player employs different par
  5) Clear the box that reads, "Prefer HTML5 player instead of Silverlight."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Sync Audio and Video with 5KPlayer on Mac/PC?
@@ -91,10 +91,10 @@ Audio and video out of sync happens because a media player employs different par
 ![How to synd audio and video](https://www.5kplayer.com/video-music-player/../airplay/img/5kplayer-solveairdelay-yxt-030302.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As a free [sync software](https://tools.techidaily.com/5kplayer/products/) for MKV AVI MP4 videos, 5KPlayer is adepting in tackling multi-media problems like [4K downloader error](https://tools.techidaily.com/5kplayer/youtube-download/), [Netflix won't play](https://tools.techidaily.com/5kplayer/video-music-player/), HBO Go streaming to Apple TV problems once and for all. If you are into more professional video editing tricks, please refer to [how to edit videos with 5KPlayer](https://tools.techidaily.com/5kplayer/video-music-player/).
@@ -116,19 +116,22 @@ As a free [sync software](https://tools.techidaily.com/5kplayer/products/) for M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>[Updated] 2024 Approved Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-unveiling-todays-tiktok-trend-powerhouses/"><u>[Updated] In 2024, Unveiling Today's TikTok Trend Powerhouses</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-simple-strategies-for-picture-perfection-ps/"><u>2024 Approved 10 Simple Strategies for Picture Perfection PS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/download-free-total-video-player-app-for-windows-11-supports-both-64-bit-and-32-bit-systems/"><u>Download Free Total Video Player App for Windows 11 - Supports Both 64-Bit and 32-Bit Systems</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/fix-your-video-problems-learn-how-to-stream-mkv-videos-with-vlc/"><u>Fix Your Video Problems! Learn How to Stream MKV Videos with VLC</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/how-to-fix-dav-file-wont-play-issue-on-windows-and-macos-systems/"><u>How to Fix 'DAV File Won't Play' Issue on Windows & macOS Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-sony-xperia-1-v-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Sony Xperia 1 V</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-artisans-guide-to-unique-photographic-assemblages/"><u>In 2024, The Artisan's Guide to Unique Photographic Assemblages</u></a></li>
-<li><a href="https://games-able.techidaily.com/pinpointing-essential-gamer-peripherals/"><u>Pinpointing Essential Gamer Peripherals</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-getting-your-windows-microphone-to-work-with-discord/"><u>Step-by-Step Solution: Getting Your Windows Microphone to Work with Discord</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-rated-flv-media-player-complimentary-downloads-for-macos-and-windows/"><u>Top Rated FLV Media Player: Complimentary Downloads for macOS & Windows</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/ultimate-comparison-1080p-vs-4320p-display-can-you-notice-the-difference-in-8k-quality/"><u>Ultimate Comparison: 1080P vs 4320P Display - Can You Notice the Difference in 8K Quality?</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/ultimate-no-cost-aacmp4-file-reader-with-broad-format-compatibility/"><u>Ultimate No-Cost AAC/MP4 File Reader with Broad Format Compatibility</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-whats-the-optimal-frame-rate-comparing-30-vs-60hz-recording/"><u>[New] What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-bargain-microphones-for-youtube-creators-starting-small/"><u>[Updated] In 2024, Bargain Microphones for YouTube Creators Starting Small</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-great-debate-should-you-go-for-obs-or-bandicam-in-2024/"><u>[Updated] The Great Debate Should You Go for OBS or Bandicam, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-crafting-content-for-staff-recognition-on-vimeo/"><u>2024 Approved Crafting Content for Staff Recognition on Vimeo</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-lead-the-way-in-streaming-your-guide-to-youtubes-full-sphere-video-trends/"><u>2024 Approved Lead the Way in Streaming Your Guide to YouTube's Full-Sphere Video Trends</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-se-2022-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone SE (2022) with a Broken Screen?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximize-your-iphones-capture-potential-for-2024/"><u>Maximize Your iPhone's Capture Potential for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-dvr-wars-tivo-and-comcast-go-head-to-head-for-2024/"><u>New DVR Wars TiVo and Comcast Go Head-to-Head for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-10-essential-movie-trailer-apps-for-ios-devices-this-year/"><u>New In 2024, 10 Essential Movie Trailer Apps for iOS Devices This Year</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-tiktok-video-editing-hacks-how-to-reverse-clips-with-ease/"><u>New In 2024, TikTok Video Editing Hacks How to Reverse Clips with Ease</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-online-stop-motion-animation-studios-top-5-free-and-paid-options-for-2024/"><u>New Online Stop Motion Animation Studios Top 5 Free and Paid Options for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-slicing-through-long-videos-the-quickest-methods-for-mac-editing-for-2024/"><u>New Slicing Through Long Videos The Quickest Methods for Mac Editing for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-professionals-choice-for-mac-adobe-premiere-pro-video-editor-for-2024/"><u>New The Professionals Choice for Mac Adobe Premiere Pro Video Editor for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unbiased-review-of-avs-video-editor-features-pricing-and-more-for-2024/"><u>New Unbiased Review of AVS Video Editor Features, Pricing, and More for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-resumes-can-be-quite-effective-if-used-in-the-right-context-and-that-is-the-reason-why-weve-decided-to-take-you-through-some-of-the-best-video-res/"><u>New Video Resumes Can Be Quite Effective if Used in the Right Context, and that Is the Reason Why Weve Decided to Take You Through some of the Best Video Resume Makers You Can Use to Get the Job Youve A for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-10-best-online-face-creation-tools-for-fictional-characters/"><u>Updated 2024 Approved 10 Best Online Face Creation Tools for Fictional Characters</u></a></li>
 </ul></div>
 

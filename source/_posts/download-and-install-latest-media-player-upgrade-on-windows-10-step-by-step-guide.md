@@ -1,7 +1,7 @@
 ---
 title: "Download & Install Latest Media Player Upgrade on Windows 10: Step-by-Step Guide"
-date: 2024-10-06T06:15:32.783Z
-updated: 2024-10-12T02:03:23.438Z
+date: 2024-10-17T02:18:37.696Z
+updated: 2024-10-17T20:05:10.232Z
 tags:
   - video-music-player
 categories:
@@ -25,16 +25,10 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -50,10 +44,10 @@ Step 4: Click on "Check for updates" to see what version of Media Player are you
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
@@ -70,6 +64,13 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Second Solution: Update your media player to 5KPlayer
 
 5KPlayer ranks on the top for the [top 5 media players for Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/), not only because it is an excellent media player, but also that it also does multitask. Look what the best media player is capable of: 
@@ -82,13 +83,6 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
   
 ☆ [Best VR Player:](https://tools.techidaily.com/5kplayer/video-music-player/) load VR videos easily and quickly, and with the ability to donload VR videos from 300+ online video sites.   
@@ -98,10 +92,10 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -119,20 +113,22 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-laughter-layouts-design-meme-magic-on-kapwing/"><u>[New] Laughter Layouts Design Meme Magic on Kapwing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-compare-and-contrast-leading-online-and-desktop-gif-tools/"><u>[Updated] Compare & Contrast Leading Online & Desktop GIF Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-guide-to-8-mirrorless-cameras-for-vloggers/"><u>2024 Approved The Ultimate Guide to 8 Mirrorless Cameras for Vloggers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-android-gets-a-fast-track-with-qualcomms-revolutionary-chip-technology/"><u>Affordable Android Gets a Fast Track with Qualcomm's Revolutionary Chip Technology</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/factory-pro-hd45off/"><u>Factory Pro - HD変換ソフトウェアを安く購入!今すぐ45％OFFでセール中</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/guide-capturing-screenshots-and-sound-on-windows-7/"><u>Guide: Capturing Screenshots & Sound on Windows 7</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/guide-effortlessly-watching-avi-files-on-an-ipad-discover-these-2-simple-solutions/"><u>Guide: Effortlessly Watching AVI Files on an iPad – Discover These 2 Simple Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/how-to-easily-downscale-your-4k-content-to-1080p-with-handbrake-a-detailed-guide/"><u>How To Easily Downscale Your 4K Content to 1080P with Handbrake - A Detailed Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/how-to-stream-and-download-movies-over-100mb-at-no-cost-with-trustworthy-strategies/"><u>How to Stream and Download Movies Over 100MB at No Cost with Trustworthy Strategies</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/introducing-the-new-wonderfox-v20-transform-your-swf-videos-into-stunning-gif-images-with-simple-conversion/"><u>Introducing the New WonderFox v2.0 - Transform Your SWF Videos Into Stunning GIF Images with Simple Conversion</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/master-the-art-of-transforming-youtube-content-for-seamless-itunes-integration-a-comprehensive-tutorial/"><u>Master the Art of Transforming YouTube Content for Seamless iTunes Integration - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-real-deal-with-daws-separating-fact-from-fiction-in-audio-production/"><u>New In 2024, The Real Deal with DAWs Separating Fact From Fiction in Audio Production</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-serious-bug-fixed-in-mlb-the-show-21-online-gameplay/"><u>Resolved: Serious Bug Fixed in MLB The Show 21 Online Gameplay</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/snappycapture-windows-11-video-recording-made-simple/"><u>SnappyCapture - Windows 11 Video Recording Made Simple</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-6s-plus-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone 6s Plus Before the Plan Expires</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capture-life-in-motion-using-ipad-filming-techniques/"><u>[Updated] 2024 Approved Capture Life in Motion Using iPad Filming Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-enhancing-iphone-image-clarity-and-focus/"><u>[Updated] In 2024, Enhancing iPhone Image Clarity and Focus</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-8-montage-apps-for-androidiphone/"><u>[Updated] In 2024, Top 8 Montage Apps for Android/iPhone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-seamless-sync-tweets-as-videos-on-whatsapp/"><u>2024 Approved Seamless Sync Tweets as Videos on WhatsApp</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-ultimate-guide-to-free-wmv-video-editing-software/"><u>2024 Approved The Ultimate Guide to Free WMV Video Editing Software</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/complete-guide-to-restoring-unsaved-word-files-insights-from-the-latest-ifind-data-recovery-tool-by-ifind/"><u>Complete Guide to Restoring Unsaved Word Files: Insights From the Latest ifInd Data Recovery Tool by iFinD</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/free-premium-hindi-movie-viewer-with-ultra-hd-playback-quality/"><u>Free Premium Hindi Movie Viewer with Ultra HD Playback Quality</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/laden-des-gratis-mp4-players-optimiert-fur-windows-10-and-mac-nahtlose-abspielung-von-mp4-dateien/"><u>Laden Des Gratis MP4-Players: Optimiert Für Windows 10 & Mac, Nahtlose Abspielung Von MP4-Dateien</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-dvd-magic-transforming-your-home-videos-into-cinematic-masterpieces/"><u>New In 2024, DVD Magic Transforming Your Home Videos Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-here-is-a-list-of-top-5-free-mov-joiners-to-help-you-easily-achieve-that/"><u>New In 2024, Here Is a List of Top 5 Free MOV Joiners to Help You Easily Achieve That</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721989949857-reasons-to-steer-clear-of-chatgpt-mac-apps-what-you-need-to-know-before-downloading/"><u>Reasons to Steer Clear of ChatGPT Mac Apps - What You Need to Know Before Downloading!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/reconstructing-damaged-mov-sequences-for-macos/"><u>Reconstructing Damaged MOV Sequences for macOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/strategie-rapide-come-masterare-limmaggio-e-la-conservazione-dei-dvd-su-windows-and-macos/"><u>Strategie Rapide: Come Masterare L'Immaggio E La Conservazione Dei DVD Su Windows & macOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-5-ultimate-mp4-video-players-for-your-mac-computer-stream-in-hd-and-uhd-quality/"><u>Top 5 Ultimate MP4 Video Players for Your Mac Computer: Stream in HD and UHD Quality</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-newest-ipad-version-what-you-need-to-know/"><u>Unveiling Apple's Newest iPad Version - What You Need to Know</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1720600594541-windows/"><u>ステラ・データリカバリー: Windows上で失われた重要ファイルを効率的に復元する手段</u></a></li>
 </ul></div>
 

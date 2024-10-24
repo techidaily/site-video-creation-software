@@ -1,7 +1,7 @@
 ---
 title: New Flip Video Clips in Final Cut Pro A 4-Step Guide for Beginners for 2024
-date: 2024-08-02T04:22:29.105Z
-updated: 2024-08-03T04:22:29.105Z
+date: 2024-10-19T18:00:57.059Z
+updated: 2024-10-23T16:14:58.258Z
 tags: 
   - video editing software
   - video editing
@@ -62,18 +62,12 @@ Blue handles in the middle of each side are used to adjust horizontal and vertic
 
 The **center circle** indicates the rotation anchor points that enable the changing of the image position. Drag the blue handle protruding from the circle to **rotate the image.**
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adjust the effects -3](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-4.png)
 
 #### Step 4:  Flipping video clips
 
 Click the video clips that you want to flip in the timeline and make sure it is highlighted and then click the Inspector icon on the right side to enter the Inspector panel in which you will then see the Transform option.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Using the Transform controls in the Video Inspector:-1](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-5.png)
 
 * The positions X and Y enable you to move the image left and right as well as moving it from top to bottom depending on how you want it to be.
@@ -94,9 +88,6 @@ If you'd like an easier way to filp a clip, Wondershare Filmora will be the best
 * Changing the background and adding the special effects to it
 * Adjusting the white balance in the clips
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Flipping the clips more easily in Wondershare Filmora:
@@ -106,6 +97,13 @@ Flipping the clips more easily in Wondershare Filmora:
 After the launch of Wondershare Filmora, click on the new project to start and click on **Import** for browsing from the folder. Even you can drag the videos in the media library. After importing all the images, thumbnails are visible on the left corner for the preview on the screen.
 
 ![filmora filp video](https://images.wondershare.com/filmora/article-images/2022/02/rotate-videos-powerdirector-7.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Flipping the whole video:**
 
@@ -117,10 +115,14 @@ When you double-click on the video, the editing panel appears on the screen, and
 
 Wondershare Filmora also allows you to flip a few parts of the video instead of whole. Just move the play head towards the position where you want the split. Click on the icon of **Scissors** in the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora filp video](https://images.wondershare.com/filmora/guide/pictures-3-filp-video.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * _Exporting the flip video:_
 
@@ -130,19 +132,27 @@ After the outcome, click on **the Export option in the middle on the right side 
 
 Do you like the basic tutorial about Apple Final Cut Pro? Professional video editing software like FCPX is always popular among creators. However, if video editing is new to you, consider [Wondershare Filmora for Mac](https://tools.techidaily.com/wondershare/filmora/download/). This is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After you have finished doing all the editing and transformation, you can then click done so that you get your final product. In case the results are not satisfactory you can click the arrow on the right side of each control to get back to the start and begin afresh.
 
 ![Using the Transform controls in the Video Inspector:-2](https://images.wondershare.com/filmora/article-images/flip-clips-in-fcp-6.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 In case you want to flip videos on Windows or flip clips in an easier way, you can try Wondershare Filmora ![](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
@@ -152,8 +162,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -161,5 +169,22 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-rhythmic-future-tiktoks-most-iconic-rap-songs/"><u>[Updated] 2024 Approved The Rhythmic Future TikTok's Most Iconic Rap Songs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-lighten-up-your-digital-presence-kapwing-maker/"><u>[Updated] In 2024, Lighten Up Your Digital Presence - Kapwing Maker</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>[Updated] Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-flavorful-footage-the-ultimate-guide-to-delicious-food-vids/"><u>2024 Approved Flavorful Footage The Ultimate Guide to Delicious Food Vids</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-audio-files-from-wav-to-aac-no-cost-with-movavi-converter/"><u>Convert Audio Files From WAV to AAC - No Cost with Movavi Converter</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-tecno-phantom-v-flip-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Tecno Phantom V Flip to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-best-vertical-video-apps-for-ios-and-android-for-2024/"><u>New Best Vertical Video Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-glitch-your-way-to-creativity-top-free-online-effect-generators-for-2024/"><u>New Glitch Your Way to Creativity Top Free Online Effect Generators for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-discover-the-latest-movies-with-these-top-10-trailer-apps-for-ios/"><u>New In 2024, Discover the Latest Movies with These Top 10 Trailer Apps for iOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-5-best-free-m4a-audio-editors-you-need-to-try/"><u>New The 5 Best Free M4A Audio Editors You Need to Try</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleash-your-creativity-how-to-edit-videos-in-windows-movie-maker-for-2024/"><u>New Unleash Your Creativity How to Edit Videos in Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/remove-filmora-logo-a-step-by-step-guide-for-free-and-paid-users-for-2024/"><u>Remove Filmora Logo A Step-by-Step Guide for Free and Paid Users for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/solving-sd-card-malfunctions-a-step-by-step-guide-to-retrieving-lost-information-and-fixing-issues/"><u>Solving SD Card Malfunctions: A Step-by-Step Guide to Retrieving Lost Information & Fixing Issues</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-funniest-video-dubbing-apps-you-need-to-try-for-2024/"><u>The Funniest Video Dubbing Apps You Need to Try for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-picks-amplifying-vhs-pictures-via-computer-software-for-2024/"><u>Top Picks Amplifying VHS Pictures via Computer Software for 2024</u></a></li>
+</ul></div>
 

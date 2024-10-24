@@ -1,7 +1,7 @@
 ---
 title: New Audio Post-Production in FCP Tips and Tricks for 2024
-date: 2024-08-02T04:21:17.802Z
-updated: 2024-08-03T04:21:17.802Z
+date: 2024-10-17T01:18:13.421Z
+updated: 2024-10-23T20:41:34.912Z
 tags: 
   - video editing software
   - video editing
@@ -44,16 +44,10 @@ There are 2 ways of editing audio of videos on FCP-clip-level audio editing and 
 
 While dragging the audio or video clip onto the timeline you have surely seen the level line right above the clip waveform. One can just drag the level line and move it up or down for adjusting the dB of any given clip.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clip-level audio editing](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-1.png)
 
 The job of the tiny white points on the right and left side of the clip is to apply the fade in and fade out effect on the audio. The left sided point can be dragged to the right to mark the ending of the fade-in effect of the clip. The right point has to be dragged left to set the start of the fade-out point.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-2.png)
 
 **Related Article:** [How to fade in/out audio in Final Cut Pro >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -64,9 +58,6 @@ The job of the tiny white points on the right and left side of the clip is to ap
 
 The audio of the video can be detached for editing the audio file separately. The Audio Inspector of FCP provides you with all precise controls of audio edit like pan, effect, volume, equalization and audio configuration.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The Audio Inspector](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-3.png)
 
 In order to detach the audio, you need to go to **Clip** \> **Detach Audio**. Or you can just right-click on the video file and click on Detach audio.
@@ -80,16 +71,10 @@ The Audio Inspector would allow you to apply the following effects:
 * The volume can be increased by dragging the handle on the right side and lowered by dragging it towards the left.
 * Audio Equalization would allow the user to apply various effects (bass, loudness, boost, etc.) on the audio clip. It can also be adjusted by using the in-built audio equalizer.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Audio Equalization](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-5.png)
 
 * Pan- Users can select from a number of Pan modes like surround sound or stereo. When you select ‘surround’, Final Cut Pro would provide you with a **Surround Panner** which would allow you to fine-tune the effects by moving the white point.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Pan](https://images.wondershare.com/filmora/article-images/edit-audio-in-fcp-6.png)
 
 * Effects- for this option one needs to go to the effects browser of the **Audio Inspector** or just hit comd5\. This would allow you to choose many different audio effects such as echo, distortion, spaces and much more. Just double-click on any effect to find a range of editing options.
@@ -100,9 +85,6 @@ The Audio Inspector would allow you to apply the following effects:
 
 **Here's the video tutorial on how to edit audios in Final Cut Pro:**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -111,8 +93,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -120,5 +100,29 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-from-novice-to-pro-how-to-evade-the-most-critical-8-mistakes-on-youtube/"><u>[New] 2024 Approved From Novice to Pro How to Evade the Most Critical 8 Mistakes on YouTube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-sky-high-creativity-innovative-strategies-for-drone-video-enhancement/"><u>[New] 2024 Approved Sky-High Creativity Innovative Strategies for Drone Video Enhancement</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-video-downloader-how-to-download-twitter-videos-to-iphone/"><u>[New] 2024 Approved Twitter Video Downloader How to Download Twitter Videos to iPhone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-zip-archive-to-srt-easy-steps-for-subtitles-conversion/"><u>[New] In 2024, ZIP Archive to SRT Easy Steps for Subtitles Conversion</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-acclaimed-nature-friendly-filming-equipment-insights-for-2024/"><u>[Updated] Acclaimed Nature-Friendly Filming Equipment Insights for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-minimizing-motion-blur-in-media-creation-for-2024/"><u>[Updated] Minimizing Motion Blur in Media Creation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unravel-your-pcs-potential-with-windows-10s-latest-games/"><u>[Updated] Unravel Your PC's Potential with Windows 10'S Latest Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-compact-powerful-and-stylish-8-top-5k-monitors/"><u>2024 Approved Compact, Powerful & Stylish #8 Top 5K Monitors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Phone FRP Lock</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-s-best-time-lapse-video-editing-tools-a-comprehensive-review/"><u>New 2024 Approved S Best Time-Lapse Video Editing Tools A Comprehensive Review</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-final-cut-pro-x-essential-image-cropping-techniques/"><u>New In 2024, Final Cut Pro X Essential Image Cropping Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-best-free-divx-video-splitters-and-cutters/"><u>New In 2024, The Best Free Divx Video Splitters and Cutters</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-search-is-over-best-sony-vegas-alternatives-for-windows-video-editors/"><u>New In 2024, The Search Is Over Best Sony Vegas Alternatives for Windows Video Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mastering-animation-top-software-recommendations-for-mac-and-windows-for-2024/"><u>New Mastering Animation Top Software Recommendations for Mac and Windows for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/unleash-your-creativity-the-top-5-hd-video-editing-solutions-for-2024/"><u>Unleash Your Creativity The Top 5 HD Video Editing Solutions for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

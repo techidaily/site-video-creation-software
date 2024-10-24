@@ -1,7 +1,7 @@
 ---
 title: "1. How to Fix PS4 Media Player Issues: Troubleshooting Non-Streaming Problems"
-date: 2024-10-15T16:43:19.455Z
-updated: 2024-10-17T22:14:05.961Z
+date: 2024-10-19T21:42:05.805Z
+updated: 2024-10-23T21:51:11.897Z
 tags:
   - video-music-player
 categories:
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/c476c76efa4305c4184325fe1ddf82b7177bf5ea1
 
 There are so many causes to PS4 media player not playing, not streaming movies, thus we orgnize the guide into 3 parts and offer solutions correspondingly. 
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solve PlayStation 4 Media Player Not Playing MP4/AVI/MKV/MP3
 
 Indeed, MP4/AVI/MKV video formats are supported by PS4 media player, but why can't we play them still?
@@ -47,6 +34,13 @@ Indeed, MP4/AVI/MKV video formats are supported by PS4 media player, but why can
 
 **Possible reason 3:** File limitation. Though PS4 media player do supports MP4/AVI/MKV/MP3 no matter in USB or DLNA media server, they have strict codec/size limitations - jump to [PS4 media player strictly supported formats](https://tools.techidaily.com/5kplayer/video-music-player/). Convert the media file first to make it playable on PS4 device.  
 The corresponding Playstation 4 Media Player Error Message to this not playing issue would be: "**There is no playable media**" & "**Cannot play audio. The audio format is not supported.**" & "**Cannot play the media.**"
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Solve PS4 Not Streaming Movies from Video Sites
 
@@ -59,21 +53,28 @@ Take **Twitch** as a example: When you get the Grey On Air / Live logo and Ps4 s
 ![Solve PS4 media streaming issue](https://www.5kplayer.com/video-music-player/img/ps4-not-streaming.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Top recommended **free movie sites for ps4 streaming movies:** Youtubeonfire; Kingmovies.to; YesMovies.to
 
 To watch free movies on PS4 locally, you may have to convert the incompatible file formats into supported formats in advance. If you are using a PlayStation 4 Pro, you can also use PlayStation 4 Media Player to play 4K videos in MP4 saved on a USB stick/home server, as well as 4K VR content when using PlayStation VR. And since PS4 Pro does not have a 4K Bluray driver, high-res bluray DVD movies cannot be played by PS4 media player, only 1080p bluray.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Playstation 4 Media Player Supported File Formats
 
@@ -108,20 +109,19 @@ Using PlayStation 4 Pro watching movie videos has so many limitations and compat
 
 ![Solve PS4 Media Player not Working](https://www.5kplayer.com/video-music-player/img/5kplayer-dvd-player-software.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -139,22 +139,17 @@ Using PlayStation 4 Pro watching movie videos has so many limitations and compat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-transforming-single-shots-into-a-spectacular-tile-symphony/"><u>[New] 2024 Approved Transforming Single Shots Into a Spectacular Tile Symphony</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-essential-hash-monitors-for-facebook-twitter-instagram/"><u>[Updated] 2024 Approved Essential Hash Monitors for Facebook, Twitter, Instagram</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/abbyy-excelling-in-medical-record-digitization-healthcare-institution-selects-for-efficient-document-categorization/"><u>ABBYY Excelling in Medical Record Digitization: Healthcare Institution Selects for Efficient Document Categorization</u></a></li>
-<li><a href="https://blog-min.techidaily.com/convertir-archivos-aac-a-formato-aiff-con-movavi-cambio-gratuito-en-linea/"><u>Convertir Archivos AAC a Formato AIFF Con Movavi - Cambio Gratuito en Línea</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elden-ring-release-glitch-fixed-game-launch-explanation/"><u>Elden Ring Release Glitch Fixed – Game Launch Explanation</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-c67-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme C67 5G online without jailbreak</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-simple-and-free-the-best-online-tone-creators/"><u>New 2024 Approved Simple and Free The Best Online Tone Creators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-filmora-on-a-budget-how-to-get-it-without-breaking-the-bank-or-the-law-for-2024/"><u>New Filmora on a Budget How to Get It Without Breaking the Bank or the Law for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-from-still-to-stunning-how-to-add-the-ken-burns-effect-to-your-videos-for-2024/"><u>New From Still to Stunning How to Add the Ken Burns Effect to Your Videos for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-take-your-mobile-photography-to-the-next-level-best-time-lapse-apps/"><u>New Take Your Mobile Photography to the Next Level Best Time-Lapse Apps</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-final-cut-pro-slideshow-tutorial-for-beginners/"><u>New The Ultimate Final Cut Pro Slideshow Tutorial for Beginners</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-virtualdub-features-pros-and-cons-plus-top-alternatives/"><u>New The Ultimate Guide to Virtualdub Features, Pros, and Cons, Plus Top Alternatives</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/nook-glowlight-3-by-barnes-and-noble-ultimate-review-for-evening-readers/"><u>Nook GlowLight 3 by Barnes & Noble: Ultimate Review for Evening Readers</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/still-moments-from-moving-pictures-a-review-of-10-video-to-image-converters-for-2024/"><u>Still Moments From Moving Pictures A Review of 10 Video to Image Converters for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/the-ultimate-list-7-video-mergers-with-no-watermarks-for-2024/"><u>The Ultimate List 7 Video Mergers with No Watermarks for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-poco-c50-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Poco C50? Fixed | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-prowess-in-color-correction-the-ultimate-11-tutorials/"><u>[New] Prowess in Color Correction The Ultimate 11 Tutorials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-terminating-your-linkedin-membership-an-essential-guide/"><u>[New] Terminating Your LinkedIn Membership An Essential Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-speech-recorder-evaluation-guide/"><u>[Updated] In 2024, Speech Recorder Evaluation Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-error-message-0x887a0006-in-minutes-a-comprehensive-guide/"><u>Fixing Error Message 0X887A0006 in Minutes - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-up-youtube-footage-borderless-exploration/"><u>Freeing Up YouTube Footage Borderless Exploration</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi 13T Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://video-capture.techidaily.com/maximizing-performance-optimal-settings-for-logitech-webcam/"><u>Maximizing Performance Optimal Settings for Logitech Webcam</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-must-have-video-invite-tools-for-ios-and-android-users/"><u>New 2024 Approved Must-Have Video Invite Tools for iOS and Android Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-edit-video-tags-with-ease-best-mp4-editors-for-windows-and-mac/"><u>New In 2024, Edit Video Tags with Ease Best MP4 Editors for Windows and Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-s-best-gopro-editing-tools-replacing-gopro-studio-with-these-alternatives/"><u>New In 2024, S Best GoPro Editing Tools Replacing GoPro Studio with These Alternatives</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-list-of-online-collage-makers-for-photos-and-videos/"><u>New The Ultimate List of Online Collage Makers for Photos and Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-your-kindle-paperwhite-clock-a-step-by-step-guide/"><u>Resetting Your Kindle Paperwhite Clock: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

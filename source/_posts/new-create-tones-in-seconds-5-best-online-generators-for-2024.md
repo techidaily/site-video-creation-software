@@ -1,7 +1,7 @@
 ---
 title: New Create Tones in Seconds 5 Best Online Generators for 2024
-date: 2024-08-02T04:21:26.227Z
-updated: 2024-08-03T04:21:26.227Z
+date: 2024-10-21T23:09:46.747Z
+updated: 2024-10-23T19:13:36.185Z
 tags: 
   - video editing software
   - video editing
@@ -34,9 +34,6 @@ You may also like: [**How to Add a Vignette Effect Online**](https://tools.techi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Top 5 Online Tone Generators
 
 Each of the online generators listed below will enable you to **hear a pure tone, and let you adjust the tone’s frequency.** Make sure that the volume on **your headphones or the speakers is properly adjusted** to avoid damaging the equipment and your hearing.
@@ -45,25 +42,16 @@ Each of the online generators listed below will enable you to **hear a pure tone
 
 You can find a number of different options on this website that range from the Pitch Shifter that allows you to change the Pitch of the files you upload to the Online Tone Generator platform to Binaural Beats and DTMF Signals. After you land on the website’s homepage, you’ll be able to see a tone generator that lets you **select the frequency, volume and the waveform of a tone**. The frequency will be set to 44.1 kHz and the wave type will be set to **Sine by default**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/onlinetonegenerator-online-tone-generator.jpg)
 
 You can insert any frequency value you want or choose between **Sine, Square, Sawtooth and Triangle wave type options**. The volume bar lets you control how loud the tone you’re generating is. The **Play and Stop** buttons enable you to start or pause the playback whenever you want, while the **Save** button lets you **download** the tone you created.
 
 #### 2. Audio Test File Generators
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-options.jpg)
 
 **Generating Sweep, Dual or Sine tones** with this online tool is easy, as you simply have to select the type of tone you want to generate. All sound files you can find on this platform are accurately calibrated, and you can adjust their frequency and amplitude. Clicking on any of the links available in the Tone Gen section of this website will take you to another page where you can adjust the properties of a tone before downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Online Tone Generator](https://images.wondershare.com/filmora/article-images/audiocheck-online-tone-genereatorso-sinetone.jpg)
 
 In the upper left corner of the new webpage, you’ll be able to see the **Play** button that lets you hear the default tone you selected. Directly below you can find the File Generator option where you can adjust the properties of the tone you’re generating. The displayed options depend on the type of tone you selected. Clicking on the **Download** button will save the tone you generated to your computer, but you won’t be able to save a tone if you inserted an incorrect value into one of the boxes.
@@ -97,26 +85,32 @@ There are **four wave types** you can choose from that generate different types 
 Saving the tones you generate is not possible as Gieson TonGen website doesn’t offer this option. Using a link to send a tone you created is also not possible. This online tone generator is a perfect option if you’re looking for a way to quickly generate a tone directly from your web browser, but it can be hardly considered a great option if you want to generate a tone for professional purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 The scope of options different online tone generators provide can vary. That is the reason why your decision which of the tone-generating tools we covered in this article you are going to use depends on the reason why you’re creating a tone.
 
 What is your favorite method of generating tones? Leave a comment below and let us know.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,5 +119,23 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-inexpensive-screenshot-and-record-software-guide/"><u>[New] Inexpensive Screenshot & Record Software Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-vr-advertising-potential/"><u>[Updated] Unlocking VR Advertising Potential</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>2024 Approved Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/do-human-to-chatgpt-discussions-contribute-to-its-learning-growth/"><u>Do Human-to-ChatGPT Discussions Contribute to Its Learning Growth?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/explore-and-engage-with-fun-latin-lessons/"><u>Explore & Engage with Fun Latin Lessons</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-attention-with-eye-catching-intros-in-imovie/"><u>Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-from-zero-to-hero-creating-stunning-reaction-videos-using-filmora/"><u>New 2024 Approved From Zero to Hero Creating Stunning Reaction Videos Using Filmora</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-discover-the-power-of-wax-a-free-video-editor-for-creators/"><u>New Discover the Power of Wax A Free Video Editor for Creators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-edit-like-a-pro-the-ultimate-free-guide-to-gopro-video-editing/"><u>New Edit Like a Pro The Ultimate Free Guide to GoPro Video Editing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing/"><u>New Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-creme-de-la-creme-of-4k-video-top-10-picks/"><u>The Crème De La Crème of 4K Video Top 10 Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-cartoon-video-creation-tools-for-pc-and-online-use-for-2024/"><u>Top Cartoon Video Creation Tools for PC and Online Use for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/understanding-and-repairing-the-critical-process-failure-error-leading-to-bsod-in-win11/"><u>Understanding and Repairing the Critical Process Failure Error Leading to BSoD in Win11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-10-best-free-video-hosting-sites-for-privatebusiness-online-for-2024/"><u>Updated 10 Best Free Video Hosting Sites for Private/Business Online for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/xerox-phaser-630-driver-installation-for-various-windows-versions-10-8-and-7/"><u>Xerox Phaser 630 Driver Installation for Various Windows Versions (10, 8 & 7)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New Editing Videos Like a Pro with QuickTime on Mac for 2024
-date: 2024-08-02T04:22:26.090Z
-updated: 2024-08-03T04:22:26.090Z
+date: 2024-10-18T22:42:31.072Z
+updated: 2024-10-23T20:28:37.302Z
 tags: 
   - video editing software
   - video editing
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 # Edit Videos with QuickTime Player on Mac
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
@@ -29,9 +26,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 There is no doubt that one of the most underrated components of the consumer Mac software that comes built into every Mac is Apple's QuickTime Player. The reason for this, of course, is that QuickTime, in addition to being a simple video player that edits mp4 Mac, also allows users to do some basic video trimming. This can come in handy for average users, especially when you consider how expensive, bloated, and complex video editing software can be. In this article, we will show you that how QuickTime edit videos on Mac.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part1: Quicktime is More Than a Player
 
 QuickTime Player is a simple yet powerful video editing program available for Mac. It includes features for casual video editors and professionals alike, so whatever your reason for looking for good edit mp4 Mac software, QuickTime Player has to cover you.
@@ -57,22 +51,37 @@ Step1: Click on “Open File” and select the video or movie to be edited.
 
 Step2: Click here to edit > trim from the menu bar.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Start Trim on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3: Use a handle on both sides to resist the part of the film that you want to trim. The rest of the film will remain yellow. Everything except yellow will be removed.
 
 ![Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step4: When you have done, click on “Trim”.
 
 ![Finish Trim video on QuickTime](https://images.wondershare.com/filmora/article-images/quicktime-edit-videos-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Split Video With QuickTime Player on Mac
 
 You can easily split your movie into separate clips if you want to. Then, if desired, you can modify these clips.
@@ -85,9 +94,6 @@ Step2: Move the playhead where you want to split the position, then select Edit 
 
 Step3: If you want to make more splits, drag the playhead to the location where you want to split, and then perform step 2 again.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Rotate Video with QuickTime Player on Mac
 
 You can easily rotate video clips with QuickTime Player. Just follow these steps:
@@ -117,8 +123,12 @@ Video stabilization to help correct image distortion due to camera shake, and pa
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Is Wondershare Filmora Worth for Trying?
 
 As we mentioned above, Wondershare Filmora is an elegant, full-featured video editing software that includes a variety of basic and advanced video editing tools. It has an easy-to-use interface that allows you to easily add effects, transitions, and edit your videos. You can use it to create random videos or professional videos using the software. So yes, this video editing software is for everyone. Well, you should try the free version and you won't regret.
@@ -133,8 +143,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -142,5 +150,22 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-marketing-how-to-plan-your-strategy-with-10-best-ideas-for-2024/"><u>[New] Instagram Video Marketing How to Plan Your Strategy with 10 Best Ideas for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-samsung-galaxy-s8-setting-new-standards-for-4k-video/"><u>2024 Approved Samsung Galaxy S8 Setting New Standards for 4K Video</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/classic-computing-redeemed-by-atlasos/"><u>Classic Computing Redeemed by AtlasOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-and-fix-the-unavailable-d3dx940dll-issue-on-your-pc/"><u>How to Address and Fix the Unavailable d3dx9_40.dll Issue on Your PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-m34-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy M34 Phone?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-vn-video-editor-on-mac-download-install-or-explore-alternatives/"><u>In 2024, VN Video Editor on Mac Download, Install, or Explore Alternatives</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-dvr-wars-tivo-and-comcast-go-head-to-head-for-2024/"><u>New DVR Wars TiVo and Comcast Go Head-to-Head for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-from-digital-to-physical-burn-videos-to-dvds-in-3-simple-steps-for-2024/"><u>New From Digital to Physical Burn Videos to DVDs in 3 Simple Steps for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-10-essential-movie-trailer-apps-for-ios-devices-this-year/"><u>New In 2024, 10 Essential Movie Trailer Apps for iOS Devices This Year</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-gopro-quik-is-it-the-best-video-editor-for-your-pc-plus-alternatives/"><u>New In 2024, GoPro Quik Is It the Best Video Editor for Your PC? (Plus Alternatives)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-slicing-through-long-videos-the-quickest-methods-for-mac-editing-for-2024/"><u>New Slicing Through Long Videos The Quickest Methods for Mac Editing for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unbiased-review-of-avs-video-editor-features-pricing-and-more-for-2024/"><u>New Unbiased Review of AVS Video Editor Features, Pricing, and More for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/pioneering-the-future-of-instagram-downloads/"><u>Pioneering the Future of Instagram Downloads</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-most-durable-mobile-phones-hydrophobic-shells/"><u>Ultimate Guide to the Most Durable Mobile Phones Hydrophobic Shells</u></a></li>
+</ul></div>
 

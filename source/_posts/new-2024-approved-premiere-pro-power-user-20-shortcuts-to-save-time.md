@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Premiere Pro Power User 20 Shortcuts to Save Time
-date: 2024-08-02T04:19:53.218Z
-updated: 2024-08-03T04:19:53.218Z
+date: 2024-10-21T19:21:20.240Z
+updated: 2024-10-23T23:15:20.537Z
 tags: 
   - video editing software
   - video editing
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  This is a basic tutorial about Adobe Premiere, professional video editing software. However, if video editing is new to you, consider [Wondershare Filmora (originally Wondershare Video Editor)](https://tools.techidaily.com/wondershare/filmora/download/), which is a powerful but easy-to-use tool for users just starting out. Download the free trial version below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ---
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -81,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -106,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -139,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -182,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -225,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -234,5 +214,39 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-mastering-instagram-unfollow-detection/"><u>[New] 2024 Approved Mastering Instagram Unfollow Detection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-deadly-drafts-cutthroat-selection-of-top-zombie-titles-for-2024/"><u>[New] The Deadly Drafts Cutthroat Selection of Top Zombie Titles for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-calm-cursor-3-pathways-to-mellow-watching-videos-on-youtube-57-chars/"><u>[Updated] In 2024, Calm Cursor 3 Pathways to Mellow Watching Videos on YouTube (57 Chars)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-pathway-to-high-quality-images-on-deal/"><u>[Updated] Unveiling the Pathway to High-Quality Images on Deal</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest-for-2024/"><u>A Comprehensive Guide to Turning Vids Into MP3 on Pinterest for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/easy-to-use-online-editors-for-quick-postings-for-2024/"><u>Free, Easy-to-Use Online Editors for Quick Postings for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-x50-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor X50 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-beyond-tubes-the-ultimate-video-share-sites/"><u>In 2024, Beyond Tubes The Ultimate Video Share Sites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-celebrating-the-10-best-moba-games-on-android/"><u>In 2024, Celebrating the #10 Best MOBA Games on Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/kid-friendly-amazon-fire-hd-10-tablet-comprehensive-review-and-top-parental-controls/"><u>Kid-Friendly Amazon Fire HD 10 Tablet - Comprehensive Review & Top Parental Controls</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-learn-video-editing-fast-top-beginner-friendly-software/"><u>Updated Learn Video Editing Fast Top Beginner-Friendly Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-pro-grade-video-stabilization-in-fcpx-a-step-by-step-guide/"><u>Updated Pro-Grade Video Stabilization in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-top-free-divx-video-editors-for-cutting-and-trimming/"><u>Updated S Top Free Divx Video Editors for Cutting and Trimming</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-art-of-chroma-keying-in-fcp-x-expert-techniques-for-stunning-results/"><u>Updated The Art of Chroma Keying in FCP X Expert Techniques for Stunning Results</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-mac-video-editing-experience-avs/"><u>Updated The Ultimate Mac Video Editing Experience AVS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-time-warp-unlocking-freeze-frames-and-slow-motion-in-fcpx-for-2024/"><u>Updated Time Warp Unlocking Freeze Frames and Slow Motion in FCPX for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-best-free-and-paid-glitch-video-editing-tools/"><u>Updated Unleash Your Creativity Best Free and Paid Glitch Video Editing Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-vn-video-editor-for-mac-install-now-or-discover-alternatives/"><u>Updated VN Video Editor for Mac Install Now or Discover Alternatives</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Reaction Video Mastery Tips and Tricks with Filmora
-date: 2024-08-02T04:19:38.586Z
-updated: 2024-08-03T04:19:38.586Z
+date: 2024-10-21T21:33:49.180Z
+updated: 2024-10-24T00:08:44.566Z
 tags: 
   - video editing software
   - video editing
@@ -51,9 +51,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 03:** Place both of these videos into the timeline. Make sure to place your reaction above.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step3.png](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step3.png)
 
 **Step 04:** Select your reaction video on the timeline and go to the "Effects". Here you will find a new folder named "AI Portrait", open it. Here you will find multiple AI portrait effects.
@@ -66,9 +63,6 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 06:** Once the effect is successfully applied to the video, its background will be removed automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step6.png)
 
 **Step 07:** Adjust the video by making it smaller and place it in the bottom left corner of the screen. Your reaction video is ready to be uploaded on video-sharing platforms.
@@ -77,16 +71,10 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 **Step 08:** To make your video look cool and stunning, you can also add multiple other effects to your reaction. AI portrait allows you to add a border around the character to make it look more visible and separate it from another video. Go to the AI portrait and drag Human Border Effect and drop it into your reaction. It will create an outline around the character and make it look more visible.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step8](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step8.png)
 
 **Step 09:** In some instances, you might need to change the position or size of your reaction. You can easily do that by applying the Keyframes to it. If you feel like changing the part of your reaction at some point in the video, go to that point in the timeline and click on the keyframe button above the timeline.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make-reaction-video-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/make-reaction-video-ai-portrait-step9.png)
 
 **Step 10:** Once you click on the keyframe, it will add a keyframe to the video. Now move forward into the timeline to a point and adjust your character's position by dragging it. Let's move it to the bottom right corner. It will add another keyframe to the video in the timeline. Now the character will change its position from the left corner to the right corner once it reaches that specific point in time.
@@ -97,14 +85,8 @@ With Filmora X, you can create such transparent background reaction videos witho
 
 AI Portrait allows you to create wonderful effects using artificial intelligence. This is one of the best uses of AI to make stunning reaction videos. It will not only save you a lot of time but will also help you save a lot of money by helping you remove the background of your video without expensive materials such as a green screen and other materials related to it.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 Liza Brown
@@ -113,8 +95,6 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -122,5 +102,27 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-recollect-rivals-mobile-battlegrounds-in-samsungs/"><u>[New] 2024 Approved Recollect Rivals Mobile Battlegrounds in Samsungs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-create-professional-gopro-vlogs/"><u>[New] How to Create Professional Gopro Vlogs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-personalize-your-youtube-movies-length/"><u>[New] Personalize Your YouTube Movie's Length</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-sims-4-immersion-how-to-record-successfully/"><u>[Updated] Sims 4 Immersion How to Record Successfully</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveiling-past-images-3-approaches-for-fb-reverse-search/"><u>2024 Approved Unveiling Past Images 3 Approaches for FB Reverse Search</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/error-0x80072ee7-in-the-windows-store-easy-fixes-unveiled/"><u>Error 0X80072EE7 in the Windows Store: Easy Fixes Unveiled</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/incorporating-visual-media-into-free-writings/"><u>Incorporating Visual Media Into Free Writings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-snow-throwers-of-2024-expert-reviews-and-buyers-guide-zdnet/"><u>Top-Rated Snow Throwers of 2024: Expert Reviews & Buyer's Guide - ZDNet</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-vllo-for-mac-download-and-discover-similar-options/"><u>Updated In 2024, VLLO for Mac Download and Discover Similar Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-best-video-merging-and-collage-apps-for-iphone-and-ipad-users-for-2024/"><u>Updated S Best Video Merging and Collage Apps for iPhone and iPad Users for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-most-popular-free-m4a-editor-programs/"><u>Updated S Most Popular Free M4A Editor Programs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-top-rated-free-music-recording-programs-a-comprehensive-list-for-2024/"><u>Updated S Top-Rated Free Music Recording Programs A Comprehensive List for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-trim-avi-videos-like-a-pro-top-tools-for-every-platform-for-2024/"><u>Updated Trim AVI Videos Like a Pro Top Tools for Every Platform for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

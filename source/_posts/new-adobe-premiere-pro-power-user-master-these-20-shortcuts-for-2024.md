@@ -1,7 +1,7 @@
 ---
 title: New Adobe Premiere Pro Power User Master These 20 Shortcuts for 2024
-date: 2024-08-02T04:21:58.807Z
-updated: 2024-08-03T04:21:58.807Z
+date: 2024-10-21T03:23:48.285Z
+updated: 2024-10-23T17:22:04.689Z
 tags: 
   - video editing software
   - video editing
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
  This is achieved by going through the path edit > keyboard shortcuts as below:
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shortcut-1.jpg)
 
  Before we step into the most useful shortcuts, a brief note here on the different platforms, although I'm sure most readers are aware. The PC and Mac versions of the software do share the same basic shortcuts with the one caveat that where the PC uses the Control and Alt keys, the Mac has Command and Option keys instead. Other than that the functionality is the same. I'll include the shortcuts for both platforms with each to make referencing easier.
@@ -61,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
  Whilst the shortcuts for editing and manipulating clips are extremely important for efficient workflow, it should be remembered that those relating to the basic operation of the program are just as useful, as we see here. Using Control and I (Command and I on Mac) brings up the import media dialogue box instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-3.png)
 
 #### 3Capture Panel
@@ -81,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 * Step Back - Left Arrow
 * Step Forward - Right Arrow
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-2.jpg)
 
 #### 4 Timeline Panel
@@ -106,14 +97,6 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 * Arc Tool - A
 * Ellipse Tool – E
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-4.jpg)
 
 #### 5 Navigation within a clip
@@ -144,9 +127,6 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
  To get the best from this it is necessary to set some options beforehand, as Play Around plays the portion of the timeline around the Playhead, and where it plays is dependent on the options set. This is done through the menu via edit > preferences > playback, here I have preroll and postroll set to 4 seconds, meaning that it plays 4 seconds prior and following the point where the playhead is placed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-5.jpg)
 
  In addition, turning on looping for this can help to fine tune edits.
@@ -187,9 +167,6 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 
  You can view all added edits within a sequence by selecting show through edits within the sequence menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Adobe Premiere Shortcut](https://images.wondershare.com/images/multimedia/video-editor/adobe-shotcut-6.jpg)
 
 #### 15Add the default Transition
@@ -230,8 +207,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -239,5 +214,39 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-content-that-captures-audiences-hearts-for-2024/"><u>[New] Crafting Content that Captures Audiences' Hearts for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-blurry-snaps-to-stunning-shots-learn-lunapic-editing/"><u>[New] From Blurry Snaps to Stunning Shots Learn LunaPic Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-pinnacle-battles-the-leading-royale-gaming-list/"><u>[Updated] 2024 Approved Pinnacle Battles The Leading Royale Gaming List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-navigating-without-watching-edgenuity-content/"><u>[Updated] Pro Tips Navigating Without Watching Edgenuity Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-g22-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia G22</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-teleport-your-gps-location-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comical-content-for-apples-pixels/"><u>In 2024, Comical Content for Apple's Pixels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/modmp4/"><u>MODファイルを効果的にMP4へ変換する自由ソフトの紹介</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-fastest-way-to-rotate-a-video-tips-and-tricks/"><u>New 2024 Approved The Fastest Way to Rotate a Video Tips and Tricks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-video-to-image-how-to-convert-videos-to-photos-10-converters/"><u>New 2024 Approved Video to Image How to Convert Videos to Photos ? 10 Converters</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-flip-and-rotate-the-best-free-3gp-video-editors-for-2024/"><u>New Flip and Rotate The Best Free 3GP Video Editors for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-breaking-down-your-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>New In 2024, Breaking Down Your Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-effortless-video-rotation-a-beginners-guide/"><u>New In 2024, Effortless Video Rotation A Beginners Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-what-you-need-is-user-friendly-ways-to-put-together-film-while-helping-you-add-fancy-creative-effects-and-perfect-for-sharing-well-show-you-3-ea/"><u>New In 2024, What You Need Is User-Friendly Ways to Put Together Film While Helping You Add Fancy Creative Effects and Perfect for Sharing. Well Show You 3 Easy Steps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-shake-it-off-8-excellent-free-video-stabilizers-to-try-this-year/"><u>New Shake It Off 8 Excellent Free Video Stabilizers to Try This Year</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unbeatable-free-game-video-editing-solutions-for-2024/"><u>New Unbeatable Free Game Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professional-streaming-boost-unveiling-best-9-live-stream-filters-for-2024/"><u>Professional Streaming Boost Unveiling Best 9 Live-Stream Filters for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/tackling-the-challenge-of-video-not-broadcasting-via-fb-messenger-for-2024/"><u>Tackling the Challenge of Video Not Broadcasting via FB Messenger for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/unleash-creativity-10-best-animation-tools-for-schools-for-2024/"><u>Unleash Creativity 10 Best Animation Tools for Schools for 2024</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

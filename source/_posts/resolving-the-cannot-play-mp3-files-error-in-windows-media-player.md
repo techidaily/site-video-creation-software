@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player
-date: 2024-10-22T21:48:56.422Z
-updated: 2024-10-24T01:50:41.114Z
+date: 2024-10-28T22:20:48.413Z
+updated: 2024-10-29T16:39:45.978Z
 tags:
   - video-music-player
 categories:
@@ -51,16 +51,16 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -80,10 +80,10 @@ c. Navigate to "File -> Open Media File".
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
@@ -91,10 +91,10 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -112,20 +112,20 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-advanced-tools-tweet-with-converted-videos/"><u>[Updated] Advanced Tools Tweet with Converted Videos</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-unlock-youtubes-potential-essential-tips-and-techniques-for-optimal-titles-for-2024/"><u>[Updated] Unlock YouTube's Potential Essential Tips & Techniques for Optimal Titles for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728507181769-10/"><u>文書安全指南: 如何挽回忘記存護理或不小心删除的10种有效方法</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-how-to-prevent-final-cut-pro-x-from-freezing-and-crashing/"><u>New 2024 Approved How to Prevent Final Cut Pro X From Freezing and Crashing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-s-best-time-lapse-video-editing-tools-a-comprehensive-review/"><u>New 2024 Approved S Best Time-Lapse Video Editing Tools A Comprehensive Review</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-final-cut-pro-x-essential-image-cropping-techniques/"><u>New In 2024, Final Cut Pro X Essential Image Cropping Techniques</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-best-free-divx-video-splitters-and-cutters/"><u>New In 2024, The Best Free Divx Video Splitters and Cutters</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-search-is-over-best-sony-vegas-alternatives-for-windows-video-editors/"><u>New In 2024, The Search Is Over Best Sony Vegas Alternatives for Windows Video Editors</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-mastering-animation-top-software-recommendations-for-mac-and-windows-for-2024/"><u>New Mastering Animation Top Software Recommendations for Mac and Windows for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-how-to-fix-five-nights-at-freddys-security-breach-crashes/"><u>PC Troubles? Here's How to Fix 'Five Nights at Freddy's: Security Breach Crashes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/the-editors-pathway-for-diminishing-sound-levels/"><u>The Editor's Pathway for Diminishing Sound Levels</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-troubleshooting-manual-for-restarting-malfunctioning-devices-with-error-code-10/"><u>The Ultimate Troubleshooting Manual for Restarting Malfunctioning Devices with Error Code 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-recurring-nox-player-malfunctions-on-your-computer/"><u>Troubleshooting Guide: Fixing Recurring Nox Player Malfunctions on Your Computer</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/unleash-your-creativity-the-top-5-hd-video-editing-solutions-for-2024/"><u>Unleash Your Creativity The Top 5 HD Video Editing Solutions for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-hidden-sound-scribes-unveiling-ios-and-android-stealth-recorders-for-2024/"><u>[New] Hidden Sound Scribes Unveiling iOS & Android Stealth Recorders for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-how-to-extract-audio-from-tweets-and-save-as-mp3s/"><u>[Updated] How to Extract Audio From Tweets and Save as MP3s</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-thorough-examination-of-gecata-recorder/"><u>[Updated] Thorough Examination of Gecata Recorder</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone SE (2022) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-6-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 6 Plus? How to Fix</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210684390-9781734243154-insight/"><u>Insight | Free Book</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mac-vlc-trimming-made-easy-preserve-video-quality/"><u>Updated 2024 Approved Mac VLC Trimming Made Easy Preserve Video Quality</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-premiere-pro-essentials-20-free-title-and-intro-templates/"><u>Updated 2024 Approved Premiere Pro Essentials 20 Free Title and Intro Templates</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-slow-down-the-10-best-video-players-for-smooth-playback/"><u>Updated 2024 Approved Slow Down The 10 Best Video Players for Smooth Playback</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-windows-8-flv-video-editor-convert-trim-and-enhance-your-videos/"><u>Updated 2024 Approved Windows 8 FLV Video Editor Convert, Trim, and Enhance Your Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-4k-video-editors-for-creators/"><u>Updated Best 4K Video Editors for Creators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-here-is-a-list-of-top-five-free-wmv-video-editing-tools-which-feature-almost-all-sorts-of-casual-video-editing-needs/"><u>Updated In 2024, Here Is a List of Top Five Free WMV Video Editing Tools, Which Feature Almost All Sorts of Casual Video Editing Needs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-video-reverse-tools/"><u>Updated In 2024, Top Video Reverse Tools</u></a></li>
 </ul></div>
 

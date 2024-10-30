@@ -1,7 +1,7 @@
 ---
 title: & macOS Users
-date: 2024-10-19T02:16:33.794Z
-updated: 2024-10-23T16:02:36.438Z
+date: 2024-10-27T22:34:53.550Z
+updated: 2024-10-29T20:06:15.842Z
 tags:
   - video-music-player
 categories:
@@ -45,10 +45,17 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
@@ -60,10 +67,10 @@ Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean de
 Obviously, the file you play on Mac now is a converted version which has a totally different video codec. To directly play video files encoded with AV1 codec without changing anything, you may need professional [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play AV1 on Mac and 5KPlayer is highly recommended.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **AV1 Playback Issue with VLC**
@@ -75,6 +82,13 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
 
 AV1 won't play on Windows 10/Mac not only because AV1 video codec is new but also it is a heavier codec requiring more powerful media software to decode it. According to the test from Bitmovin, current AV1 codec offers about 20% and 30% better compression rate compared to VP9 and HEVC respectively, and it is predicted that the compression rate should be 50% better. What does that mean? It means that video encoded with AV1 will contain more details compared to the same size video encoded with VP9 or HEVC. And the media player for AV1 playback should be typically designed to meet the demand of playing videos with such high compression standard.
@@ -85,33 +99,7 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,24 +116,22 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-how-to-elevate-your-profile-on-discord-with-custom-emoji-stamps/"><u>[New] In 2024, How to Elevate Your Profile on Discord with Custom Emoji Stamps</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-archives-live-version-for-2024/"><u>[New] Social Media Archives - Live Version for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-step-by-step-nine-methods-for-logging-pc-acoustics/"><u>[Updated] 2024 Approved Step-by-Step Nine Methods for Logging PC Acoustics</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-three-foundational-elements-for-powerful-facebook-ad-headlines/"><u>[Updated] 2024 Approved Three Foundational Elements for Powerful Facebook Ad Headlines</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-anti-fog-gear-for-clear-shot-capture-in-cold-weather/"><u>[Updated] In 2024, Anti-Fog Gear for Clear Shot Capture in Cold Weather</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/aic4-mp4/"><u>AIC変換無料プログラムトップ4: MP4ファイルを効率良く変換する方法</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/do-you-want-to-make-your-background-disappear-and-replace-with-an-attractive-background-here-is-how-to-add-a-green-screen-to-zoom-app-and-add-any-virtual-ba/"><u>Do You Want to Make Your Background Disappear and Replace with an Attractive Background? Here Is How to Add a Green Screen to Zoom App and Add Any Virtual Background of Your Choice</u></a></li>
-<li><a href="https://discover-data.techidaily.com/effective-remedies-how-to-successfully-overcome-invalid-partition-table-problems/"><u>Effective Remedies: How to Successfully Overcome Invalid Partition Table Problems</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-find-x7-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo Find X7 Device SIM</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-fcpx-skin-smoother-a-comprehensive-guide/"><u>New 2024 Approved The Ultimate FCPX Skin Smoother A Comprehensive Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-vllo-for-mac-a-download-guide-with-alternative-recommendations/"><u>New 2024 Approved VLLO for Mac A Download Guide with Alternative Recommendations</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-from-fast-to-slow-a-comprehensive-guide-to-windows-live-movie-makers-slow-motion-effect-for-2024/"><u>New From Fast to Slow A Comprehensive Guide to Windows Live Movie Makers Slow Motion Effect for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-android-app-store-favorites-top-downloads-and-reviews/"><u>New In 2024, Android App Store Favorites Top Downloads and Reviews</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-imovie-on-windows-10-here-are-the-best-alternative-options/"><u>New In 2024, IMovie on Windows 10? Here Are the Best Alternative Options</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-adobe-premiere-shortcut-guide-20-tips-and-tricks/"><u>New In 2024, The Ultimate Adobe Premiere Shortcut Guide 20 Tips and Tricks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-unify-your-visuals-a-step-by-step-color-matching-tutorial-for-powerdirector/"><u>New In 2024, Unify Your Visuals A Step-by-Step Color Matching Tutorial for PowerDirector</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-10-best-cartoon-video-maker-apps-on-android-and-iphone/"><u>New Top 10 Best Cartoon Video Maker Apps on Android and iPhone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/the-art-of-time-manipulation-speeding-updown-videos-in-camtasia-for-2024/"><u>The Art of Time Manipulation Speeding Up/Down Videos in Camtasia for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-tips-for-minecraft-recording-with-macos/"><u>[Updated] Essential Tips for Minecraft Recording with MacOS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-accelerated-mp4-conversion-for-fb-media/"><u>2024 Approved Accelerated MP4 Conversion for FB Media</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo S17e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-economic-strategies-for-youtube-marketing/"><u>In 2024, Economic Strategies for YouTube Marketing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-11-pro-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 11 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-mastering-online-meetings-with-these-budget-friendly-video-conferencing-services/"><u>In 2024, Mastering Online Meetings with These Budget-Friendly Video Conferencing Services</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-the-guide-to-learning-all-the-details-about-voice-cloning/"><u>In 2024, The Guide to Learning All the Details About Voice Cloning</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s23plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S23+ Phone Pattern Lock</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-videopad-video-editor-2023-a-comprehensive-review-and-recommendation/"><u>New 2024 Approved Videopad Video Editor 2023 A Comprehensive Review and Recommendation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-avs-video-editor-a-detailed-review-for-beginners-and-pros-for-2024/"><u>New AVS Video Editor A Detailed Review for Beginners and Pros for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-best-zero-cost-video-editors-for-cutting-and-merging-videos/"><u>New In 2024, The Best Zero-Cost Video Editors for Cutting and Merging Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-make-unforgettable-videos-top-10-iphone-and-ipad-collage-apps-2023/"><u>New Make Unforgettable Videos Top 10 iPhone and iPad Collage Apps 2023</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-best-free-online-video-reversers/"><u>New The Best Free Online Video Reversers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-great-dvr-debate-tivo-vs-comcast-xfinity-for-2024/"><u>New The Great DVR Debate TiVo vs Comcast Xfinity for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-video-editing-essentials-for-mac-os-x-yosemite-tips-and-tricks-for-2024/"><u>New Video Editing Essentials for Mac OS X Yosemite Tips and Tricks for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/troubleshoot-like-a-pro-resetting-final-cut-pro-x-for-smooth-editing-for-2024/"><u>Troubleshoot Like a Pro Resetting Final Cut Pro X for Smooth Editing for 2024</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/1728507403924-windows-11-3/"><u>Windows 11 重新安裝後失去檔案的解決方法：3項高效技術</u></a></li>
 </ul></div>
 

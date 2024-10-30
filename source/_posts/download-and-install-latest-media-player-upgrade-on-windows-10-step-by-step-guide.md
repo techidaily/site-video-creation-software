@@ -1,7 +1,7 @@
 ---
 title: "Download & Install Latest Media Player Upgrade on Windows 10: Step-by-Step Guide"
-date: 2024-10-19T19:44:18.230Z
-updated: 2024-10-23T22:33:14.166Z
+date: 2024-10-26T18:33:14.322Z
+updated: 2024-10-29T19:16:20.133Z
 tags:
   - video-music-player
 categories:
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -44,10 +44,16 @@ Step 4: Click on "Check for updates" to see what version of Media Player are you
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
@@ -77,10 +83,10 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
@@ -92,10 +98,10 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -113,22 +119,22 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-diving-deep-into-screencast-best-practices/"><u>[Updated] Diving Deep Into Screencast Best Practices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-bebops-avian-evolution-strikes-again-with-parrot-2/"><u>2024 Approved Bebop's Avian Evolution Strikes Again with Parrot 2</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-ultimate-guide-to-free-wmv-video-editing-software/"><u>2024 Approved The Ultimate Guide to Free WMV Video Editing Software</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722975842946-get-the-most-out-of-your-epson-printer-by-updating-its-drivers-a-windows-easily-accessible-guide/"><u>Get the Most Out of Your Epson Printer by Updating Its Drivers – A Windows Easily Accessible Guide.</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-edge-40-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-11x-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 11X 5G Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-dvd-magic-transforming-your-home-videos-into-cinematic-masterpieces/"><u>New In 2024, DVD Magic Transforming Your Home Videos Into Cinematic Masterpieces</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-easy-video-flipping-tips-and-tricks-for-a-pro-look/"><u>New In 2024, Easy Video Flipping Tips and Tricks for a Pro-Look</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-here-is-a-list-of-top-5-free-mov-joiners-to-help-you-easily-achieve-that/"><u>New In 2024, Here Is a List of Top 5 Free MOV Joiners to Help You Easily Achieve That</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-10-video-animation-apps-for-mobile-devices-for-2024/"><u>New Top 10 Video Animation Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/older-titles-can-they-run-on-new-sony-console/"><u>Older Titles: Can They Run on New Sony Console?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prime-10-converters-free-apps-for-efficient-srt-file-transformations/"><u>Prime 10 Converters FREE Apps for Efficient SRT File Transformations</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/reconstructing-damaged-mov-sequences-for-macos/"><u>Reconstructing Damaged MOV Sequences for macOS</u></a></li>
-<li><a href="https://fox-within.techidaily.com/top-ranking-artificial-intelligence-tts-software-solutions/"><u>Top-Ranking Artificial Intelligence TTS Software Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-virtualdub-is-it-still-the-best-video-editor-top-alternatives-for-2024/"><u>Updated Virtualdub Is It Still the Best Video Editor? Top Alternatives for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/v305-dell-printer-driver-fix-for-windows-7/"><u>V305 Dell Printer Driver Fix for Windows 7</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1720600594541-windows/"><u>ステラ・データリカバリー: Windows上で失われた重要ファイルを効率的に復元する手段</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-revenue-on-youtube-shorts/"><u>[New] Mastering Revenue on YouTube Shorts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-become-an-engaging-speaker-on-google-meet-platforms/"><u>[Updated] 2024 Approved Become an Engaging Speaker on Google Meet Platforms</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-instagram-intonation-blending-audio-with-imagery/"><u>[Updated] Instagram Intonation Blending Audio with Imagery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-asus-proart-pa-329q-unveiled-a-critical-perspective-on-a-high-end-monitor/"><u>2024 Approved Asus ProArt PA 329Q Unveiled A Critical Perspective on a High-End Monitor</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-open-source-banner-resources-a-gift-to-youtubers/"><u>2024 Approved Open Source Banner Resources A Gift to YouTubers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-tiers-of-technology-youtube-gamers-showcase/"><u>2024 Approved Top Tiers of Technology YouTube Gamer's Showcase</u></a></li>
+<li><a href="https://discover-data.techidaily.com/easy-tutorial-on-converting-avi-files-to-compatible-webm-video-formats/"><u>Easy Tutorial on Converting AVI Files to Compatible WebM Video Formats</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New 2024 Approved The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-time-lapse-video-editing-made-easy-top-software-picks/"><u>New 2024 Approved Time-Lapse Video Editing Made Easy Top Software Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-edit-videos-online-for-free-the-best-tools-and-services-for-2024/"><u>New Edit Videos Online for Free The Best Tools and Services for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-list-of-free-video-rotation-tools-no-watermarks/"><u>New In 2024, The Ultimate List of Free Video Rotation Tools (No Watermarks!)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-voice-over-mastery-essential-fcp-recording-hacks-for-2024/"><u>New Voice Over Mastery Essential FCP Recording Hacks for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile-for-2024/"><u>Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-text-animation-apps-for-mobile-video-editing-for-2024/"><u>Top Text Animation Apps for Mobile Video Editing for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-3gp-file-trimmer-edit-and-split-your-videos-easily/"><u>Updated 2024 Approved 3GP File Trimmer Edit and Split Your Videos Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-11-user-manual-how-to-toggle-your-built-in-screen-keyboard/"><u>Windows 11 User Manual: How to Toggle Your Built-In Screen Keyboard</u></a></li>
 </ul></div>
 

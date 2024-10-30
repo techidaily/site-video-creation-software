@@ -1,7 +1,7 @@
 ---
 title: "Transferring Tracks: A Step-by-Step Guide on Moving Your Favorite SoundCloud Music to iTunes"
-date: 2024-10-11T21:12:09.679Z
-updated: 2024-10-18T01:40:10.108Z
+date: 2024-10-27T22:14:30.445Z
+updated: 2024-10-29T21:59:16.085Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/0b4edc9260dee73e74c6f70d4608ea90c51d96ccbc3b5f5a0008c722859666ad.jpg
@@ -39,10 +39,10 @@ Add background music or custom audio
 Let's see how to use Microsoft Photos to edit videos on Windows 10.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1\. Import the Video
@@ -50,13 +50,6 @@ Let's see how to use Microsoft Photos to edit videos on Windows 10.
 Click the "Start" button and scroll down to find and open the "**Video Editor**". Click "**New video project**" > name the video > press the "**\+ Add**" button to select a video to import. Drag the video from the "**Project library**" to the editing workplace.
 
 ![Open Video Editor](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-12.webp) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2\. Edit the Video as You Wish
 
@@ -79,10 +72,10 @@ Once finished editing, you can click "**Finish video**", choose a video quality,
 However, the Microsoft Photos app only supports a few video formats and often crashes when processing large videos. So I'm here to introduce a third-party free video editing tool for Windows 10 and 11\. It is powerful and user-friendly and allows you to easily edit videos with simple clicks. The next part will show you how to edit videos on Windows 10 for free. Just read on!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Free Video Editor for Windows
@@ -109,6 +102,20 @@ Launch _**Free HD Video Converter Factory**_ after installing it on your PC. Ope
 
 ![How to Edit Videos on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-1.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Edit Videos with Different Tools
 
 After loading the video, you can see a toolbar with the video. Then you can click each button or a combination to edit videos like trimming, cropping, rotating, etc. Below are the detailed steps of how to edit a video on Windows 10/11 with each video editing tool.
@@ -118,6 +125,13 @@ _**#1\. Merge the Videos**_
 To [merge videos into one file](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), you first need to import at least 2 or more video files into the program. Click the **Merge** button on the top menu bar and you will see the videos under the **Video List**. Select the videos and click the **middle Merge** button to save the videos in **Pack 1**. You can adjust the video order in the video pack. You can also repeat the step to create multiple packs. Finally, click the **bottom Merge** button to save the changes.
 
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-2.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Also See:** [Free Video Merger without Watermark](https://tools.techidaily.com/videoconverterfactory/video-watermark/) | [Join Videos without Re-encoding](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
@@ -141,24 +155,18 @@ Enter the **Crop** window by clicking the fourth icon on the toolbar. It offers 
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-5.webp) 
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _**#5\. Add Effects/Filter to Video**_
 
 Hit on the **Magic Wand** icon to open the **Effect** window and [add effects to the video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). There are 18 predefined filters available for you to choose from. Meanwhile, you can also adjust the **Brightness**, **Contrast**, **Saturation**, and **Hue** of the added effect. Then hit **OK** to return to the main interface.
 
 ![How to Edit Videos on Windows 10 for Free](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-6.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**#6\. Add Watermark to Video**_
 
@@ -186,20 +194,6 @@ Tips: Open the **Parameter settings** window, and you'll be able to modify the v
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-10.webp) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 4: Start Exporting the Edited Video
 
 When everything is OK, specify a destination folder to save the output video by pressing the **inverted triangle** button on the bottom. Finally, hit the **Run** button to start exporting the video.
@@ -216,18 +210,18 @@ Apart from the video editing and conversion features, Free HD Video Converter al
 
 Above is all I want to share with you about how to edit videos on Windows 10 for free. Despite the Photos and some online video editors being capable of video editing on Windows 10/11, they also have some drawbacks like format restrictions, usually crashes, limited video size and length, etc. Therefore, **Free HD Video Converter Factory** is definitely the best choice to edit videos on Windows. Just [**get**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)[**get**](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) it to edit your videos free, handily, and effortlessly. Thanks for reading!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs about Windows 10 Built-in Video Editor
 
 ### Q1\. Does Windows 10 have a video editing program?
 
 Yes, the video editor is a function in the Microsoft Photos application. It is an independent program, including some basic video editings features like trim, add background music, draw, text, 3D effects, etc.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q2\. Can I edit a video in Windows Media Player?
 
@@ -247,13 +241,6 @@ How to Edit DVD Videos on Windows PC?
 
 ![WonderFox DVD Ripper Pro](https://www.videoconverterfactory.com/tips/img-autofit/single-ripperpro.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **WonderFox DVD Ripper Pro**
 
 The professional DVD ripping software—WonderFox DVD Ripper Pro can bypass all DVD protection and capture videos from homemade and copy-protected DVDs. It enables you to trim, rotate, crop, and add effects to DVD videos with simple clicks and convert DVD videos to 300+ digital video formats and devices. You can also use it to compress DVDs to small sizes with high-quality preserved. Just download it now to digitize and edit your DVD videos now!
@@ -265,6 +252,19 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
 [Free Download](https://tools.techidaily.com/videoconverterfactory/dvd-ripper/) 
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png)](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -281,22 +281,24 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-your-all-inclusive-guide-to-advanced-srt-systems/"><u>[New] 2024 Approved Your All-Inclusive Guide to Advanced SRT Systems</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-seo-booster-essentials-for-top-online-videos/"><u>[Updated] 2024 Approved SEO Booster Essentials for Top Online Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-behind-closed-doors-of-youtube-a-discovery-manual/"><u>[Updated] In 2024, Behind Closed Doors of YouTube A Discovery Manual</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-prime-collection-of-pc-screen-capture-tools-win11/"><u>[Updated] In 2024, The Prime Collection of PC Screen Capture Tools (Win11)</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1-how-to-fix-ps4-media-player-issues-troubleshooting-non-streaming-problems/"><u>1. How to Fix PS4 Media Player Issues: Troubleshooting Non-Streaming Problems</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/download-and-setup-mpccp-ultimate-guide-for-enhanced-media-playback/"><u>Download & Setup: MPCCP Ultimate Guide for Enhanced Media Playback</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/download-free-kmplayer-software-compatible-with-windows-10-8-and-7-64-bit32-bit/"><u>Download Free KMPlayer Software Compatible with Windows 10, 8 & 7 - 64-Bit/32-Bit</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/free-subtitle-grabs-from-the-web-discover-the-ultimate-top-10-resources/"><u>Free Subtitle Grabs From the Web: Discover the Ultimate Top 10 Resources</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oneplus-nord-3-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus Nord 3 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/incompatible-video-codec-in-mp4-file-causes-issues-with-wmp-qt-and-vlc-plays/"><u>Incompatible Video Codec in MP4 File Causes Issues with WMP, QT, and VLC Plays</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/mastering-multilingual-settings-transform-your-experience-with-this-detailed-walkthrough-on-switching-language-in-adobe-digital-edition/"><u>Mastering Multilingual Settings: Transform Your Experience with This Detailed Walkthrough on Switching Language in Adobe Digital Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-multitasking-running-windows-11-in-macos-with-parallels/"><u>Mastering Multitasking: Running Windows 11 in MacOS with Parallels</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/optimizing-data-recovery-a-guide-to-effective-backup-configurations/"><u>Optimizing Data Recovery: A Guide to Effective Backup Configurations</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/premium-no-cost-video-player-enjoy-unlimited-film-viewing-on-windows-and-macos-systems/"><u>Premium No-Cost Video Player: Enjoy Unlimited Film Viewing on Windows and macOS Systems</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-4-free-360-video-player-software-for-windows-11-and-mac-recommended-downloads/"><u>Top 4 Free 360° Video Player Software for Windows 11 & Mac: Recommended Downloads</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/top-free-h265-hevc-codec-player-download-and-stream-x265-videos-seamlessly/"><u>Top Free H.265 HEVC Codec Player: Download and Stream X265 Videos Seamlessly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-success-with-these-top-15-youtube-introduction-techniques/"><u>[New] 2024 Approved Charting Success with These Top 15 YouTube Introduction Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-a-captivating-periscope-livestream/"><u>[New] 2024 Approved Crafting a Captivating Periscope Livestream</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-effortlessly-enable-picture-in-picture-mode-on-ios-youtube-app/"><u>[New] Effortlessly Enable Picture In Picture Mode on iOS YouTube App</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-youtube-watch-parties-to-home-auditory-archives/"><u>[New] From YouTube Watch Parties to Home Auditory Archives</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-in-depth-analysis-simplified-dynamic-range-photography/"><u>[Updated] In 2024, In-Depth Analysis Simplified Dynamic Range Photography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206131324-dell-laptop-display-woes-heres-the-full-manual-to-turn-it-back-on/"><u>Dell Laptop Display Woes? Here's the Full Manual to Turn It Back On!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ffxiv-version-compatibility-errors-during-download/"><u>FFXIV Version Compatibility Errors During Download</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-distributing-digital-steam-rewards-effectively/"><u>Mastering the Art of Distributing Digital Steam Rewards Effectively</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-looking-for-the-best-high-quality-game-download-sites-in-this-article-youll-find-10-great-sites-in-the-most-popular-genres/"><u>New 2024 Approved Looking for the Best High-Quality Game Download Sites? In This Article, Youll Find 10 Great Sites in the Most Popular Genres</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-get-creative-top-video-dubbing-tools-for-funny-videos-for-2024/"><u>New Get Creative Top Video Dubbing Tools for Funny Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-here-i-recommend-9-best-online-movie-makers-which-can-help-you-create-something-that-really-stands-out/"><u>New In 2024, Here I Recommend 9 Best Online Movie Makers Which Can Help You Create Something that Really Stands Out</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mac-video-editing-install-lumafusion-or-try-these-other-options/"><u>New In 2024, Mac Video Editing Install Lumafusion or Try These Other Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-split-trim-and-cut-avi-videos-with-these-top-notch-editors/"><u>New In 2024, Split, Trim, and Cut AVI Videos with These Top-Notch Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-take-your-gaming-to-the-next-level-sharing-ps4-screenshots-online/"><u>New In 2024, Take Your Gaming to the Next Level Sharing PS4 Screenshots Online</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-10-best-free-mp4-video-editors-2023/"><u>New In 2024, Top 10 Best Free MP4 Video Editors 2023</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-s-leading-lego-animation-artists/"><u>New S Leading Lego Animation Artists</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-40-keyboard-shortcuts-for-final-cut-pro-x-for-2024/"><u>New Top 40 Keyboard Shortcuts for Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sightsphere-scrutiny-summary-for-2024/"><u>SightSphere Scrutiny Summary for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-asus-rog-gt-c5300-review-ultimate-wireless-perfection-for-hardcore-gamers-and-gadget-geeks/"><u>Unveiling The Asus ROG GT-C5300 Review: Ultimate Wireless Perfection for Hardcore Gamers & Gadget Geeks</u></a></li>
 </ul></div>
 

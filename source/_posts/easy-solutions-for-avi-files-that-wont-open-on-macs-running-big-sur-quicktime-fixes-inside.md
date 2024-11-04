@@ -1,7 +1,7 @@
 ---
 title: Easy Solutions for AVI Files That Won't Open on Macs Running Big Sur - QuickTime Fixes Inside!
-date: 2024-10-26T23:55:56.416Z
-updated: 2024-10-29T18:37:08.844Z
+date: 2024-11-01T16:04:43.726Z
+updated: 2024-11-04T16:48:45.232Z
 tags:
   - video-music-player
 categories:
@@ -44,10 +44,10 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
  3\. Sometimes, video gets struck, but sound keeps playing, or vice versa. From AVI wikipedia, audio and video are individually stored in AVI file. Generally, audio and video are well-synchronized, but desynchronization of audio and video may happen when playing AVI on Mac in some certain [AVI media player](https://tools.techidaily.com/5kplayer/video-music-player/) software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## #03\. Solutions to AVI Won't Play on Mac/QuickTime.
@@ -59,10 +59,10 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
 ![Play AVI on Mac](https://www.5kplayer.com/video-music-player/img/play-mts-with-5kp.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \* Play AVI files encoded with any codec on Mac/Windows.  
@@ -71,13 +71,6 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
  \* [Stream AVI to TV](https://tools.techidaily.com/5kplayer/airplay/) to have a better visual experience.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Display resolution of AVI can be set as 4:3, 16:9 and any other display ratio as willing. From 1080p to 720p and even more, 5KPlayer can well handle your AVI files on Mac as this AVI player Mac can automatically change aspect ratio among 1:1, 4:3, 16:9, 2.21:1, 2.35:1, 2.39:1, 16:10 and 5:4 to help you get the golden ratio of pupil and enjoy AVI videos movies comfortably.
 
@@ -92,6 +85,13 @@ If you insist on solving QuickTime won't play AVI problem, you can convert AVI t
 **Note:** There are more output formats including MP4, M4V, MOV, etc that QuickTime supports in "Convert to MP4". Just feel free to convert your AVI files until the AVI file won't play on Mac issue solved.
 
 ![Convert AVI to QuickTime](https://www.5kplayer.com/video-music-player/img/convert-to-ipad-mp4.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### **Solution 3\. Install Codec Pack to Solve AVI Won't Play on Mac/QuickTime**
 
@@ -108,10 +108,10 @@ For my opinion, I recommend you to try 5KPlayer, designed as a[video music playe
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -129,19 +129,19 @@ For my opinion, I recommend you to try 5KPlayer, designed as a[video music playe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-discover-the-top-11-kid-videography-gear-for-initial-use/"><u>[New] In 2024, Discover the Top 11 Kid Videography Gear for Initial Use</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-vintage-video-upgrade/"><u>[New] Vintage Video Upgrade</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-process-of-android-video-u-turns/"><u>2024 Approved The Process of Android Video U-Turns</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/cr2jpg-movavi-image-converter/"><u>直接在線上無需花錢，快速轉換CR2為JPG的移動應用程式 - Movavi Image Converter</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>In 2024, Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevating-your-videography-youtube-enhancements-explained/"><u>In 2024, Elevating Your Videography YouTube Enhancements Explained</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>In 2024, The Ultimate Blueprint Creating Exceptional Podcast Content on iDevices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-the-features-that-make-samsung-galaxy-note-9-a-top-contender/"><u>Navigating the Features That Make Samsung Galaxy Note 9 a Top Contender</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-best-green-screen-software-for-mac-for-2024/"><u>New Best Green Screen Software for Mac for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-best-tiktok-watermark-removers-online-for-2024/"><u>New Best TikTok Watermark Removers Online for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-edit-videos-on-mac-vn-video-editor-and-beyond-for-2024/"><u>New Edit Videos on Mac VN Video Editor and Beyond for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-resolving-final-cut-pro-x-freezing-and-crashing-issues-2023-update/"><u>New Resolving Final Cut Pro X Freezing and Crashing Issues (2023 Update)</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-art-of-storytelling-10-famous-movies-shaped-by-final-cut-pros-creative-freedom/"><u>New The Art of Storytelling 10 Famous Movies Shaped by Final Cut Pros Creative Freedom</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-essential-guide-to-launching-a-zoom-session-on-android/"><u>The Essential Guide to Launching a Zoom Session on Android</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-closer-look-at-instagram-stories-beyond-the-screen/"><u>2024 Approved A Closer Look at Instagram Stories Beyond the Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/faqdigiartywinx-dvd-digiarty-softwarewinx-dvd/"><u>FAQガイド:DigiartyのWinX DVDスイートについて学ぶ | Digiarty Software・WinX DVDソフトウェア</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-do-a-poll-on-instagram-stories-the-only-guide-you-need-to-read/"><u>How to Do a Poll on Instagram Stories The Only Guide You Need to Read</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mental-healing-on-the-rise-with-top-5-bot-counselors/"><u>Mental Healing on the Rise with Top 5 Bot Counselors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-final-cut-pro-file-management-best-practices-for-saving-and-organizing/"><u>New In 2024, Final Cut Pro File Management Best Practices for Saving and Organizing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-streamlining-your-workflow-importing-and-exporting-videos-in-adobe-premiere-2023/"><u>New Streamlining Your Workflow Importing and Exporting Videos in Adobe Premiere 2023</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-showdown-final-cut-pro-takes-on-final-cut-express/"><u>New The Ultimate Showdown Final Cut Pro Takes on Final Cut Express</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-subtitle-editors-for-mac-alternatives-to-subtitle-edit/"><u>New Top Subtitle Editors for Mac Alternatives to Subtitle Edit</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/organize-your-videos-best-mp4-tag-editing-tools-for-windows-and-mac-for-2024/"><u>Organize Your Videos Best MP4 Tag Editing Tools for Windows and Mac for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/pc-video-editors-similar-to-gopro-quik-top-picks/"><u>PC Video Editors Similar to GoPro Quik Top Picks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-realme-12-proplus-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Realme 12 Pro+ 5G Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unlocking-superior-power-transfer-our-in-depth-review-of-hyperjuises-240w-silicone-usb-c-cable-why-it-deserves-a-spot-in-your-gadget-collection/"><u>Unlocking Superior Power Transfer: Our In-Depth Review of HyperJuise's 240W Silicone USB-C Cable – Why It Deserves a Spot in Your Gadget Collection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-power-in-gaming-channels-a-template-guidebook-for-2024/"><u>Visual Power in Gaming Channels A Template Guidebook for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Realme C67 5G? | Dr.fone</u></a></li>
 </ul></div>
 

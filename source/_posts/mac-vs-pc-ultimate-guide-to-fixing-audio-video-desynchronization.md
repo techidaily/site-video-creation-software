@@ -1,7 +1,7 @@
 ---
 title: "Mac Vs. PC: Ultimate Guide to Fixing Audio-Video Desynchronization"
-date: 2024-11-03T16:08:57.307Z
-updated: 2024-11-04T16:35:18.081Z
+date: 2024-11-10T18:51:04.192Z
+updated: 2024-11-13T17:05:09.573Z
 tags:
   - video-music-player
 categories:
@@ -25,22 +25,15 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 Audio and video out of sync is no rare thing if you play 4K HD videos with an aged computer. In most cases it's audio delay from video, only a few subtitle delay \[VLC\] in A-V sync. This guide tackles how to sync audio and video on Mac/PC as well as YouTube video out of sync respectively. Tried and true even for Mac and Windows with 2GB-RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Sync Audio and Video: Audio Delay & Video Delay
 
 ![Audio and video out of sync solved](https://www.5kplayer.com/video-music-player/../airplay/img/5kplayer-solveairdelay-yxt-030302.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Audio and video out of sync happens because a media player employs different parts of its kernel to process the AV-output. Though compressed into one codec pack, video files are bigger than audio, thus generating incorrect timing.  
  To sync up HD videos with audio, the [best free sync software](https://tools.techidaily.com/5kplayer/video-music-player/) adopts a flexible way of processing the sound and video output: With a shortcut panel, 5KPlayer offers _audio-video timing_ and subtitle-video adjust bar when you use it on Mac El Capitan or Windows 10\. You are free from worries in terms of audio/subtitle format, the freeware bolsters to play MP3 AAC FLAC WMA, etc soundtracks,[add subtitles in .srt, .ssa, .ass, .json, .aqt .sub](https://tools.techidaily.com/5kplayer/video-music-player/) to videos and make any adjustment as you please. First check out what' s your problem:
@@ -64,6 +57,19 @@ Audio and video out of sync happens because a media player employs different par
 
 ![Netflix icon](https://www.5kplayer.com/video-music-player/../airplay/img/netflix-hp.png) 
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2\. Netflix Audio out of Sync**  
  1) Go to the bottom in Netflix.  
  2) Hit Help Center.  
@@ -72,10 +78,10 @@ Audio and video out of sync happens because a media player employs different par
  5) Clear the box that reads, "Prefer HTML5 player instead of Silverlight."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Sync Audio and Video with 5KPlayer on Mac/PC?
@@ -90,16 +96,16 @@ Audio and video out of sync happens because a media player employs different par
 
 ![How to synd audio and video](https://www.5kplayer.com/video-music-player/../airplay/img/5kplayer-solveairdelay-yxt-030302.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As a free [sync software](https://tools.techidaily.com/5kplayer/products/) for MKV AVI MP4 videos, 5KPlayer is adepting in tackling multi-media problems like [4K downloader error](https://tools.techidaily.com/5kplayer/youtube-download/), [Netflix won't play](https://tools.techidaily.com/5kplayer/video-music-player/), HBO Go streaming to Apple TV problems once and for all. If you are into more professional video editing tricks, please refer to [how to edit videos with 5KPlayer](https://tools.techidaily.com/5kplayer/video-music-player/).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,19 +122,21 @@ As a free [sync software](https://tools.techidaily.com/5kplayer/products/) for M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-climbing-the-feed-ladder-the-most-effective-hashtags-for-likes-and-followers-on-insta/"><u>[Updated] Climbing the Feed Ladder The Most Effective Hashtags for Likes and Followers on Insta</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-navigating-file-transfer-how-to-save-igtv-videos-on-windowsmac-os-for-2024/"><u>[Updated] Navigating File Transfer How to Save IGTV Videos on Windows/Mac OS for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-prosperity-through-streaming-a-youtube-money-blueprint/"><u>[Updated] Prosperity Through Streaming A YouTube Money Blueprint</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-stylizing-strings-for-cinematic-results/"><u>[Updated] Stylizing Strings for Cinematic Results</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-intel-thunderbolt-device-drivers-fast-and-simple-guide/"><u>Download Intel Thunderbolt Device Drivers - Fast and Simple Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nubia-red-magic-9-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nubia Red Magic 9 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-nuances-of-networked-notebooks-with-toms-hardware-guidance/"><u>Navigating the Nuances of Networked Notebooks with Tom's Hardware Guidance</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-mechanisms-behind-large-language-models-a-comprehensive-guide/"><u>The Mechanisms Behind Large Language Models: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-add-a-timer-in-minutes-a-quick-fcpx-tutorial/"><u>Updated 2024 Approved Add a Timer in Minutes A Quick FCPX Tutorial</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-list-14-free-video-editors-with-no-watermark/"><u>Updated 2024 Approved The Ultimate List 14 Free Video Editors with No Watermark</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-breathtaking-4k-videos-you-wont-want-to-miss/"><u>Updated In 2024, Breathtaking 4K Videos You Wont Want to Miss</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-the-right-tone-5-free-online-generators-for-any-occasion/"><u>Updated In 2024, Get the Right Tone 5 Free Online Generators for Any Occasion</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-list-of-video-dubbing-software-for-pc-free-download/"><u>Updated In 2024, The Ultimate List of Video Dubbing Software for PC (Free Download)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-dji-drones-collection-entry-grade-premium-pro-elite-4k-flight/"><u>[New] 2024 Approved DJI Drones Collection Entry Grade, Premium Pro, Elite 4K Flight</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unveiling-the-finest-selection-of-economical-free-lut-tools-for-2024/"><u>[New] Unveiling the Finest Selection of Economical, Free LUT Tools for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-to-show-or-not-to-display-off-facebook-activities/"><u>2024 Approved To Show or Not to Display Off-Facebook Activities</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/best-comparative-review-of-media-players-5kplayer-vs-kmplayer-on-mac-and-windows/"><u>Best Comparative Review of Media Players: 5KPlayer vs KMPlayer on Mac and Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/complete-removal-guide-how-to-fully-uninstall-quicktime-from-your-windows-pc-xp-vista-and-win-10/"><u>Complete Removal Guide: How To Fully Uninstall QuickTime From Your Windows PC (XP, Vista & Win 10)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/discover-the-best-no-cost-dvd-playback-solutions-for-windowsmac-platforms-our-expert-ratings-and-insights/"><u>Discover the Best No-Cost DVD Playback Solutions for WINDOWS/MAC Platforms: Our Expert Ratings & Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-ultimate-free-flash-player-for-mac-enjoy-seamless-flash-videos/"><u>Download Ultimate Free Flash Player for Mac: Enjoy Seamless Flash Videos</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/effektives-kopieren-von-lenovo-hard-disks-auf-solid-state-drives-mithilfe-fuhrender-cloning-software/"><u>Effektives Kopieren Von Lenovo Hard Disks Auf Solid State Drives Mithilfe Führender Cloning Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/expert-comparisons-comprehensive-analysis-of-top-4-uhd-tv-streaming-devices/"><u>Expert Comparisons: Comprehensive Analysis of Top 4 UHD TV Streaming Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-infinix-hot-40-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Infinix Hot 40 Phone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mp4-video-player-laden-gratis-und-voll-funktionsfahig-auf-windows-11-macos-herunterladen/"><u>MP4 Video Player Laden - Gratis Und Voll Funktionsfähig Auf Windows 11 / macOS Herunterladen</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-3-outstanding-free-usb-media-players-immediate-download-available/"><u>Top 3 Outstanding Free USB Media Players - Immediate Download Available</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-methods-for-converting-your-dvd-collection-into-high-quality-mp3-files/"><u>Top 5 Methods for Converting Your DVD Collection Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-simplified-han-characters/"><u>Understanding Simplified Han Characters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/video-mastery-without-relying-on-xsplit/"><u>Video Mastery Without Relying on Xsplit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y100? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player
-date: 2024-11-03T16:02:04.450Z
-updated: 2024-11-04T16:18:54.627Z
+date: 2024-11-10T16:19:45.615Z
+updated: 2024-11-13T18:07:45.699Z
 tags:
   - video-music-player
 categories:
@@ -51,10 +51,10 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -74,10 +74,16 @@ c. Navigate to "File -> Open Media File".
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
@@ -85,10 +91,10 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -106,24 +112,22 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>[New] 2024 Approved Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-mixed-media-with-color/"><u>[New] In 2024, Mastering Mixed Media with Color</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-core-understanding-of-narrative-frameworks/"><u>[Updated] 2024 Approved Core Understanding of Narrative Frameworks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-internet-laughter-fabricator/"><u>[Updated] Internet Laughter Fabricator</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-gaps-between-windows-and-wsl-with-post-update-strategies/"><u>Bridging Gaps Between Windows & WSL With Post-Update Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-performance-through-advanced-cookiebot-integration/"><u>Enhanced Performance Through Advanced Cookiebot Integration</u></a></li>
-<li><a href="https://win-docs.techidaily.com/guide-complet-comment-realiser-une-restauration-informatique-avec-google-drive/"><u>Guide Complet : Comment Réaliser Une Restauration Informatique Avec Google Drive</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-inter-device-image-sharing-expertise/"><u>In 2024, Inter-Device Image Sharing Expertise</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quick-tips-for-quality-animation-in-movie-maker/"><u>Quick Tips for Quality Animation in Movie Maker</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-captioning-in-fcpx-a-beginners-guide-to-adding-subtitles/"><u>Updated 2024 Approved Captioning in FCPX A Beginners Guide to Adding Subtitles</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-video-clipper-tools-our-top-5-picks/"><u>Updated 2024 Approved Free Video Clipper Tools Our Top 5 Picks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mac-users-learn-how-to-download-and-install-kinemaster/"><u>Updated 2024 Approved Mac Users Learn How to Download and Install KineMaster</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-make-movies-like-a-pro-best-windows-10-video-editors/"><u>Updated 2024 Approved Make Movies Like a Pro Best Windows 10 Video Editors</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-best-of-the-web-free-video-editors-for-online-use-for-2024/"><u>Updated Best of the Web Free Video Editors for Online Use for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-create-a-stunning-video-resume-4-top-tools-and-free-resources-for-2024/"><u>Updated Create a Stunning Video Resume 4 Top Tools and Free Resources for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-cut-trim-and-share-the-top-free-online-video-editing-platforms/"><u>Updated Cut, Trim, and Share The Top Free Online Video Editing Platforms</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-expert-approved-mkv-trimmers-for-mac/"><u>Updated Expert-Approved MKV Trimmers for Mac</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-video-production-top-free-adobe-premiere-plugins/"><u>Updated In 2024, Elevate Your Video Production Top Free Adobe Premiere Plugins</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/words-in-motion-a-guide-to-lively-animation-methods-for-2024/"><u>Words in Motion A Guide to Lively Animation Methods for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-top-live-broadcast-tech-for-industry-experts/"><u>[New] Top Live Broadcast Tech for Industry Experts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-travel-guide-youtubes-best-vlogs/"><u>[Updated] The Ultimate Travel Guide YouTube's Best Vlogs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-wi-fi-mesh-networks-worth-the-investment/"><u>Are Wi-Fi Mesh Networks Worth the Investment?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-steps-to-remove-drm-from-list-des-epotres-epub-files/"><u>Comprehensive Guide: Steps to Remove DRM From List Des Épôtres ePub Files</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>In 2024, Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
+<li><a href="https://win-guides.techidaily.com/navigating-the-future-of-connectivity-in-2er/"><u>Navigating the Future of Connectivity in 2Er:</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mac-video-editing-software-alternatives-to-pinnacle-studio/"><u>New 2024 Approved Mac Video Editing Software Alternatives to Pinnacle Studio</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-filmora-on-a-budget-how-to-get-it-without-breaking-the-bank-or-the-law-for-2024/"><u>New Filmora on a Budget How to Get It Without Breaking the Bank or the Law for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-from-still-to-stunning-how-to-add-the-ken-burns-effect-to-your-videos-for-2024/"><u>New From Still to Stunning How to Add the Ken Burns Effect to Your Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-animation-in-education-top-picks-for-teachers-and-educators/"><u>New In 2024, Animation in Education Top Picks for Teachers and Educators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-transform-your-photos-the-ultimate-guide-to-animation-tools/"><u>New In 2024, Transform Your Photos The Ultimate Guide to Animation Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-take-your-mobile-photography-to-the-next-level-best-time-lapse-apps/"><u>New Take Your Mobile Photography to the Next Level Best Time-Lapse Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-eliminating-startup-issues-in-windows-10-systems/"><u>Solution Found: Eliminating Startup Issues in Windows 10 Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/still-moments-from-moving-pictures-a-review-of-10-video-to-image-converters-for-2024/"><u>Still Moments From Moving Pictures A Review of 10 Video to Image Converters for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-ultimate-list-7-video-mergers-with-no-watermarks-for-2024/"><u>The Ultimate List 7 Video Mergers with No Watermarks for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-wireless-communicators-2024s-ultimate-list/"><u>Top-Rated Wireless Communicators - 2024'S Ultimate List</u></a></li>
+<li><a href="https://win-popular.techidaily.com/wechat-hasatara-ka-aaiifana-ya-edaraida-para-sathanatarata-kara-acachha-taraha-sa-parabthhata-cata-itahasa/"><u>WeChat हिस्ट्री को आईफोन या एंड्रॉइड पर स्थानांतरित करें: अच्छी तरह से प्रबंधित चैट इतिहास</u></a></li>
 </ul></div>
 

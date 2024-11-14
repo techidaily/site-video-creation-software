@@ -1,7 +1,7 @@
 ---
 title: Updated Unlock the Power of the Ken Burns Effect A Beginners Guide for 2024
-date: 2024-09-24T00:28:16.213Z
-updated: 2024-10-01T09:42:23.882Z
+date: 2024-11-07T12:56:49.417Z
+updated: 2024-11-14T01:04:52.598Z
 tags: 
   - video editing software
   - video editing
@@ -115,16 +115,10 @@ Seems a little complicated? Filmora allows users to do Ken Burns effect, or pan 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to add the Ken Burns Effect to Multiple Camera Movements?
@@ -137,10 +131,10 @@ Although you can apply a single Ken Burns movement to your image, you can still 
 4. Verify if multiple camera movements have been added.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Extensive Reading: Why Ken Burns Effect is Named after Ken Burns?**
@@ -156,10 +150,10 @@ Now, as you have learned the purpose of the Ken Burns Effect, you must be curiou
 ![ken-burns](https://images.wondershare.com/filmora/images/final-cut-pro/ken-burns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **What are the Applications of Ken Burns Effect?**
@@ -173,10 +167,10 @@ Adding animated effects to your pictures and videos makes them look gorgeous. Th
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -194,22 +188,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-comprehensive-capture-solutions-azs-reviews-and-backups/"><u>[New] 2024 Approved Comprehensive Capture Solutions - AZ's Reviews & Backups</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-open-access-to-the-masters-oeuvre/"><u>[New] Open Access to the Masters' Oeuvre</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-effortless-and-accurate-how-to-capture-every-hulu-playback-for-2024/"><u>[Updated] Effortless and Accurate How To Capture Every Hulu Playback for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-quick-recovery-of-twitch-broadcasts/"><u>[Updated] In 2024, The Quick Recovery of Twitch Broadcasts</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-enhancing-media-workflow-the-rise-of-magix-vpx/"><u>2024 Approved Enhancing Media Workflow The Rise of Magix VPX</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978271908-download-the-newest-windows-compatible-brother-hl-2240-printer-driver-now/"><u>Download the Newest Windows Compatible Brother HL-2240 Printer Driver Now</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-master-the-art-of-browsing-and-playing-fb-videos-via-appletv/"><u>In 2024, Master the Art of Browsing and Playing FB Videos via AppleTV</u></a></li>
-<li><a href="https://games-able.techidaily.com/nintendo-switchs-future-value-in-online-expansion/"><u>Nintendo Switch's Future: Value in Online Expansion?</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-intro-maker-pc-the-ultimate-list-of-online-and-offline-tools/"><u>Updated 2024 Approved Intro Maker PC The Ultimate List of Online and Offline Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mac-video-editing-made-easy-avs-editor/"><u>Updated 2024 Approved Mac Video Editing Made Easy AVS Editor</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-list-10-best-animated-text-generators-for-stunning-results/"><u>Updated 2024 Approved The Ultimate List 10 Best Animated Text Generators for Stunning Results</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-gif-accelerators-online-ios-and-android-tools/"><u>Updated 2024 Approved Top GIF Accelerators Online, iOS, and Android Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-creativity-5-best-lip-sync-apps-for-making-epic-videos/"><u>Updated 2024 Approved Unleash Your Creativity 5 Best Lip Sync Apps for Making Epic Videos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-cinematic-storytelling-with-final-cut-pro-x-tips-and-tricks/"><u>Updated In 2024, Cinematic Storytelling with Final Cut Pro X Tips and Tricks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-transform-your-footage-color-correction-in-final-cut-pro/"><u>Updated In 2024, Transform Your Footage Color Correction in Final Cut Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unlock-cross-platform-video-editing-a-chromebook-users-guide/"><u>Updated In 2024, Unlock Cross-Platform Video Editing A Chromebook Users Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/virtual-realms-deconstructed-insights-into-vr-ar-and-mr-for-2024/"><u>Virtual Realms Deconstructed Insights Into VR, AR, and MR for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/phoneplusandroid-discover-the-top-10-video-making-picks/"><u>[New] IPhone+Android Discover the Top 10 Video-Making Picks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-behind-the-scenes-insights-for-instagram-story-audience/"><u>[Updated] 2024 Approved Behind the Scenes Insights for Instagram Story Audience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-film-techniques-on-youtube-by-future-visionaries/"><u>2024 Approved Essential Film Techniques on YouTube by Future Visionaries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-generations-an-in-depth-look-at-openais-progress-from-gpt-1-through-gpt-n/"><u>Comparing Generations: An In-Depth Look at OpenAI’s Progress From GPT-1 Through GPT-N</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effective-techniques-for-chapterizing-your-mp4-videos/"><u>Effective Techniques for Chapterizing Your MP4 Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/efficient-conversion-techniques-from-h265-to-h264-video-codecs/"><u>Efficient Conversion Techniques From H.265 To H.264 Video Codecs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effortless-conversion-from-flac-to-wma-audio-files-on-windows/"><u>Effortless Conversion From FLAC to WMA Audio Files on Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/exploring-vp9-compatibility-with-handbrake-your-ultimate-guide/"><u>Exploring VP9 Compatibility with Handbrake - Your Ultimate Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/from-dvds-to-srt-the-ultimate-step-by-step-process-for-extracting-subtitles-easily/"><u>From DVDs to SRT: The Ultimate Step-By-Step Process for Extracting Subtitles Easily</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/guide-securing-online-versions-of-your-existing-movie-collection/"><u>Guide: Securing Online Versions of Your Existing Movie Collection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-spark-10c-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/offline-odyssey-finding-joy-in-mobile-gaming-without-the-web/"><u>Offline Odyssey: Finding Joy In Mobile Gaming Without the Web</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-apc-back-ups-be600m1-surge-protector-how-it-performs-with-usb-charging-capabilities-reviewed/"><u>The APC Back-UPS BE600M1 Surge Protector - How It Performs with USB Charging Capabilities Reviewed</u></a></li>
 </ul></div>
 

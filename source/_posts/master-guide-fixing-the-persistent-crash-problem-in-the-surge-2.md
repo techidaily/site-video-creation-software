@@ -1,7 +1,7 @@
 ---
 title: "Master Guide: Fixing the Persistent Crash Problem in The Surge 2"
-date: 2024-09-25T06:13:07.014Z
-updated: 2024-10-01T02:28:13.848Z
+date: 2024-11-07T04:11:45.231Z
+updated: 2024-11-14T03:01:06.935Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ The Ascent
 
  If The Ascent still keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of The Ascent crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers.
@@ -56,10 +63,10 @@ The Ascent
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Verify integrity of game files
@@ -70,13 +77,6 @@ The Ascent
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -99,19 +99,19 @@ The Ascent
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -130,24 +130,17 @@ The Ascent
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
 
-If the game still crashes, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If the game still crashes, try the next fix, below.
 
 ## Disable Movie / Film Grain, Depth Of Field, Post-Process Effects
 
@@ -180,13 +173,6 @@ If the game still crashes, try the next fix, below.
 
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Update MS Visual C++ Redistributables
 
  To ensure compatibility, you may also need to update your Microsoft Visual C++ redistributables, because the outdated Visual C++ redistributables may also trigger The Ascent crashing issues.
@@ -199,6 +185,13 @@ If the game still crashes, try the next fix, below.
 
  If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game, and may even block the game files. Sometimes it may also lead to the game crashing issues.
@@ -208,6 +201,19 @@ If the game still crashes, try the next fix, below.
  Run The Ascent and check if this issue persists after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix to perform a clean boot.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Perform a clean boot
 
@@ -226,23 +232,23 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -279,16 +285,24 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-twilight-assessment-diverse-ideas/"><u>[New] In 2024, Twilight Assessment Diverse Ideas</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-upside-down-visuals-unraveling-instagram-video-confusion/"><u>[Updated] Upside Down Visuals Unraveling Instagram Video Confusion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-dive-into-magix-video-pro-x-features/"><u>2024 Approved Dive Into Magix Video Pro X Features</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/easy-steps-to-overcome-runtime-errors-for-pandora-avatar-adventure-on-windows-systems/"><u>Easy Steps to Overcome Runtime Errors for 'Pandora Avatar Adventure' On Windows Systems</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-explore-some-available-opportunities-to-create-slow-motion-discover-the-best-slow-motion-video-editors-for-desktop-android-/"><u>New 2024 Approved Do You Want to Explore some Available Opportunities to Create Slow Motion? Discover the Best Slow-Motion Video Editors for Desktop, Android, and iPhone Here</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-magic-5-lite-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor Magic 5 Lite Black and White | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-6-plus-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 6 Plus</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-make-a-heartfelt-slideshow-with-music-a-beginners-guide/"><u>Updated Make a Heartfelt Slideshow with Music A Beginners Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-official-4-best-ways-to-get-filmora-discount-codes-for-2024/"><u>Updated Official 4 Best Ways to Get Filmora Discount Codes for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-should-you-buy-videopad-an-honest-review-and-recommendation-for-2024/"><u>Updated Should You Buy Videopad? An Honest Review and Recommendation for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-virtualdub-alternative-guide-features-and-pricing/"><u>Updated The Ultimate Virtualdub Alternative Guide Features and Pricing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expert-tips-to-download-and-save-instagram-media-from-your-computer/"><u>[New] In 2024, Expert Tips to Download and Save Instagram Media From Your Computer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-editing-and-enhancing-your-youtube-content/"><u>[Updated] Step-by-Step Editing and Enhancing Your YouTube Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funniest-memes-to-download-iphone/"><u>2024 Approved Funniest Memes to Download (iPhone)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1727404329866-mac/"><u>全功能Mac影片播放器：優化設計，免費提供適用任何媒體格式</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/free-download-advanced-frame-by-frame-playback-software-for-pc-and-mac-enthusiasts/"><u>Free Download: Advanced Frame-by-Frame Playback Software for PC & Mac Enthusiasts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/free-high-definition-4k-film-player-compatible-with-windows-11-systems/"><u>Free High-Definition 4K Film Player Compatible with Windows 11 Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/how-to-successfully-play-mov-files-for-free-alternative-solutions-to-quicktime-problems/"><u>How to Successfully Play MOV Files for Free - Alternative Solutions to QuickTime Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-v-purse-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor V Purse to Roku | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-tecno-pova-5-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Tecno Pova 5 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 15 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/perfecting-your-rl-game-captures-for-2024/"><u>Perfecting Your RL Game Captures for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/quickfix-how-to-troubleshoot-and-resolve-avi-not-playing-issues-in-macos-big-sur-with-quicktime/"><u>QuickFix: How to Troubleshoot and Resolve 'AVI Not Playing' Issues in macOS Big Sur with QuickTime</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-honor-x9b-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Honor X9b Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resolve-your-issue-troubleshooting-when-5kplayer-fails-to-start-or-stream/"><u>Resolve Your Issue: Troubleshooting When 5KPlayer Fails to Start or Stream</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resolving-the-cannot-play-mp3-files-error-in-windows-media-player/"><u>Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-ultimate-guide-to-the-top-five-4k-video-players-on-mac-compatible-with-4320p-resolution/"><u>The Ultimate Guide to the Top Five 4K Video Players on Mac Compatible with 4320P Resolution</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-rated-4k-ultra-hd-dvd-player-programs-for-viewing-stunning-4k-films/"><u>Top Rated 4K Ultra HD DVD Player Programs for Viewing Stunning 4K Films</u></a></li>
 </ul></div>
 

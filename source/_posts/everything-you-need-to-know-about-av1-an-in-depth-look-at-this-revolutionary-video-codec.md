@@ -1,7 +1,7 @@
 ---
 title: "Everything You Need to Know About AV1: An In-Depth Look at This Revolutionary Video Codec"
-date: 2024-11-09T17:58:01.367Z
-updated: 2024-11-13T17:25:17.485Z
+date: 2024-11-09T23:38:46.726Z
+updated: 2024-11-14T02:05:46.062Z
 tags:
   - video-music-player
 categories:
@@ -33,13 +33,6 @@ Con las noticias sobre el **códec AV1** aparecidas a principios de 2023, puede 
 [4\. ¿Qué soporta el códec de video AV1?](https://tools.techidaily.com/5kplayer/video-music-player/)   
 [5\. ¿Cómo descargar el códec de vídeo AV1?](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ¿Qué es el códec AV1?
 
 **AV1 - La tecnología de compresión de vídeo de nueva generación**
@@ -51,10 +44,10 @@ El códec de vídeo AV1, basado en el códec VP9 y VP10 de Google, es un formato
 AV1 es el producto de AOMedia (Alliance for Open Media) que está formada por empresas de semiconductores, proveedores de vídeo a la carta, productores de contenidos de vídeo, empresas de desarrollo de software y proveedores de navegadores web, con Google, Mozilla, Cisco, Microsoft, Netflix, Amazon e Intel como los siete miembros fundadores. Para diseñar un formato de vídeo que pueda ayudar a producir con rapidez vídeos web de alta definición de forma gratuita, se propuso el concepto de códec AV1 por primera vez en 2015 por estos siete gigantes de la tecnología y, finalmente, la especificación 1.0 para AV1 salió en 2018\. Viendo el gran beneficio del AV1, hoy en día más y más compañías de renombre, incluidas Apple, YouTube y Facebook, se han unido a AOM para ayudar a acelerar la propagación del AV1 y el reemplazo final de la HEVC de alto costo.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ¿Por qué se necesita urgentemente el AV1? \[Explicaciones detalladas\]
@@ -80,6 +73,13 @@ Comparado con el códec HEVC, el códec AV1 no necesita patentes. Mientras que c
 En 2013, VP9 fue sacado por Google para tener la misma tasa de compresión con HEVC. Comparado con el H.264/AVC, el VP9 es un 30% \~ 50% más eficiente. En cuanto al AV1 vs. VP9, el códec de vídeo AV1 ofrece una compresión 20% mejor que la VP9, mostrando así una calidad de imagen similar a menores velocidades de datos. Por ejemplo, Netflix ha probado que el AV1 ayuda a reducir el consumo de datos de Netflix hasta un 20% en comparación con el VP9 sin afectar a la calidad del vídeo.
 
 ![AV1 VS VP9](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/av1-vs-vp9.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _(Prueba de AV1 vs. VP9 de Bitmovin)_
 
@@ -114,22 +114,15 @@ La adopción del códec AV1 es diversa, lo que incluye servicios de streaming on
 La obvia deficiencia del códec de vídeo AV1 que encontramos a partir de ahora es que los algoritmos utilizados en AV1 son un poco más avanzados que los del HEVC, por lo que requiere un hardware y un software más potente para codificar o decodificar. Es por eso que ocurre el problema de que el AV1 no se reproduce, por eso YouTube advierte a sus usuarios con un mensaje de error como "todo los que supere los 480p requerirá un ordenador potente", y por eso el formato de vídeo AV1 no es popular entre el público en la actualidad. No importa, el AV1 será una superestrella al final con un futuro brillante.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### El futuro del códec de vídeo AV1
 
 Además de lo todo lo mencionado arriba compatible con AV1, AV1 se usará en más plataformas. Según las noticias, el AV1 aparecerá en las consolas de juegos, decodificadores, procesadores, tarjetas gráficas, chipsets, más televisores inteligentes de las marcas Samsung y LG, nuevos Fire TV y productos Roku, etc. Con todo, un mayor despliegue del AV1 que es imposible hoy en día, será posible en un futuro próximo.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ¿Cómo descargar el códec de vídeo AV1?
 
@@ -138,6 +131,13 @@ De hecho, la descarga del códec de vídeo AV1 es realmente necesaria para algui
 En la última versión, 5KPlayer añade soporte para la decodificación de vídeo AV1 para convertirse en un reproductor AV1 cualificado. Después de las pruebas, reproduce vídeos AV1 en 720/1080p HD y 4K hasta 30 fps/60 fps sin problemas. Aunque hay muchos sitios que ofrecen enlaces de descarga de códecs de vídeo AV1, no se garantiza que la fuente sea 100% segura. Como sabes, los códecs descargados de sitios inciertos pueden entrar en conflicto con tu programa e incluso dañar tu sistema informático. Es por eso que se recomienda 5KPlayer como tu reproductor AV1 para reproducir vídeos AV1 en Mac y Windows 10.
 
 ![5KPlayer Plays AV1](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/play-av1-video.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _(5KPlayer reproduce video AV1 en 4K)_
 
@@ -167,20 +167,17 @@ _**Fuente:**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/aximizing-videography-with-youtubes-creative-commons/"><u>[New] Maximizing Videography with YouTube's Creative Commons</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-effortless-video-downloads-at-fingertips-select-from-these-top-chrome-plugins/"><u>[Updated] Effortless Video Downloads at Fingertips Select From These Top Chrome Plugins</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/alternative-methods-for-saving-your-office-365-mail-avoid-using-outlook/"><u>Alternative Methods for Saving Your Office 365 Mail: Avoid Using Outlook</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-guide-to-legally-boosting-your-nvidia-gpu-power-while-keeping-warranty-intact/"><u>Expert Guide to Legally Boosting Your NVIDIA GPU Power While Keeping Warranty Intact</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mastering-pip-in-final-cut-pro-a-step-by-step-guide/"><u>New 2024 Approved Mastering PiP in Final Cut Pro A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-5-best-free-avi-video-rotators/"><u>New 2024 Approved Top 5 Best Free AVI Video Rotators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-avidemux-video-editing-how-to-crop-and-resize-your-footage/"><u>New Avidemux Video Editing How to Crop and Resize Your Footage</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-edit-mp4-files-like-a-pro-mac-and-windows-tutorial-for-beginners-for-2024/"><u>New Edit MP4 Files Like a Pro Mac and Windows Tutorial for Beginners for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-filmora-watermark-removal-hacks-with-and-without-payment/"><u>New In 2024, Filmora Watermark Removal Hacks With and Without Payment</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-complete-handbook-to-working-with-xml-files-in-fcpx/"><u>New In 2024, The Complete Handbook to Working with XML Files in FCPX</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-recording-video-games-3-simple-ways/"><u>New The Ultimate Guide to Recording Video Games 3 Simple Ways</u></a></li>
-<li><a href="https://win-forum.techidaily.com/os-mais-eficientes-apps-de-recuperacao-musical-para-desktops-e-celulares-guia-completo/"><u>Os Mais Eficientes Apps De Recuperação Musical Para Desktops E Celulares - Guia Completo</u></a></li>
-<li><a href="https://win-web3.techidaily.com/step-by-step-guide-restoring-images-from-your-computers-trash/"><u>Step-by-Step Guide: Restoring Images From Your Computer's Trash</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-perfect-harmony-of-sound-and-hygiene-expert-advice-for-refurbishing-home-stereo-speakers/"><u>The Perfect Harmony of Sound & Hygiene: Expert Advice for Refurbishing Home Stereo Speakers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-s17t-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo S17t Device</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-invisible-trail-hidden-steps-for-tracking-whatsapp-calls-for-2024/"><u>[New] The Invisible Trail Hidden Steps for Tracking WhatsApp Calls for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-science-of-shareable-hashtags-that-gain-traction/"><u>[New] The Science of Shareable Hashtags That Gain Traction</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/outube-music-hits-2023s-most-praised-video-responses-for-2024/"><u>[New] YouTube Music Hits 2023'S Most Praised Video Responses for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96489569-9781578592579-angels-a-to-z/"><u>Angels A to Z | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dont-miss-out-grab-tg-pro-at-a-steep-discount-of-75-this-cyber-monday-a-game-changer-for-your-m3-mac-spotted/"><u>Don't Miss Out: Grab TG Pro at a Steep Discount of 75% This Cyber Monday - A Game-Changer for Your M3 Mac, Spotted</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-the-role-of-b-roll-in-polishing-video-projects/"><u>In 2024, The Role of B-Roll in Polishing Video Projects</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-designing-effective-lower-thirds-in-final-cut-pro-x-for-2024/"><u>New Designing Effective Lower Thirds in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-bring-your-invitations-to-life-top-video-maker-apps-for-mobile/"><u>New In 2024, Bring Your Invitations to Life Top Video Maker Apps for Mobile</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-convert-webm-to-mp4-with-ease-the-best-10-converters/"><u>New In 2024, Convert WebM to MP4 with Ease The Best 10 Converters</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-from-snapshots-to-blockbusters-the-ultimate-video-enhancement-tool/"><u>New In 2024, From Snapshots to Blockbusters The Ultimate Video Enhancement Tool</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-ultimate-list-of-sony-vegas-alternatives-for-windows-users/"><u>New In 2024, The Ultimate List of Sony Vegas Alternatives for Windows Users</u></a></li>
 </ul></div>
 

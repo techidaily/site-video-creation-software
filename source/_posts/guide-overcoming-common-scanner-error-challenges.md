@@ -1,7 +1,7 @@
 ---
 title: "Guide: Overcoming Common Scanner Error Challenges"
-date: 2024-09-25T06:31:31.865Z
-updated: 2024-10-01T02:42:05.006Z
+date: 2024-11-11T21:02:45.630Z
+updated: 2024-11-14T11:25:21.996Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 6. [Free up disk space](https://tools.techidaily.com/drivereasy/download/)
 7. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Remove periphery devices
 
@@ -65,16 +58,23 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
 3. Click**Sound, video and game controllers** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Right-click on Conexant and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the on-screen instructions to finish the process.
 6. Reboot your PC and run Windows Update again. You should be able to finish the feature upgrade to 20H2.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable antivirus
 
@@ -99,17 +99,30 @@ If the error persists, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/troubleshoot1.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/troubleshoot2.jpg)
 4. Once the process is finished, reboot your PC and update Windows again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the error persists, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -133,37 +146,10 @@ Here’s how to fix it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -176,24 +162,26 @@ Here’s how to fix it:
 2. Type**cmd** and press **Shift** +**Ctrl** +**Enter** together on your keyboard to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/Snap825.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Restart your computer to check the blue screen issue is fixed or not.
 
- If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
-
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
 ### Fix 6: Free up disk space
 
@@ -221,10 +209,10 @@ If you want to reduce the amount of space being used:
 2. Click_the disk you’re going to clean up_ .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f021078a01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Check the space usage of_each data type_ . If you want to manage the usage of a type,**click it** to view more details.  
@@ -235,6 +223,13 @@ If you want to reduce the amount of space being used:
    * **Desktop**  
    * …  
    ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f07dd26e5a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This should free up a lot of space for your Windows 10 computer. Reboot your PC and update your system.
 
@@ -265,22 +260,24 @@ If you want to reduce the amount of space being used:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-best-green-screen-recorders-how-to-use-them-for-2024/"><u>[Updated] Best Green Screen Recorders How to Use Them for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-create-the-best-canon-time-lapse-video/"><u>[Updated] Create the Best Canon Time-Lapse Video</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-places-for-discovering-premium-soundtracks-from-instagram-and-designing-exceptional-ringtone-alerts-for-2024/"><u>[Updated] Top Places for Discovering Premium Soundtracks From Instagram & Designing Exceptional Ringtone Alerts for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-how-to-share-igtv-videos-to-facebook-3-ways/"><u>2024 Approved How to Share IGTV Videos to Facebook [3 Ways]</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bypassing-microphone-issues-for-enhanced-vr-fast-solutions-on-the-oculus-rift-s-2024/"><u>Bypassing Microphone Issues for Enhanced VR: Fast Solutions on the Oculus Rift S - 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/discover-the-legacy-of-felix-de-la-concepcion-influential-artist-and-cultural-icon/"><u>Discover the Legacy of Félix De La Concepción: Influential Artist and Cultural Icon</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-10-premier-online-systems-for-screen-saving/"><u>In 2024, 10 Premier Online Systems for Screen Saving</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-malwarebytes-connectivity-woes-on-1011-windows-pcs/"><u>Mastering Malwarebytes Connectivity Woes on 10/11 Windows PCs</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-final-cut-pro-color-grading-essentials-mastering-seamless-matches-in-your-video-edits/"><u>Updated 2024 Approved Final Cut Pro Color Grading Essentials Mastering Seamless Matches in Your Video Edits</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro/"><u>Updated 2024 Approved How to Find Free Sites for Sound Effect and Add Them in Final Cut Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-transform-your-clips-2-simple-methods-for-creating-time-lapse-masterpieces/"><u>Updated 2024 Approved Transform Your Clips 2 Simple Methods for Creating Time Lapse Masterpieces</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-windows-live-movie-maker-tutorial-easy-video-splitting-techniques/"><u>Updated 2024 Approved Windows Live Movie Maker Tutorial Easy Video Splitting Techniques</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-bring-your-memories-to-life-how-to-create-engaging-home-dvds-for-2024/"><u>Updated Bring Your Memories to Life How to Create Engaging Home DVDs for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-free-filmora-13-editor-download-for-windows-and-mac/"><u>Updated Free Filmora 13 Editor Download For Windows and Mac</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-smooth-transitions-made-easy-2-methods-for-fading-audio-in-final-cut-pro/"><u>Updated In 2024, Smooth Transitions Made Easy 2 Methods for Fading Audio in Final Cut Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-guide-to-cheap-film-editing-software/"><u>Updated In 2024, The Ultimate Guide to Cheap Film Editing Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-profitability-probe-dailymovement-versus-youtubes-financial-edge/"><u>[New] 2024 Approved Profitability Probe DailyMovement Versus YouTube's Financial Edge</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/iuoajoodroodgplusodhoodjuodvoodioeuuplusmdouasruw9seakgoihkzrmiyvjgaplj5bjgorml6njgytmlrnms5xjgpljgztntlnku4vvvihjgi0i/"><u>「レッツノート画面撮影技術:手っ取り早い方法をご紹介！」</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ck-guide-to-chroma-key-background/"><u>A Quick Guide to Chroma Key Background</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/easy-to-use-free-instagram-to-mp4-converters-for-all-oss/"><u>Easy-to-Use Free Instagram to MP4 Converters for All OSs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effortless-guide-for-unscrambling-and-ripping-dvds-using-handbrake-without-compromising-video-quality/"><u>Effortless Guide for Unscrambling and Ripping DVDs Using HandBrake Without Compromising Video Quality</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effortlessly-cut-videos-without-spending-money-a-how-to-for-windows-users/"><u>Effortlessly Cut Videos without Spending Money - A How-To for Windows Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effortlessly-switch-video-formats-with-our-top-picks-for-the-ultimate-free-codec-changer/"><u>Effortlessly Switch Video Formats with Our Top Picks for the Ultimate Free Codec Changer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/free-ways-to-capture-browser-sounds-three-proven-techniques/"><u>Free Ways to Capture Browser Sounds: Three Proven Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/freed-upfront-to-vr-headset-settings/"><u>Freed Upfront to VR Headset Settings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level-for-2024/"><u>From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/guide-connecting-and-using-foobar2000-for-listening-to-youtube-music-channels/"><u>Guide: Connecting and Using Foobar2000 for Listening to YouTube Music Channels</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/how-to-eliminate-audio-glitches-in-windows-10-and-11-essential-tips/"><u>How to Eliminate Audio Glitches in Windows 10 & 11 - Essential Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-a54-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy A54 5G Without PUK Codes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-insert-audio-files-into-powerpoint-sequences/"><u>In 2024, Insert Audio Files Into PowerPoint Sequences</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/line-music/"><u>LINE MUSICから最高級サウンドを保存する方法 - ステップバイステップチュートリアル</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/movwindows-114/"><u>MOV形式で画像の回転方法をWindows 11にて学ぶ上位4選択</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-imovie-essentials-integrating-audio-elements-in-your-projects/"><u>New In 2024, IMovie Essentials Integrating Audio Elements in Your Projects</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-power-of-croatian-revealing-the-top-7-learning-benefits-now/"><u>The Power of Croatian: Revealing the Top 7 Learning Benefits Now!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
 </ul></div>
 

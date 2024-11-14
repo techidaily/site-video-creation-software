@@ -1,7 +1,7 @@
 ---
 title: & macOS Users
-date: 2024-11-10T16:22:13.948Z
-updated: 2024-11-13T18:45:43.496Z
+date: 2024-11-07T03:28:24.797Z
+updated: 2024-11-14T08:41:17.325Z
 tags:
   - video-music-player
 categories:
@@ -32,11 +32,31 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
 
 ![Can't Play AV1 on Windows 10](https://www.5kplayer.com/video-music-player/img/av1-not-playing-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As a matter of fact, Windows 10 doesn't supply a native application which contains the required [AV1 codec](https://tools.techidaily.com/5kplayer/video-music-player/) to support AV1 playback on Windows 10 as of now. To enable your Movies & TV app or Edge to open AV1 videos on Windows 10 successfully, you need to download Microsoft's AV1 Video Extension to power the default media player.
 
@@ -45,10 +65,10 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
@@ -68,13 +88,6 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
 
 AV1 won't play on Windows 10/Mac not only because AV1 video codec is new but also it is a heavier codec requiring more powerful media software to decode it. According to the test from Bitmovin, current AV1 codec offers about 20% and 30% better compression rate compared to VP9 and HEVC respectively, and it is predicted that the compression rate should be 50% better. What does that mean? It means that video encoded with AV1 will contain more details compared to the same size video encoded with VP9 or HEVC. And the media player for AV1 playback should be typically designed to meet the demand of playing videos with such high compression standard.
@@ -85,20 +98,13 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -116,19 +122,14 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-recovery-mode-on-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-narzo-60x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme Narzo 60x 5G Phones with/without a PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/leading-note-taking-tools-to-revolutionize-your-organization-skills/"><u>Leading Note-Taking Tools to Revolutionize Your Organization Skills</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-beyond-powerdirector-the-best-mobile-video-editing-apps-of-for-2024/"><u>New Beyond PowerDirector The Best Mobile Video Editing Apps Of for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-stop-motion-animation-tools-for-mobile-devices/"><u>New In 2024, Top Stop Motion Animation Tools for Mobile Devices</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-say-goodbye-to-reddit-searching-filmora-deals-ahead/"><u>New Say Goodbye to Reddit Searching Filmora Deals Ahead</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-stunning-4k-videos-you-need-to-see-for-2024/"><u>New Stunning 4K Videos You Need to See for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-10-best-free-video-cutters-for-mp4-files/"><u>New The 10 Best Free Video Cutters for MP4 Files</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-unbeatable-free-game-video-editing-solutions/"><u>New Unbeatable Free Game Video Editing Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-watch-your-local-videos-on-tv-chromecast-streaming-tutorial-for-all-devices-for-2024/"><u>New Watch Your Local Videos on TV Chromecast Streaming Tutorial for All Devices for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/quantity-of-videos-on-128gb-storage-media-for-2024/"><u>Quantity of Videos on 128GB Storage Media for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/superior-5-digital-capture-devices/"><u>Superior 5 Digital Capture Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-frozen-frontier-surviving-the-unceasing-cold-of-our-renewed-reality/"><u>The Frozen Frontier: Surviving the Unceasing Cold of Our Renewed Reality</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-tecno-pova-5-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Tecno Pova 5 Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ealthy-web-showrunners-for-2024/"><u>[New] Wealthy Web Showrunners for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-tips-for-effective-mov-file-saving-on-windows-11/"><u>[Updated] In 2024, Tips for Effective MOV File Saving on Windows 11</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1-ubertragung-von-kostenloser-nicht-gekaufter-musik-vom-iphone-auf-deinen-pc-fur-den-personlichen-gebrauch/"><u>1. Übertragung Von Kostenloser, Nicht Gekaufter Musik Vom iPhone Auf Deinen PC Für Den Persönlichen Gebrauch</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-joke-juggernauts-top-ranked-text-based-jokesters/"><u>2024 Approved Joke Juggernauts Top Ranked Text-Based Jokesters</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726027732570-avidemux/"><u>Avidemuxでビデオファイルの融合手順解説</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/vlc-hacks-stop-showing-subtitles-on-screen-fast-3-effective-fixes/"><u>VLC Hacks: Stop Showing Subtitles on Screen Fast - 3 Effective Fixes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-emotion-ai-and-can-it-really-understand-our-feelings/"><u>What Is Emotion AI and Can It Really Understand Our Feelings?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726027619930-xmedia-recode/"><u>XMedia Recodeのガイド: ビデオとオーディオファイル統合手順</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/1726027741265-windows-10/"><u>オンラインでWindows 10による高品質音声編集テクニックを学ぶ</u></a></li>
 </ul></div>
 

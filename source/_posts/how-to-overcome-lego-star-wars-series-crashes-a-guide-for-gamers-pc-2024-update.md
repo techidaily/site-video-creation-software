@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Lego Star Wars Series Crashes - A Guide for Gamers (PC, 2024 Update)
-date: 2024-09-27T09:51:12.730Z
-updated: 2024-09-30T22:51:42.363Z
+date: 2024-11-12T02:33:07.075Z
+updated: 2024-11-13T21:05:06.032Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Check your **Operating System, Processor, Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-92.png)
@@ -86,13 +79,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Relaunch Steam and_Arma 3_ to test your issue.
 
  You can hopefully play_Arma 3_ without crashing now. If the problem still exists, then go ahead with the fix below.
@@ -112,22 +98,29 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try relaunching_Arma 3_ to see if this has resolved your issue. If this didn’t help, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -140,10 +133,10 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
@@ -155,6 +148,19 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching _Arma 3_  to see if it works properly now. If the crash error still happens, go ahead with the fix below.
 
@@ -191,13 +197,6 @@ OR
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -245,15 +244,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Arma 3**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-44.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
@@ -313,6 +319,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-37.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the scans to be complete, then relaunch_Arma 3_ to reinstall BattlEye. If the game still crashes, try the next fix.
 
 ---
@@ -350,16 +363,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -378,13 +391,6 @@ OR
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
@@ -415,22 +421,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>[Updated] Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-exploring-the-validity-of-instagram-photos/"><u>[Updated] In 2024, Exploring the Validity of Instagram Photos</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-blacklisted-in-these-three-countries/"><u>Facebook Blacklisted in These Three Countries</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-get-the-sound-back-in-pc-warzone-games-expert-fixes-and-advice/"><u>How to Get the Sound Back in PC Warzone Games - Expert Fixes & Advice</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y200-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo Y200 Phone Without Password?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g04frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G04FRP Lock</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/instant-troubleshooting-and-auto-repair-for-windows-10-devices/"><u>Instant Troubleshooting and Auto-Repair for Windows 10 Devices</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-launch-issues-playing-forza-horizon-4-smoothly-in-the-year-2024/"><u>Overcome Launch Issues: Playing Forza Horizon 4 Smoothly in the Year 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essence-of-chuckles-in-single-photos/"><u>The Essence of Chuckles in Single Photos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-cut-trim-and-share-the-top-free-online-video-editing-platforms/"><u>Updated 2024 Approved Cut, Trim, and Share The Top Free Online Video Editing Platforms</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mac-gopro-editing-101-from-import-to-export/"><u>Updated 2024 Approved Mac GoPro Editing 101 From Import to Export</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mac-os-video-editing-lumafusion-installation-and-top-alternatives/"><u>Updated 2024 Approved Mac OS Video Editing Lumafusion Installation and Top Alternatives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-protect-privacy-learn-how-to-blur-faces-in-photos-and-videos-with-these-10-free-apps/"><u>Updated 2024 Approved Protect Privacy Learn How to Blur Faces in Photos and Videos with These 10 Free Apps</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-best-split-screen-video-editor-online-and-offline/"><u>Updated Best Split Screen Video Editor Online & Offline</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-break-free-from-windows-10-photos-discover-the-best-image-editing-tools-for-2024/"><u>Updated Break Free From Windows 10 Photos Discover the Best Image Editing Tools for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-s-best-video-editors-for-high-resolution-proxy-video-editing/"><u>Updated In 2024, S Best Video Editors for High-Resolution Proxy Video Editing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-rated-4k8k-video-editors-expert-picks/"><u>Updated In 2024, Top-Rated 4K/8K Video Editors Expert Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tudy-with-stars-the-finest-historical-channels-for-students-and-enthusiasts/"><u>[New] Study with Stars The Finest Historical Channels for Students & Enthusiasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-edge-mastering-the-art-of-360-videos-for-2024/"><u>[Updated] Facebook's Edge Mastering the Art of 360 Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-improve-conference-efficiency-webcam-assisted-powerpoint-for-2024/"><u>[Updated] Improve Conference Efficiency Webcam-Assisted PowerPoint for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/"><u>2024 Approved Clear Obstacle YouTube Tweets on Google Chrome</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/adopting-cloud-solutions-trustid-implements-abbyy-ocr-for-enhanced-identity-verification/"><u>Adopting Cloud Solutions: TrustID Implements ABBYY OCR for Enhanced Identity Verification</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/exciting-amds-hd-6950-graphics-update-on-windows-11/"><u>Exciting: AMD's HD 6950 Graphics Update on Windows 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/how-to-convert-and-add-an-flv-file-into-your-project-in-windows-movie-maker/"><u>How to Convert and Add an FLV File Into Your Project in Windows Movie Maker</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-magix-acid-pro-critique-and-comparable-products/"><u>In 2024, Magix ACID Pro Critique & Comparable Products</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/iphonesandroid/"><u>IPhonesとAndroidスマートフォンにおいて、任意の録音を着信メロディに転用する具体的手順</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/leading-programs-to-convert-and-watch-flvv-files-on-both-windows-and-macos-systems/"><u>Leading Programs to Convert and Watch FLVV Files on Both Windows and macOS Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/quick-and-easy-guide-how-to-change-trec-videos-into-avi-with-minimal-fuss/"><u>Quick and Easy Guide: How To Change TREC Videos Into AVI with Minimal Fuss</u></a></li>
+<li><a href="https://win-blog.techidaily.com/runescape-crash-solutions-ensuring-a-smooth-gaming-experience/"><u>RuneScape Crash Solutions: Ensuring a Smooth Gaming Experience</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/simple-guide-transforming-your-dvds-into-avi-files-without-hitch/"><u>Simple Guide: Transforming Your DVDs Into AVI Files Without Hitch</u></a></li>
 </ul></div>
 

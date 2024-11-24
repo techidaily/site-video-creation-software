@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enable MP4 Video Support in Windows Media Player"
-date: 2024-11-06T21:14:18.397Z
-updated: 2024-11-14T05:26:51.777Z
+date: 2024-11-17T21:31:11.570Z
+updated: 2024-11-23T22:15:05.426Z
 tags:
   - video-music-player
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Play MP4 Files on Windows/Mac \[Solved\]
 
@@ -40,6 +44,10 @@ Then your default web browser will open a page that includes information about t
 
 ![Windows Media Player MP4 Codec Support](https://www.5kplayer.com/video-music-player/img/5kp-play-mp4-wmp-zjy-001.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It is obvious that **Windows Media Player 12 supports MP4** video and audio files, including .m4a, .mp4, .m4v, .mp4v, .3g2, .3gp2, .3gp, .3gpp, but codecs like HEVC H.263/H.264/H.265, MPEG-4 ASP, H.264/MPEG-4 AVC,H.263, VC-1, Dirac, MPEG-2/4 (HE)-AAC, AC-3, Apple Lossless, ALS, SLS, Vorbis(with private objectTypeIndication) may not be supported by your Windows Media Player. Therefore, if you are holding a MP4 file encoded in H.264, your Windows Media Player 12 cannot help you out. 
 
 Windows Media Player upgrade can only help you get partial MP4 files open successfully. If WMP upgrade cannot solve MP4 playback issue, you may have to consider other approaches. 
@@ -53,10 +61,7 @@ Windows Media Player MP4 codec pack can be downloaded from its official website 
 Why not convert the MP4 into Windows media player supported format like WMV, AVI? [WinX HD Video Converter](https://tools.techidaily.com/5kplayer/products/) is recommended here for quality and speedy conversion.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play MP4 on Windows Media Player Alternative –[5KPlayer](https://tools.techidaily.com/5kplayer/products/)
@@ -64,10 +69,7 @@ Why not convert the MP4 into Windows media player supported format like WMV, AVI
 Everything has its limitations, but we can gather their merits for the most efficient usage. Windows media player may not support some MP4 codecs, but 5KPlayer can make up that defect and offer a lot more utilities. It [plays almost all file formats](https://tools.techidaily.com/5kplayer/video-music-player/) including MP4 (HEVC H.263/H.264/H.265, AAC), OGG, WMV, MKV, FLV, AVI etc and can even [convert MP4 into MP3](https://tools.techidaily.com/5kplayer/youtube-download/)/AAC formats. From the above codecs you can see that HD/UHD/FUHD videos are also supported by 5KPlayer. Click for more [alternatives to Window Media Player playing MP4](https://tools.techidaily.com/5kplayer/video-music-player/). 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Play MP4 on Windows Media Player Alternative -5KPlayer?
@@ -83,10 +85,7 @@ Step 2\. Import the MP4 to Windows Media Player alternative through the ways bel
 ![Free 5KPlayer for 4K Resolution Videos](https://www.5kplayer.com/video-music-player/img/download-8k-movies.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And then you can enjoy the MP4 movie/music right away. You can also switch audio tracks, change aspect ratio, manage your downloaded MP4 videos, and [insert subtitles to MP4 files](https://tools.techidaily.com/5kplayer/video-music-player/) and so much more.
@@ -94,13 +93,6 @@ And then you can enjoy the MP4 movie/music right away. You can also switch audio
 **Note:** As a powerful [MP4 media player](https://tools.techidaily.com/5kplayer/video-music-player/), playing MP4 videos on Windows/Mac is just a basic function of 5KPlayer. It also [solves MP4 not playing in QuickTime](https://tools.techidaily.com/5kplayer/video-music-player/) and allows you to free download MP4 online music videos like Wildest Dreams MP4, Hello etc. Free download 5KPlayer to explore more.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,22 +109,22 @@ And then you can enjoy the MP4 movie/music right away. You can also switch audio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-knowledge-for-recording-movies-anywhere/"><u>[New] 2024 Approved Essential Knowledge for Recording Movies Anywhere</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-textual-brilliance-in-media-exploring-the-best-effects/"><u>[New] 2024 Approved Textual Brilliance in Media Exploring the Best Effects</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-windows-10-must-have-techniques/"><u>[Updated] Navigating Windows 10 Must-Have Techniques</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-podcast-summary-genius-guidance-and-examples/"><u>2024 Approved Podcast Summary Genius Guidance & Examples</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/2024-approved-the-ultimate-guide-to-free-wmv-video-editing-software/"><u>2024 Approved The Ultimate Guide to Free WMV Video Editing Software</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/anleitung-zur-wiederherstellung-von-mbr-partitionsimages-auf-modernen-uefi-kompatiblen-festplatten/"><u>Anleitung Zur Wiederherstellung Von MBR-Partitionsimages Auf Modernen UEFI-Kompatiblen Festplatten</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-software-solutions-manage-share-and-backup-chatgpt-dialogue-records/"><u>Best Software Solutions: Manage, Share & Backup ChatGPT Dialogue Records</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-xiaomi-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Xiaomi</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-wait-is-over-filmora-x-unveils-arm-support/"><u>New 2024 Approved The Wait Is Over Filmora X Unveils ARM Support</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-audio-plays-a-vital-role-in-every-video-shot-by-beginners-and-professionals-thus-if-you-are-a-mac-user-get-to-know-how-to-remove-background-noise-in-fin/"><u>New Audio Plays a Vital Role in Every Video Shot by Beginners and Professionals. Thus, if You Are a Mac User, Get to Know How to Remove Background Noise in Final Cut Pro X in This Article for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-easy-video-flipping-tips-and-tricks-for-a-pro-look/"><u>New In 2024, Easy Video Flipping Tips and Tricks for a Pro-Look</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-screen-and-webcam-recording-the-top-10-windows-10-tools/"><u>New Screen and Webcam Recording The Top 10 Windows 10 Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-editing-sony-digital-camcorder-videos-for-stunning-results-for-2024/"><u>New The Ultimate Guide to Editing Sony Digital Camcorder Videos for Stunning Results for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-10-video-animation-apps-for-mobile-devices-for-2024/"><u>New Top 10 Video Animation Apps for Mobile Devices for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-tutorial-on-how-to-switch-from-swf-to-mp4-video-file-conversion/"><u>Ultimate Tutorial on How to Switch From SWF to MP4 Video File Conversion</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-make-your-memories-shine-a-final-cut-pro-slideshow-creation-guide-for-2024/"><u>Updated Make Your Memories Shine A Final Cut Pro Slideshow Creation Guide for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-virtualdub-is-it-still-the-best-video-editor-top-alternatives-for-2024/"><u>Updated Virtualdub Is It Still the Best Video Editor? Top Alternatives for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-free-video-template-resources/"><u>2024 Approved Top Free Video Template Resources</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/complete-guide-timer-addition-to-video-broadcast-platforms/"><u>Complete Guide Timer Addition to Video Broadcast Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-the-curve-with-playstation-portal-release-timeline-price-range-and-specifications-reviewed/"><u>Get Ahead of The Curve with PlayStation Portal - Release Timeline, Price Range & Specifications Reviewed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-deciphering-youtube-monetization-success-codes/"><u>In 2024, Deciphering YouTube Monetization Success Codes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-designs-unleashed-comprehensive-guide-to-animation-suites/"><u>Innovative Designs Unleashed Comprehensive Guide to Animation Suites</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-telegram-strategies-for-enhanced-promotions/"><u>Mastering Telegram Strategies for Enhanced Promotions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-nokia-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Nokia has been deleted.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-lava-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Lava</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-crop-resize-and-reform-mastering-video-shape-editing/"><u>Updated 2024 Approved Crop, Resize, and Reform Mastering Video Shape Editing</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-fcpx-compression-made-easy-a-practical-handbook/"><u>Updated 2024 Approved FCPX Compression Made Easy A Practical Handbook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mediamolder-for-mac/"><u>Updated 2024 Approved MediaMolder for Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-time-lapse-apps-for-mobile-phones/"><u>Updated 2024 Approved The Ultimate Guide to Time-Lapse Apps for Mobile Phones</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-convert-mp4-to-mp3-best-apps-for-iphone-and-android-for-2024/"><u>Updated Convert MP4 to MP3 Best Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-whiteboard-animation-software-top-picks-for-windows-and-mac-users-for-2024/"><u>Updated Free Whiteboard Animation Software Top Picks for Windows and Mac Users for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-list-of-3d-video-software-you-cant-miss/"><u>Updated In 2024, The Ultimate List of 3D Video Software You Cant Miss</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unlock-stunning-bokeh-best-apps-for-iphone-and-android/"><u>Updated In 2024, Unlock Stunning Bokeh Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo T2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mac Vs. PC: Ultimate Guide to Fixing Audio-Video Desynchronization"
-date: 2024-11-06T19:19:21.455Z
-updated: 2024-11-14T06:49:06.367Z
+date: 2024-11-21T18:47:55.622Z
+updated: 2024-11-23T16:23:15.770Z
 tags:
   - video-music-player
 categories:
@@ -18,21 +18,26 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Sync Audio And Video Ultimate Guide
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
 
 Audio and video out of sync is no rare thing if you play 4K HD videos with an aged computer. In most cases it's audio delay from video, only a few subtitle delay \[VLC\] in A-V sync. This guide tackles how to sync audio and video on Mac/PC as well as YouTube video out of sync respectively. Tried and true even for Mac and Windows with 2GB-RAM.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Sync Audio and Video: Audio Delay & Video Delay
 
 ![Audio and video out of sync solved](https://www.5kplayer.com/video-music-player/../airplay/img/5kplayer-solveairdelay-yxt-030302.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Audio and video out of sync happens because a media player employs different parts of its kernel to process the AV-output. Though compressed into one codec pack, video files are bigger than audio, thus generating incorrect timing.  
@@ -57,26 +62,12 @@ Audio and video out of sync happens because a media player employs different par
 
 ![Netflix icon](https://www.5kplayer.com/video-music-player/../airplay/img/netflix-hp.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2\. Netflix Audio out of Sync**  
  1) Go to the bottom in Netflix.  
  2) Hit Help Center.  
  3) Then click on Internet Connection Speed Recommendations.  
  4) Then click on Video Quality, set to medium \[recommended\].  
  5) Clear the box that reads, "Prefer HTML5 player instead of Silverlight."
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Sync Audio and Video with 5KPlayer on Mac/PC?
 
@@ -90,15 +81,16 @@ Audio and video out of sync happens because a media player employs different par
 
 ![How to synd audio and video](https://www.5kplayer.com/video-music-player/../airplay/img/5kplayer-solveairdelay-yxt-030302.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As a free [sync software](https://tools.techidaily.com/5kplayer/products/) for MKV AVI MP4 videos, 5KPlayer is adepting in tackling multi-media problems like [4K downloader error](https://tools.techidaily.com/5kplayer/youtube-download/), [Netflix won't play](https://tools.techidaily.com/5kplayer/video-music-player/), HBO Go streaming to Apple TV problems once and for all. If you are into more professional video editing tricks, please refer to [how to edit videos with 5KPlayer](https://tools.techidaily.com/5kplayer/video-music-player/).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -116,22 +108,20 @@ As a free [sync software](https://tools.techidaily.com/5kplayer/products/) for M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-secrets-to-maximizing-youtube-traffic-with-optimized-metadata/"><u>[New] 2024 Approved Secrets to Maximizing YouTube Traffic with Optimized Metadata</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-countdown-creation-in-obs-step-by-step-guide/"><u>[New] In 2024, Countdown Creation in OBS Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-mac-hd-frame-gems-guide-char-limit-156/"><u>[New] Top Mac HD Frame Gems Guide (Char Limit 156)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-instructions-clearing-stored-videos-on-youtubes-watchlater-for-2024/"><u>[Updated] Instructions Clearing Stored Videos on YouTube's Watchlater for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/acer-xfa240-assessment-emphasizing-utility-beyond-design/"><u>Acer XFA240 Assessment: Emphasizing Utility Beyond Design</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/all-about-flv-files-unveiling-the-basics-and-steps-to-access-your-flash-video-content/"><u>All About FLV Files: Unveiling the Basics and Steps to Access Your Flash Video Content</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/alternative-methods-for-full-screen-recording-on-windows-nx-11-excluding-xbox-game-bar-tools/"><u>Alternative Methods for Full-Screen Recording on Windows nX 11 Excluding Xbox Game Bar Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/auditory-trimming-toolkit-utilizing-vlc-to-minimize-audio-files-efficiently/"><u>Auditory Trimming Toolkit: Utilizing VLC to Minimize Audio Files Efficiently</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/cam-cover-selection-made-simple-with-our-10-picks/"><u>Cam Cover Selection Made Simple with Our 10 Picks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/convert-mxf-files-free-top-7-methods-for-pc-and-mac-users/"><u>Convert MXF Files Free: Top 7 Methods for PC & Mac Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/discover-the-top-6-free-tools-for-seamless-video-conversion-without-freemake/"><u>Discover the Top 6 Free Tools for Seamless Video Conversion Without Freemake!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/easy-guide-transforming-videocasts-into-wmv-format-and-reversing-the-process/"><u>Easy Guide: Transforming Videocasts Into WMV Format & Reversing the Process</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-infinix-hot-30i-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Infinix Hot 30i</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/effortless-guide-for-unscrambling-and-ripping-dvds-using-handbrake-without-compromising-video-quality/"><u>Effortless Guide for Unscrambling and Ripping DVDs Using HandBrake Without Compromising Video Quality</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/effortlessly-cut-videos-without-spending-money-a-how-to-for-windows-users/"><u>Effortlessly Cut Videos without Spending Money - A How-To for Windows Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-invert-colors-in-digital-photos-in-2024/"><u>How to Invert Colors in Digital Photos, In 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/wave-warriors-cam-selection-best-surf-gear-2023/"><u>Wave Warriors' Cam Selection - Best Surf Gear 2023</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-perfect-your-stories-top-6-apps-for-android-and-iphone-snap-editing/"><u>2024 Approved Perfect Your Stories Top 6 Apps for Android and iPhone Snap Editing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unlock-youtube-partnership-aim-for-a-10k-views-target/"><u>2024 Approved Unlock YouTube Partnership Aim for a 10K Views Target</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-poco-x6-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Poco X6 Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/lullabies-and-lightheartedness-asmr-sleep-helpers-for-2024/"><u>Lullabies and Lightheartedness ASMR Sleep Helpers for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-break-free-from-sony-vegas-top-windows-video-editing-software-alternatives-for-2024/"><u>New Break Free From Sony Vegas Top Windows Video Editing Software Alternatives for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bypassing-format-barriers-a-complete-guide-to-chromecast-video-streaming-for-2024/"><u>New Bypassing Format Barriers A Complete Guide to Chromecast Video Streaming for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-art-of-stability-fcpx-techniques-for-smoother-video/"><u>New In 2024, The Art of Stability FCPX Techniques for Smoother Video</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-unleash-your-creativity-simple-video-editing-with-microsoft-on-windows/"><u>New In 2024, Unleash Your Creativity Simple Video Editing with Microsoft on Windows</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-macs-top-rated-mkv-trimming-software/"><u>New Macs Top-Rated MKV Trimming Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-s-top-free-video-compressor-options-for-windows-10/"><u>New S Top Free Video Compressor Options for Windows 10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iples-of-crafting-compelling-youtube-introduction-vids/"><u>Principles of Crafting Compelling YouTube Introduction Vids</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/pst-outlookonedrive/"><u>PSTファイルの保存: OutlookとOneDriveを統合した効果的な方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snapdragon-vs-intel-comparing-elite-laptop-battery-endurance-beyond-15-hours/"><u>Snapdragon Vs. Intel: Comparing Elite Laptop Battery Endurance Beyond 15 Hours</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-maxed-out-chatgpt-error/"><u>Troubleshooting Maxed Out ChatGPT Error</u></a></li>
 </ul></div>
 

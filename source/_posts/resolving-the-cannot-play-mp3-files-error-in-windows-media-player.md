@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player
-date: 2024-11-10T21:54:06.703Z
-updated: 2024-11-13T18:38:41.302Z
+date: 2024-11-20T21:29:15.374Z
+updated: 2024-11-24T08:51:44.592Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Windows Media Player MP3 Cannot Play Problem?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 MP3 is the most common music compression format being used all over the world. Featuring high quality and small space occupation, it is superiority to other audio formats and favored by a wide range of users. However, a few MP3 players, especially Windows Media Player do not make full use of these advantages! Even worse, many users are plagued by Windows Media Player MP3 playback problems from time to time. Therefore, this tutorial focuses on resolving the contradiction between Windows Media Player and MP3 format, and introduces you the [best Windows Media Player alternative](https://tools.techidaily.com/5kplayer/products/) to play MP3 and other audio formats like WMA, AAC, FLAC, OGG, etc.
 
 ![Play MP3](https://www.5kplayer.com/video-music-player/img/play-mp3-1201.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Play MP3 Files with Best Windows Media Player Alternative**
 
@@ -51,10 +59,7 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -74,10 +79,7 @@ c. Navigate to "File -> Open Media File".
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
@@ -85,10 +87,7 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -106,20 +105,20 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-best-study-partners-in-history-top-10-youtubers-and-channels/"><u>[New] 2024 Approved Best Study Partners in History Top 10 Youtubers & Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-agriculture-amalgamations-best-agrigames-to-share-with-pals/"><u>[Updated] In 2024, Agriculture Amalgamations Best AgriGames to Share with Pals</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-free-editors-androids-ultimate-choice/"><u>[Updated] Top Free Editors Android's Ultimate Choice</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/budget-friendly-home-cinema-kits-starting-your-journey-to-a-cinematic-paradise/"><u>Budget-Friendly Home Cinema Kits: Starting Your Journey to a Cinematic Paradise</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-13-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 13 Pro? Learn All 4 Methods</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/m1-powerhouse-unveiled-in-depth-look-at-the-apple-macbook-pro-13-2020-revolutionary-laptop/"><u>M1 Powerhouse Unveiled: In-Depth Look at the Apple MacBook Pro 13 (2020) Revolutionary Laptop</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-eye-catching-animations-top-10-text-generator-tools/"><u>New 2024 Approved Unlock Eye-Catching Animations Top 10 Text Generator Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-convert-4k-videos-to-mp4-a-step-by-step-guide-to-easy-downloads/"><u>New In 2024, Convert 4K Videos to MP4 A Step-by-Step Guide to Easy Downloads</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-mac-subtitle-editor-showdown-top-alternatives-to-subtitle-edit/"><u>New Mac Subtitle Editor Showdown Top Alternatives to Subtitle Edit</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-10-free-online-tools-for-creating-stunning-glitch-effects-for-2024/"><u>New Top 10 Free Online Tools for Creating Stunning Glitch Effects for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-5-free-m4a-editor-software-for-2024/"><u>New Top 5 Free M4A Editor Software for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/proactive-gaming-enhancing-minecraft-through-ram-upgrade-for-2024/"><u>Proactive Gaming Enhancing Minecraft Through RAM Upgrade for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/resolving-final-cut-pro-x-freezing-and-crashing-issues-2023-update-for-2024/"><u>Resolving Final Cut Pro X Freezing and Crashing Issues (2023 Update) for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/unraveling-the-secrets-of-google-autocomplete-a-comprehensive-guide-and-strategic-seo-advice/"><u>Unraveling the Secrets of Google Autocomplete: A Comprehensive Guide & Strategic SEO Advice</u></a></li>
-<li><a href="https://windows11.techidaily.com/winx-blackout-strategies-to-restore-color-backgrounds/"><u>WinX Blackout: Strategies to Restore Color Backgrounds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-vital-6-social-media-channels-for-commercial-success/"><u>[New] 2024 Approved Vital 6 Social Media Channels for Commercial Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-digital-dominance-which-is-superior-youtubes-shorts-or-tiktoks-in-2024/"><u>[New] Discovering Digital Dominance Which Is Superior, YouTubes Shorts or TikToks, In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/boost-conversion-rates-using-innovative-cookiebot-tracking-solutions/"><u>Boost Conversion Rates Using Innovative Cookiebot Tracking Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-examination-of-dvd-copying-laws-and-regulations/"><u>Comprehensive Examination of DVD Copying Laws and Regulations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices-for-2024/"><u>Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimizing-play-for-star-wars-jedi-fallen-order-on-pc-tackling-troublesome-crashes/"><u>Optimizing Play for Star Wars Jedi: Fallen Order on PC: Tackling Troublesome Crashes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-fast-to-slow-mastering-video-speed-control-in-camtasia/"><u>Updated 2024 Approved From Fast to Slow Mastering Video Speed Control in Camtasia</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-download-and-use-kinemaster-on-your-mac/"><u>Updated 2024 Approved How to Download and Use KineMaster on Your Mac</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-video-editing-on-a-mac-here-are-the-best-options-for/"><u>Updated 2024 Approved Video Editing on a Mac? Here Are the Best Options For</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-best-online-video-rotators-for-rotating-videos-winmac-for-2024/"><u>Updated Best Online Video Rotators for Rotating Videos Win/Mac for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-compressor-essentials-optimizing-video-files-in-final-cut-pro-x-for-2024/"><u>Updated Compressor Essentials Optimizing Video Files in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-resize-and-crop-images-in-fcpx-2023-update/"><u>Updated In 2024, How to Resize and Crop Images in FCPX 2023 Update</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-video-combiners-with-no-watermark-limitations/"><u>Updated In 2024, Top Video Combiners with No Watermark Limitations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player
-date: 2024-11-20T21:29:15.374Z
-updated: 2024-11-24T08:51:44.592Z
+date: 2024-11-30T16:22:54.626Z
+updated: 2024-12-02T01:19:54.012Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix Windows Media Player MP3 Cannot Play Problem?
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 MP3 is the most common music compression format being used all over the world. Featuring high quality and small space occupation, it is superiority to other audio formats and favored by a wide range of users. However, a few MP3 players, especially Windows Media Player do not make full use of these advantages! Even worse, many users are plagued by Windows Media Player MP3 playback problems from time to time. Therefore, this tutorial focuses on resolving the contradiction between Windows Media Player and MP3 format, and introduces you the [best Windows Media Player alternative](https://tools.techidaily.com/5kplayer/products/) to play MP3 and other audio formats like WMA, AAC, FLAC, OGG, etc.
 
 ![Play MP3](https://www.5kplayer.com/video-music-player/img/play-mp3-1201.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Play MP3 Files with Best Windows Media Player Alternative**
 
@@ -45,6 +41,10 @@ If you want to [play mp3 music](https://tools.techidaily.com/5kplayer/video-musi
 It is a tragedy for some Windows Media Player users that they are not able to play the MP3 format in a way they want it to be. The most common reason given by Microsoft is that "An audio codec is missing. Windows Media Player cannot play the file (or cannot play either the audio or video portion of the file) because the MP3 - MPEG Layer III (55) codec is not installed on your computer.
 
 ![Windows Media Player cannot play mp3](https://www.5kplayer.com/video-music-player/img/windows-media-player-mp3-1201.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **How to Fix Windows Media Player Cannot Play MP3 Problem?**
 
@@ -59,7 +59,7 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -79,7 +79,7 @@ c. Navigate to "File -> Open Media File".
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
@@ -87,7 +87,7 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,20 +105,20 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-vital-6-social-media-channels-for-commercial-success/"><u>[New] 2024 Approved Vital 6 Social Media Channels for Commercial Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-digital-dominance-which-is-superior-youtubes-shorts-or-tiktoks-in-2024/"><u>[New] Discovering Digital Dominance Which Is Superior, YouTubes Shorts or TikToks, In 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/boost-conversion-rates-using-innovative-cookiebot-tracking-solutions/"><u>Boost Conversion Rates Using Innovative Cookiebot Tracking Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-examination-of-dvd-copying-laws-and-regulations/"><u>Comprehensive Examination of DVD Copying Laws and Regulations</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-s17-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo S17 Phone without Any Data Loss</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-audio-best-practices-for-ipodcasting-interviews-on-ios-devices-for-2024/"><u>Mastering Audio Best Practices for iPodcasting Interviews on iOS Devices for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-play-for-star-wars-jedi-fallen-order-on-pc-tackling-troublesome-crashes/"><u>Optimizing Play for Star Wars Jedi: Fallen Order on PC: Tackling Troublesome Crashes</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-fast-to-slow-mastering-video-speed-control-in-camtasia/"><u>Updated 2024 Approved From Fast to Slow Mastering Video Speed Control in Camtasia</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-download-and-use-kinemaster-on-your-mac/"><u>Updated 2024 Approved How to Download and Use KineMaster on Your Mac</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-video-editing-on-a-mac-here-are-the-best-options-for/"><u>Updated 2024 Approved Video Editing on a Mac? Here Are the Best Options For</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-best-online-video-rotators-for-rotating-videos-winmac-for-2024/"><u>Updated Best Online Video Rotators for Rotating Videos Win/Mac for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-compressor-essentials-optimizing-video-files-in-final-cut-pro-x-for-2024/"><u>Updated Compressor Essentials Optimizing Video Files in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-resize-and-crop-images-in-fcpx-2023-update/"><u>Updated In 2024, How to Resize and Crop Images in FCPX 2023 Update</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-video-combiners-with-no-watermark-limitations/"><u>Updated In 2024, Top Video Combiners with No Watermark Limitations</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premier-lineup-best-free-video-editors-unveiled/"><u>[New] Premier Lineup Best Free Video Editors Unveiled</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-simplifying-the-complexities-of-vr-devices/"><u>[New] Simplifying the Complexities of VR Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cutting-edge-camera-capabilities-unleashing-potential-on-iphone/"><u>[Updated] Cutting-Edge Camera Capabilities Unleashing Potential on iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-eliminate-pixel-shimmering-issues-while-playing-call-of-duty-warzone/"><u>Expert Tips to Eliminate Pixel Shimmering Issues While Playing Call of Duty: Warzone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-guide-convert-your-powtoon-creations-into-high-quality-mp4-files/"><u>Free Guide: Convert Your Powtoon Creations Into High-Quality MP4 Files</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-14-pro-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi 14 Pro Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavis-ultimate-tutorial-on-crafting-interactive-learning-videos-for-academia/"><u>Movavi's Ultimate Tutorial on Crafting Interactive Learning Videos for Academia</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-image-cropping-in-fcpx-essential-techniques-for-editors/"><u>New 2024 Approved Image Cropping in FCPX Essential Techniques for Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bring-your-photos-to-life-a-video-creation-tutorial-for-2024/"><u>New Bring Your Photos to Life A Video Creation Tutorial for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-ditch-windows-10-photos-explore-these-8-superior-image-editing-tools-for-2024/"><u>New Ditch Windows 10 Photos Explore These 8 Superior Image Editing Tools for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-discover-the-top-free-video-editors-easy-and-powerful/"><u>New In 2024, Discover the Top Free Video Editors Easy and Powerful</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-quickest-way-to-cut-videos-on-mac-top-methods/"><u>New In 2024, The Quickest Way to Cut Videos on Mac Top Methods</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-motion-tracking-for-text-the-top-software-choices/"><u>New Motion Tracking for Text The Top Software Choices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-streamline-your-videos-10-top-rated-free-online-video-trimmers/"><u>New Streamline Your Videos 10 Top-Rated Free Online Video Trimmers</u></a></li>
 </ul></div>
 

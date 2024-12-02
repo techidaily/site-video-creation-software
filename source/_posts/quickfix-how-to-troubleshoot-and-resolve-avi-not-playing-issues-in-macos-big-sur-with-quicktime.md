@@ -1,7 +1,7 @@
 ---
 title: "QuickFix: How to Troubleshoot and Resolve 'AVI Not Playing' Issues in macOS Big Sur with QuickTime"
-date: 2024-11-19T17:46:39.893Z
-updated: 2024-11-24T00:25:17.169Z
+date: 2024-11-30T12:55:36.433Z
+updated: 2024-12-02T01:45:52.199Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solve AVI File Won't Play on Mac QuickTime
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -32,10 +36,14 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 ![AVI Format](https://www.5kplayer.com/video-music-player/img/avi.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![AVI Container](https://www.5kplayer.com/video-music-player/img/avi-container.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **#01\. Reasons Why You Can't Play AVI on Mac/QuickTime?**
 
@@ -48,7 +56,7 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
  3\. Sometimes, video gets struck, but sound keeps playing, or vice versa. From AVI wikipedia, audio and video are individually stored in AVI file. Generally, audio and video are well-synchronized, but desynchronization of audio and video may happen when playing AVI on Mac in some certain [AVI media player](https://tools.techidaily.com/5kplayer/video-music-player/) software.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## #03\. Solutions to AVI Won't Play on Mac/QuickTime.
@@ -59,20 +67,12 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
 
 ![Play AVI on Mac](https://www.5kplayer.com/video-music-player/img/play-mts-with-5kp.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 \* Play AVI files encoded with any codec on Mac/Windows.  
  \*Download AVI video movie from 300+ sites without a penny.  
  \* Convert AVI to MP3 free if you need the audio track.  
  \* [Stream AVI to TV](https://tools.techidaily.com/5kplayer/airplay/) to have a better visual experience.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Display resolution of AVI can be set as 4:3, 16:9 and any other display ratio as willing. From 1080p to 720p and even more, 5KPlayer can well handle your AVI files on Mac as this AVI player Mac can automatically change aspect ratio among 1:1, 4:3, 16:9, 2.21:1, 2.35:1, 2.39:1, 16:10 and 5:4 to help you get the golden ratio of pupil and enjoy AVI videos movies comfortably.
 
@@ -88,10 +88,6 @@ If you insist on solving QuickTime won't play AVI problem, you can convert AVI t
 
 ![Convert AVI to QuickTime](https://www.5kplayer.com/video-music-player/img/convert-to-ipad-mp4.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **Solution 3\. Install Codec Pack to Solve AVI Won't Play on Mac/QuickTime**
 
 As it is mentioned above, AVI can contain data that is compressed by a number of different codecs that many AVI players Mac like QuickTime with limited audio video codecs becomes powerless when facing some AVI files. Under the circumstance, you can download a [codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to beef your AVI player up to play any AVI file on Mac without choke. Though all players can be strengthened through this way, it is not recommended. For instance, you may download virus or spyware to your computer when downloading codecs, and some codecs are likely to conflict with other programs on your computer or even corrupt your operating system.
@@ -105,6 +101,10 @@ How to play AVI on Mac or how to solve QuickTime won't play AVI? I guess you hav
 For my opinion, I recommend you to try 5KPlayer, designed as a[video music player](https://tools.techidaily.com/5kplayer/video-music-player/) for Mac (Catalina/Mojave and earlier), to play all common files like AVI MKV WMV FLV MP4 SWF etc on Mac/Windows. To enrich your media library, you can also use it to [download online video music](https://tools.techidaily.com/5kplayer/youtube-download/) AVI MKV MP4 FLV WMV 4K HD MP3 AAC FLAC etc to your computer and enjoy on iPhone, iPad, Android, Apple TV, etc. as well.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -121,21 +121,22 @@ For my opinion, I recommend you to try 5KPlayer, designed as a[video music playe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/1716068720762-updated-2024-approved-unveiling-advantages-comprehen/"><u>[Updated] 2024 Approved Unveiling Advantages Comprehen...</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-navigating-the-360-streaming-landscape-with-ease-on-youtube-for-2024/"><u>[Updated] Navigating the 360° Streaming Landscape with Ease on Youtube for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-the-art-of-instagram-filter-use/"><u>2024 Approved Mastering the Art of Instagram Filter Use</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensively-guide-to-collecting-visual-backgrounds-for-2024/"><u>Comprehensively Guide to Collecting Visual Backgrounds for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-your-pc-and-tv-with-hdmi-a-comprehensive-guide-for-seamless-viewing-experience/"><u>Connecting Your PC and TV with HDMI - A Comprehensive Guide for Seamless Viewing Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gadget-showdown-unlocking-iphone-vs-galaxy-with-facial-scans-for-2024/"><u>Gadget Showdown Unlocking iPhone Vs. Galaxy with Facial Scans for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-youtubes-digital-canvas-studio-essentials/"><u>In 2024, Navigating YouTube's Digital Canvas Studio Essentials</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-blur-videos-online-without-spending-a-dime-the-ultimate-tutorial/"><u>Updated 2024 Approved Blur Videos Online Without Spending a Dime The Ultimate Tutorial</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-best-of-both-worlds-top-android-video-editor-apps-for-chromebook/"><u>Updated 2024 Approved The Best of Both Worlds Top Android Video Editor Apps for Chromebook</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-discover-the-top-10-android-video-editing-apps-free-and-paid-for-2024/"><u>Updated Discover the Top 10 Android Video Editing Apps Free and Paid for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-storytelling-microsoft-video-editor-for-windows-10-8-and-7-users-for-2024/"><u>Updated Elevate Your Storytelling Microsoft Video Editor for Windows 10, 8, and 7 Users for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-how-to-blur-parts-of-a-video-online-for-free-a-beginners-guide/"><u>Updated How to Blur Parts of a Video Online for Free A Beginners Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-cut-slice-and-dice-mastering-video-splitting-in-windows-live-movie-maker/"><u>Updated In 2024, Cut, Slice, and Dice Mastering Video Splitting in Windows Live Movie Maker</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-quik-or-not-a-comprehensive-review-and-pc-alternatives/"><u>Updated In 2024, Quik or Not A Comprehensive Review and PC Alternatives</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Lava Yuva 3? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wolcen-pc-game-stability-improved-no-more-unexpected-crashes/"><u>Wolcen PC Game Stability Improved - No More Unexpected Crashes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-deleting-facebook-stories-laptop-and-mobile-guide/"><u>[New] Deleting Facebook Stories Laptop & Mobile Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-tier-eyeball-enticer-author/"><u>[New] Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-video-presentations-with-top-30-free-intra-makers/"><u>[Updated] 2024 Approved Elevate Your Video Presentations with Top 30 Free Intra Makers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-assessing-the-m1s-role-in-creative-media-editing/"><u>[Updated] In 2024, Assessing the M1's Role in Creative Media Editing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-premium-free-fb-photovideo-producer-package/"><u>[Updated] In 2024, Premium Free FB Photo/Video Producer Package</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-glamour-a-guide-to-video-color-balance/"><u>2024 Approved YouTube Glamour A Guide to Video Color Balance</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-answers-to-questions-related-to-filmora/"><u>In 2024, Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-moviemaster-for-macos/"><u>New 2024 Approved MovieMaster for macOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unleash-your-creativity-top-rated-video-collage-apps-for-iphone-and-ipad/"><u>New 2024 Approved Unleash Your Creativity Top-Rated Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-effortless-mp4-video-tagging-top-editor-recommendations-for-2024/"><u>New Effortless MP4 Video Tagging Top Editor Recommendations for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users/"><u>New In 2024, Beyond Quik Exploring the Best PC Video Editing Software for GoPro Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-mov-video-rotator-top-picks-and-reviews/"><u>New In 2024, Free MOV Video Rotator Top Picks and Reviews</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-video-editing-on-a-budget-best-free-online-editors-for-chromebook/"><u>New In 2024, Video Editing on a Budget Best Free Online Editors for Chromebook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-list-5-free-mov-video-merger-software-options/"><u>New The Ultimate List 5 Free MOV Video Merger Software Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-5-free-online-tone-generator-tools-for-2024/"><u>New Top 5 Free Online Tone Generator Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/thinking-of-buying-a-new-tablet-why-you-shouldnt-ignore-the-compact-powerhouse-ipad-mini/"><u>Thinking of Buying a New Tablet? Why You Shouldn't Ignore the Compact Powerhouse: IPad Mini</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-charging-your-mobile-device-without-using-its-original-charger/"><u>Ultimate Guide: Charging Your Mobile Device without Using Its Original Charger</u></a></li>
 </ul></div>
 

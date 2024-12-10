@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Media Player: How to Fix MP4 Format Issues"
-date: 2024-11-27T00:46:13.728Z
-updated: 2024-12-01T18:05:28.368Z
+date: 2024-12-08T03:33:23.014Z
+updated: 2024-12-10T00:00:29.125Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows Media Player Won't Play MP4? FAQs & Solutions
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: August 23, 2019_
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 Your **Windows Media Player won't play MP4** files just happened? The codec problem should be mainly responsible for that. To help you solve the problem once for all, this guide will list detailed reasons to explain why that happens plus corresponding solutions. However, if you want to easily and quickly solve MP4 file not playing problem, you can try third-party MP4 player to play MP4 videos files on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQs about Windows Media Player Won't Play MP4 Files
@@ -48,10 +52,6 @@ Luckily, Windows Media Player 12 natively supports some MP4 codecs like listed b
 
 ![Windows Media Player MP4 Codec Support](https://www.5kplayer.com/video-music-player/img/5kp-play-mp4-wmp-zjy-001.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, MP4 file not playing in Windows Media Player 12 problem also happens a lot because WMP 12 may not support codecs like HEVC H.263/H.264/H.265, MPEG-4 ASP, H.264/MPEG-4 AVC,H.263, VC-1, Dirac, MPEG-2/4 (HE)-AAC, AC-3, Apple Lossless, ALS, SLS, Vorbis(with private objectTypeIndication).
 
 **Q4: Why Windows Media Player Show No Video or Audio When Playing MP4?**
@@ -63,7 +63,7 @@ Windows Media Player MP4 no video occurs as MP4 is a container format that can c
 In conclusion, all of the discussions are about codec. So, you can download Windows Media Player MP4 codecs or third-party codec pack like K-Lite to beef up your WMP, or just convert the MP4 to Windows Media Player more compatible format like WMV and AVI. Wiser choice, you are suggested to try another [MP4 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play MP4 video files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Detailed Solutions to Windows Media Player not Playing MP4 Error
@@ -87,13 +87,13 @@ If you are stubborn fan of Windows Media Player, you can just try the above two 
 ![Best Free MP4 Player](https://www.5kplayer.com/video-music-player/img/flv-player-free-download.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -111,24 +111,20 @@ If you are stubborn fan of Windows Media Player, you can just try the above two 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-exploring-watermark-free-stock-image-sources-for-2024/"><u>[New] Exploring Watermark-Free Stock Image Sources for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-secrets-of-9-high-quality-webcam-enhancements/"><u>[New] In 2024, Secrets of 9 High-Quality Webcam Enhancements</u></a></li>
-<li><a href="https://article-helps.techidaily.com/become-a-pip-expert-enhancing-visual-narratives-on-macos-sierra-for-2024/"><u>Become a PIP Expert Enhancing Visual Narratives on macOS Sierra for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-tech-bargains-available-now-unbeatable-prices-on-samsung-monitors-apple-pixel-watch-series-2-refurbished-macbook-airs-and-other-hot-electronics/"><u>Best Tech Bargains Available Now: Unbeatable Prices on Samsung Monitors, Apple Pixel Watch Series 2, Refurbished MacBook Airs, and Other Hot Electronics</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-driver-set-for-pci-devices-on-various-windows-platforms-windows-111087/"><u>Comprehensive Driver Set for PCI Devices on Various Windows Platforms: Windows 11/10/8/7</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-magic-5-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor Magic 5 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-guide-top-8-convertors-for-sub-to-srt-harmony/"><u>In 2024, Ultimate Guide Top 8 Convertors for Sub to Srt Harmony</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/inside-look-at-toms-hardware-insights-and-reviews/"><u>Inside Look at Tom's Hardware: Insights & Reviews</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-videos-enhance-your-watch-time-for-2024/"><u>Instagram Videos Enhance Your Watch Time for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-professional-grade-video-editing-on-mac-adobe-premiere-pro/"><u>New 2024 Approved Professional-Grade Video Editing on Mac Adobe Premiere Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-crack-the-code-4-effective-strategies-for-filmora-discounts-for-2024/"><u>New Crack the Code 4 Effective Strategies for Filmora Discounts for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-edit-like-a-pro-setting-up-your-computer-for-premiere-pro-for-2024/"><u>New Edit Like a Pro Setting Up Your Computer for Premiere Pro for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-no-strings-attached-top-10-free-online-video-editors-with-no-watermark/"><u>New In 2024, No Strings Attached Top 10 Free Online Video Editors with No Watermark</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-shrink-your-videos-10-best-free-online-compression-tools-for-2024/"><u>New Shrink Your Videos 10 Best Free Online Compression Tools for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-video-trailer-creation-tools-for-2024/"><u>New Top Video Trailer Creation Tools for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-web-based-movie-trailer-creation-platforms/"><u>New Web-Based Movie Trailer Creation Platforms</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-windows-10-essentials-top-free-video-compressors-for-2024/"><u>New Windows 10 Essentials Top Free Video Compressors for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317654-9781401950910-return-to-life/"><u>Return To Life | Free Book</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-16-top-rated-free-avi-rotators-for-windows-mac-android-and-iphone-for-2024/"><u>Updated 16 Top-Rated Free AVI Rotators for Windows, MAC, Android, and iPhone for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhance-visual-magnification-without-quality-loss/"><u>[New] 2024 Approved Enhance Visual Magnification without Quality Loss</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-finding-the-perfect-balance-mastering-iphone-photo-blurring/"><u>[New] In 2024, Finding the Perfect Balance Mastering iPhone Photo Blurring</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-is-financial-compensation-behind-product-evaluations-for-2024/"><u>[New] Is Financial Compensation Behind Product Evaluations for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-beginners-drone-racing-handbook-plus-leading-fpv-drones/"><u>[Updated] Beginner's Drone Racing Handbook + Leading FPV Drones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-final-cut-pros-best-combo-of-10-vfx-plug-ins/"><u>2024 Approved Final Cut Pro's Best Combo of 10 VFX Plug-Ins</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/demystifying-gopro-fisheye-photos-with-editing-tricks/"><u>Demystifying GoPro Fisheye Photos with Editing Tricks</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/enhance-your-sd-cards-instantly-using-our-no-cost-cloning-tool/"><u>Enhance Your SD Cards Instantly Using Our No-Cost Cloning Tool!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/mkvwindows-103/"><u>MKVビデオがWindows 10で再生できない時の最適解決法ベスト3</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/quick-and-efficient-techniques-for-hd-song-downloads-in-the-tamil-language/"><u>Quick & Efficient Techniques for HD Song Downloads in the Tamil Language</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/seamless-video-format-change-step-by-step-process-for-turning-asf-into-wmv-on-pcs/"><u>Seamless Video Format Change: Step-by-Step Process for Turning ASF Into WMV on PCs</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/troubleshooting-obs-full-screen-capture-problems-the-latest-fixes-of-2024/"><u>Troubleshooting OBS Full-Screen Capture Problems - The Latest Fixes of 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/ultimate-tutorial-effortless-installation-of-enzo-addons-into-your-kodi-platform-leia-and-krypton-versions-included/"><u>Ultimate Tutorial: Effortless Installation of Enzo Addons Into Your Kodi Platform – Leia & Krypton Versions Included</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/various-methods-transforming-your-voice-memos-into-mp3-format/"><u>Various Methods: Transforming Your Voice Memos Into MP3 Format</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/vegas-promp4movavi/"><u>VEGAS Proを使ってMP4/MOV/AVIフォーマットの動画が正しく表示されるようにする方法</u></a></li>
 </ul></div>
 

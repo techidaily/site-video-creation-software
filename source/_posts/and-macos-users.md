@@ -1,7 +1,7 @@
 ---
 title: & macOS Users
-date: 2024-12-04T19:46:15.914Z
-updated: 2024-12-10T01:37:25.969Z
+date: 2024-12-10T04:00:41.194Z
+updated: 2024-12-16T00:10:31.769Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AV1 Can't Play? How to Play AV1 on Windows 10/Mac?
@@ -36,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
@@ -47,7 +43,7 @@ Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/v
 ![Can't Play AV1 on Windows 10](https://www.5kplayer.com/video-music-player/img/av1-not-playing-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As a matter of fact, Windows 10 doesn't supply a native application which contains the required [AV1 codec](https://tools.techidaily.com/5kplayer/video-music-player/) to support AV1 playback on Windows 10 as of now. To enable your Movies & TV app or Edge to open AV1 videos on Windows 10 successfully, you need to download Microsoft's AV1 Video Extension to power the default media player.
@@ -55,6 +51,10 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 **Solution:** Just open Microsoft Store, search for AV1 Video Extension and install it on your Windows 10 computer. After that, your Windows 10 computer has the inbuilt AV1 decoder to let Movies & TV app or Edge on Windows 10 to play AV1 video files.
 
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
 
@@ -65,7 +65,7 @@ Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean de
 Obviously, the file you play on Mac now is a converted version which has a totally different video codec. To directly play video files encoded with AV1 codec without changing anything, you may need professional [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play AV1 on Mac and 5KPlayer is highly recommended.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **AV1 Playback Issue with VLC**
@@ -76,6 +76,10 @@ _"VLC won't play av1\. The decoder seems to be struggling on higher bitrates. I 
 Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https://tools.techidaily.com/5kplayer/products/) support has been added for a long time, some users said. When playing AV1 with the well-known and versatile VLC media player, sometimes it totally can't play, sometimes the sound plays but no image appears. The fault is probably caused by the wrong version of VLC, or the wrong configuration of VLC. 
 
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
 
@@ -88,10 +92,6 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,24 +108,15 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-social-media-streamlining-connect-instagram-plus-facebook/"><u>[Updated] Social Media Streamlining Connect Instagram + Facebook</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comparing-the-titans-a-comprehensive-review-of-samsung-galaxy-s10plus-vs-s20/"><u>Comparing The Titans: A Comprehensive Review of Samsung Galaxy S10+ Vs. S20</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-finding-the-best-text-design-resources/"><u>Expert Tips Finding the Best Text Design Resources</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-infinix-note-30-vip-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Infinix Note 30 VIP</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-15-plus-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 15 Plus without App | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/optimal-technique-integrating-gopro-videos-into-compreited-cinematic-universe/"><u>Optimal Technique Integrating GoPro Videos Into Compreited Cinematic Universe</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-non-responsive-huion-pen-with-this-5-step-quick-guide/"><u>Revive Your Non-Responsive Huion Pen with This 5-Step Quick Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/screencapturetech-2023-highlighting-the-apeak-software-review-for-2024/"><u>ScreenCaptureTech 2023 Highlighting the Apeak Software Review for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mpact-of-instant-subscribing-on-online-viewing-habits/"><u>The Impact of Instant Subscribing on Online Viewing Habits</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-outside-the-case-bddvd-burners-the-ultimate-picks/"><u>Top Rated Outside-the-Case BD/DVD Burners: The Ultimate Picks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-easy-video-reversal-top-online-tools/"><u>Updated 2024 Approved Easy Video Reversal Top Online Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-fcpx-skin-retouching-a-plugin-free-guide-to-flawless-skin/"><u>Updated 2024 Approved FCPX Skin Retouching A Plugin-Free Guide to Flawless Skin</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-rotate-mov-videos-for-free-best-solutions/"><u>Updated 2024 Approved Rotate MOV Videos for Free Best Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-rated-4k-video-conversion-software-2023s-best-picks/"><u>Updated 2024 Approved Top-Rated 4K Video Conversion Software 2023S Best Picks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-optimize-your-mac-a-step-by-step-guide-to-freeing-up-space-for-fcpx/"><u>Updated In 2024, Optimize Your Mac A Step-by-Step Guide to Freeing Up Space for FCPX</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-say-goodbye-to-grainy-videos-top-enhancement-software-picks/"><u>Updated In 2024, Say Goodbye to Grainy Videos Top Enhancement Software Picks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-yosemite-video-editing-guide-tips-tricks-and-tutorials/"><u>Updated In 2024, The Ultimate Yosemite Video Editing Guide Tips, Tricks, and Tutorials</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-transforming-raw-footage-into-masterpieces-sony-camcorder-video-editing/"><u>Updated In 2024, Transforming Raw Footage Into Masterpieces Sony Camcorder Video Editing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-trimming-videos-will-almost-always-result-in-quality-loss-here-are-the-three-best-video-cutters-you-can-use-to-edit-videos-without-losing-qu/"><u>Updated In 2024, Trimming Videos Will Almost Always Result in Quality Loss. Here Are the Three Best Video Cutters You Can Use to Edit Videos without Losing Quality</u></a></li>
+<li><a href="https://media-tips.techidaily.com/convert-your-mp4-files-to-vob-for-free-tips-and-tricks-for-both-online-and-offline-methods/"><u>Convert Your MP4 Files to VOB for Free - Tips and Tricks for Both Online and Offline Methods</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/discover-the-top-applications-and-programs-that-drag-your-pcs-speed-insights-from-yl-computing/"><u>Discover the Top Applications & Programs That Drag Your PC's Speed: Insights From YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-teams-video-meeting/"><u>How to Record Teams Video Meeting?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-funimate-pro-unboxed-your-essential-apk-guide/"><u>In 2024, Funimate Pro Unboxed Your Essential APK Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-get-noticed-the-top-10-animated-text-tools-for-social-media-and-more/"><u>New Get Noticed The Top 10 Animated Text Tools for Social Media and More</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-how-to-convert-4k-videos-to-mp4-a-step-by-step-guide-for-2024/"><u>New How to Convert 4K Videos to MP4 A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-take-your-gopro-videos-to-the-next-level-easy-editing-tips-and-tricks/"><u>New In 2024, Take Your GoPro Videos to the Next Level Easy Editing Tips and Tricks</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-networks-roll-out-sponsored-content-in-feeds/"><u>Social Networks Roll Out Sponsored Content in Feeds</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-art-of-discretion-blurring-faces-in-video-editing-for-2024/"><u>The Art of Discretion Blurring Faces in Video Editing for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-review-how-the-levelplay-combat-air-ca4-ensures-stellar-performance-with-whisper-quiet-operation/"><u>Top Review: How the Levelplay Combat Air CA4 Ensures Stellar Performance with Whisper-Quiet Operation</u></a></li>
 </ul></div>
 

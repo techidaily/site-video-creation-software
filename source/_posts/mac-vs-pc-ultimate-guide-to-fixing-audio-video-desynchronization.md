@@ -1,7 +1,7 @@
 ---
 title: "Mac Vs. PC: Ultimate Guide to Fixing Audio-Video Desynchronization"
-date: 2024-12-02T17:56:39.474Z
-updated: 2024-12-10T04:11:10.805Z
+date: 2024-12-15T02:56:43.727Z
+updated: 2024-12-16T03:32:50.992Z
 tags:
   - video-music-player
 categories:
@@ -18,26 +18,18 @@ thumbnail: https://thmb.techidaily.com/75ed7dc872027e37ee776fcbd41ee515ad71f0c83
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Sync Audio And Video Ultimate Guide
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
 
 Audio and video out of sync is no rare thing if you play 4K HD videos with an aged computer. In most cases it's audio delay from video, only a few subtitle delay \[VLC\] in A-V sync. This guide tackles how to sync audio and video on Mac/PC as well as YouTube video out of sync respectively. Tried and true even for Mac and Windows with 2GB-RAM.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Sync Audio and Video: Audio Delay & Video Delay
 
 ![Audio and video out of sync solved](https://www.5kplayer.com/video-music-player/../airplay/img/5kplayer-solveairdelay-yxt-030302.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Audio and video out of sync happens because a media player employs different parts of its kernel to process the AV-output. Though compressed into one codec pack, video files are bigger than audio, thus generating incorrect timing.  
@@ -62,6 +54,10 @@ Audio and video out of sync happens because a media player employs different par
 
 ![Netflix icon](https://www.5kplayer.com/video-music-player/../airplay/img/netflix-hp.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2\. Netflix Audio out of Sync**  
  1) Go to the bottom in Netflix.  
  2) Hit Help Center.  
@@ -70,7 +66,7 @@ Audio and video out of sync happens because a media player employs different par
  5) Clear the box that reads, "Prefer HTML5 player instead of Silverlight."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Sync Audio and Video with 5KPlayer on Mac/PC?
@@ -86,12 +82,16 @@ Audio and video out of sync happens because a media player employs different par
 ![How to synd audio and video](https://www.5kplayer.com/video-music-player/../airplay/img/5kplayer-solveairdelay-yxt-030302.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As a free [sync software](https://tools.techidaily.com/5kplayer/products/) for MKV AVI MP4 videos, 5KPlayer is adepting in tackling multi-media problems like [4K downloader error](https://tools.techidaily.com/5kplayer/youtube-download/), [Netflix won't play](https://tools.techidaily.com/5kplayer/video-music-player/), HBO Go streaming to Apple TV problems once and for all. If you are into more professional video editing tricks, please refer to [how to edit videos with 5KPlayer](https://tools.techidaily.com/5kplayer/video-music-player/).
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,19 +108,20 @@ As a free [sync software](https://tools.techidaily.com/5kplayer/products/) for M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-ultimate-gear-premium-lenses-for-vloggers/"><u>[New] 2024 Approved Ultimate Gear Premium Lenses for Vloggers</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-a-comprehensive-guide-to-mastering-zoom-win10-for-2024/"><u>[New] A Comprehensive Guide to Mastering Zoom (Win10) for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-srt-to-subcap-mastery-in-3-steps-for-2024/"><u>[New] SRT to SUBCAP Mastery in 3 Steps for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-show-your-appreciation-budget-friendly-video-closings/"><u>[Updated] 2024 Approved Show Your Appreciation Budget-Friendly Video Closings</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/die-beste-auswahl-tipps-fur-die-wahl-ihres-perfekten-one-key-wiederherstellungsprogramms/"><u>Die Beste Auswahl: Tipps Für Die Wahl Ihres Perfekten One-Key Wiederherstellungsprogramms</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-nokia-g22-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Nokia G22 Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-2024-windows-11-and-10-zoom-freezing-issue-a-comprehensive-guide/"><u>Solving the 2024 Windows 11 & 10 Zoom Freezing Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-bring-your-ideas-to-life-top-online-stop-motion-tools/"><u>Updated 2024 Approved Bring Your Ideas to Life Top Online Stop Motion Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-video-to-live-photo-expert-recommended-apps-and-guides/"><u>Updated 2024 Approved From Video to Live Photo Expert-Recommended Apps and Guides</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-here-are-some-of-the-best-face-swap-apps-for-your-iphone-or-android-device-that-allows-you-to-swap-face-easily/"><u>Updated 2024 Approved Here Are some of the Best Face Swap Apps for Your iPhone or Android Device that Allows You to Swap Face Easily</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-s-top-free-video-compressor-options-for-windows-10/"><u>Updated 2024 Approved S Top Free Video Compressor Options for Windows 10</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-best-free-green-screen-video-editing-apps-for-android-and-ios-users-for-2024/"><u>Updated Best Free Green Screen Video Editing Apps for Android and iOS Users for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleashing-the-power-of-color-in-final-cut-pro/"><u>Updated In 2024, Unleashing the Power of Color in Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discover-the-best-8-mirrorless-cameras-that-transform-vlogging/"><u>[New] 2024 Approved Discover the Best 8 Mirrorless Cameras That Transform Vlogging</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-exploring-disguised-social-feedback-on-youtube/"><u>[Updated] Exploring Disguised Social Feedback on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-by-step-for-quick-chromakey-application-for-2024/"><u>[Updated] Step-by-Step for Quick Chromakey Application for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-media-creator-win8/"><u>[Updated] Ultimate Media Creator Win8</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-beyond-zoom-the-intricacies-of-iphone-xs-lens-tech/"><u>2024 Approved Beyond Zoom The Intricacies of iPhone X's Lens Tech</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-t2-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo T2 Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sites-to-buy-monetized-youtube-channels-for-beginners-for-2024/"><u>Best Sites to Buy Monetized YouTube Channels for Beginners for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-online-tools-to-delete-tiktok-watermarks-for-free/"><u>New 2024 Approved Online Tools to Delete TikTok Watermarks for Free</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-adobe-premiere-pro-power-user-master-these-20-shortcuts-for-2024/"><u>New Adobe Premiere Pro Power User Master These 20 Shortcuts for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-fcpx-and-lumafusion-differ-in-os-portability-price-and-performance-know-your-own-demands-and-choose-accordingly-for-2024/"><u>New FCPX and Lumafusion Differ in OS, Portability, Price, and Performance. Know Your Own Demands and Choose Accordingly for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-android-video-editor-showdown-top-10-free-and-paid-options/"><u>New In 2024, Android Video Editor Showdown Top 10 Free and Paid Options</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-s-best-android-video-editors-a-mix-of-free-and-paid-options-for-2024/"><u>New S Best Android Video Editors A Mix of Free and Paid Options for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-list-of-meme-creation-apps-for-mobile/"><u>New The Ultimate List of Meme Creation Apps for Mobile</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-moto-g-5g-2023s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola Moto G 5G (2023)s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-x-troubleshooting-guide-fix-errors-fast/"><u>Updated Final Cut Pro X Troubleshooting Guide Fix Errors Fast</u></a></li>
 </ul></div>
 

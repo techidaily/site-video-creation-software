@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enable MP4 Video Support in Windows Media Player"
-date: 2024-12-07T03:24:29.400Z
-updated: 2024-12-10T00:01:17.829Z
+date: 2024-12-09T03:26:05.354Z
+updated: 2024-12-15T20:33:31.429Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Play MP4 Files on Windows/Mac \[Solved\]
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/265c34a9ea730206243923e3674c50a6adee16640
 Can Windows Media Player play MP4? Windows media player natively does not support MP4 files until it upgrades to version 12\. So, for those dedicated users who are using Windows Media Player 11 and lower, you’d better upgrade the Media Player for MP4 playback.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MP4 on Windows Media Player 12?
@@ -44,10 +48,6 @@ Then your default web browser will open a page that includes information about t
 
 ![Windows Media Player MP4 Codec Support](https://www.5kplayer.com/video-music-player/img/5kp-play-mp4-wmp-zjy-001.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It is obvious that **Windows Media Player 12 supports MP4** video and audio files, including .m4a, .mp4, .m4v, .mp4v, .3g2, .3gp2, .3gp, .3gpp, but codecs like HEVC H.263/H.264/H.265, MPEG-4 ASP, H.264/MPEG-4 AVC,H.263, VC-1, Dirac, MPEG-2/4 (HE)-AAC, AC-3, Apple Lossless, ALS, SLS, Vorbis(with private objectTypeIndication) may not be supported by your Windows Media Player. Therefore, if you are holding a MP4 file encoded in H.264, your Windows Media Player 12 cannot help you out. 
 
 Windows Media Player upgrade can only help you get partial MP4 files open successfully. If WMP upgrade cannot solve MP4 playback issue, you may have to consider other approaches. 
@@ -61,12 +61,16 @@ Windows Media Player MP4 codec pack can be downloaded from its official website 
 Why not convert the MP4 into Windows media player supported format like WMV, AVI? [WinX HD Video Converter](https://tools.techidaily.com/5kplayer/products/) is recommended here for quality and speedy conversion.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Play MP4 on Windows Media Player Alternative –[5KPlayer](https://tools.techidaily.com/5kplayer/products/)
 
 Everything has its limitations, but we can gather their merits for the most efficient usage. Windows media player may not support some MP4 codecs, but 5KPlayer can make up that defect and offer a lot more utilities. It [plays almost all file formats](https://tools.techidaily.com/5kplayer/video-music-player/) including MP4 (HEVC H.263/H.264/H.265, AAC), OGG, WMV, MKV, FLV, AVI etc and can even [convert MP4 into MP3](https://tools.techidaily.com/5kplayer/youtube-download/)/AAC formats. From the above codecs you can see that HD/UHD/FUHD videos are also supported by 5KPlayer. Click for more [alternatives to Window Media Player playing MP4](https://tools.techidaily.com/5kplayer/video-music-player/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Play MP4 on Windows Media Player Alternative -5KPlayer?
 
@@ -81,7 +85,7 @@ Step 2\. Import the MP4 to Windows Media Player alternative through the ways bel
 ![Free 5KPlayer for 4K Resolution Videos](https://www.5kplayer.com/video-music-player/img/download-8k-movies.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And then you can enjoy the MP4 movie/music right away. You can also switch audio tracks, change aspect ratio, manage your downloaded MP4 videos, and [insert subtitles to MP4 files](https://tools.techidaily.com/5kplayer/video-music-player/) and so much more.
@@ -89,10 +93,6 @@ And then you can enjoy the MP4 movie/music right away. You can also switch audio
 **Note:** As a powerful [MP4 media player](https://tools.techidaily.com/5kplayer/video-music-player/), playing MP4 videos on Windows/Mac is just a basic function of 5KPlayer. It also [solves MP4 not playing in QuickTime](https://tools.techidaily.com/5kplayer/video-music-player/) and allows you to free download MP4 online music videos like Wildest Dreams MP4, Hello etc. Free download 5KPlayer to explore more.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,16 +109,19 @@ And then you can enjoy the MP4 movie/music right away. You can also switch audio
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/edefine-viewing-premium-platforms-for-videos/"><u>[New] Redefine Viewing Premium Platforms for Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-mastering-gopro-4k-essential-editing-tips-for-2024/"><u>[Updated] Mastering GoPro 4K Essential Editing Tips for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-uniting-your-favorite-sounds-a-complete-walkthrough-for-making-youtube-playlists-onlinemobile/"><u>[Updated] Uniting Your Favorite Sounds A Complete Walkthrough for Making YouTube Playlists Online/Mobile</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-acid-pro-in-focus-investigating-replacements-and-comparisons/"><u>In 2024, ACID Pro in Focus Investigating Replacements and Comparisons</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-oppo-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/insight-into-the-propella-7s-40-your-guide-to-a-cost-effective-agile-and-compact-tech-solution/"><u>Insight Into the Propella 7S 4.0: Your Guide to a Cost-Effective, Agile, and Compact Tech Solution</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-13-pro-max-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 13 Pro Max from iCloud</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-take-your-videos-to-the-next-level-os-x-mavericks-editing-tips/"><u>Updated Take Your Videos to the Next Level OS X Mavericks Editing Tips</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unlock-smooth-4k-editing-the-top-video-editing-apps-for-proxy-videos/"><u>Updated Unlock Smooth 4K Editing The Top Video Editing Apps for Proxy Videos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-vn-video-editor-for-pc-a-simplified-review-and-tutorial/"><u>Updated VN Video Editor for PC A Simplified Review and Tutorial</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/video-resume-mastery-top-4-tools-and-free-templates-for-success-for-2024/"><u>Video Resume Mastery Top 4 Tools and Free Templates for Success for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-androids-leading-photographic-enhancers-for-2024/"><u>[New] Android's Leading Photographic Enhancers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-essential-guide-to-iphone-reflections-in-landscapes-for-2024/"><u>[New] The Essential Guide to iPhone Reflections in Landscapes for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-hdr-sky-scenes-the-top-10-online-archives-for-2024/"><u>[Updated] HDR Sky Scenes The Top 10 Online Archives for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-essential-imovie-steps-for-squaring-up-instagram-posts/"><u>[Updated] The Essential iMovie Steps for Squaring Up Instagram Posts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-quiet-adventures-fixing-sound-glitches-in-lost-ark/"><u>No More Quiet Adventures: Fixing Sound Glitches in Lost Ark</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/ultimate-how-to-complete-iphone-14-data-transfer-using-itunes/"><u>Ultimate How-To: Complete iPhone 14 Data Transfer Using iTunes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-experience-the-thrill-top-10-movie-trailer-apps-for-ios/"><u>Updated 2024 Approved Experience the Thrill Top 10 Movie Trailer Apps for iOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-streamline-your-videos-10-top-rated-free-online-video-trimmers/"><u>Updated 2024 Approved Streamline Your Videos 10 Top-Rated Free Online Video Trimmers</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-gif-maker-tools-for-seamless-loops-2023-update-for-2024/"><u>Updated Free GIF Maker Tools for Seamless Loops 2023 Update for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-transform-your-videos-into-stunning-dvds-with-ease/"><u>Updated In 2024, Transform Your Videos Into Stunning DVDs with Ease</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unleash-your-creativity-canon-video-editing-software-and-tutorials/"><u>Updated In 2024, Unleash Your Creativity Canon Video Editing Software and Tutorials</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia C22 | Dr.fone</u></a></li>
 </ul></div>
 

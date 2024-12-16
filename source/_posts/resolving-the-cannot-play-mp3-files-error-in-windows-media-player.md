@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player
-date: 2024-12-06T20:08:06.937Z
-updated: 2024-12-09T21:18:46.433Z
+date: 2024-12-11T05:49:14.997Z
+updated: 2024-12-15T19:28:52.090Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Windows Media Player MP3 Cannot Play Problem?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -27,7 +31,7 @@ MP3 is the most common music compression format being used all over the world. F
 ![Play MP3](https://www.5kplayer.com/video-music-player/img/play-mp3-1201.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Play MP3 Files with Best Windows Media Player Alternative**
@@ -43,7 +47,7 @@ It is a tragedy for some Windows Media Player users that they are not able to pl
 ![Windows Media Player cannot play mp3](https://www.5kplayer.com/video-music-player/img/windows-media-player-mp3-1201.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **How to Fix Windows Media Player Cannot Play MP3 Problem?**
@@ -59,7 +63,7 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -78,16 +82,12 @@ c. Navigate to "File -> Open Media File".
 
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,20 +105,15 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafted-by-professionals-best-free-mobile-editors-for-android/"><u>[New] 2024 Approved Crafted by Professionals Best Free Mobile Editors for Android</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-get-your-keyboards-light-turned-on-again-in-mac-oswindows/"><u>Expert Tips to Get Your Keyboard's Light Turned On Again in Mac OS/Windows</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-drivers-for-your-msi-b350-motherboard-on-windows-pcs/"><u>How to Get the Latest Drivers for Your MSI B350 Motherboard on Windows PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/is-your-dvd-player-compatible-with-mp4-files-discover-our-easy-solutions/"><u>Is Your DVD Player Compatible with MP4 Files? Discover Our Easy Solutions!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/leading-edge-the-top-10-mobile-video-chat-platforms/"><u>Leading Edge The Top 10 Mobile Video Chat Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211140305-master-the-trick-to-keep-your-cs-go-game-running-smoothly/"><u>Master the Trick to Keep Your CS GO Game Running Smoothly!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/mp4-13-2024/"><u>MP4形式自由使用対応の高性能再生ソフト・音楽プレイヤー 評価ベスト13品 - 2024年選定</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/precise-portrayal-of-pixels-master-netflix-recordings-with-these-6-mac-tactics/"><u>Precise Portrayal of Pixels Master Netflix Recordings with These 6 Mac Tactics</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/seamless-avchd-to-avi-file-conversion-for-enhanced-quality-and-compatibility-user-friendly-solution/"><u>Seamless AVCHD-to-AVI File Conversion for Enhanced Quality and Compatibility, User-Friendly Solution!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/seamless-streaming-made-easy-expert-picks-for-samsung-video-players/"><u>Seamless Streaming Made Easy - Expert Picks for Samsung Video Players</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/step-by-step-guide-installing-the-delta-quadrant-plugin-for-kodi-lea-and-krpton/"><u>Step-by-Step Guide: Installing the Delta Quadrant Plugin for Kodi (Lea and Krpton)</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/trouble-uploading-videos-on-canva-discover-the-top-11-solutions/"><u>Trouble Uploading Videos on Canva? Discover the Top 11 Solutions!</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/ultimate-guide-top-youtube-to-mkv-video-converters-find-your-perfect-match/"><u>Ultimate Guide: Top YouTube-to-MKV Video Converters - Find Your Perfect Match!</u></a></li>
-<li><a href="https://facebook.techidaily.com/whats-behind-metas-choice-to-wait-until-2023-for-default-encryption/"><u>What's Behind Meta's Choice to Wait Until 2023 for Default Encryption</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/xperiawma/"><u>XperiaスマートフォンにおけるWMA音楽ファイル再生不能解決策</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-overcoming-connectivity-hurdles-in-cod-cold-war/"><u>[RESOLVED] Overcoming Connectivity Hurdles in CoD Cold War</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-ig-potential-the-best-tools-for-post-management/"><u>2024 Approved Unlock IG Potential The Best Tools for Post Management</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-6-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID On Your iPhone 6 Plus</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mastering-the-art-of-configuring-your-hp-printer-on-pcs/"><u>Mastering the Art of Configuring Your HP Printer on PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/most-reliable-slow-motion-camera-apps-apple-and-android-for-2024/"><u>Most Reliable Slow Motion Camera Apps, Apple & Android for 2024</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/transferer-sans-encombrement-windows-11-sur-un-nouveau-pc-solutions-en-deux-etapes/"><u>Transférer Sans Encombrement Windows 11 Sur Un Nouveau PC - Solutions en Deux Étapes</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-4k-video-editors-for-creators/"><u>Updated 2024 Approved Best 4K Video Editors for Creators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-here-are-10-best-webm-to-mp4-converters-on-the-market-that-you-can-use-to-convert-video-from-webm-to-mp4-format/"><u>Updated 2024 Approved Here Are 10 Best WebM to MP4 Converters on the Market that You Can Use to Convert Video From WebM to MP4 Format</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-convert-and-download-4k-video-in-mp4-format/"><u>Updated In 2024, How to Convert and Download 4K Video in MP4 Format</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-ultimate-guide-to-picture-in-picture-video-editing-in-final-cut-pro/"><u>Updated In 2024, The Ultimate Guide to Picture-in-Picture Video Editing in Final Cut Pro</u></a></li>
 </ul></div>
 

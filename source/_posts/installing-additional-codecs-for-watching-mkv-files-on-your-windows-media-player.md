@@ -1,7 +1,7 @@
 ---
 title: Installing Additional Codecs for Watching MKV Files on Your Windows Media Player
-date: 2024-12-08T22:55:24.003Z
-updated: 2024-12-10T04:20:09.450Z
+date: 2024-12-09T22:07:16.095Z
+updated: 2024-12-16T02:19:23.051Z
 tags:
   - video-music-player
 categories:
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MKV Codec for Windows Media Player: Play MKV videos and More
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
 
 Living up to its promise to provide native support of MKV codec in Windows 10, we still can't play MKV files without **MKV Codec for Windows Media Player**. Microsoft publicly claimed its openess to MKV Codec for Windows Media Player for users' sake. But is it? In fact, we already have MKV codec in Windows 10, but that doesn't mean the Windows Media Player supports MKV videos in real terms. This article tells you a way out!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to install MKV Codec for Windows Media Player?
 
@@ -43,10 +51,6 @@ On the software level, Windows Media Player 12 shows no intention for MKV codec 
 **\- So how to install MKV codec for Windows Media Player** to watch MKV videos and more? Before directly taking you to the download address, please take a look at other ways to play MKV files on Windows PC.
 
 ![MKV codec for Windows Media Player](https://www.5kplayer.com/video-music-player/img/5k-mkv-codec-windows-yxt-071501.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **\# Easiest Way: All-in-one MKV Video Player for Windows (10)**
 
@@ -81,10 +85,6 @@ Recommended below are the 3 more popular codec packs for WMP, you can take a loo
 \- A moderate MKV codec pack for Windows Media Player among the 3 in terms of codec components.  
 \- Featuring customizable option to change surround sound, compressions and other settings to fine-tune your Windows Media Player MKV files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Play MKV Without MKV Codec for Windows Media Player?
 
  Easiest way - A free MKV player for Windows to tackle MKV playback problem once and for all. Plus, seas of MKV movies are available to download with this all-in-one [HD video downloader for Windows 10](https://tools.techidaily.com/5kplayer/youtube-download/).
@@ -102,7 +102,7 @@ c. Import MKV file to Windows PC by navigating to "File -> Open Media File with 
 ![Play MKV videos on Windows 10](https://www.5kplayer.com/video-music-player/../youtube-download/img/x-men-trailer-download.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **How to Convert MKV Videos to MP4** 
@@ -116,7 +116,7 @@ Now, proceed to convert MKV videos to MP4 so that you USB sync and watch it on i
 ![Convert MKV to MP4](https://www.5kplayer.com/video-music-player/../youtube-download/img/convert-x-men-movie.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [A well considerate MKV player](https://tools.techidaily.com/5kplayer/video-music-player/) configures video format demand in planning all from the beginning, not crediting the habit of adding troublesome packs after codec supplies day in day out. Ascending from the sleek performance in MKV, MP4 playback, H.264 and M2TS playback, 5KPlayer deploys the video enhancing technology for the best. 
@@ -124,7 +124,7 @@ Now, proceed to convert MKV videos to MP4 so that you USB sync and watch it on i
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -142,20 +142,21 @@ Now, proceed to convert MKV videos to MP4 so that you USB sync and watch it on i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-record-video-with-logitech-webcam/"><u>[New] How to Record Video with Logitech Webcam</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-building-a-successful-youtube-channel-sidestep-these-8-frequent-faux-pas/"><u>[New] In 2024, Building a Successful YouTube Channel Sidestep These 8 Frequent Faux Pas</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-drive-audience-participation-through-custom-stories-queries/"><u>[Updated] 2024 Approved Drive Audience Participation Through Custom Stories Queries</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-virtual-revolution-ready-heres-a-list-of-top-7-must-haves/"><u>[Updated] 2024 Approved Virtual Revolution Ready? Here's a List of Top 7 Must-Haves</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/dvd-10windows-1011/"><u>新着！ご愛顧いただけるなら、これがおすすめのDVDコピー無料ソフト 10選【Windows 10/11対応版】</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/a-comprehensive-guide-installing-the-cinematech-hd-movie-player-on-pcmac-for-enhanced-viewing-experience/"><u>A Comprehensive Guide: Installing the Cinematech HD Movie Player on PC/Mac for Enhanced Viewing Experience</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/aacwav/"><u>AAC音声ファイルをシンプルな手順でWAV形式への変換方法</u></a></li>
-<li><a href="https://common-error.techidaily.com/audio-fix-eliminate-crackling-from-your-speakers-on-windows-11-and-7/"><u>Audio Fix: Eliminate Crackling From Your Speakers on Windows 11 and 7</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/best-free-video-codec-packs-for-modern-operating-systems-including-windows-11-10-81-and-earlier-versions/"><u>Best Free Video Codec Packs for Modern Operating Systems Including Windows 11, 10, 8.1, and Earlier Versions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/discover-the-ultimate-gopro-editors-our-pick-of-the-best-10-software-options-for-windows-and-mac-os/"><u>Discover the Ultimate GoPro Editors: Our Pick of the Best 10 Software Options for Windows and Mac OS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/easily-extract-youtube-content-discover-6-downloading-techniques/"><u>Easily Extract YouTube Content: Discover 6 Downloading Techniques</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/effective-strategies-for-creating-diy-music-cd-copies-as-a-reliable-backup-method/"><u>Effective Strategies for Creating DIY Music CD Copies as a Reliable Backup Method</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-note-30i-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Note 30i to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-digital-cropping-easy-online-methods/"><u>In 2024, Navigating Digital Cropping - Easy Online Methods</u></a></li>
-<li><a href="https://extra-support.techidaily.com/movie-magic-solutions-questions-answered-for-2024/"><u>Movie Magic Solutions Questions Answered for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-no-experience-guide-to-earning-on-reddit-13-strategies-inside/"><u>[Updated] 2024 Approved The Ultimate, No-Experience Guide to Earning on Reddit - 13 Strategies Inside</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlocking-youtubes-hidden-gems-keyword-research/"><u>[Updated] 2024 Approved Unlocking YouTube's Hidden Gems Keyword Research</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-novice-net-worth-easy-sites-for-beginners-channel-buys/"><u>[Updated] Novice Net Worth Easy Sites for Beginner's Channel Buys</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-vectors-leading-sites-in-quality-stock/"><u>2024 Approved Premium Vectors Leading Sites in Quality Stock</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/gmailgoogle-bookmark/"><u>如何在不同版本的Gmail下恢复Google Bookmark？——精彩实用指南</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus System Issues? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-hottest-youtube-music-playback-responses-23/"><u>In 2024, Hottest YouTube Music Playback Responses '23</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-reclaiming-acoustics-lost-in-social-media-videos/"><u>In 2024, Reclaiming Acoustics Lost in Social Media Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-a-picture-in-picture-effect-is-a-very-popular-effect-in-that-it-allows-us-to-see-two-images-at-once-this-tutorial-shows-you-how-to-cre/"><u>Updated 2024 Approved A Picture-in-Picture Effect Is a Very Popular Effect in that It Allows Us to See Two Images at Once. This Tutorial Shows You How to Create This in FCP</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-and-easy-avi-video-editing-top-5-software-choices/"><u>Updated 2024 Approved Free and Easy AVI Video Editing Top 5 Software Choices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-get-the-most-out-of-fcpx-10-free-plugins-every-editor-should-use/"><u>Updated 2024 Approved Get the Most Out of FCPX 10 Free Plugins Every Editor Should Use</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-create-split-screen-videos-for-free-online-and-offline-editors/"><u>Updated Create Split-Screen Videos for Free Online and Offline Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-expert-approved-free-video-splitting-tools/"><u>Updated Expert-Approved Free Video Splitting Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-crop-like-a-pro-a-step-by-step-guide-for-final-cut-pro-x-users/"><u>Updated In 2024, Crop Like a Pro A Step-by-Step Guide for Final Cut Pro X Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-mod-video-editing-on-a-budget-the-best-free-options/"><u>Updated In 2024, MOD Video Editing on a Budget The Best Free Options</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/shag-za-shagom-bystro-ispravit-sboj-rezervnogo-kopirovaniya-v-windows-10/"><u>Шаг За Шагом: Быстро Исправить Сбой Резервного Копирования В Windows 10</u></a></li>
 </ul></div>
 

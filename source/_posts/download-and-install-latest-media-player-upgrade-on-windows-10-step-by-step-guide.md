@@ -1,7 +1,7 @@
 ---
 title: "Download & Install Latest Media Player Upgrade on Windows 10: Step-by-Step Guide"
-date: 2024-12-09T22:33:30.754Z
-updated: 2024-12-15T22:41:31.340Z
+date: 2024-12-21T02:06:43.477Z
+updated: 2024-12-25T03:23:25.928Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Media Player Update: How to Update Media Player for Windows 10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -43,6 +43,10 @@ Step 3: Now you have launched Windows Media Player on your Windows 10, find the 
 Step 4: Click on "Check for updates" to see what version of Media Player are you on and then continue to finish Media Player updates for Windows 10\. 
 
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
 
@@ -59,7 +63,7 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Second Solution: Update your media player to 5KPlayer
@@ -74,10 +78,6 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
   
 ☆ [Best VR Player:](https://tools.techidaily.com/5kplayer/video-music-player/) load VR videos easily and quickly, and with the ability to donload VR videos from 300+ online video sites.   
@@ -87,7 +87,7 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,19 +105,18 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-dive-into-fb-360-videos-recording-and-sharing-secrets/"><u>[New] 2024 Approved Dive Into FB 360 Videos Recording and Sharing Secrets</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-integrated-guide-for-mobile-and-pc-session-records/"><u>[New] In 2024, Integrated Guide for Mobile & PC Session Records</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-streamline-your-video-search-on-facebook-tips-and-tricks-for-2024/"><u>[New] Streamline Your Video Search on Facebook (Tips & Tricks) for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-zero-price-techniques-for-online-educational-recordings/"><u>[Updated] 2024 Approved Zero Price Techniques for Online Educational Recordings</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-realme-gt-neo-5-se-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Realme GT Neo 5 SE Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo A2? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-se-2022-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone SE (2022) in the Best Ways</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-generate-realistic-avatars-top-free-online-face-creators/"><u>New 2024 Approved Generate Realistic Avatars Top Free Online Face Creators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-flip-and-rotate-the-best-free-3gp-video-editors-for-2024/"><u>New Flip and Rotate The Best Free 3GP Video Editors for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-breaking-down-your-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>New In 2024, Breaking Down Your Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-effortless-video-rotation-a-beginners-guide/"><u>New In 2024, Effortless Video Rotation A Beginners Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-shake-it-off-8-excellent-free-video-stabilizers-to-try-this-year/"><u>New Shake It Off 8 Excellent Free Video Stabilizers to Try This Year</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-unbeatable-free-game-video-editing-solutions-for-2024/"><u>New Unbeatable Free Game Video Editing Solutions for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-integrating-movie-capture-across-all-operating-systems/"><u>[New] Integrating Movie Capture Across All Operating Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[Updated] In 2024, Mac Video Excellence The Crème De La Liste for Sierra Users</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-quick-ways-to-transfer-contacts-from-apple-iphone-11-to-iphone-withwithout-itunes-drfone-by-drfone-transfer-from-ios/"><u>4 Quick Ways to Transfer Contacts from Apple iPhone 11 to iPhone With/Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/5pya5a6m576o6yg455so/"><u>最完美選用</u></a></li>
+<li><a href="https://win-blog.techidaily.com/aac-mp3-movavi/"><u>AAC 파일을 MP3로 자유성 원활한 인터넷 버전 - Movavi</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/discover-the-ultimate-list-of-free-media-player-apps-compatible-with-alienware-laptops-running-windows-nvme/"><u>Discover the Ultimate List of Free Media Player Apps Compatible with Alienware Laptops Running Windows Nvme</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-lost-bluetooth-connectivity-in-windows-11-steps-for-swift-resolution/"><u>Guide to Fixing Lost Bluetooth Connectivity in Windows 11: Steps for Swift Resolution</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-download-youtube-music-to-your-android-phone-top-6-free-apps/"><u>In 2024, Download YouTube Music to Your Android Phone Top 6 Free Apps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/losung-fur-fehlerhaften-windows-medienabspieler-auf-windows-10/"><u>Lösung Für Fehlerhaften Windows-Medienabspieler Auf Windows 10</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/penning-perils-identifying-ai-assisted-texts-in-literature/"><u>Penning Perils: Identifying AI-Assisted Texts in Literature</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/save-big-with-cyberlinks-powerdvd-16-grab-your-75-off-coupon-code-in-2020/"><u>Save Big with CyberLink's PowerDVD 16: Grab Your 75% Off Coupon Code in 2020</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-4-free-360-video-player-software-for-windows-11-and-mac-recommended-downloads/"><u>Top 4 Free 360° Video Player Software for Windows 11 & Mac: Recommended Downloads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/zoom-meetings-effectively-utilizing-whiteboard-on-various-devices/"><u>Zoom Meetings Effectively Utilizing Whiteboard on Various Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Take Your Videos to the Next Level Adding Effects in FCP X (3 Steps)
-date: 2024-11-10T03:50:32.990Z
-updated: 2024-11-14T07:55:01.251Z
+date: 2024-12-17T18:43:29.559Z
+updated: 2024-12-24T19:01:02.520Z
 tags: 
   - video editing software
   - video editing
@@ -49,17 +49,33 @@ Here is our clip - a fearsome polar bear.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx001.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To apply an effect, first select the clip in the Timeline.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx002.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then, click this icon in the Toolbar to open the Effects Browser (or type Cmd + 5).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx003.jpg "add effects in fcp")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Browser, like all the effects browsers, lists categories of effects on the left, a search box at the bottom to use for searching for the names of effects, and effects for each category on the right.
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx004.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here, for example, I've selected the Blur category, with my cursor near the Gaussian blur effect. (Gaussian blur is the best effect to use when you want a clip to look blurry.)
 
@@ -73,6 +89,10 @@ To apply an effect, do one of two things:
 To modify an effect, click this icon in the Toolbar to open the Inspector (or type Cmd + 4).
 
 ![add effects in fcp](https://images.wondershare.com/images/multimedia/video-editor/efx005.jpg "add effects in fcp")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click the Video tab in the Inspector. Effects from the Effects Browser are always listed at the top of the Inspector.
 
@@ -121,26 +141,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-a-roadmap-for-monetization-success-on-youtube-via-adsense/"><u>[New] 2024 Approved A Roadmap for Monetization Success on YouTube via AdSense</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-facebooks-instream-ad-reach-a-detailed-approach/"><u>[New] In 2024, Enhancing Facebook's Instream Ad Reach A Detailed Approach</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/dvdtop5/"><u>「優秀な無料・有料のDVDコンバーターソフトウェアTOP5推薦」</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/best-free-dvd-and-blu-ray-player-software-on-windows-10-top-3-picks/"><u>Best Free DVD & Blu-Ray Player Software on Windows 10: Top 3 Picks</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/download-any-song-from-youtube-legally-and-for-free-top-charts-of-free-youtube-music-extractors/"><u>Download Any Song From YouTube Legally and for Free: Top Charts of Free YouTube Music Extractors</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/easy-guide-integrating-your-local-library-into-kodi-for-enhanced-media-experience/"><u>Easy Guide: Integrating Your Local Library Into Kodi for Enhanced Media Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-microsofts-may-2020-build-windows-10-v2004-with-updated-conexant-hardware-drivers/"><u>Easy Installation of Microsoft's May 2020 Build (Windows 10 v2004) with Updated Conexant Hardware Drivers</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/efficient-methods-for-converting-dolby-truehd-into-acc-3-audio-codec/"><u>Efficient Methods for Converting Dolby TrueHD Into ACC-3 Audio Codec</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/efficient-video-compression-techniques-for-faster-web-loading/"><u>Efficient Video Compression Techniques for Faster Web Loading</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-newest-magicard-rio-pro-driver-software-for-windows-users-on-any-os-11817/"><u>Get the Newest Magicard Rio Pro Driver Software for Windows Users on Any OS (11/8.1/7)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/macx-dvd-profesional-pack-for-windows-ultimate-dvd-burning-and-video-editing-suite-compatible-with-win11/"><u>MacX DVD-Profesional Pack for Windows - Ultimate DVD Burning & Video Editing Suite Compatible with Win11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-high-definition-audio-device-glitch/"><u>Resolved High-Definition Audio Device Glitch</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-upgrading-to-an-iphone-16-pro-doesnt-make-sense-for-me-and-my-iphone-ebastion-a-closer-look-at-four-major-concerns-addressed/"><u>Why Upgrading to an iPhone 16 Pro Doesn't Make Sense for Me and My iPhone Ebastion | A Closer Look at Four Major Concerns Addressed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-discovering-the-secrets-to-targeted-youtubes-likes-and-views-for-2024/"><u>[Updated] Discovering the Secrets to Targeted YouTubes Likes and Views for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-customizing-your-watch-the-art-of-altering-youtube-video-pace/"><u>[Updated] In 2024, Customizing Your Watch The Art of Altering YouTube Video Pace</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-optimal-accessories-for-your-high-quality-gopro/"><u>[Updated] In 2024, Optimal Accessories for Your High-Quality GoPro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-composing-channel-overview-teaser-clips/"><u>2024 Approved Composing Channel Overview Teaser Clips</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-powerdirector-competitors-best-mobile-video-editors-for-android-and-ios/"><u>2024 Approved PowerDirector Competitors Best Mobile Video Editors for Android & iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-leaderboard-of-first-zeoid-innovations/"><u>2024 Approved The Leaderboard of First Zeoid Innovations</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1728465169319-windows-server/"><u>復原Windows Server上已銷毀文件方法</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-vertical-video-editing-on-ios-and-android/"><u>New 2024 Approved The Ultimate Guide to Vertical Video Editing on iOS and Android</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-time-lapse-video-editing-made-easy-top-software-picks/"><u>New 2024 Approved Time-Lapse Video Editing Made Easy Top Software Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-edit-videos-online-for-free-the-best-tools-and-services-for-2024/"><u>New Edit Videos Online for Free The Best Tools and Services for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-voice-over-mastery-essential-fcp-recording-hacks-for-2024/"><u>New Voice Over Mastery Essential FCP Recording Hacks for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/stop-social-engineering-on-your-facebook-account/"><u>Stop Social Engineering on Your Facebook Account</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/take-control-of-time-top-10-free-video-speed-manipulation-apps-for-mobile-for-2024/"><u>Take Control of Time Top 10 Free Video Speed Manipulation Apps for Mobile for 2024</u></a></li>
+<li><a href="https://discover-data.techidaily.com/the-sentence-the-charm-of-older-properties-often-lies-in-the-architectural-details-including-built-in-wardrobes-and-archways-scores-a-complexity-level-of-45351/"><u>The Sentence 'The Charm of Older Properties Often Lies in the Architectural Details, Including Built-In Wardrobes and Archways' Scores a Complexity Level of 4/5. (More Complex Structure and Use of Words Like Charm and Lies)</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-text-animation-apps-for-mobile-video-editing-for-2024/"><u>Top Text Animation Apps for Mobile Video Editing for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

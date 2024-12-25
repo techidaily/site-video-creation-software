@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Media Player: How to Fix MP4 Format Issues"
-date: 2024-12-15T01:06:57.393Z
-updated: 2024-12-16T01:32:20.037Z
+date: 2024-12-20T21:16:08.026Z
+updated: 2024-12-24T23:20:01.564Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Windows Media Player Won't Play MP4? FAQs & Solutions
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 Your **Windows Media Player won't play MP4** files just happened? The codec problem should be mainly responsible for that. To help you solve the problem once for all, this guide will list detailed reasons to explain why that happens plus corresponding solutions. However, if you want to easily and quickly solve MP4 file not playing problem, you can try third-party MP4 player to play MP4 videos files on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQs about Windows Media Player Won't Play MP4 Files
@@ -52,10 +52,6 @@ Luckily, Windows Media Player 12 natively supports some MP4 codecs like listed b
 
 ![Windows Media Player MP4 Codec Support](https://www.5kplayer.com/video-music-player/img/5kp-play-mp4-wmp-zjy-001.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, MP4 file not playing in Windows Media Player 12 problem also happens a lot because WMP 12 may not support codecs like HEVC H.263/H.264/H.265, MPEG-4 ASP, H.264/MPEG-4 AVC,H.263, VC-1, Dirac, MPEG-2/4 (HE)-AAC, AC-3, Apple Lossless, ALS, SLS, Vorbis(with private objectTypeIndication).
 
 **Q4: Why Windows Media Player Show No Video or Audio When Playing MP4?**
@@ -65,6 +61,10 @@ Windows Media Player MP4 no video occurs as MP4 is a container format that can c
 **Q5: How to Get Windows Media Player to Play MP4?**
 
 In conclusion, all of the discussions are about codec. So, you can download Windows Media Player MP4 codecs or third-party codec pack like K-Lite to beef up your WMP, or just convert the MP4 to Windows Media Player more compatible format like WMV and AVI. Wiser choice, you are suggested to try another [MP4 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play MP4 video files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Detailed Solutions to Windows Media Player not Playing MP4 Error
 
@@ -87,13 +87,13 @@ If you are stubborn fan of Windows Media Player, you can just try the above two 
 ![Best Free MP4 Player](https://www.5kplayer.com/video-music-player/img/flv-player-free-download.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -111,24 +111,21 @@ If you are stubborn fan of Windows Media Player, you can just try the above two 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-nostalgia-reimagined-transforming-your-vintage-photos-into-cutting-edge-videos-for-2024/"><u>[New] Nostalgia Reimagined Transforming Your Vintage Photos Into Cutting-Edge Videos for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-agni-2-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Agni 2 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-a-ultimate-guide-to-podcast-names/"><u>In 2024, A Ultimate Guide to Podcast Names</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-y28-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo Y28 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-tecno-spark-20-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Tecno Spark 20 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-windows-1011-for-noticeable-notes/"><u>Mastering Windows 10/11 for Noticeable Notes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pc-command-center-harness-the-power-of-your-home-assistant-from-your-desktop/"><u>PC Command Center: Harness the Power of Your Home Assistant From Your Desktop</u></a></li>
-<li><a href="https://fox-making.techidaily.com/protecting-your-bitcoin-assets-comprehensive-guide-to-secure-crypto-storage-by-yl-software-solutions/"><u>Protecting Your Bitcoin Assets: Comprehensive Guide to Secure Crypto Storage by YL Software Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-s23plus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy S23+ Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-your-computers-full-potential-easy-bios-entry-in-windows-11-explained/"><u>Unlock Your Computer's Full Potential: Easy BIOS Entry in Windows 11 Explained</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-combine-multiple-avi-files-into-one-top-10-free-avi-merger-tools/"><u>Updated 2024 Approved Combine Multiple AVI Files Into One Top 10 Free AVI Merger Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-digital-trailer-development-companies-online/"><u>Updated 2024 Approved Digital Trailer Development Companies Online</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-expert-approved-highlight-video-editors-for-desktop-and-mobile/"><u>Updated 2024 Approved Expert-Approved Highlight Video Editors for Desktop and Mobile</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-how-to-turn-videos-into-live-photos-best-apps-and-tutorials/"><u>Updated 2024 Approved How to Turn Videos Into Live Photos Best Apps and Tutorials</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-unleash-your-creativity-10-best-cartoon-animation-apps-for-mobile/"><u>Updated 2024 Approved Unleash Your Creativity 10 Best Cartoon Animation Apps for Mobile</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-from-video-to-live-photo-best-conversion-apps-and-methods-for-2024/"><u>Updated From Video to Live Photo Best Conversion Apps and Methods for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-s-most-popular-video-animation-tools-for-iphone-ipad-and-android/"><u>Updated In 2024, S Most Popular Video Animation Tools for iPhone, iPad, and Android</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-subtitle-edit-for-mac-download-alternatives/"><u>Updated In 2024, Subtitle Edit for Mac Download Alternatives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-the-industry-standard-adobe-premiere-pro-for-mac-video-editors/"><u>Updated In 2024, The Industry Standard Adobe Premiere Pro for Mac Video Editors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-from-crafting-to-screen-sharing-comprehensive-windows-pc-manual-for-tv-recording/"><u>[New] In 2024, From Crafting to Screen-Sharing Comprehensive Windows PC Manual for TV Recording</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-photographers-guide-to-effective-watermarking/"><u>[New] Photographers' Guide to Effective Watermarking</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-demystifying-the-process-of-writing-youtube-video-content-for-2024/"><u>[Updated] Demystifying the Process of Writing YouTube Video Content for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[Updated] In 2024, From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-top-6-online-communities-catering-to-the-commercial-world/"><u>[Updated] In 2024, Top 6 Online Communities Catering to the Commercial World</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-battle-of-live-streamers-twitch-versus-youtube/"><u>2024 Approved The Battle of Live Streamers Twitch Versus YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-pro-keyboard-malfunctions-heres-how-to-restore-functionality/"><u>MacBook Pro Keyboard Malfunctions? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mistral-ais-le-chat-face-off-with-chatgpt-insights-from-a-real-user-test/"><u>Mistral AI’s Le Chat Face-Off with ChatGPT – Insights From a Real User Test</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-fcpx-plugin-collection-free-and-paid-gems/"><u>New 2024 Approved The Ultimate FCPX Plugin Collection Free and Paid Gems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-animating-photos-top-8-tools-and-software/"><u>New 2024 Approved The Ultimate Guide to Animating Photos Top 8 Tools and Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-videopad-review-a-detailed-look-at-its-video-editing-capabilities/"><u>New 2024 Approved Videopad Review A Detailed Look at Its Video Editing Capabilities</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-from-sideways-to-right-side-up-how-to-flip-videos-quickly-for-2024/"><u>New From Sideways to Right-Side Up How to Flip Videos Quickly for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-rated-quicktime-editors-free-and-easy-to-use/"><u>New Top-Rated QuickTime Editors Free and Easy to Use</u></a></li>
+<li><a href="https://win-web.techidaily.com/securely-protecting-data-on-windows-n11-home-comprehensive-backup-tutorials-unveiled/"><u>Securely Protecting Data on Windows N11 Home: Comprehensive Backup Tutorials Unveiled</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-10-free-music-production-tools-expert-reviews-for-2024/"><u>Top 10 Free Music Production Tools Expert Reviews for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-video-editing-apps-with-soundtracks-for-mobile-devices/"><u>Top Video Editing Apps with Soundtracks for Mobile Devices</u></a></li>
 </ul></div>
 

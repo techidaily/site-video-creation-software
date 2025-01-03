@@ -1,7 +1,7 @@
 ---
 title: "The Essentials of AV1 Video Codecs: How They Work and Their Benefits for Users"
-date: 2024-12-26T19:54:08.194Z
-updated: 2025-01-02T21:43:21.933Z
+date: 2024-12-28T00:53:23.657Z
+updated: 2025-01-02T16:09:28.171Z
 tags:
   - video-music-player
 categories:
@@ -44,7 +44,7 @@ The realization of AV1 absorbs some of the characteristics of Daala (a video cod
  AOM allows for a reasonable increase in coding complexity and aims to improve the compression performance of AV1 by 50% compared to VP9/HEVC. Also, due to its excellent compression ability, AV1 is mainly going to be used in UHD video playback for it is able to play 4K video with faster frame rate, higher bit rate, wider gamut on a fairly fast computer, as well as providing codec support for WebRTC (real-time communication).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Decoder and Why We Need It?
@@ -52,6 +52,10 @@ The realization of AV1 absorbs some of the characteristics of Daala (a video cod
 To play any video on the internet, it needs to go through the following steps: protocol parsing, format decapsulating, video audio codec decoding, and video audio synchronization. To play video on a local drive, you do not need to parse the protocol, but the other steps are still necessary. And decoding is the most important and complicated part in the whole procedure.
 
 ![process of video playback](https://www.5kplayer.com/video-music-player/img/video-decode-process.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Decoder, as its name implies, is a device or a program to decode the encoded video or audio data into its original format. The popular formats of video include H.264, MPEG2, HEVC, AV1, etc., and audio formats include AAC, MP3, AC-3, etc. By decoding, the compressed video data is output into uncompressed color data, such as YUV420P, RGB, etc., and the compressed audio data is output into uncompressed audio sampled data, such as PCM data.
 
@@ -62,6 +66,10 @@ Therefore, a decoder is very important because we need it to process video and a
 The current video compression standard uses higher codec complexity in exchange for the improvement of video compression efficiency, for example, in WebRTC, we have witnessed three codec generations: from VP8 and H.264 to VP9 and HEVC, and now, we are moving to the newest one, AV1\. The latest coding quality comparison study shows that AV1 gets the top position of compression quality (lower bandwidth for the same quality). 
 
 ![video codec generations](https://www.5kplayer.com/video-music-player/img/av1.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Facebook's compression effect test](https://engineering.fb.com/video-engineering/av1-beats-x264-and-libvpx-vp9-in-practical-use-case/) of AV1, VP9, and H.264\. Compared the test results, it draws the conclusion that "AV1 surpasses its stated goal of 30% better compression than VP9, and achieves gains of 50.3%, 46.2% and 34.0%, compared to x264 main profile, x264 high profile and libvpx-vp9, respectively."
 
@@ -78,7 +86,7 @@ For its more efficient streaming, many consumer service providers are very optim
 ![youtube video av1 codec](https://www.5kplayer.com/video-music-player/img/youtube-video-codec.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **How Do I Play AV1?**
@@ -86,7 +94,7 @@ For its more efficient streaming, many consumer service providers are very optim
 To pay AV1 video, the key is whether your device has a decoder that supports this codec. Windows PC and Mac do not natively support playing AV1 video, but you can watch YouTube or Netflix AV1 video because the browser and APP have added the AV1 decoder. If you want to play AV1 videos on your local drive, you can choose to install the AV1 extension, AV1 decoder or AV1 supported media player to help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Best 4 AV1 decoders
@@ -115,10 +123,6 @@ SVT-AV1 is an open source AV1 codec implementation, including the encoder and de
 
 libgav1 is a Main profile (0) and High profile (1) compliant AV1 decoder developed by Google. It was invented to focus on ARM-powered Android devices and x86\_64 desktop CPUs. Compared with other AV1 decoders, such as dav1d, libgav1 still have a long way to work on. With the same input video file used on libgav1 and dav1d, the performance of the former remains less than half the speed of the latter.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Top AV1 Players
 
 Player is a shell for various codecs, it needs to call the corresponding decoder while playing the video. As a rookie has never really used the decoder before, problems like struggling to read the professional tests report about the AV1 decoder, have no idea about how to choose a decoder or set it on computer will push you to an easier solution, [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/). 
@@ -132,10 +136,6 @@ VLC is a free and open source cross-platform multimedia player and framework tha
  VLC is huge popularly and one of the good reason is that with rapid iteration, VLC is able to quickly response and fix the bugs. If you are using VLC but failed to open an AV1 video file, try to solve the problem by updating it to the newest version.
 
 ![av1 player VLC](https://www.5kplayer.com/video-music-player/img/videolan-vlc.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Pros:**  
  Customize extensions  
@@ -152,6 +152,10 @@ CnX Player is released in 2015, and actually is still a new software. It is said
  As a Windows Mac PC user, there are too many free media players to choose now, if you are not a fan of CnX Player and stick with this brand, moving to another free multimedia player could be a priority choice. But, as mentioned above, phones do not have AV1 Hardware Accleration support, if you need to play AV1 video on mobile, get it a try. 
 
 ![cnx player AV1 player on mobile](https://www.5kplayer.com/video-music-player/img/cnx-player-mobile.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Pros:**  
  Play UHD video  
@@ -181,10 +185,6 @@ If you want to play AV1 video with 5KPlayer, download or upgrade it to the newes
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Play AV1 Video with 5KPlayer?
 
 **Step 1:** Download and install 5KPlayer, launch it on your Windows or Mac. If you already had 5KPlayer installed, please check for update.
@@ -197,6 +197,10 @@ With only 3 steps you can easily enable AV1 video playback on your PC. As a prof
 
 **Closing words:**   
  Competition is always good for the consumer. AV1, as a new video codec standard with better compression effect that made it comparable to HEVC and VP9 in the market, not to mention that AV1 codec is patent-free. We expect that AV1 will have a higher coding efficiency after the subsequent optimization, and devices and software support will become more popular.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -212,10 +216,6 @@ _Copyright © 2024 Digiarty Software, Inc. All Rights Reserved._
 _5KPlayer & DearMob are brands of Digiarty Software, Inc. All other products or name brands are trademarks of their respective holders. All logos, trademarks and images relating to other companies that may be contained wherein are applied in the Internet that are not used for commercial use. Digiarty's software is not developed by or affiliated with such companies._
 
 [![](https://www.5kplayer.com/video-music-player/img/back.png)](https://www.5kplayer.com/video-music-player/#)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Play AV1 Video with 5KPlayer?
 
@@ -245,20 +245,19 @@ With only 3 steps you can easily enable AV1 video playback on your PC. As a prof
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-crafting-yt-masterpieces-for-igtv-showcase/"><u>[Updated] Crafting YT Masterpieces for IGTV Showcase</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-guide-to-successfully-post-movies-made-with-wmm-onto-vimeo-for-2024/"><u>[Updated] Guide to Successfully Post Movies Made with WMM Onto Vimeo for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-antique-cinematography-in-the-digital-realm/"><u>2024 Approved Antique Cinematography in the Digital Realm</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-notch-screen-recorder-pcmacos-edition/"><u>2024 Approved Top-Notch Screen Recorder PC/macOS Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-gaming-experience-with-corsairs-void-pro-download-and-instantly-setup-on-windows/"><u>Get the Best Gaming Experience with Corsair's Void Pro - Download and Instantly Setup on Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-novices-guide-to-vectors-insight-into-types-and-software-choices/"><u>In 2024, Novice's Guide to Vectors Insight Into Types & Software Choices</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-top-10-solutions-for-movie-subtitle-translation-making-things-perfect-for-2024/"><u>New Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-windows-10-photos-not-enough-explore-these-8-amazing-alternatives/"><u>Updated In 2024, Windows 10 Photos Not Enough? Explore These 8 Amazing Alternatives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-mac-video-editing-software-alternatives-to-pinnacle-studio/"><u>Updated Mac Video Editing Software Alternatives to Pinnacle Studio</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-mkvtoolnix-mac-a-user-friendly-video-editing-solution/"><u>Updated MKVtoolnix Mac A User-Friendly Video Editing Solution</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-rotate-avi-videos-for-free-top-16-software-for-multiple-platforms/"><u>Updated Rotate AVI Videos for Free Top 16 Software for Multiple Platforms</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-say-goodbye-to-windows-10-photos-top-alternative-photo-editors-for-2024/"><u>Updated Say Goodbye to Windows 10 Photos Top Alternative Photo Editors for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-10-free-video-rotators-for-any-device-for-2024/"><u>Updated The Ultimate List 10 Free Video Rotators for Any Device for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-best-free-video-fx-apps-for-ios-and-android-for-2024/"><u>Updated Unleash Your Creativity Best Free Video FX Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-the-apple-iphone-12-is-leading-as-this-years-ultimate-smartphone-selection/"><u>Why the Apple iPhone 12 Is Leading as This Year’s Ultimate Smartphone Selection</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-instantaneous-ease-in-podcast-broadcasts-for-2024/"><u>[Updated] Instantaneous Ease in Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/anddvd/"><u>最新のフリーソフトでシンプル&効率的にDVD作成！限界なし、完全版が手に入ります</u></a></li>
+<li><a href="https://facebook.techidaily.com/harness-the-power-of-technology-save-fb-imagesvideos/"><u>Harness the Power of Technology: Save Fb Images/Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-screenplay-blueprint-unveiled/"><u>In 2024, Screenplay Blueprint Unveiled</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-utilizing-the-power-of-twitter-archive-data/"><u>In 2024, Utilizing the Power of Twitter Archive Data</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-video-quality-in-zoom-conferences-for-2024/"><u>Maximizing Video Quality in Zoom Conferences for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-next-gen-marvel-discover-expected-features-and-specs-of-the-galaxy-s25-ultra-release/"><u>Samsung's Next-Gen Marvel: Discover Expected Features and Specs of the Galaxy S25 Ultra Release</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/up-your-stream-simultaneous-views-on-one-screen/"><u>Step Up Your Stream Simultaneous Views on One Screen</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-art-of-pan-and-zoom-how-to-achieve-the-ken-burns-effect/"><u>Updated 2024 Approved The Art of Pan and Zoom How to Achieve the Ken Burns Effect</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-elevate-your-storytelling-gopro-quik-video-editing-essentials-for-macbook-for-2024/"><u>Updated Elevate Your Storytelling GoPro Quik Video Editing Essentials for MacBook for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-to-create-top-5-mod-video-editors-for-aspiring-filmmakers-for-2024/"><u>Updated Free to Create Top 5 MOD Video Editors for Aspiring Filmmakers for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-home-movie-magic-simple-yet-effective-video-editing-techniques/"><u>Updated Home Movie Magic Simple yet Effective Video Editing Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-capture-the-moment-a-guide-to-creating-a-memorable-valentines-day-video/"><u>Updated In 2024, Capture the Moment A Guide to Creating a Memorable Valentines Day Video</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-final-cut-pro-x-not-for-you-try-these-10-alternative-video-editors/"><u>Updated In 2024, Final Cut Pro X Not for You? Try These 10 Alternative Video Editors</u></a></li>
 </ul></div>
 

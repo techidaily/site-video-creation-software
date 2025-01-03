@@ -1,7 +1,7 @@
 ---
 title: "Everything You Need to Know About AV1: An In-Depth Look at This Revolutionary Video Codec"
-date: 2024-12-23T22:18:18.481Z
-updated: 2024-12-24T23:30:51.974Z
+date: 2024-12-29T21:12:18.460Z
+updated: 2025-01-02T17:19:22.535Z
 tags:
   - video-music-player
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Todo sobre el códec de vídeo AV1 - Actualizando
 
@@ -47,6 +43,10 @@ El códec de vídeo AV1, basado en el códec VP9 y VP10 de Google, es un formato
 
 AV1 es el producto de AOMedia (Alliance for Open Media) que está formada por empresas de semiconductores, proveedores de vídeo a la carta, productores de contenidos de vídeo, empresas de desarrollo de software y proveedores de navegadores web, con Google, Mozilla, Cisco, Microsoft, Netflix, Amazon e Intel como los siete miembros fundadores. Para diseñar un formato de vídeo que pueda ayudar a producir con rapidez vídeos web de alta definición de forma gratuita, se propuso el concepto de códec AV1 por primera vez en 2015 por estos siete gigantes de la tecnología y, finalmente, la especificación 1.0 para AV1 salió en 2018\. Viendo el gran beneficio del AV1, hoy en día más y más compañías de renombre, incluidas Apple, YouTube y Facebook, se han unido a AOM para ayudar a acelerar la propagación del AV1 y el reemplazo final de la HEVC de alto costo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ¿Por qué se necesita urgentemente el AV1? \[Explicaciones detalladas\]
 
 En general, el códec AV1 está creado para una transmisión fluida de vídeo de alta calidad, una amplia compatibilidad con diversos equipos y programas, ahorro de ancho de banda y, lo más importante, ahorro de presupuesto. Es un formato de vídeo realmente potente y considerado, y es por eso que tantas compañías de tecnología líderes están interesadas en él y dispuestas a pasar tiempo desarrollándolo.
@@ -72,7 +72,7 @@ En 2013, VP9 fue sacado por Google para tener la misma tasa de compresión con H
 ![AV1 VS VP9](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/av1-vs-vp9.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _(Prueba de AV1 vs. VP9 de Bitmovin)_
@@ -85,11 +85,11 @@ El AV1 puede ahorrar hasta un 30%\~50% de ancho de banda para la misma calidad d
 
 ![AV1 VS HEVC](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/av1-vs-hevc.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _(Prueba de AV1 vs. HEVC de Bitmovin)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Adopción del AV1 - ¿Qué soporta el códec de vídeo AV1 ahora?
 
@@ -111,13 +111,13 @@ La adopción del códec AV1 es diversa, lo que incluye servicios de streaming on
 
 La obvia deficiencia del códec de vídeo AV1 que encontramos a partir de ahora es que los algoritmos utilizados en AV1 son un poco más avanzados que los del HEVC, por lo que requiere un hardware y un software más potente para codificar o decodificar. Es por eso que ocurre el problema de que el AV1 no se reproduce, por eso YouTube advierte a sus usuarios con un mensaje de error como "todo los que supere los 480p requerirá un ordenador potente", y por eso el formato de vídeo AV1 no es popular entre el público en la actualidad. No importa, el AV1 será una superestrella al final con un futuro brillante.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### El futuro del códec de vídeo AV1
 
 Además de lo todo lo mencionado arriba compatible con AV1, AV1 se usará en más plataformas. Según las noticias, el AV1 aparecerá en las consolas de juegos, decodificadores, procesadores, tarjetas gráficas, chipsets, más televisores inteligentes de las marcas Samsung y LG, nuevos Fire TV y productos Roku, etc. Con todo, un mayor despliegue del AV1 que es imposible hoy en día, será posible en un futuro próximo.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ¿Cómo descargar el códec de vídeo AV1?
 
@@ -128,7 +128,7 @@ En la última versión, 5KPlayer añade soporte para la decodificación de víde
 ![5KPlayer Plays AV1](https://www.5kplayer.com/video-music-player-es/../video-music-player/img/play-av1-video.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _(5KPlayer reproduce video AV1 en 4K)_
@@ -159,18 +159,22 @@ _**Fuente:**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-game-on-essential-samsung-gear-vr-experiences/"><u>[New] Game On Essential Samsung Gear VR Experiences</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-essential-igtv-picks-for-a-creative-edge/"><u>[New] In 2024, Essential IGTV Picks for a Creative Edge</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unveiling-the-secrets-to-youtube-highlighted-remarks/"><u>2024 Approved Unveiling the Secrets to YouTube Highlighted Remarks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-gallery-archive-websites-for-2024/"><u>Best Gallery Archive Websites for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/guaranteed-solutions-to-overcome-oculus-software-install-problems-on-your-pc-windows-11-and-10/"><u>Guaranteed Solutions to Overcome Oculus Software Install Problems on Your PC (Windows 11 & 10)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-11-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 11 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-s-best-time-lapse-video-editing-tools-a-comprehensive-review/"><u>New 2024 Approved S Best Time-Lapse Video Editing Tools A Comprehensive Review</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-elevate-your-videos-with-these-20-free-adobe-premiere-title-templates/"><u>New In 2024, Elevate Your Videos with These 20 Free Adobe Premiere Title Templates</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-final-cut-pro-x-essential-image-cropping-techniques/"><u>New In 2024, Final Cut Pro X Essential Image Cropping Techniques</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-must-have-3d-video-editing-software-for-creators/"><u>New In 2024, Must-Have 3D Video Editing Software for Creators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-mastering-animation-top-software-recommendations-for-mac-and-windows-for-2024/"><u>New Mastering Animation Top Software Recommendations for Mac and Windows for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-split-your-videos-with-ease-top-free-mpeg-splitters/"><u>New Split Your Videos with Ease Top Free MPEG Splitters</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solved-big-screen-displays-issue-for-windows-10/"><u>Solved Big-Screen Displays Issue for Windows 10</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[New] In 2024, Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-visualvault-overview-in-depth-assessment/"><u>[Updated] In 2024, VisualVault Overview – In-Depth Assessment</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024s-ultimate-guide-to-selecting-superior-cell-phone-signal-strengtheners/"><u>2024'S Ultimate Guide to Selecting Superior Cell Phone Signal Strengtheners</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/st-free-youtube-sound-extractors-free-youtube-audio-downloads/"><u>29 Cost-Free YouTube Sound Extractors Free YouTube Audio Downloads</u></a></li>
+<li><a href="https://discover-data.techidaily.com/boost-your-pcs-performance-top-hardware-enhancements-recommended-by-yl-computing/"><u>Boost Your PC's Performance: Top Hardware Enhancements Recommended by YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-edge-40-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Edge 40 Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-realme-gt-5-240w-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Realme GT 5 (240W) Without PUK Codes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-20c-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark 20C Phone FRP Lock</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/total-control-over-youtube-playback-silence-previews-for-2024/"><u>Total Control Over YouTube Playback Silence Previews for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-compact-razer-docking-station-analysis-the-perfect-gaming-accoutrement-for-on-the-go-players/"><u>Ultimate Compact Razer Docking Station Analysis: The Perfect Gaming Accoutrement for On-the-Go Players</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-video-editing-on-a-budget-top-free-special-effects-apps-for-mobile/"><u>Updated In 2024, Video Editing on a Budget Top Free Special Effects Apps for Mobile</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-s-top-rated-free-music-recording-programs-a-comprehensive-guide-for-2024/"><u>Updated S Top-Rated Free Music Recording Programs A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-take-your-videos-to-the-next-level-advanced-effects-tutorial/"><u>Updated Take Your Videos to the Next Level Advanced Effects Tutorial</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unblur-your-creativity-top-video-blur-apps-for-mobile-devices-for-2024/"><u>Updated Unblur Your Creativity Top Video Blur Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unleash-your-creativity-easy-video-editing-with-gopro-quik-for-macbook/"><u>Updated Unleash Your Creativity Easy Video Editing with GoPro Quik for MacBook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlock-mp4-10-best-webm-to-mp4-conversion-software-for-2024/"><u>Updated Unlock MP4 10 Best WebM to MP4 Conversion Software for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/video-editing-battle-sony-vegas-vs-adobe-premiere-pro-features-pricing-and-more-for-2024/"><u>Video Editing Battle Sony Vegas vs Adobe Premiere Pro - Features, Pricing, and More for 2024</u></a></li>
 </ul></div>
 

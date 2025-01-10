@@ -1,7 +1,7 @@
 ---
 title: "Download & Install Latest Media Player Upgrade on Windows 10: Step-by-Step Guide"
-date: 2024-12-31T20:24:00.480Z
-updated: 2025-01-03T03:12:56.974Z
+date: 2025-01-07T18:46:08.693Z
+updated: 2025-01-09T17:56:22.641Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Media Player Update: How to Update Media Player for Windows 10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -45,7 +45,7 @@ Step 4: Click on "Check for updates" to see what version of Media Player are you
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
@@ -63,7 +63,7 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Second Solution: Update your media player to 5KPlayer
@@ -79,7 +79,7 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
@@ -105,18 +105,18 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-fast-and-easy-gif-transformation-ultimate-list-of-no-download-services-for-2024/"><u>[New] Fast and Easy GIF Transformation Ultimate List of No-Download Services for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigate-the-tiktok-twitter-connection/"><u>[New] In 2024, Navigate the TikTok-Twitter Connection</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-an-all-inclusive-subtitle-handbook-from-basics-to-advanced-tips/"><u>[Updated] An All-Inclusive Subtitle Handbook From Basics to Advanced Tips</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-boosting-visibility-the-art-of-crafting-youtube-channel-backlinks-for-2024/"><u>[Updated] Boosting Visibility The Art of Crafting YouTube Channel Backlinks for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ideal-mkv-player-apps-windows-pc/"><u>[Updated] In 2024, Ideal MKV Player Apps Windows PC</u></a></li>
-<li><a href="https://fox-making.techidaily.com/advanced-argon-admin-panel-with-tailwind-css-support-enhanced-features-by-creative-tim/"><u>Advanced Argon Admin Panel with Tailwind CSS Support - Enhanced Features by Creative Tim</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/auditory-bliss-unleashed-the-ultimate-nest-audio-experience-for-avid-melomaniacs/"><u>Auditory Bliss Unleashed: The Ultimate Nest Audio Experience for Avid Melomaniacs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ios-174-update-apple-introduces-podcast-text-support-fresh-emoji-lineup-and-european-app-store-relaunch-the-latest-insights/"><u>IOS 17.4 Update: Apple Introduces Podcast Text Support, Fresh Emoji Lineup & European App Store Relaunch - The Latest Insights</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-get-ready-to-be-amazed-the-best-4k-video-samples-around/"><u>New 2024 Approved Get Ready to Be Amazed The Best 4K Video Samples Around</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-efficient-video-editing-how-to-cut-and-trim-avi-files-fast/"><u>New 2024 Approved Unlock Efficient Video Editing How to Cut and Trim AVI Files Fast</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-convert-mp4-to-mp3-top-tools-for-seamless-audio-extraction-for-2024/"><u>New Convert MP4 to MP3 Top Tools for Seamless Audio Extraction for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nhance-your-projects-with-free-green-screens-from-these-online-hubs/"><u>[New] Enhance Your Projects with Free Green Screens From These Online Hubs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-face-mix-ups-in-your-images-with-these-simple-tips-for-apple-photos-users/"><u>Fix Face Mix-Ups in Your Images with These Simple Tips for Apple Photos Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/lightroom-guide-creating-and-merging-stunning-hdr-images-for-2024/"><u>Lightroom Guide Creating & Merging Stunning HDR Images for 2024</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-fast-forward-your-videos-a-beginners-guide-to-time-lapse-photography-for-2024/"><u>New Fast Forward Your Videos A Beginners Guide to Time Lapse Photography for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210828084-9781960159786-sigue-adelante/"><u>Sigue Adelante | Free Book</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-from-tape-to-digital-mastering-the-vhs-effect-in-fcp-for-2024/"><u>New From Tape to Digital Mastering the VHS Effect in FCP for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-get-splice-video-editing-software-for-macos/"><u>New In 2024, Get Splice Video Editing Software for macOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-quik-or-not-a-review-of-gopros-video-editor-and-pc-based-alternatives-for-2024/"><u>New Quik or Not? A Review of GoPros Video Editor and PC-Based Alternatives for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/no-budget-no-problem-top-free-flv-video-editors-for-2024/"><u>No Budget? No Problem! Top Free FLV Video Editors for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-insufficient-usb-controls-windows-issue/"><u>Solving Insufficient USB Controls Windows Issue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-11-kid-vlogging-cameras-perfectly-washable-and-user-friendly/"><u>Top 11 Kid Vlogging Cameras, Perfectly Washable & User-Friendly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transforming-footage-the-ultimate-guide-to-youtube-video-editing-for-2024/"><u>Transforming Footage The Ultimate Guide to YouTube Video Editing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-right-streaming-sound-recorder-for-your-device-in-223-windows-mac-android-and-ios-compatible-picks/"><u>Ultimate Guide to Choosing the Right Streaming Sound Recorder for Your Device in 2^23: Windows, Mac, Android & iOS Compatible Picks!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/unlocking-fcpx-advanced-image-cropping-techniques-for-2024/"><u>Unlocking FCPX Advanced Image Cropping Techniques for 2024</u></a></li>
 </ul></div>
 

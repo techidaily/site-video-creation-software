@@ -1,7 +1,7 @@
 ---
 title: "Resolve Issues with the Apple Music Browser Version: A Step-by-Step Guide"
-date: 2024-12-30T11:42:33.787Z
-updated: 2025-01-03T06:40:56.541Z
+date: 2025-01-07T03:41:34.177Z
+updated: 2025-01-10T02:34:51.686Z
 tags:
   - video-music-player
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Listen to Apple Music without iTunes on Mac/PC?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -37,15 +33,15 @@ Unable to play music from Apple Music Web Player? Apple Music expanding to Windo
 
 [Listening to Apple Music without iTunes](https://tools.techidaily.com/5kplayer/video-music-player/) on a web browser is a wish longing to be realized by all Apple music subscribers, and today, the official apple response finally arrives at [https://tools.applemusic.com/](https://beta.music.apple.com/us/browse) as an [Apple Music Web Player](https://tools.techidaily.com/5kplayer/video-music-player/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Music Web Player to Play Songs from A Web Browser without iTunes?
 
 Any platform, Windows, macOS, chromeOS, iOS etc, as long as your device can access network with a browser, you can play Apple Music without iTunes right away.
 
 ![Apple Music Web Player](https://www.5kplayer.com/video-music-player/img/apple-web-player.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 1:** Enter the site tools.applemusic.com  
 Though it is an Apple Music Marketing Tools, don't hesitate. This is the right place.
@@ -60,6 +56,10 @@ Though it is an Apple Music Marketing Tools, don't hesitate. This is the right p
 
 ![How to Use Apple Music Web Player](https://www.5kplayer.com/video-music-player/img/apple-music-web-how-to.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix Apple Music Web Player not Playing on Windows & macOS Browser
 
 With Apple ID and Apple Music account signed in, the full length singles like Humility by Gorillaz can be easily tuned in instead of a preview 20s version. However, when I try clicking a playlist under the "New Music Playlists" for listening to Songs of the Summer in loops, there's no playlists interface coming out. No matter how many times I refreshed the interface, restarted the Chrome browser, changed a browser and re-login-in, there is a big nothing hanging on the web page. 
@@ -71,7 +71,7 @@ The actual fact is that Apple Music Web Player does not support playlist playbac
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Apple Music Web Player not working on Windows/Mac Workaround**: Use 5KPlayer, your loyal music player friend to help [play Apple Music on PC](https://tools.techidaily.com/5kplayer/airplay/)!
@@ -85,10 +85,6 @@ The actual fact is that Apple Music Web Player does not support playlist playbac
 
 ![Apple Music Web Player Alternative](https://www.5kplayer.com/video-music-player/img/5kp-ui.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Notice:** Make sure that your computer and iPhone are in the same WiFi network.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
@@ -98,6 +94,10 @@ The actual fact is that Apple Music Web Player does not support playlist playbac
 After signing in this Apple Music Web Player, the portal is open for you to enjoy online Apple Music streaming for endless songs. However, you will find that certain singles and songs in a playlists are not playable. And they share a common feature - tagged with "E" symbol.
 
 ![Apple Music Web Player Error on Explicit Content](https://www.5kplayer.com/video-music-player/img/apple-music-web-player-list.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The E symbol followed by the music title on Apple Music Web Player as usual means "Explicit", including songs with foul-mouthed words and swears. You can enable or disable explicit content within "Settings" on your device and here is how. 
 
@@ -113,7 +113,7 @@ The E symbol followed by the music title on Apple Music Web Player as usual mean
 ![Enable Apple Music Explicit Content](https://www.5kplayer.com/video-music-player/img/explicit-content.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -131,19 +131,21 @@ The E symbol followed by the music title on Apple Music Web Player as usual mean
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-viral-stardom-quick-simple-strategies-for-instagram-success/"><u>[New] 2024 Approved Mastering Viral Stardom Quick, Simple Strategies for Instagram Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-panoramic-precision-battle-gear-vs-lgcam-showdown/"><u>2024 Approved Panoramic Precision Battle Gear Vs LGCam Showdown</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-top-7-video-streaming-innovations-excel-on-youtube-with-iphonesandroid-os/"><u>2024 Approved Top 7 Video Streaming Innovations Excel on YouTube with iPhones/Android OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-pro-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 13 Pro 5G has native HEVC support?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhance-your-videos-with-manycam-professional-live-video-editing-and-virtual-camera-solutions/"><u>Enhance Your Videos with ManyCam: Professional Live Video Editing & Virtual Camera Solutions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/master-the-art-of-social-media-video-capture-with-5-leaders-for-2024/"><u>Master the Art of Social Media Video Capture with 5 Leaders for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-microsoft-video-editor-for-dummies-a-step-by-step-guide/"><u>New 2024 Approved Microsoft Video Editor for Dummies A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-free-filmora-alternative-similar-features-at-zero-cost-for-2024/"><u>New Free Filmora Alternative Similar Features at Zero Cost for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-fcp-file-management-101-saving-and-organizing-your-projects/"><u>New In 2024, FCP File Management 101 Saving and Organizing Your Projects</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-the-best-of-the-best-top-5-ipad-video-editing-apps/"><u>New In 2024, The Best of the Best Top 5 iPad Video Editing Apps</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-remove-tiktok-watermarks-for-free-top-online-solutions-for-2024/"><u>New Remove TikTok Watermarks for Free Top Online Solutions for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-unrestricted-video-editing-top-10-free-online-tools-with-no-watermark-for-2024/"><u>New Unrestricted Video Editing Top 10 Free Online Tools with No Watermark for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/perfecting-your-vids-a-comprehensive-youtube-studio-tutorial/"><u>Perfecting Your Vids A Comprehensive YouTube Studio Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-simple-guide-transforming-your-videos-from-vfr-to-compatible-constant-frame-rate-cfr-format/"><u>Quick & Simple Guide: Transforming Your Videos From VFR to Compatible Constant Frame Rate (CFR) Format</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-8-linux-platforms-for-video-mastery/"><u>[New] In 2024, Best 8 Linux Platforms for Video Mastery</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-undisclosed-screengrabbing-invisible-photography-on-snapchat/"><u>[New] In 2024, Undisclosed ScreenGrabbing Invisible Photography on Snapchat</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/1728473242971-windows-11/"><u>全面選擇：最佳無價磁碟映像工具，特別設計用於 Windows 11系統</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-lava-yuva-2-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Lava Yuva 2? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-issues-with-your-pc-loudspeakers/"><u>Diagnosing and Repairing Issues with Your PC Loudspeakers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-when-your-pc-cant-convert-to-pdf-using-windows-built-in-tools/"><u>Effective Fixes for When Your PC Can't Convert to PDF Using Windows Built-In Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/guide-to-share-igtv-with-minimal-hassle/"><u>Guide to Share IGTV with Minimal Hassle</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approvedhow-to-make-a-valentines-day-video-for-the-person-you-love/"><u>New 2024 ApprovedHow to Make a Valentines Day Video for the Person You Love?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-adobe-premiere-pros-secret-weapons-top-15-plugins-you-need-free-and-paid-for-2024/"><u>New Adobe Premiere Pros Secret Weapons Top 15 Plugins You Need (Free & Paid) for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New In 2024, How to Edit Video Files on Mac OS X Yosemite</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-rated-stop-motion-software-for-windows-and-macos-this-year/"><u>New In 2024, Top-Rated Stop Motion Software for Windows and macOS This Year</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-s-top-picks-free-whiteboard-animation-software-for-windows-and-macos/"><u>New S Top Picks Free Whiteboard Animation Software for Windows and macOS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-unleashing-the-power-of-lower-thirds-in-final-cut-pro-x/"><u>New Unleashing the Power of Lower Thirds in Final Cut Pro X</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-zte-axon-40-lite-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/the-role-of-the-control-panel-in-windows-11-operating-system-explained-by-yl-systems/"><u>The Role of the Control Panel in Windows 11 Operating System Explained by YL Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-10-free-avi-merger-tools-to-combine-avi-videos-effortlessly-for-2024/"><u>Updated 10 Free AVI Merger Tools to Combine AVI Videos Effortlessly for 2024</u></a></li>
 </ul></div>
 

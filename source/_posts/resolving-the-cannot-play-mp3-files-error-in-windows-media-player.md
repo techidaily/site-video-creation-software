@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player
-date: 2024-12-30T05:25:07.396Z
-updated: 2025-01-03T03:30:05.010Z
+date: 2025-01-04T02:42:33.079Z
+updated: 2025-01-10T00:52:52.198Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Windows Media Player MP3 Cannot Play Problem?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -27,7 +31,7 @@ MP3 is the most common music compression format being used all over the world. F
 ![Play MP3](https://www.5kplayer.com/video-music-player/img/play-mp3-1201.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Play MP3 Files with Best Windows Media Player Alternative**
@@ -43,7 +47,7 @@ It is a tragedy for some Windows Media Player users that they are not able to pl
 ![Windows Media Player cannot play mp3](https://www.5kplayer.com/video-music-player/img/windows-media-player-mp3-1201.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **How to Fix Windows Media Player Cannot Play MP3 Problem?**
@@ -59,7 +63,7 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -78,16 +82,12 @@ c. Navigate to "File -> Open Media File".
 
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,14 +105,18 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-beyond-basics-why-hdr-dominates-in-video-editing-workflows/"><u>[Updated] Beyond Basics Why HDR Dominates in Video Editing Workflows</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-refine-your-youtube-identity-with-efficient-descriptions/"><u>[Updated] Refine Your YouTube Identity with Efficient Descriptions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigating-the-landscape-of-ps3-capture-software/"><u>2024 Approved Navigating the Landscape of PS3 Capture Software</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-rectify-invalid-captcha-on-steam/"><u>How to Rectify Invalid CAPTCHA on Steam</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-how-to-add-filters-and-music-on-windows-10-photos-app/"><u>In 2024, How to Add Filters and Music on Windows 10 Photos App</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-filmora-13-download-video-editing-software/"><u>Updated 2024 Approved Free Filmora 13 Download Video Editing Software</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-vn-video-editor-app-analysis-features-pricing-and-more/"><u>Updated 2024 Approved VN Video Editor App Analysis Features, Pricing, and More</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-discover-the-best-online-neon-sign-tools-for-beginners/"><u>Updated In 2024, Discover the Best Online Neon Sign Tools for Beginners</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-s-best-free-whiteboard-animation-software-for-windows-mac-and-online/"><u>Updated In 2024, S Best Free Whiteboard Animation Software for Windows, Mac, and Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-discovering-the-top-8-truly-efficient-advancement-services/"><u>[New] In 2024, Discovering the Top 8 Truly Efficient Advancement Services</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-the-best-free-srt-translation-services/"><u>[Updated] Navigating the Best FREE SRT Translation Services</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1-abbyy-top-contender-in-everest-groups-idp-peak-matrix-2er-2023-evaluation/"><u>1. ABBYY: Top Contender in Everest Group's IDP Peak Matrix 2Er 2023 Evaluation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harmonizing-fading-techniques-in-live/"><u>Harmonizing Fading Techniques in Live</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-elevating-live-game-coverage-tips-and-tricks/"><u>In 2024, Elevating Live Game Coverage Tips and Tricks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-poco-x6-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Poco X6 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-5-best-free-video-editors-for-avi-files-for-2024/"><u>Updated 5 Best Free Video Editors for AVI Files for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-avidemux-no-sound-error-how-to-fix-it-for-2024/"><u>Updated Avidemux No Sound Error How to Fix It for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-expert-picks-the-best-video-editing-software-for-mac-in-for-2024/"><u>Updated Expert Picks The Best Video Editing Software for Mac In for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-avs-video-editor-test-drive-what-to-expect-from-this-video-editing-tool/"><u>Updated In 2024, AVS Video Editor Test Drive What to Expect From This Video Editing Tool</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-best-10-software-for-video-editors/"><u>Updated In 2024, Best 10 Software for Video Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-10-photo-editing-software-options-beyond-windows-10-photos/"><u>Updated In 2024, Top 10 Photo Editing Software Options Beyond Windows 10 Photos</u></a></li>
 </ul></div>
 

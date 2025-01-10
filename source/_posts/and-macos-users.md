@@ -1,7 +1,7 @@
 ---
 title: & macOS Users
-date: 2024-12-27T23:31:05.291Z
-updated: 2025-01-03T10:21:08.494Z
+date: 2025-01-02T21:21:41.821Z
+updated: 2025-01-09T23:58:22.103Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AV1 Can't Play? How to Play AV1 on Windows 10/Mac?
@@ -36,15 +36,15 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
 
 ![Can't Play AV1 on Windows 10](https://www.5kplayer.com/video-music-player/img/av1-not-playing-windows-10.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As a matter of fact, Windows 10 doesn't supply a native application which contains the required [AV1 codec](https://tools.techidaily.com/5kplayer/video-music-player/) to support AV1 playback on Windows 10 as of now. To enable your Movies & TV app or Edge to open AV1 videos on Windows 10 successfully, you need to download Microsoft's AV1 Video Extension to power the default media player.
 
@@ -53,7 +53,11 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
@@ -64,10 +68,6 @@ Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean de
 
 Obviously, the file you play on Mac now is a converted version which has a totally different video codec. To directly play video files encoded with AV1 codec without changing anything, you may need professional [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play AV1 on Mac and 5KPlayer is highly recommended.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **AV1 Playback Issue with VLC**
 
 _"VLC won't play av1\. The decoder seems to be struggling on higher bitrates. I don't think using the nightly build made a lot of difference."_ 
@@ -76,10 +76,6 @@ _"VLC won't play av1\. The decoder seems to be struggling on higher bitrates. I 
 Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https://tools.techidaily.com/5kplayer/products/) support has been added for a long time, some users said. When playing AV1 with the well-known and versatile VLC media player, sometimes it totally can't play, sometimes the sound plays but no image appears. The fault is probably caused by the wrong version of VLC, or the wrong configuration of VLC. 
 
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
 
@@ -92,6 +88,10 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,20 +108,14 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-mastering-mobile-warfare-androids-best-mobas/"><u>[New] In 2024, Mastering Mobile Warfare Android's Best MOBAs</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-top-cinema-teasers-compilation/"><u>[New] Top Cinema Teasers Compilation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/achieve-balance-in-visuals-through-aspect-choices-for-2024/"><u>Achieve Balance in Visuals Through Aspect Choices for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/back-in-the-past-with-snapchats-animation-hacks/"><u>Back in the Past with Snapchat's Animation Hacks</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317219-9781401929978-how-my-death-saved-my-life/"><u>How My Death Saved My Life | Free Book</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-c67-4g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme C67 4G to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-mts-video-editing-software-5-top-rated-options/"><u>New 2024 Approved MTS Video Editing Software 5 Top-Rated Options</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-bring-your-ideas-to-life-top-5-online-stop-motion-animation-tools/"><u>New Bring Your Ideas to Life Top 5 Online Stop Motion Animation Tools</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-fcp-audio-editing-essentials-a-step-by-step-guide/"><u>New In 2024, FCP Audio Editing Essentials A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-rotate-avi-videos-for-free-top-16-software-for-multiple-platforms-for-2024/"><u>New Rotate AVI Videos for Free Top 16 Software for Multiple Platforms for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/premiere-rush-alternatives-top-picks-for-video-editors-for-2024/"><u>Premiere Rush Alternatives Top Picks for Video Editors for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-magic-5-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Magic 5 Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/unlock-final-cut-pros-full-potential-90-day-free-trial-for-2024/"><u>Unlock Final Cut Pros Full Potential 90-Day Free Trial for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-visionsnap-tech-your-guide-to-the-best-of-2023/"><u>[New] In 2024, VisionSnap Tech – Your Guide to the Best of 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-leading-clearcut-screen-capture-options-no-commercials-for-2024/"><u>[New] Leading Clearcut Screen Capture Options (No Commercials) for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-14-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone 14 Pro Max Online</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/breaking-the-limits-achieving-10-overclocking-milestones-on-amd-threadripper/"><u>Breaking the Limits: Achieving 10 Overclocking Milestones on AMD Threadripper</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-premiere-rush-alternatives-top-picks-for-video-editors/"><u>New 2024 Approved Premiere Rush Alternatives Top Picks for Video Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-cinematic-storytelling-made-easy-a-beginners-handbook/"><u>New Cinematic Storytelling Made Easy A Beginners Handbook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-dub-like-a-pro-top-6-video-dubbing-apps-for-funny-videos/"><u>New In 2024, Dub Like a Pro Top 6 Video Dubbing Apps for Funny Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/professional-grade-animation-top-software-for-macwindows-creatives/"><u>Professional-Grade Animation Top Software for Mac/Windows Creatives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-transition-expert-strategies-for-moving-to-your-newest-iphone-insights-from-zdnet/"><u>Seamless Transition: Expert Strategies for Moving to Your Newest iPhone - Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Media Player: How to Fix MP4 Format Issues"
-date: 2025-01-03T22:21:56.137Z
-updated: 2025-01-10T03:12:42.123Z
+date: 2025-01-09T23:29:40.616Z
+updated: 2025-01-15T22:07:03.406Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Windows Media Player Won't Play MP4? FAQs & Solutions
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: August 23, 2019_
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 Your **Windows Media Player won't play MP4** files just happened? The codec problem should be mainly responsible for that. To help you solve the problem once for all, this guide will list detailed reasons to explain why that happens plus corresponding solutions. However, if you want to easily and quickly solve MP4 file not playing problem, you can try third-party MP4 player to play MP4 videos files on Windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### FAQs about Windows Media Player Won't Play MP4 Files
@@ -49,7 +53,7 @@ Luckily, Windows Media Player 12 natively supports some MP4 codecs like listed b
 ![Windows Media Player MP4 Codec Support](https://www.5kplayer.com/video-music-player/img/5kp-play-mp4-wmp-zjy-001.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 However, MP4 file not playing in Windows Media Player 12 problem also happens a lot because WMP 12 may not support codecs like HEVC H.263/H.264/H.265, MPEG-4 ASP, H.264/MPEG-4 AVC,H.263, VC-1, Dirac, MPEG-2/4 (HE)-AAC, AC-3, Apple Lossless, ALS, SLS, Vorbis(with private objectTypeIndication).
@@ -63,7 +67,7 @@ Windows Media Player MP4 no video occurs as MP4 is a container format that can c
 In conclusion, all of the discussions are about codec. So, you can download Windows Media Player MP4 codecs or third-party codec pack like K-Lite to beef up your WMP, or just convert the MP4 to Windows Media Player more compatible format like WMV and AVI. Wiser choice, you are suggested to try another [MP4 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play MP4 video files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Detailed Solutions to Windows Media Player not Playing MP4 Error
@@ -87,14 +91,10 @@ If you are stubborn fan of Windows Media Player, you can just try the above two 
 ![Best Free MP4 Player](https://www.5kplayer.com/video-music-player/img/flv-player-free-download.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -111,21 +111,20 @@ If you are stubborn fan of Windows Media Player, you can just try the above two 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-sharpen-your-viewing-experience-mastering-camera-focus-online/"><u>[New] Sharpen Your Viewing Experience Mastering Camera Focus Online</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-art-of-audio-design-in-magix-vst-2023/"><u>[Updated] 2024 Approved The Art of Audio Design in Magix VST 2023</u></a></li>
-<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-6s-plus-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/compact-and-efficient-ourlink-usb-wireless-adapter-model-u631/"><u>Compact & Efficient OURLINK USB Wireless Adapter - Model U631</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-bio-engineered-healing-spaces-via-arvr/"><u>In 2024, Bio-Engineered Healing Spaces via AR/VR</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-gt-5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme GT 5 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-vector-graphics-innovation-top-apps-to-transform-your-creations/"><u>In 2024, Vector Graphics Innovation Top Apps to Transform Your Creations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-cinematographers-choice-best-lenses-for-4k-excellence/"><u>The Cinematographer's Choice Best Lenses for 4K Excellence</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/tourner-votre-audio-ifc-en-m4r-sans-frais-guide-rapide-et-facile-avec-audiofileonlineconversion/"><u>Tourner Votre Audio IFC en M4R Sans Frais - Guide Rapide Et Facile Avec AudioFileOnlineConversion</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-8-best-free-online-video-stabilizers-guide-provided/"><u>Updated 2024 Approved 8 Best Free Online Video Stabilizers Guide Provided</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-avi-trimmers-top-picks-for-cutting-avi-videos-on-any-device/"><u>Updated 2024 Approved Best AVI Trimmers Top Picks for Cutting AVI Videos on Any Device</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-jaycut-essentials-learn-how-to-use-free-online-video-editing-software-like-a-pro/"><u>Updated 2024 Approved Jaycut Essentials Learn How to Use Free Online Video Editing Software Like a Pro</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-fcpx-cropping-guide-resize-and-refine-your-images/"><u>Updated 2024 Approved The Ultimate FCPX Cropping Guide Resize and Refine Your Images</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-5-free-wmv-video-merging-solutions/"><u>Updated 2024 Approved Top 5 Free WMV Video Merging Solutions</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-final-cut-pro-x-power-user-master-40-time-saving-shortcuts/"><u>Updated Final Cut Pro X Power User Master 40 Time-Saving Shortcuts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-learn-how-to-cut-trim-and-merge-3gp-files-with-ease/"><u>Updated In 2024, Learn How to Cut, Trim, and Merge 3GP Files with Ease</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-effortless-avi-gif-conversion-using-filmora-tools/"><u>[New] Effortless AVI-GIF Conversion Using Filmora Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-10-high-res-cameras-for-capturing-music-videos-4k-hd-future/"><u>[Updated] In 2024, Top 10 High-Res Cameras for Capturing Music Videos (4K HD, Future)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-saturate-scenes-with-circular-edge-dilution-photosuite/"><u>[Updated] Saturate Scenes with Circular Edge Dilution PhotoSuite</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-to-silent-tab-disabling-in-windows-11/"><u>Navigating to Silent Tab Disabling in Windows 11</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/resolving-cult-of-the-lamb-pc-crashes-effective-solutions/"><u>Resolving 'Cult of the Lamb' PC Crashes: Effective Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/samsungs-latest-gem-the-galaxy-z-fold-6-anticipated-launch-dates-cost-estimates-and-feature-rundown/"><u>Samsung's Latest Gem: The Galaxy Z Fold 6 - Anticipated Launch Dates, Cost Estimates, and Feature Rundown</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-se-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone SE Suddenly | Stellar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-features-in-depth-analysis-of-the-anthropics-smart-photo-editing-suite/"><u>Unveiling the Features: In-Depth Analysis of the Anthropics Smart Photo Editing Suite</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-videopad-video-editor-review-and-buying-reacommendation/"><u>Updated In 2024, Videopad Video Editor Review and Buying Reacommendation</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-ps4-screenshot-sharing-for-beginners-a-simple-and-easy-guide/"><u>Updated PS4 Screenshot Sharing for Beginners A Simple and Easy Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-list-10-timecode-calculators-for-film-and-video-pros-for-2024/"><u>Updated The Ultimate List 10 Timecode Calculators for Film and Video Pros for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-this-article-introduces-some-of-the-best-video-apps-for-editing-vertical-videos-for-2024/"><u>Updated This Article Introduces some of the Best Video Apps for Editing Vertical Videos for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-virtualdub-vs-top-competitors-a-comprehensive-comparison/"><u>Updated Virtualdub vs Top Competitors A Comprehensive Comparison</u></a></li>
 </ul></div>
 

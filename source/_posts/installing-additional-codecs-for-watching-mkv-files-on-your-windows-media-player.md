@@ -1,7 +1,7 @@
 ---
 title: Installing Additional Codecs for Watching MKV Files on Your Windows Media Player
-date: 2025-01-11T17:15:33.078Z
-updated: 2025-01-15T18:53:20.870Z
+date: 2025-01-14T22:47:00.615Z
+updated: 2025-01-21T21:49:41.829Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MKV Codec for Windows Media Player: Play MKV videos and More
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/ba4d76a3836c79aa2d1ffbc408b14921a58fa2b19
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
 
 Living up to its promise to provide native support of MKV codec in Windows 10, we still can't play MKV files without **MKV Codec for Windows Media Player**. Microsoft publicly claimed its openess to MKV Codec for Windows Media Player for users' sake. But is it? In fact, we already have MKV codec in Windows 10, but that doesn't mean the Windows Media Player supports MKV videos in real terms. This article tells you a way out!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to install MKV Codec for Windows Media Player?
 
@@ -41,7 +45,7 @@ However, if either of the method suits your favor, take a look at the recommende
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The first reason why you can't play MKV files on Windows Media Player is, it's not a [MKV video player](https://tools.techidaily.com/5kplayer/video-music-player/) by nature. In that case, WMV (windows media video) as the native video format of the Windows platform, is backed up by Microsoft to turn against MKV codec for quite some time, posing a rivalry stand to each.  
@@ -51,6 +55,10 @@ On the software level, Windows Media Player 12 shows no intention for MKV codec 
 **\- So how to install MKV codec for Windows Media Player** to watch MKV videos and more? Before directly taking you to the download address, please take a look at other ways to play MKV files on Windows PC.
 
 ![MKV codec for Windows Media Player](https://www.5kplayer.com/video-music-player/img/5k-mkv-codec-windows-yxt-071501.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **\# Easiest Way: All-in-one MKV Video Player for Windows (10)**
 
@@ -85,10 +93,6 @@ Recommended below are the 3 more popular codec packs for WMP, you can take a loo
 \- A moderate MKV codec pack for Windows Media Player among the 3 in terms of codec components.  
 \- Featuring customizable option to change surround sound, compressions and other settings to fine-tune your Windows Media Player MKV files.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Play MKV Without MKV Codec for Windows Media Player?
 
  Easiest way - A free MKV player for Windows to tackle MKV playback problem once and for all. Plus, seas of MKV movies are available to download with this all-in-one [HD video downloader for Windows 10](https://tools.techidaily.com/5kplayer/youtube-download/).
@@ -106,7 +110,7 @@ c. Import MKV file to Windows PC by navigating to "File -> Open Media File with 
 ![Play MKV videos on Windows 10](https://www.5kplayer.com/video-music-player/../youtube-download/img/x-men-trailer-download.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **How to Convert MKV Videos to MP4** 
@@ -118,10 +122,6 @@ c. Import MKV file to Windows PC by navigating to "File -> Open Media File with 
 Now, proceed to convert MKV videos to MP4 so that you USB sync and watch it on iPhone, iPad or Android.
 
 ![Convert MKV to MP4](https://www.5kplayer.com/video-music-player/../youtube-download/img/convert-x-men-movie.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [A well considerate MKV player](https://tools.techidaily.com/5kplayer/video-music-player/) configures video format demand in planning all from the beginning, not crediting the habit of adding troublesome packs after codec supplies day in day out. Ascending from the sleek performance in MKV, MP4 playback, H.264 and M2TS playback, 5KPlayer deploys the video enhancing technology for the best. 
 
@@ -142,14 +142,18 @@ Now, proceed to convert MKV videos to MP4 so that you USB sync and watch it on i
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-craft-compelling-videos-utilize-no-cost-templates-and-samples/"><u>[New] In 2024, Craft Compelling Videos Utilize No-Cost Templates & Samples</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unveiling-the-most-shared-stock-photos-and-backstories/"><u>[Updated] 2024 Approved Unveiling the Most Shared Stock Photos & Backstories</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100i-power-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y100i Power 5G Bootloader Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-which-angle-works-better-for-social-sharing-vertical-or-horizontal/"><u>In 2024, Which Angle Works Better for Social Sharing Vertical or Horizontal?</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-make-a-heartfelt-slideshow-with-music-a-beginners-guide/"><u>Updated Make a Heartfelt Slideshow with Music A Beginners Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-official-4-best-ways-to-get-filmora-discount-codes-for-2024/"><u>Updated Official 4 Best Ways to Get Filmora Discount Codes for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-should-you-buy-videopad-an-honest-review-and-recommendation-for-2024/"><u>Updated Should You Buy Videopad? An Honest Review and Recommendation for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-virtualdub-alternative-guide-features-and-pricing/"><u>Updated The Ultimate Virtualdub Alternative Guide Features and Pricing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/validating-your-visual-story-on-instagram/"><u>Validating Your Visual Story on Instagram</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-10-affordable-accessible-tools-to-transform-videos/"><u>[New] 2024 Approved Top 10 Affordable, Accessible Tools to Transform Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fb-flicks-grabber-tool/"><u>[Updated] 2024 Approved FB Flicks Grabber Tool</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tune-sharing-compliance-instagram-ip-codex/"><u>2024 Approved Tune-Sharing Compliance Instagram IP Codex</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lava-blaze-curve-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lava Blaze Curve 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-note-12-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi Note 12 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-huawei-nova-y71-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Huawei Nova Y71 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/makers-playbook-recipes-for-attractive-channel-names-for-2024/"><u>Tastemakers' Playbook Recipes for Attractive Channel Names for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-color-correction-in-final-cut-pro/"><u>Updated 2024 Approved Color Correction in Final Cut Pro</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-download-4k-videos-in-mp4-the-best-conversion-methods-revealed/"><u>Updated 2024 Approved Download 4K Videos in MP4 The Best Conversion Methods Revealed</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-elevate-your-video-game-best-4k8k-video-editing-software/"><u>Updated 2024 Approved Elevate Your Video Game Best 4K/8K Video Editing Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-get-ready-to-distort-top-free-online-glitch-generators/"><u>Updated 2024 Approved Get Ready to Distort Top Free Online Glitch Generators</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-s-hottest-face-changer-apps-for-ios-and-android-devices/"><u>Updated 2024 Approved S Hottest Face Changer Apps for iOS and Android Devices</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-bring-your-memories-to-life-how-to-create-engaging-home-dvds/"><u>Updated Bring Your Memories to Life How to Create Engaging Home DVDs</u></a></li>
 </ul></div>
 

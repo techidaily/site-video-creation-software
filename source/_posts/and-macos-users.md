@@ -1,7 +1,7 @@
 ---
 title: & macOS Users
-date: 2025-01-14T16:01:17.499Z
-updated: 2025-01-15T19:55:52.453Z
+date: 2025-01-18T00:51:07.862Z
+updated: 2025-01-21T22:33:03.447Z
 tags:
   - video-music-player
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AV1 Can't Play? How to Play AV1 on Windows 10/Mac?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: September 30, 2020 | 3 Min Read_
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
@@ -52,6 +44,14 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **AV1 not Playing on Mac? \[Solved\]**
 
 Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean devices like iPhone, Mac and Apple TV support AV1 video playback. In fact, because of the transition to 64-bit technology in macOS in 2019, you will see an alert when using iMovie about the media files that won't be compatible with macOS Catalina. For sure, the incompatible video format includes AV1\. As of now, you can only solve can't play AV1 on Mac problem through converting AV1 to Mac compatible format like HEVC, H.264, MP4, etc if you want to play AV1 videos with the native Mac media player like QuickTime.
@@ -59,10 +59,6 @@ Though Apple joined the AV1 codec consortium earlier in 2018, it doesn't mean de
 **Solution:** As the option to convert the incompatible files will no longer be available on macOS Catalina, you are highly suggested to detect and convert the incompatible video files using iMovie before upgrading to macOS Catalina, so as to make all of the video files compatible with the future versions of macOS. If the method mentioned above doesn't works for you, you can try third-party video converter like WinX Video Converter to convert the AV1 file. 
 
 Obviously, the file you play on Mac now is a converted version which has a totally different video codec. To directly play video files encoded with AV1 codec without changing anything, you may need professional [AV1 player](https://tools.techidaily.com/5kplayer/video-music-player/) to play AV1 on Mac and 5KPlayer is highly recommended.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **AV1 Playback Issue with VLC**
 
@@ -74,7 +70,7 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
@@ -88,10 +84,14 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,20 +108,14 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-from-surviving-to-conquering-top-zombie-games-decoded-for-2024/"><u>[New] From Surviving to Conquering Top Zombie Games Decoded for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-6-best-video-grabbers-for-mac/"><u>[Updated] 2024 Approved 6 Best Video Grabbers for Mac</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-cerebral-channels-top-educational-yt-networks/"><u>[Updated] 2024 Approved Cerebral Channels Top Educational YT Networks</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-deciding-the-best-for-screens-is-obs-more-effective-than-fraps-for-2024/"><u>[Updated] Deciding the Best for Screens Is OBS More Effective than Fraps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-survey-diverse-categories-in-visual-media-tech/"><u>[Updated] Survey Diverse Categories in Visual Media Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-full-screen-in-ppro/"><u>2024 Approved Navigating Full Screen in PPro</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/3-effective-methods-to-safely-back-up-your-current-iphone-before-moving-on-to-a-newer-model/"><u>3 Effective Methods to Safely Back Up Your Current iPhone Before Moving On to a Newer Model</u></a></li>
-<li><a href="https://win-latest.techidaily.com/5pah5a2x44oh44o844k44ks5zue5b6pieoajoodleocoeocpoodqplusodroocsplusodvoodieoajeobjoegtoaqjeoblplusoageocuplusocsoodoeodsplusodioobruiqreobvpluswpluociuobqpl56/"><u>文字データを回復!「ファイルレコード」が破損し、セグメントの読み取りに失敗した時のヒント</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-crop-resize-and-reform-mastering-video-shape-editing/"><u>Updated 2024 Approved Crop, Resize, and Reform Mastering Video Shape Editing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-time-lapse-apps-for-mobile-phones/"><u>Updated 2024 Approved The Ultimate Guide to Time-Lapse Apps for Mobile Phones</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-rated-intro-makers-for-windows-and-macos-a-comprehensive-guide/"><u>Updated 2024 Approved Top-Rated Intro Makers for Windows and macOS A Comprehensive Guide</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-convert-mp4-to-mp3-best-apps-for-iphone-and-android-for-2024/"><u>Updated Convert MP4 to MP3 Best Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-final-cut-pro-essentials-creating-breathtaking-time-lapses/"><u>Updated Final Cut Pro Essentials Creating Breathtaking Time Lapses</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-mastering-animation-drawing-a-guide-to-the-best-software/"><u>Updated In 2024, Mastering Animation Drawing A Guide to the Best Software</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unlock-stunning-bokeh-best-apps-for-iphone-and-android/"><u>Updated In 2024, Unlock Stunning Bokeh Best Apps for iPhone and Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ut-to-perfection-premier-android-editing-software-for-2024/"><u>[New] Cut to Perfection Premier Android Editing Software for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-broadcast-battleground-pick-your-preferred-livestreaming-champion-vmixwirecast/"><u>2024 Approved Broadcast Battleground Pick Your Preferred Livestreaming Champion (VMix/Wirecast)</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-vision-of-a-virtual-world-unpacking-three-issues/"><u>Facebook's Vision of a Virtual World – Unpacking Three Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fixing-windows-10-calculator-issues-comprehensive-solutions-guide/"><u>Fixing Windows 10 Calculator Issues - Comprehensive Solutions Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audience-enhancement-with-audition-fades/"><u>In 2024, Audience Enhancement with Audition Fades</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-make-animated-videos-like-a-pro-top-online-tools-and-makers-for-2024/"><u>New Make Animated Videos Like a Pro Top Online Tools and Makers for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-top-video-editing-tools-for-newbies-free-and-paid-options-for-2024/"><u>New Top Video Editing Tools for Newbies Free and Paid Options for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-top-webm-to-mp3-converters-you-need-to-know/"><u>The Top WebM to MP3 Converters You Need to Know</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-10-free-video-sharing-platforms-for-personal-and-commercial-use/"><u>Top 10 Free Video Sharing Platforms for Personal and Commercial Use</u></a></li>
 </ul></div>
 

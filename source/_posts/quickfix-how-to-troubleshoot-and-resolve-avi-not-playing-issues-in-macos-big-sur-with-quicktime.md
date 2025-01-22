@@ -1,7 +1,7 @@
 ---
 title: "QuickFix: How to Troubleshoot and Resolve 'AVI Not Playing' Issues in macOS Big Sur with QuickTime"
-date: 2025-01-11T18:18:10.368Z
-updated: 2025-01-15T20:30:40.550Z
+date: 2025-01-16T01:05:33.562Z
+updated: 2025-01-21T16:58:34.769Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solve AVI File Won't Play on Mac QuickTime
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -31,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 
 ![AVI Format](https://www.5kplayer.com/video-music-player/img/avi.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![AVI Container](https://www.5kplayer.com/video-music-player/img/avi-container.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **#01\. Reasons Why You Can't Play AVI on Mac/QuickTime?**
@@ -59,10 +59,6 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
 
 ![Play AVI on Mac](https://www.5kplayer.com/video-music-player/img/play-mts-with-5kp.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 \* Play AVI files encoded with any codec on Mac/Windows.  
  \*Download AVI video movie from 300+ sites without a penny.  
  \* Convert AVI to MP3 free if you need the audio track.  
@@ -71,7 +67,7 @@ Before you fix AVI file won't play on Mac issue, you'd better know something abo
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Display resolution of AVI can be set as 4:3, 16:9 and any other display ratio as willing. From 1080p to 720p and even more, 5KPlayer can well handle your AVI files on Mac as this AVI player Mac can automatically change aspect ratio among 1:1, 4:3, 16:9, 2.21:1, 2.35:1, 2.39:1, 16:10 and 5:4 to help you get the golden ratio of pupil and enjoy AVI videos movies comfortably.
@@ -88,6 +84,10 @@ If you insist on solving QuickTime won't play AVI problem, you can convert AVI t
 
 ![Convert AVI to QuickTime](https://www.5kplayer.com/video-music-player/img/convert-to-ipad-mp4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Solution 3\. Install Codec Pack to Solve AVI Won't Play on Mac/QuickTime**
 
 As it is mentioned above, AVI can contain data that is compressed by a number of different codecs that many AVI players Mac like QuickTime with limited audio video codecs becomes powerless when facing some AVI files. Under the circumstance, you can download a [codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to beef your AVI player up to play any AVI file on Mac without choke. Though all players can be strengthened through this way, it is not recommended. For instance, you may download virus or spyware to your computer when downloading codecs, and some codecs are likely to conflict with other programs on your computer or even corrupt your operating system.
@@ -103,7 +103,7 @@ For my opinion, I recommend you to try 5KPlayer, designed as a[video music playe
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -121,18 +121,16 @@ For my opinion, I recommend you to try 5KPlayer, designed as a[video music playe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-avoiding-pitfalls-navigating-through-facebooks-algorithm-update/"><u>[New] 2024 Approved Avoiding Pitfalls Navigating Through Facebook's Algorithm Update</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-troubleshooting-why-arent-your-recommended-fb-videos-displayed/"><u>2024 Approved Troubleshooting Why Aren't Your Recommended FB Videos Displayed?</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Poco F5 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ating-video-aspects-on-youtube-perfect-size-and-quality-balance/"><u>Navigating Video Aspects on YouTube Perfect Size & Quality Balance</u></a></li>
-<li><a href="https://win-updates.techidaily.com/solving-your-pc-woes-the-most-frequent-windows-hardware-troubles-explained-by-yl-software-experts/"><u>Solving Your PC Woes: The Most Frequent Windows Hardware Troubles Explained by YL Software Experts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-make-movies-like-a-pro-best-windows-10-video-editors/"><u>Updated 2024 Approved Make Movies Like a Pro Best Windows 10 Video Editors</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-create-a-stunning-video-resume-4-top-tools-and-free-resources-for-2024/"><u>Updated Create a Stunning Video Resume 4 Top Tools and Free Resources for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-expert-approved-mkv-trimmers-for-mac/"><u>Updated Expert-Approved MKV Trimmers for Mac</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-elevate-your-video-production-top-free-adobe-premiere-plugins/"><u>Updated In 2024, Elevate Your Video Production Top Free Adobe Premiere Plugins</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-final-cut-pro-x-plugin-problems-try-these-solutions-first/"><u>Updated In 2024, Final Cut Pro X Plugin Problems? Try These Solutions First</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-m1-demystified-apple-redefines-chipset-technology/"><u>[New] M1 Demystified Apple Redefines Chipset Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-oppo-a1-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo A1 5G Lock Screen Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maxed-out-memory-on-your-iphone-heres-how-you-can-free-up-space-in-14-ways/"><u>Maxed Out Memory on Your iPhone? Here's How You Can Free Up Space in 14 Ways!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/microsoft-edges-disruptive-onboarding-message-in-the-recent-windows-enhancement/"><u>Microsoft Edge's Disruptive Onboarding Message in the Recent Windows Enhancement</u></a></li>
+<li><a href="https://win11.techidaily.com/title-spatial-arrangement-of-icons-on-windows-desktops/"><u>Title: Spatial Arrangement of Icons on Windows Desktops</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-break-free-from-windows-10-photos-discover-the-best-image-editing-tools-for-2024/"><u>Updated Break Free From Windows 10 Photos Discover the Best Image Editing Tools for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-effortless-mp4-video-tagging-top-editor-recommendations/"><u>Updated In 2024, Effortless MP4 Video Tagging Top Editor Recommendations</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-split-merge-and-more-top-free-mpeg-video-processing-tools/"><u>Updated In 2024, Split, Merge, and More Top Free MPEG Video Processing Tools</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-take-your-editing-to-the-next-level-top-40-fcpx-keyboard-shortcuts-and-tricks/"><u>Updated In 2024, Take Your Editing to the Next Level Top 40 FCPX Keyboard Shortcuts and Tricks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-rated-free-webm-video-editing-tools/"><u>Updated In 2024, Top-Rated Free WebM Video Editing Tools</u></a></li>
 </ul></div>
 

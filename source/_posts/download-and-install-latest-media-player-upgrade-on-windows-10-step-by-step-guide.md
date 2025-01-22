@@ -1,7 +1,7 @@
 ---
 title: "Download & Install Latest Media Player Upgrade on Windows 10: Step-by-Step Guide"
-date: 2025-01-11T20:46:37.607Z
-updated: 2025-01-15T16:10:39.814Z
+date: 2025-01-15T00:17:10.225Z
+updated: 2025-01-21T21:37:38.654Z
 tags:
   - video-music-player
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Media Player Update: How to Update Media Player for Windows 10
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_ 
@@ -29,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -43,6 +39,10 @@ Step 3: Now you have launched Windows Media Player on your Windows 10, find the 
 Step 4: Click on "Check for updates" to see what version of Media Player are you on and then continue to finish Media Player updates for Windows 10\. 
 
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
 
@@ -59,7 +59,7 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Second Solution: Update your media player to 5KPlayer
@@ -75,7 +75,7 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
@@ -87,7 +87,7 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,21 +105,17 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-free-memery-masters-explore-and-share-joy-for-2024/"><u>[Updated] Free Memery Masters Explore & Share Joy for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-smart-list-essential-6-fb-lite-videos-for-you/"><u>[Updated] Smart List Essential 6 FB Lite Videos for You</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-twitter-connect-optimizing-your-tiktok-content/"><u>[Updated] Twitter Connect Optimizing Your TikTok Content</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-benefits-of-using-a-nulaxy-km18-car-bluetooth-adapter-insights-and-review/"><u>Exploring the Benefits of Using a Nulaxy KM18 Car Bluetooth Adapter: Insights & Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-cutting-edge-beat-detection-for-aspiring-producers/"><u>Free, Cutting-Edge Beat Detection for Aspiring Producers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-14-pro-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 14 Pro Max to other iPhone without iCloud | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-mic-quality-a-quick-easy-audio-test-method/"><u>Mastering Mic Quality: A Quick, Easy Audio Test Method</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-split-mpeg-videos-for-free-top-rated-software/"><u>New 2024 Approved Split MPEG Videos for Free Top-Rated Software</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-best-of-the-best-lego-stop-motion-creators/"><u>New 2024 Approved The Best of the Best Lego Stop Motion Creators</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-best-free-video-editing-software-imovie-alternatives/"><u>New Best Free Video Editing Software IMovie Alternatives</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-get-crystal-clear-videos-top-picks-for-resolution-enhancement-software-for-2024/"><u>New Get Crystal-Clear Videos Top Picks for Resolution Enhancement Software for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-how-to-convert-webm-to-mp3-top-conversion-software-compared/"><u>New How to Convert WebM to MP3 Top Conversion Software Compared</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-say-goodbye-to-filmora-watermark-free-and-paid-solutions-revealed/"><u>New Say Goodbye to Filmora Watermark Free and Paid Solutions Revealed</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-sony-camcorder-video-editing-essentials-a-beginners-guide-to-pro-results/"><u>New Sony Camcorder Video Editing Essentials A Beginners Guide to Pro Results</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-ps4-controller-why-it-might-not-be-charging/"><u>Troubleshooting Your PS4 Controller: Why It Might Not Be Charging</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-unseen-aspects-of-drone-shopping-you-mustnt-ignore-for-2024/"><u>[New] The Unseen Aspects of Drone Shopping You Mustn’t Ignore for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-excellence-engineers-select-laptop-choices-for-4k-editing-pros-for-2024/"><u>[Updated] Excellence Engineers Select Laptop Choices for 4K Editing Pros for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-8-stability-tools-for-high-definition-cameras/"><u>2024 Approved Best 8 Stability Tools for High-Definition Cameras</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-free-dvd-player-apps-for-pc-and-mac-in-2ebyte-windows-10plus-and-macos/"><u>Best Free DVD Player Apps for PC & Mac in 2Ebyte (Windows 10+) & macOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bypassing-format-barriers-a-complete-guide-to-chromecast-video-streaming-for-2024/"><u>New Bypassing Format Barriers A Complete Guide to Chromecast Video Streaming for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-filmora-watermark-removal-free-trials-hacks-and-official-methods/"><u>New In 2024, Filmora Watermark Removal Free Trials, Hacks, and Official Methods</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-leading-online-video-promo-builders-for-2024/"><u>New Leading Online Video Promo Builders for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-macs-top-rated-mkv-trimming-software/"><u>New Macs Top-Rated MKV Trimming Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-cream-of-the-crop-top-android-apps-on-google-play/"><u>New The Cream of the Crop Top Android Apps on Google Play</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/play-classic-games-anywhere-retroarch-compatible-with-ios-devices-and-apple-tv/"><u>Play Classic Games Anywhere: RetroArch Compatible with iOS Devices & Apple TV</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word/"><u>Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word</u></a></li>
 </ul></div>
 

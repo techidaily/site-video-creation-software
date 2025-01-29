@@ -1,7 +1,7 @@
 ---
 title: "Download & Install Latest Media Player Upgrade on Windows 10: Step-by-Step Guide"
-date: 2025-01-15T00:17:10.225Z
-updated: 2025-01-21T21:37:38.654Z
+date: 2025-01-22T16:21:25.322Z
+updated: 2025-01-29T17:15:28.430Z
 tags:
   - video-music-player
 categories:
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/bb7a936483f9ef78d27c435fd60e8eb11646b876b
 When you upgrade your PC OS to windows 10, correspondingly, you will update your Media Player to be more elastic to handle more files on this greater OS. Media Player version 12 is available to download and update for Windows 10 now. Don't know how to update Media Player on Windows 10? No worries, here teaches you two ways to get your Media Player updated for Windows or Mac.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Update Windows Media Player to Version 12 Manually?
@@ -41,7 +41,7 @@ Step 4: Click on "Check for updates" to see what version of Media Player are you
 ![Media Player Updates  to Version 12](https://www.5kplayer.com/video-music-player/img/upadate-media-player.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 And if you want to set your **media player to be updated automatically**, you have to go through the following settings: 
@@ -59,7 +59,7 @@ Now you have updated to Windows Media Player version 12, let's learn about the *
 However, Windows media player still can't play DVD in Windows 10 and Windows 8.1, and you also have to install [MKV Media Player codec pack](https://tools.techidaily.com/5kplayer/video-music-player/) to be able to play MKV files. Want to download the best DVD player for Windows 10? Update your Media Player to 5KPlayer - the best alternative media player for Windows 10 now!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Second Solution: Update your media player to 5KPlayer
@@ -75,7 +75,7 @@ However, Windows media player still can't play DVD in Windows 10 and Windows 8.1
 ![Update Media Player to 5KPlayer](https://www.5kplayer.com/video-music-player/../youtube-download/img/play-4k.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ☆ [Best 4K/8K UHD player](https://tools.techidaily.com/5kplayer/video-music-player/): With the power to play ultra HD videos in AVI (Divx/Xvid), MKV (H.265), MP4 (H.264) and more, better still, it can also download and stream 4K 8K UHD videos on Mac and PC.   
@@ -87,7 +87,7 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 [![](https://www.5kplayer.com/video-music-player/../button/freedownbackwin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,17 +105,21 @@ Anyway, we all wanted a perfect media player to be suited on Windows 10 and hope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-the-unseen-aspects-of-drone-shopping-you-mustnt-ignore-for-2024/"><u>[New] The Unseen Aspects of Drone Shopping You Mustn’t Ignore for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-excellence-engineers-select-laptop-choices-for-4k-editing-pros-for-2024/"><u>[Updated] Excellence Engineers Select Laptop Choices for 4K Editing Pros for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-8-stability-tools-for-high-definition-cameras/"><u>2024 Approved Best 8 Stability Tools for High-Definition Cameras</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/best-free-dvd-player-apps-for-pc-and-mac-in-2ebyte-windows-10plus-and-macos/"><u>Best Free DVD Player Apps for PC & Mac in 2Ebyte (Windows 10+) & macOS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-bypassing-format-barriers-a-complete-guide-to-chromecast-video-streaming-for-2024/"><u>New Bypassing Format Barriers A Complete Guide to Chromecast Video Streaming for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-filmora-watermark-removal-free-trials-hacks-and-official-methods/"><u>New In 2024, Filmora Watermark Removal Free Trials, Hacks, and Official Methods</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-leading-online-video-promo-builders-for-2024/"><u>New Leading Online Video Promo Builders for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-macs-top-rated-mkv-trimming-software/"><u>New Macs Top-Rated MKV Trimming Software</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-cream-of-the-crop-top-android-apps-on-google-play/"><u>New The Cream of the Crop Top Android Apps on Google Play</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/play-classic-games-anywhere-retroarch-compatible-with-ios-devices-and-apple-tv/"><u>Play Classic Games Anywhere: RetroArch Compatible with iOS Devices & Apple TV</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/threefold-mastery-in-copy-for-social-media-campaigns-increasing-impact-with-every-word/"><u>Threefold Mastery in Copy for Social Media Campaigns – Increasing Impact with Every Word</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-top-vr-peripherals-and-gadgets-review/"><u>[New] In 2024, Top VR Peripherals and Gadgets Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-resizing-youtube-images-step-by-step-guide/"><u>[Updated] In 2024, Resizing YouTube Images Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>[Updated] Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-unveiled-the-premier-video-platform/"><u>[Updated] Vimeo Unveiled The Premier Video Platform</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/non-professional-strategies-for-stable-screens/"><u>Non-Professional Strategies for Stable Screens</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pivot-and-merge-videos-with-ease-on-android-gadgets-for-2024/"><u>Pivot and Merge Videos with Ease on Android Gadgets for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-infinix-note-30-vip-racing-edition-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Infinix Note 30 VIP Racing Edition FRP</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-steps-resolving-audio-problems-with-the-logitech-g935-on-pc/"><u>Step-by-Steps: Resolving Audio Problems with the Logitech G935 on PC</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-blur-videos-online-without-spending-a-dime-the-ultimate-tutorial/"><u>Updated 2024 Approved Blur Videos Online Without Spending a Dime The Ultimate Tutorial</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-wmv-video-merger-tools-top-picks/"><u>Updated 2024 Approved Free WMV Video Merger Tools Top Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-best-of-both-worlds-top-android-video-editor-apps-for-chromebook/"><u>Updated 2024 Approved The Best of Both Worlds Top Android Video Editor Apps for Chromebook</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-transform-your-gopro-footage-mac-video-editing-essentials/"><u>Updated 2024 Approved Transform Your GoPro Footage Mac Video Editing Essentials</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-how-to-blur-parts-of-a-video-online-for-free-a-beginners-guide/"><u>Updated How to Blur Parts of a Video Online for Free A Beginners Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-cut-slice-and-dice-mastering-video-splitting-in-windows-live-movie-maker/"><u>Updated In 2024, Cut, Slice, and Dice Mastering Video Splitting in Windows Live Movie Maker</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-quik-or-not-a-comprehensive-review-and-pc-alternatives/"><u>Updated In 2024, Quik or Not A Comprehensive Review and PC Alternatives</u></a></li>
 </ul></div>
 

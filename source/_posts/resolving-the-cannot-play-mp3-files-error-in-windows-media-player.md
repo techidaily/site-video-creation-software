@@ -1,7 +1,7 @@
 ---
 title: Resolving the 'Cannot Play MP3 Files' Error in Windows Media Player
-date: 2025-01-24T17:39:59.757Z
-updated: 2025-01-29T17:42:24.119Z
+date: 2025-02-02T21:57:46.763Z
+updated: 2025-02-10T01:07:40.776Z
 tags:
   - video-music-player
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Windows Media Player MP3 Cannot Play Problem?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: April 28, 2020_
@@ -27,7 +31,7 @@ MP3 is the most common music compression format being used all over the world. F
 ![Play MP3](https://www.5kplayer.com/video-music-player/img/play-mp3-1201.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Play MP3 Files with Best Windows Media Player Alternative**
@@ -42,10 +46,6 @@ It is a tragedy for some Windows Media Player users that they are not able to pl
 
 ![Windows Media Player cannot play mp3](https://www.5kplayer.com/video-music-player/img/windows-media-player-mp3-1201.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **How to Fix Windows Media Player Cannot Play MP3 Problem?**
 
 **To Download A Windows Media Player MP3 Codec?**
@@ -59,7 +59,7 @@ The above message clearly shows that users need Windows Media Player MP3 codec i
 The latest version of the WMP i.e. Windows Media Player 12 has a codec pack installed to make sure that users are pacified and the external download of Windows Media Player MP3 codec pack is never required, so it is advised to update Windows Media Player in order to fix the MP3 wont play error. But it is to be noted that after updating to Windows Media Player 12, you can no longer enjoy the privilege of free playing DVDs unless you pay extra $14.99 to Microsoft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Play MP3 Music without WMP Codec Pack Download & Update?
@@ -79,7 +79,7 @@ c. Navigate to "File -> Open Media File".
 ![Play music with 5kplayer](https://www.5kplayer.com/video-music-player/img/5kplayer-freeaacplayer-yxt-030601.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, and OGG, 5KPlayer is also a powerful video player featuring [free playing 4k video](https://tools.techidaily.com/5kplayer/video-music-player/), AVI, WMV, MKV, Flash, 3D, Blu-ray and almost all video formats from [300+ video sites](https://tools.techidaily.com/5kplayer/youtube-download/). Moreover, it enables you to convert Windows Media Player videos to MP3/AAC. What's more, with online radio player built in, you are able to get yourself overwhelmed by limitless free MP3, AAC music as well.
@@ -87,7 +87,7 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -105,22 +105,22 @@ In addition to play/download mp3 files and music in WMA, AAC, AC3, M4A, FLAC, an
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-diy-youtube-trailer-production-via-filmora-software-for-2024/"><u>[New] DIY YouTube Trailer Production via Filmora Software for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-valorant-portraits-instant-professional-thumbnail-designs/"><u>[Updated] In 2024, Valorant Portraits - Instant Professional Thumbnail Designs</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/2024mp3windowsmac/"><u>2024最新MP3変換ツールの自由ダウンロード：WindowsとMac両方に対応しています</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-the-issues-behind-persistent-black-screens/"><u>Addressing and Repairing the Issues Behind Persistent Black Screens</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726027732570-avidemux/"><u>Avidemuxでビデオファイルの融合手順解説</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/conversion-rapida-y-sencilla-de-videos-flv-a-avi-mediante-la-herramienta-avanzada-de-movavi/"><u>Conversión Rápida Y Sencilla De Videos FLV a AVI Mediante La Herramienta Avanzada De Movavi</u></a></li>
-<li><a href="https://win-popular.techidaily.com/expert-tips-for-successfully-factory-restoring-your-acer-nitro-5-running-windows-11/"><u>Expert Tips for Successfully Factory Restoring Your Acer Nitro 5 Running Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 11 Pro</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/silent-swings-managing-volume-effortlessly-in-garageband/"><u>Silent Swings Managing Volume Effortlessly in Garageband</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-connection-issues-making-itunes-and-finder-recognize-your-iphone/"><u>Solving Connection Issues: Making iTunes & Finder Recognize Your iPhone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/heapest-way-designing-successful-youtube-ad-campaigns/"><u>The Cheapest Way Designing Successful YouTube Ad Campaigns</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/transferring-tracks-a-step-by-step-guide-on-moving-your-favorite-soundcloud-music-to-itunes/"><u>Transferring Tracks: A Step-by-Step Guide on Moving Your Favorite SoundCloud Music to iTunes</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/ultimate-technique-for-retrieving-multipart-xhr-formatted-streaming-content-with-100-success-rate/"><u>Ultimate Technique for Retrieving Multipart XHR Formatted Streaming Content with 100% Success Rate</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/vlc-hacks-stop-showing-subtitles-on-screen-fast-3-effective-fixes/"><u>VLC Hacks: Stop Showing Subtitles on Screen Fast - 3 Effective Fixes</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726029405291-windows-11/"><u>Windows 11におけるボイスレコーダーの録音トラブル:修正手順詳細</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726027619930-xmedia-recode/"><u>XMedia Recodeのガイド: ビデオとオーディオファイル統合手順</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/1726027741265-windows-10/"><u>オンラインでWindows 10による高品質音声編集テクニックを学ぶ</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-expanding-photography-quality/"><u>[Updated] Expanding Photography Quality</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-craft-your-online-identity-with-customized-youtube-urls/"><u>2024 Approved Craft Your Online Identity with Customized YouTube URLs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-with-colors-principles-in-action/"><u>2024 Approved Crafting with Colors Principles in Action</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-pixelprobe-criticism-engine/"><u>2024 Approved PixelProbe Criticism Engine</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secure-your-photography-leading-software-insights/"><u>2024 Approved Secure Your Photography - Leading Software Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-insights-into-utilizing-the-full-potential-of-macs-preview-features-for-2024/"><u>Complete Insights Into Utilizing the Full Potential of Mac's Preview Features for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/exploring-legal-restrictions-for-broadcasting-content-online/"><u>Exploring Legal Restrictions for Broadcasting Content Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hear-the-chilling-tales-of-justice-the-best-13-true-crime-podcast-selections/"><u>Hear the Chilling Tales of Justice: The Best 13 True Crime Podcast Selections</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-techniques-from-video-to-audio-downloads-on-pinterest-for-2024/"><u>Ultimate Techniques From Video to Audio Downloads on Pinterest for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mastering-canon-footage-a-step-by-step-video-editing-guide/"><u>Updated Mastering Canon Footage A Step-by-Step Video Editing Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mastering-fcpx-tips-and-tricks-for-overcoming-common-obstacles-for-2024/"><u>Updated Mastering FCPX Tips and Tricks for Overcoming Common Obstacles for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-premiere-pro-system-essentials-what-you-need-to-know-before-you-start/"><u>Updated Premiere Pro System Essentials What You Need to Know Before You Start</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-slow-mo-to-fast-mo-top-10-free-video-speed-changing-apps-for-ios-and-android-for-2024/"><u>Updated Slow Mo to Fast Mo Top 10 Free Video Speed Changing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unleash-high-definition-videos-best-editing-software-2023/"><u>Updated Unleash High-Definition Videos Best Editing Software 2023</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-vn-video-editor-android-app-is-it-worth-downloading/"><u>Updated VN Video Editor Android App Is It Worth Downloading?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-vn-video-editor-mobile-app-review-editing-on-the-go/"><u>Updated VN Video Editor Mobile App Review Editing on the Go</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/virtualdub-vs-the-competition-a-comprehensive-review-and-alternative-options/"><u>Virtualdub Vs. The Competition A Comprehensive Review and Alternative Options</u></a></li>
 </ul></div>
 

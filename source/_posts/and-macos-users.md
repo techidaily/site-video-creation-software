@@ -1,7 +1,7 @@
 ---
 title: & macOS Users
-date: 2025-01-23T17:18:54.936Z
-updated: 2025-01-29T16:41:26.381Z
+date: 2025-02-04T16:51:57.619Z
+updated: 2025-02-10T02:22:08.883Z
 tags:
   - video-music-player
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AV1 Can't Play? How to Play AV1 on Windows 10/Mac?
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 [3\. AV1 Playback Issues with VLC?](https://tools.techidaily.com/5kplayer/video-music-player/)  
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **AV1 not Playing on Windows 10? \[Solved\]**
 
 Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/video-music-player/) with the native Windows 10 application but only receive an error message: "_Can't play. This item was encoded in a format that's not supported. 0xc00d5212_"? 
@@ -43,7 +47,7 @@ Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/v
 ![Can't Play AV1 on Windows 10](https://www.5kplayer.com/video-music-player/img/av1-not-playing-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As a matter of fact, Windows 10 doesn't supply a native application which contains the required [AV1 codec](https://tools.techidaily.com/5kplayer/video-music-player/) to support AV1 playback on Windows 10 as of now. To enable your Movies & TV app or Edge to open AV1 videos on Windows 10 successfully, you need to download Microsoft's AV1 Video Extension to power the default media player.
@@ -51,14 +55,6 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 **Solution:** Just open Microsoft Store, search for AV1 Video Extension and install it on your Windows 10 computer. After that, your Windows 10 computer has the inbuilt AV1 decoder to let Movies & TV app or Edge on Windows 10 to play AV1 video files.
 
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
 
@@ -78,7 +74,7 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
@@ -90,6 +86,10 @@ Based on the fact that there are seldom media players can support AV1 video play
 AV1 coding method is totally free, and 5KPlayer is the same which requiring no cost from you. You can feel free to download 5KPlayer to play AV1 video files on both Windows 10 and Mac without worrying about AV1 not playing problem. As a versatile [media player](https://tools.techidaily.com/5kplayer/video-music-player/), 5KPlayer also plays HEVC, H.264, VP9, MKV, MP4, MP3, etc files up to 4K and 8K. BTW, 5KPlayer's [download](https://tools.techidaily.com/5kplayer/youtube-download/) function will allow you to download AV1 videos and its [DLNA](https://tools.techidaily.com/5kplayer/dlna/) function to stream AV1 videos from computer to smart TV wirelessly.
 
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
 
@@ -108,24 +108,16 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-transforming-chats-with-animated-gifs-a-complete-walkthrough-for-snapchat/"><u>[New] In 2024, Transforming Chats with Animated Gifs – A Complete Walkthrough for Snapchat</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-your-wedding-countdown-experience-with-these-top-apps-androidios/"><u>[New] Perfect Your Wedding Countdown Experience with These Top Apps (Android/iOS)</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solved-driver-corrupted-expool-error-on-windows-11/"><u>[Solved] DRIVER CORRUPTED EXPOOL Error on Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-best-child-safe-cameras-for-first-time-vloggers-and-puddles/"><u>2024 Approved The Best Child-Safe Cameras For First-Time Vloggers & Puddles</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-on-extracting-and-duplicating-oscar-winning-films-from-2014-dvds/"><u>Guide on Extracting & Duplicating Oscar-Winning Films From 2014 DVDs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-smoothly-manipulate-video-speed-in-snapchat-for-2024/"><u>How to Smoothly Manipulate Video Speed in Snapchat for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-itel-s23plus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Itel S23+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-worlds-best-short-videos-download-now-free/"><u>In 2024, World's Best Short Videos – Download Now! (Free)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-enhanced-productivity-with-our-picked-lenovo-laptop-for-hybrid-jobs-available-now-at-1000-less-insights-from-zdnet/"><u>Unlock Enhanced Productivity with Our Picked Lenovo Laptop for Hybrid Jobs, Available Now at $1,000 Less | Insights From ZDNET</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-gif-speed-changers-onlineiosandroid/"><u>Updated 2024 Approved Best GIF Speed Changers Online/iOS/Android</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-games-galore-top-10-download-sites-for-pc-android-and-tablet/"><u>Updated 2024 Approved Free Games Galore Top 10 Download Sites for PC, Android, and Tablet</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-art-of-discretion-blurring-faces-in-video-editing/"><u>Updated 2024 Approved The Art of Discretion Blurring Faces in Video Editing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-animating-photos-top-8-tools-and-software/"><u>Updated 2024 Approved The Ultimate Guide to Animating Photos Top 8 Tools and Software</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-burning-videos-to-dvds-on-windows-and-mac-os/"><u>Updated 2024 Approved The Ultimate Guide to Burning Videos to DVDs on Windows and Mac OS</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-3gp-file-trimmer-learn-how-to-cut-and-split-videos/"><u>Updated In 2024, 3GP File Trimmer Learn How to Cut and Split Videos</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-best-highlight-video-makers-desktop-and-mobile-choices/"><u>Updated In 2024, Best Highlight Video Makers Desktop & Mobile Choices</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-create-like-a-pro-top-animation-software-for-mac-and-windows-users/"><u>Updated In 2024, Create Like a Pro Top Animation Software for Mac and Windows Users</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-transform-your-videos-the-9-best-free-online-video-enhancement-software/"><u>Updated In 2024, Transform Your Videos The 9 Best Free Online Video Enhancement Software</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/windows-10-bootcamp-how-to-seamlessly-add-an-extra-drive-hardware-and-software-tutorial/"><u>Windows 10 Bootcamp: How to Seamlessly Add an Extra Drive (Hardware & Software Tutorial)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enablingdisabling-youtube-video-comments/"><u>[Updated] 2024 Approved Enabling/Disabling YouTube Video Comments</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-4k-video-player-software-top-10-picks-for-windows-10-11-and-macos/"><u>Best Free 4K Video Player Software: Top 10 Picks for Windows 10, 11 & macOS</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-6-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 6</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pushing-boundaries-in-visual-storytelling-with-hdr/"><u>In 2024, Pushing Boundaries in Visual Storytelling with HDR</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/the-windows-11-22h2-moment-update-could-bring-7-exciting-features/"><u>The Windows 11 22H2 Moment Update Could Bring 7 Exciting Features</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-elevate-your-storytelling-how-to-create-engaging-hollywood-style-movies/"><u>Updated 2024 Approved Elevate Your Storytelling How to Create Engaging, Hollywood-Style Movies</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-avidemux-no-sound-error-how-to-fix-it-for-2024/"><u>Updated Avidemux No Sound Error How to Fix It for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-avs-video-editor-test-drive-what-to-expect-from-this-video-editing-tool/"><u>Updated In 2024, AVS Video Editor Test Drive What to Expect From This Video Editing Tool</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-best-10-software-for-video-editors/"><u>Updated In 2024, Best 10 Software for Video Editors</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-10-photo-editing-software-options-beyond-windows-10-photos/"><u>Updated In 2024, Top 10 Photo Editing Software Options Beyond Windows 10 Photos</u></a></li>
 </ul></div>
 

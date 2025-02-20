@@ -1,7 +1,7 @@
 ---
 title: & macOS Users
-date: 2025-02-04T16:51:57.619Z
-updated: 2025-02-10T02:22:08.883Z
+date: 2025-02-12T16:20:34.278Z
+updated: 2025-02-19T22:08:39.793Z
 tags:
   - video-music-player
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AV1 Can't Play? How to Play AV1 on Windows 10/Mac?
 
  _Posted by [Kaylee Wood](https://www.quora.com/profile/Amanda-Hu-21) | Last update: September 30, 2020 | 3 Min Read_
@@ -37,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 [4\. Best Free AV1 Video Player >>](https://tools.techidaily.com/5kplayer/video-music-player/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **AV1 not Playing on Windows 10? \[Solved\]**
@@ -47,7 +43,7 @@ Trying to [play AV1 video on Windows 10](https://tools.techidaily.com/5kplayer/v
 ![Can't Play AV1 on Windows 10](https://www.5kplayer.com/video-music-player/img/av1-not-playing-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As a matter of fact, Windows 10 doesn't supply a native application which contains the required [AV1 codec](https://tools.techidaily.com/5kplayer/video-music-player/) to support AV1 playback on Windows 10 as of now. To enable your Movies & TV app or Edge to open AV1 videos on Windows 10 successfully, you need to download Microsoft's AV1 Video Extension to power the default media player.
@@ -55,6 +51,14 @@ As a matter of fact, Windows 10 doesn't supply a native application which contai
 **Solution:** Just open Microsoft Store, search for AV1 Video Extension and install it on your Windows 10 computer. After that, your Windows 10 computer has the inbuilt AV1 decoder to let Movies & TV app or Edge on Windows 10 to play AV1 video files.
 
 ![AV1 Video Extension](https://www.5kplayer.com/video-music-player/img/av1-video-extension.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **AV1 not Playing on Mac? \[Solved\]**
 
@@ -73,10 +77,6 @@ Even the quite new VLC 3.0.8 can't play AV1 video files though [VLC AV1](https:/
 
 **Solution:** Upgrade your VLC media player to the latest version 3.0.10 to see if it works. Or manually set the configuration to the right situation by unchecking the "Use hardware YUV -> RGB conversions" checkbox or set the Output to DirectX, Direct3D, Windows GDI or OpenGL. Or just switch to professional AV1 video player 5KPlayer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AV1 not Playing? Try Free AV1 Video Player 5KPlayer
 
 AV1 won't play on Windows 10/Mac not only because AV1 video codec is new but also it is a heavier codec requiring more powerful media software to decode it. According to the test from Bitmovin, current AV1 codec offers about 20% and 30% better compression rate compared to VP9 and HEVC respectively, and it is predicted that the compression rate should be 50% better. What does that mean? It means that video encoded with AV1 will contain more details compared to the same size video encoded with VP9 or HEVC. And the media player for AV1 playback should be typically designed to meet the demand of playing videos with such high compression standard.
@@ -87,11 +87,11 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 ![AV1 Player](https://www.5kplayer.com/video-music-player/img/play-av1-video.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [![](https://www.5kplayer.com/video-music-player/../button/freedownwhitewin.png)](https://tools.techidaily.com/5kplayer/products/) [![](https://www.5kplayer.com/video-music-player/../button/freedownbackmac.png)](https://tools.techidaily.com/5kplayer/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,16 +108,14 @@ AV1 coding method is totally free, and 5KPlayer is the same which requiring no c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enablingdisabling-youtube-video-comments/"><u>[Updated] 2024 Approved Enabling/Disabling YouTube Video Comments</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-free-4k-video-player-software-top-10-picks-for-windows-10-11-and-macos/"><u>Best Free 4K Video Player Software: Top 10 Picks for Windows 10, 11 & macOS</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-6-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 6</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-pushing-boundaries-in-visual-storytelling-with-hdr/"><u>In 2024, Pushing Boundaries in Visual Storytelling with HDR</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-11-22h2-moment-update-could-bring-7-exciting-features/"><u>The Windows 11 22H2 Moment Update Could Bring 7 Exciting Features</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-elevate-your-storytelling-how-to-create-engaging-hollywood-style-movies/"><u>Updated 2024 Approved Elevate Your Storytelling How to Create Engaging, Hollywood-Style Movies</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-avidemux-no-sound-error-how-to-fix-it-for-2024/"><u>Updated Avidemux No Sound Error How to Fix It for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-avs-video-editor-test-drive-what-to-expect-from-this-video-editing-tool/"><u>Updated In 2024, AVS Video Editor Test Drive What to Expect From This Video Editing Tool</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-best-10-software-for-video-editors/"><u>Updated In 2024, Best 10 Software for Video Editors</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-top-10-photo-editing-software-options-beyond-windows-10-photos/"><u>Updated In 2024, Top 10 Photo Editing Software Options Beyond Windows 10 Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androidiphones-ultimate-arvr-game-list/"><u>[New] Android/iPhone's Ultimate AR/VR Game List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-15-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 15</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-edit-like-a-pro-the-ultimate-free-guide-to-gopro-video-editing/"><u>New Edit Like a Pro The Ultimate Free Guide to GoPro Video Editing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-complete-laptop-and-mobile-manual-for-old-fb-stories-for-2024/"><u>The Complete Laptop & Mobile Manual for Old FB Stories for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/the-creme-de-la-creme-of-4k-video-top-10-picks/"><u>The Crème De La Crème of 4K Video Top 10 Picks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-cartoon-video-creation-tools-for-pc-and-online-use-for-2024/"><u>Top Cartoon Video Creation Tools for PC and Online Use for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-10-best-free-video-hosting-sites-for-privatebusiness-online-for-2024/"><u>Updated 10 Best Free Video Hosting Sites for Private/Business Online for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/windows-11-taskbar-customization-how-to-change-its-color-effortlessly/"><u>Windows 11 Taskbar Customization: How To Change Its Color Effortlessly</u></a></li>
 </ul></div>
 
